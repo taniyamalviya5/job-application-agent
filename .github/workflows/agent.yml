@@ -1,0 +1,41 @@
+name: Job agent
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # every day at 09:00 India time (03:30 UTC)
+  workflow_dispatch:         # "Run workflow" button, also used by the web app
+    inputs:
+      command:
+        description: "What to run"
+        type: choice
+        options: [run, search, score, send, track]
+        default: run
+
+permissions:
+  contents: write            # save jobs to the `data` branch
+  actions: read
+
+concurrency:
+  group: job-agent           # one run at a time; extra runs wait in line
+  cancel-in-progress: false
+
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-agent.txt
+      - run: pip install -r requirements-agent.txt
+      - name: Run agent
+        run: python -m jobagent.pipeline "${{ inputs.command || 'run' }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}

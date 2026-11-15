@@ -1,0 +1,6 @@
+# Web app (Streamlit Community Cloud installs this file automatically)
+streamlit>=1.40
+pandas>=2.0
+pyyaml>=6.0
+requests>=2.31
+pypdf>=4.0

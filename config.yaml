@@ -1,0 +1,41 @@
+# ------------------------------------------------------------------
+# Job Application Agent - settings
+# Edit this file in github.dev (press "." on the repo page), then commit.
+# No secrets here. Secrets go in GitHub -> Settings -> Secrets and variables.
+# ------------------------------------------------------------------
+
+profile:
+  name: "Taniya Malviya"
+  headline: "Senior Software Engineer, 7+ years"
+  phone: ""                       # optional, shown in the email signature
+  linkedin: ""                    # optional, e.g. https://www.linkedin.com/in/your-id
+  resume_pdf: "profile/resume.pdf"  # attached to every email (upload your PDF here)
+  resume_text: "profile/resume.md"  # plain-text resume the AI reads for matching
+
+search:
+  terms:
+    - "senior software engineer"
+    - "full stack developer"
+  locations:
+    - "Indore"
+    - "Remote"
+  sites: ["indeed", "naukri"]     # LinkedIn is left out on purpose (its terms ban bots)
+  country_indeed: "India"
+  results_per_search: 15
+  hours_old: 72                   # only jobs posted in the last 3 days
+  exclude_keywords: ["intern", "fresher", "trainee"]
+
+scoring:
+  min_score: 60                   # jobs below this go to "Low match", not to review
+  max_jobs_per_run: 25            # protects the free AI quota
+
+email:
+  daily_send_limit: 15            # keeps your Gmail out of spam filters
+  follow_up_after_days: 7
+
+llm:
+  # Any OpenAI-compatible API works. Defaults to Google Gemini's free tier.
+  # Groq:  base_url https://api.groq.com/openai/v1   model llama-3.3-70b-versatile
+  base_url: "https://generativelanguage.googleapis.com/v1beta/openai"
+  model: "gemini-3.5-flash-lite"
+  seconds_between_calls: 5

@@ -1,0 +1,3 @@
+# Agent that runs on GitHub Actions
+-r requirements.txt
+python-jobspy>=1.4
