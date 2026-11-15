@@ -1863,5 +1863,25 @@
    ]
   }
  },
- "runs": []
+ "runs": [
+  {
+   "command": "run",
+   "at": "2026-11-15T14:45:34+00:00",
+   "ai": false,
+   "new_jobs": 56,
+   "scored": {
+    "review": 0,
+    "low_match": 25
+   },
+   "send": {
+    "sent": 0,
+    "failed": 0
+   },
+   "track": {
+    "replied": 0,
+    "follow_up_due": 0
+   },
+   "pruned": 0
+  }
+ ]
 }
