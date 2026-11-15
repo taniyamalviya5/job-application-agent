@@ -99,13 +99,13 @@ for j in jobs:
 with st.sidebar:
     st.header("Agent")
     st.caption(f"Storage: {'GitHub data branch (' + store.repo + ')' if remote else 'local file'}")
-    if st.button("Refresh", use_container_width=True):
+    if st.button("Refresh", width="stretch"):
         load(force=True)
         st.rerun()
-    if st.button("Find and score new jobs now", use_container_width=True):
+    if st.button("Find and score new jobs now", width="stretch"):
         dispatch("run")
     n_appr = len(by_status[S.APPROVED])
-    if st.button(f"Send approved now ({n_appr})", use_container_width=True, disabled=n_appr == 0, type="primary"):
+    if st.button(f"Send approved now ({n_appr})", width="stretch", disabled=n_appr == 0, type="primary"):
         dispatch("send")
     st.divider()
     for s in S.ALL_STATUSES:
@@ -166,16 +166,16 @@ with tab_review:
             body = st.text_area("Email", d.get("body", ""), height=260, key=f"body_{j['id']}")
             b1, b2, b3 = st.columns(3)
             new_draft = {"to": to.strip(), "subject": subject.strip(), "body": body.strip()}
-            if b1.button("Approve email", key=f"ok_{j['id']}", type="primary", use_container_width=True):
+            if b1.button("Approve email", key=f"ok_{j['id']}", type="primary", width="stretch"):
                 if "@" not in new_draft["to"]:
                     st.error("Add a recipient email first, or use 'I applied on the website'.")
                 else:
                     change_status(j["id"], S.APPROVED, "approved in app", new_draft, only_from=(S.REVIEW,))
                     st.rerun()
-            if b2.button("I applied on the website", key=f"man_{j['id']}", use_container_width=True):
+            if b2.button("I applied on the website", key=f"man_{j['id']}", width="stretch"):
                 change_status(j["id"], S.APPLIED_MANUALLY, "applied manually", new_draft, only_from=(S.REVIEW,))
                 st.rerun()
-            if b3.button("Skip", key=f"rej_{j['id']}", use_container_width=True):
+            if b3.button("Skip", key=f"rej_{j['id']}", width="stretch"):
                 change_status(j["id"], S.REJECTED, "skipped in app", only_from=(S.REVIEW,))
                 st.rerun()
 
@@ -229,7 +229,7 @@ with tab_all:
                             "title": j["title"], "company": j["company"], "location": j.get("location"),
                             "site": j.get("site"), "found": (j.get("found_at") or "")[:10],
                             "link": j.get("job_url")} for j in jobs])
-        st.dataframe(df.sort_values(["found", "score"], ascending=False), use_container_width=True, hide_index=True,
+        st.dataframe(df.sort_values(["found", "score"], ascending=False), width="stretch", hide_index=True,
                      column_config={"link": st.column_config.LinkColumn("link")})
         st.download_button("Download CSV", df.to_csv(index=False), "jobs.csv", "text/csv")
     else:
