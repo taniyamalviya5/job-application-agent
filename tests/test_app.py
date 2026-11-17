@@ -1,9 +1,18 @@
 """Smoke test of the Streamlit review screen."""
 import json
+from pathlib import Path
 
+# Load the heavy libraries BEFORE the timed app run. On a fresh machine (macOS
+# especially) the first import of pandas/pyarrow can take 30+ seconds, which
+# made the first AppTest run hit its timeout even though the app was fine.
+import pandas  # noqa: F401
+import pyarrow  # noqa: F401
 from streamlit.testing.v1 import AppTest
 
 from jobagent import store as S
+
+APP = str(Path(__file__).resolve().parent.parent / "streamlit_app.py")  # works from any folder
+TIMEOUT = 120
 
 
 def seed(path):
@@ -22,7 +31,7 @@ def test_review_and_approve(tmp_path, monkeypatch):
     for k in ("GH_REPO", "GH_TOKEN", "GITHUB_REPOSITORY", "GITHUB_TOKEN", "APP_PASSWORD"):
         monkeypatch.delenv(k, raising=False)
     monkeypatch.setattr(S, "make_store", lambda local_path=None: S.LocalStore(data))
-    at = AppTest.from_file("../streamlit_app.py", default_timeout=30).run()
+    at = AppTest.from_file(APP, default_timeout=TIMEOUT).run()
     assert not at.exception
     assert any("Senior Node.js Engineer" in m.value for m in at.markdown)
     approve = next(b for b in at.button if b.label == "Approve email")
@@ -36,7 +45,7 @@ def test_password_gate(tmp_path, monkeypatch):
     seed(data)
     monkeypatch.setenv("APP_PASSWORD", "secret")
     monkeypatch.setattr(S, "make_store", lambda local_path=None: S.LocalStore(data))
-    at = AppTest.from_file("../streamlit_app.py", default_timeout=30).run()
+    at = AppTest.from_file(APP, default_timeout=TIMEOUT).run()
     assert not any("Senior Node.js Engineer" in m.value for m in at.markdown)
     at.text_input[0].input("secret")
     at.button[0].click().run()
