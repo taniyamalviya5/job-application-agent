@@ -5520,6 +5520,512 @@
      "note": "found on naukri"
     }
    ]
+  },
+  "f0d0908f0557": {
+   "id": "f0d0908f0557",
+   "site": "naukri",
+   "title": "Technical Lead",
+   "company": "InfoBeans",
+   "location": "Indore, Pune, India",
+   "job_url": "https://www.naukri.com/job-listings-technical-lead-infobeans-indore-pune-8-to-10-years-151026017517",
+   "apply_url": "https://www.naukri.com/job-listings-technical-lead-infobeans-indore-pune-8-to-10-years-151026017517",
+   "date_posted": "2026-11-19",
+   "experience": "8-10 Yrs",
+   "skills": "Leadership, Node.js, MongoDB, Expresjs, Angular, TypeScript, RestAPI, Postgresql",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "9971746d3716": {
+   "id": "9971746d3716",
+   "site": "naukri",
+   "title": "Devops Engineer",
+   "company": "Everestek Technosoft Solutions",
+   "location": "Indore, Surat, Mumbai (All Areas), India",
+   "job_url": "https://www.naukri.com/job-listings-devops-engineer-everestek-technosoft-solutions-indore-surat-mumbai-all-areas-3-to-4-years-261026004510",
+   "apply_url": "https://www.naukri.com/job-listings-devops-engineer-everestek-technosoft-solutions-indore-surat-mumbai-all-areas-3-to-4-years-261026004510",
+   "date_posted": "2026-11-18",
+   "experience": "3-4 Yrs",
+   "skills": "Continuous Integration, Pipeline, Bash, Cd, Languages, Continuous Integration, Programming, AWS",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "99b04ee7f11a": {
+   "id": "99b04ee7f11a",
+   "site": "naukri",
+   "title": "Technical Architect / Manager / Lead - DBMS",
+   "company": "Benovymed Healthcare",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-technical-architect-manager-lead-dbms-benovymed-healthcare-indore-7-to-10-years-181126930123",
+   "apply_url": "https://www.naukri.com/job-listings-technical-architect-manager-lead-dbms-benovymed-healthcare-indore-7-to-10-years-181126930123",
+   "date_posted": "2026-11-18",
+   "experience": "7-10 Yrs",
+   "skills": "Database design, SQL, Cloud, AWS, Technical architecture, Database Optimization, Management, Microsoft Azure",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "4b6aaa6e9be8": {
+   "id": "4b6aaa6e9be8",
+   "site": "indeed",
+   "title": "Senior Software Security Engineer - AI Trainer",
+   "company": "oak tree software solutions",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=95e0505d830e26b1",
+   "apply_url": "https://in.indeed.com/viewjob?jk=95e0505d830e26b1",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Senior Software Security Engineer – AI Trainer**\n\n**Rate - 2.19 LPM**\n\n**Type of Role - Short-term contract**\n\n**Engagement Type - Short Term Contract (3 month )**\n\n**Availability - 8 hours per day with an overlap of 4 hours with PST.**\n\n**Skill**\n\n5+ years of professional software engineering experience.\n\nExpert-level proficiency in at least one of Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, or Swift.\n\nStrong understanding of software security concepts, including CWE, CVE, and the OWASP Top 10\n\n**Specifics**\n\nCybersecurity engineers with any programming language background - 5 + YOE\n\n**Role Overview**\n\nWe are seeking a Senior Software Security Engineer to develop high-quality training and evaluation tasks for frontier AI coding models. You will transform real-world open-source vulnerabilities—including CVEs, security advisories, and bug reports—into Harbor-format audit-and-patch tasks across multiple programming languages.\n\nThis role combines software security research, vulnerability reproduction, benchmark development, automated testing, and technical review. The goal is to create realistic tasks that evaluate whether AI systems can identify, understand, exploit, and securely remediate software vulnerabilities without relying on superficial pattern matching or known patches.\n\n**What does day-to-day look like**\n\nSource and analyze real-world vulnerabilities from CVEs, security advisories, bug reports, and open-source repositories.\n\nClassify vulnerabilities using the most specific applicable CWE and map them to relevant OWASP Top 10 categories where appropriate.\n\nReproduce vulnerabilities and develop reliable proof-of-vulnerability tests.\n\nBuild Harbor-format audit-and-patch tasks across languages such as Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, and Swift.\n\nWrite realistic task instructions that describe the security issue without revealing the vulnerable code, exploit details, or expected fix.\n\nCreate reproducible Docker-based environments with pinned dependencies and clear setup procedures.\n\nHarden verifiers against gaming, overfitting, test manipulation, and hardcoded solutions.\n\nScreen out tasks that can be solved by copying a well-known upstream patch without understanding the vulnerability.\n\nReview and score AI-generated patches and reasoning using clearly defined technical rubrics.\n\nDocument vulnerability context, reproduction steps, expected behavior, patch requirements, test methodology, and review decisions.\n\n**Requirements**\n\n5+ years of professional software engineering experience.\n\nExpert-level proficiency in at least one of Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, or Swift.\n\nStrong understanding of software security concepts, including CWE, CVE, and the OWASP Top 10.\n\nAbility to reproduce vulnerabilities and write proof-of-vulnerability tests.\n\nHands-on experience with security tooling, including sanitizers, fuzzers, and static-analysis tools such as CodeQL or Semgrep.\n\nStrong proficiency with Git, Linux, Bash, and Docker.\n\nExcellent technical writing and documentation skills.\n\nAbility to work independently in a fully remote, research-oriented environment.\n\nPay: From ₹200,000.00 per month\n\nExperience:\n\n* professional software engineering : 6 years (Required)\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "70c4ce9a0d36": {
+   "id": "70c4ce9a0d36",
+   "site": "indeed",
+   "title": "Senior Software Developer",
+   "company": "Infios",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=06b67fe4bfe0998e",
+   "apply_url": "https://infios.wd502.myworkdayjobs.com/en-US/infios/job/Remote-India/Senior-Software-Developer_JR103078",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [
+    "jobs@infios.com"
+   ],
+   "description": "If you are looking for a meaningful career where people work and act with passion, rethink the existing and always strive to find the best solution - you have come to the right place. We develop future technologies to relentlessly make supply chains better.\n\nWe are a leader in supply chain software solutions, helping organizations streamline operations, reduce costs, and improve efficiency.\n\n### **Job Summary**\n\nWe are looking for an experienced and ambitious Senior Software Engineer with strong Java, Spring Boot & SQL skills, and solid C#/.NET competence, to join our growing global and distributed product development team. As a tech-savvy software craftsman, you must have a deep understanding of coding principles, understand object-oriented programming and appreciate the agile development way of working. All developers are encouraged to consistently assist in innovation of the software development in terms of agility, DevOps and modern development technologies.\n\nThis role is anything but your average Senior Software Engineer job; you will have the opportunity to work on exciting new solutions in Warehouse Slotting and Warehouse Simulation (CLASS). We operate daily stand-ups, sprint retros and Scrum tactics. We pride ourselves as being an innovative company and provide you with all the modern tools that you will need to be successful in your lifelong career with us.\n\n  \n\n**What a day in the life looks like:**\n\n* Develop and maintain applications using Java, Spring Boot, C#/.NET, PostgreSQL, and TypeScript.\n\n* Contribute to solution design, architecture, and technical decision-making.\n* Deliver high-quality, tested code following Agile and SOLID principles.\n* Resolve defects, support production issues, and implement enhancements\n* Support Azure DevOps, CI/CD pipelines, and development best practices.\nMentor junior engineers and participate in code reviews and estimations.  \n\n**What you bring to the team** :\n\n* 5+ years of software development experience.\n\n* Strong expertise in **Java, Spring Boot, Microservices, SQL, and PostgreSQL** .\n* Hands-on experience with **C#/.NET** development.\n* Proficiency in **JavaScript/TypeScript, HTML, and CSS** .\n* Solid understanding of **OOP, design patterns, ORM frameworks, and REST APIs** .\n* Experience with **Azure DevOps, Git, and Agile methodologies** .\nStrong communication and problem-solving skills.  \n\n**Preferred Qualifications**\n\n* Experience with **Kubernetes, CI/CD pipelines, and cloud-native applications** .\n* Knowledge of **OWASP security practices** and containerized deployments.\n* Experience with **AI-assisted development tools** (e.g., Claude, Kiro).\n* Exposure to **retail, logistics, or supply chain software domains** .\n\n**Why join us?**\n\nAt Infios, we're not just looking for employees; we're looking for partners in innovation, growth, and purpose. Meeting you where you are to create the future you need is at the core of who we are and what we do. Whether you're at the beginning of your career or a seasoned expert, we meet you on your journey, equipping you with the tools and opportunities to build the future you envision. Together, we will relentlessly work toward one common goal - making supply chains better.\n\n**We believe the future is better when supply chains work better.**\n\nWe are an equal-opportunity employer and committed to inclusion in the workplace.\n\nAt Infios, we believe that inclusion is a fundamental cornerstone of our success. We are committed to creating a safe and welcoming environment where every individual’s unique experiences and perspectives are valued—whether they look, think, move, believe, or love differently.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, ethnicity, national origin, sex, sexual orientation, gender identity, marital status, pregnancy, religion, age, disability, veteran status, genetic information, or any other characteristic protected by law.\n  \n  \nReasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role. If you require assistance or accommodation due to a disability during the recruiting process, please let us know at jobs@infios.com\n  \n  \n**Disclaimer:** This job advertisement is not designed to cover a comprehensive listing of all duties or responsibilities that are required for this job. Please note that any salary information is a general guideline only. Individual compensation will be determined by various factors such as the scope and responsibilities of the position, experience, education, skills, location, and market and business considerations. Applications must be submitted via our career site.",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "42230f4faa0d": {
+   "id": "42230f4faa0d",
+   "site": "indeed",
+   "title": "Senior Fullstack oftware Engineer",
+   "company": "SeeClear Studio Pvt Ltd",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=cfa5eb32afed079b",
+   "apply_url": "https://in.indeed.com/viewjob?jk=cfa5eb32afed079b",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Apply here** - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral\n\n**Pay:** $50–$100/hour (approx. ₹5,000–₹9,000/hour)\n\n**Location:** Global, fully remote\n\n**Job Type:** Contractor (~15 hours per week)\n\n**Schedule:** Flexible\n\nSeeClear may be paid by micro1 for this listing.\n\n**Job Description:**\n\nThe client is looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation.\n\nThe work involves creating, solving, reviewing, and validating challenging software-engineering tasks across front-end and back-end systems and helping with translating full coding builds from one particular language into another.\n\nThis role requires meaningful hands-on experience across both front-end and back-end engineering. Candidates should be comfortable working throughout the application stack rather than specializing exclusively in one layer.\n\n**What You'll Work On:**\n\n- Develop, modify, and debug front-end and back-end application components.\n\n- Implement user-facing features and the services, APIs, and data models that support them.\n\n- Trace requests and data across browsers, front-end applications, APIs, services, databases, and external integrations.\n\n- Work inside unfamiliar repositories and understand existing application architecture.\n\n- Diagnose failures involving application state, API contracts, authentication, persistence, networking, and deployment.\n\n- Evaluate and improve code written in multiple programming languages.\n\n- Review AI-generated solutions for correctness, completeness, performance, security, and maintainability.\n\n**Required Qualifications:**\n\n- Strong professional experience developing production full-stack applications.\n\n- Meaningful hands-on experience with both front-end and back-end engineering.\n\n- Production experience with multiple programming languages.\n\n- Strong knowledge of browser applications, APIs, application state, databases, and service integration.\n\n- Experience understanding and contributing to the architecture of complete software systems.\n\n- Ability to work effectively in unfamiliar codebases.\n\n- Strong debugging and technical problem-solving skills.\n\n**Application Process:**\n\n1. Apply to the role and complete the screening questions.\n\n2. Complete an AI interview of approximately 30 minutes.\n\n3. Complete a technical assessment, if required.\n\n4. Complete the hiring manager review.\n\n**Compensation Structure:**\n\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert's experience and workflow.\n\nMinimum submission requirements apply. Experts must submit a minimum number of tasks per week.\n\n**Start Timeline & Availability:**\n\nThe client typically fills roles within 48 hours and is looking for experts who are ready to begin immediately. If selected, you will be expected to start your first tasks within 24–48 hours of completing onboarding.\n\n**How the selection process works**\n\n1. *Apply here - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral* and complete the screening questions\n\n2. Complete the AI interview for this role - it's how your expertise gets in front of the client\n\n3. Profile review\n\n4. Onboarding - the client's Talent Ops team will get you set up\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "6530f0a38164": {
+   "id": "6530f0a38164",
+   "site": "indeed",
+   "title": "Advisory Solution Consultant (AI)",
+   "company": "PMAS technologies",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=4db77996ec328084",
+   "apply_url": "https://in.indeed.com/viewjob?jk=4db77996ec328084",
+   "date_posted": "2026-11-18",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "***Job Title: Senior AI Technical Consultant***  \n***Company: Aximm LLC***  \n***Location: Remote***  \n***Job Type: Full Time***  \n***Working Hours: 8:00 AM to 5:00 PM Eastern Time (ET)***  \n***Department: AI & Engineering***  \n***Compensation: $40 to $50 per hour during onboarding, followed by $3,000 to $4,000 monthly base salary plus project based bonuses***  \n***Experience Required: 7+ years in Software Engineering and 5+ years in AI/ML Engineering***  \n***Start Date: Immediate***  \n***Prerequisite: Exceptional spoken English proficiency (CEFR C1 minimum, near C2 preferred), strong client facing communication skills, and proven experience in production AI/ML and Agentic AI applications.***\n\n**Job Overview**\n\nAximm LLC is seeking an experienced Senior AI Technical Consultant with a strong background in Software Engineering, AI/ML, Generative AI, and Agentic AI.\n\nThis is a client facing technical role focused on participating in technical interviews, discussions, and evaluations with U.S. based clients. The successful candidate will demonstrate technical expertise, understand client requirements, propose practical solutions, and collaborate with internal engineering teams to support project acquisition.\n\nThe ideal candidate combines extensive hands on engineering experience, advanced AI expertise, exceptional spoken English, and strong interpersonal and client communication skills.\n\n**Key Responsibilities**\n\n* Participate in technical interviews, evaluations, and discussions with prospective U.S. based clients.\n* Demonstrate expertise in Software Engineering, AI/ML, Generative AI, and Agentic AI.\n* Understand client requirements, identify technical challenges, and propose scalable and practical solutions.\n* Provide technical consulting on software architecture, LLM applications, RAG systems, AI agents, and automated workflows.\n* Explain technical concepts, architectural decisions, implementation strategies, and technical tradeoffs confidently.\n* Collaborate with internal engineering teams to evaluate requirements, design solutions, and support project acquisition.\n* Represent Aximm LLC professionally and establish technical credibility with clients and stakeholders.\n\n**Required QualificationsSoftware Engineering**\n\n* More than 7 years of professional software engineering experience, including production application development.\n* Strong proficiency in Python, backend development, REST APIs, microservices, distributed systems, databases, and software architecture.\n* Experience with cloud platforms such as AWS, Azure, or GCP, along with Docker, CI/CD, and modern software engineering practices.\n* Strong understanding of system design, scalability, application development, testing, and deployment.\n\n**AI/ML and Generative AI**\n\n* More than 5 years of professional AI/ML engineering experience, including designing, developing, and deploying production AI solutions.\n* Strong knowledge of machine learning, deep learning, model training, evaluation, and optimization.\n* Hands on experience with PyTorch, TensorFlow, scikit learn, or comparable frameworks.\n* Practical experience with LLMs, Generative AI, RAG, embeddings, vector databases, and prompt engineering.\n* Understanding of production AI architecture, performance, reliability, and evaluation.\n\n**Agentic AI**\n\n* Hands on experience developing AI agents, tool calling, workflow automation, and multi step task execution.\n* Experience with LangGraph, LangChain, Microsoft AutoGen, CrewAI, OpenAI Agents SDK, or similar frameworks.\n* Understanding of multi agent systems, orchestration, memory management, human in the loop workflows, evaluation, observability, security, and deployment.\n* Ability to confidently explain Agentic AI architectures, implementation strategies, and technical tradeoffs.\n\n**English and Communication Skills**\n\n* Minimum C1 level spoken English, with near C2 proficiency strongly preferred.\n* Excellent verbal fluency, pronunciation, listening comprehension, and spontaneous conversational ability.\n* Ability to explain complex technical concepts clearly, naturally, and confidently.\n* Strong interpersonal, presentation, problem solving, and relationship building skills.\n* Confidence in handling challenging technical discussions and communicating with U.S. based clients.\n\n**Preferred Qualifications**\n\n* At least 1 year of direct experience working with U.S. based clients.\n* Experience in technical consulting, presales engineering, solution architecture, client facing technical interviews, or business development support.\n* Familiarity with U.S. business culture and professional communication expectations.\n* Production experience with enterprise AI applications, multi agent systems, AI workflow automation, MLOps, or LLMOps.\n* Familiarity with AWS Bedrock, Azure AI Foundry, or Google Vertex AI.\n* Proven contribution to successful client engagements and project acquisition.\n* Compensation StructureOnboarding and Evaluation\n* Compensation of $40 to $50 USD per hour, depending on experience and qualifications.\n* The onboarding period is paid and has no fixed duration. Candidates will be evaluated on technical expertise, English communication, client interview performance, and engineering collaboration.\n* Successful candidates will transition to the ongoing compensation structure following management approval.\n\n**Ongoing Compensation**\n\n* Monthly Base Salary: $3,000 to $4,500 USD, subject to final confirmation based on qualifications and performance.\n* Project Bonus: Additional $500 USD per month for each qualifying ongoing client project.\n* Project bonuses are cumulative and recurring for as long as qualifying projects remain active, subject to company eligibility and verification requirements. There is no predetermined cap on qualifying project bonuses.\n\n**Work Schedule**\n\n* Fully remote position.\n* Working hours: 8:00 AM to 5:00 PM Eastern Time (ET).\n* Candidates must be able to accommodate the schedule consistently and participate in client meetings, technical interviews, and internal collaboration during working hours.\n\n**Candidate Evaluation Process**\n\n* Candidates will undergo an experience review, spoken English assessment, technical interview, client interview simulation, and final management interview.\n* The evaluation will assess technical expertise, practical engineering experience, AI/ML and Agentic AI knowledge, communication skills, client facing confidence, professionalism, teamwork, and overall suitability.\n* Successful candidates will subsequently enter the paid onboarding and evaluation period.\n\n**Ideal Candidate**\n\n* An experienced software engineer and AI specialist with strong hands on experience in Software Engineering, AI/ML, Generative AI, and Agentic AI, combined with exceptional spoken English, confidence, professionalism, and the ability to represent the company effectively in client facing technical discussions.\n* Candidates must be capable of explaining complex technical concepts, answering spontaneous questions, proposing practical solutions, and building technical credibility with U.S. based clients.\n\nApplication\n\nInterested candidates should submit an updated CV highlighting their software engineering experience, AI/ML expertise, Generative AI and Agentic AI projects, cloud technologies, production deployment experience, and client facing experience\n\nPay: ₹2,800.00 - ₹3,500.00 per hour\n\nExpected hours: 40.0 per week\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "b4aa557a76ac": {
+   "id": "b4aa557a76ac",
+   "site": "naukri",
+   "title": "Sr Product Manager- Lakehouse",
+   "company": "Cloudera",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-sr-product-manager-lakehouse-cloudera-inc-remote-8-to-12-years-191126500873",
+   "apply_url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/India-Bangalore-Remote/Senior-Product-Manager--Lakehouse_261539",
+   "date_posted": "2026-11-19",
+   "experience": "8-12 Yrs",
+   "skills": "Digital, Microsoft Azure, Architecture, Apache, Data warehousing, Cloud, Development, AWS",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "532a4c3af843": {
+   "id": "532a4c3af843",
+   "site": "naukri",
+   "title": "Applied AI / Agentic Solutions Engineer",
+   "company": "E4 Software Services",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-applied-ai-agentic-solutions-engineer-e4-softwares-remote-5-to-10-years-191126500843",
+   "apply_url": "https://ats24.e4softwares.com/career/CareerDetails1?id=635e178557eA5h",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "API Management, Management, Communication skills, Ai Solutions, Azure Devops, Application, Microsoft Azure, API",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "59006d0fcacc": {
+   "id": "59006d0fcacc",
+   "site": "naukri",
+   "title": "MLOps / DevOps Engineer",
+   "company": "webjobs-nest070120161511@naukri.com",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-mlops-devops-engineer-nest-information-technologies-pvt-ltd-remote-10-to-15-years-191126500528",
+   "apply_url": "https://careers.nestdigital.com/apply?job=2721",
+   "date_posted": "2026-11-19",
+   "experience": "10-15 Yrs",
+   "skills": "Data Transformation, Deep Learning, Airflow, Azure Devops, Docker, Cloud Technologies, Data Ingestion, Microsoft Azure",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "91ab7225d884": {
+   "id": "91ab7225d884",
+   "site": "naukri",
+   "title": "Sr. Automation QA - KSL",
+   "company": "Huemot Technology",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-sr-automation-qa-ksl-huemot-technology-private-limited-remote-5-to-10-years-181126506164",
+   "apply_url": "https://www.rivvra.com/careers/huemot-technology/jobs/sr-automation-qa-ksl-99c8e4",
+   "date_posted": "2026-11-18",
+   "experience": "5-10 Yrs",
+   "skills": "Software testing, Coding, GIT, Quality assurance, Debugging, Javascript, Architecture, QA automation",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "7eea8e400b70": {
+   "id": "7eea8e400b70",
+   "site": "naukri",
+   "title": "AI Lead / Architect",
+   "company": "Witqualis Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-ai-lead-architect-witqualis-technologies-remote-7-to-12-years-181126506142",
+   "apply_url": "https://www.witqualis.com/careers/#open-roles",
+   "date_posted": "2026-11-18",
+   "experience": "7-12 Yrs",
+   "skills": "Mentoring, Programming, Engineering Leadership, Engineering, Deployment, Cost, Architecture, Optimization",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "5935cb138a25": {
+   "id": "5935cb138a25",
+   "site": "naukri",
+   "title": "Delivery Lead / Development Manager - Amazon Connect & AWS",
+   "company": "Independent Recruitment Consultant (freelancer)",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-delivery-lead-development-manager-amazon-connect-aws-dyne-remote-10-to-15-years-181126506133",
+   "apply_url": "https://hrms.dyneits.com/careers/267",
+   "date_posted": "2026-11-18",
+   "experience": "10-15 Yrs",
+   "skills": "LEX, AWS, Cloud, Management, Delivery management, CRM, Cloud Services, Delivery",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "e80e8c096d95": {
+   "id": "e80e8c096d95",
+   "site": "naukri",
+   "title": "Software Developer - Backup Platform (Mid-Level)",
+   "company": "Independent Recruitment Consultant (freelancer)",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-software-developer-backup-platform-mid-level-dyne-remote-3-to-8-years-181126506120",
+   "apply_url": "https://hrms.dyneits.com/careers/263",
+   "date_posted": "2026-11-18",
+   "experience": "3-8 Yrs",
+   "skills": "Software development, Software testing, JSON, Microsoft Windows, Integration, Linux, SDK, DBMS",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "fc45c561b4aa": {
+   "id": "fc45c561b4aa",
+   "site": "naukri",
+   "title": "AI Forward Deployment Engineer",
+   "company": "Sphera Solutions",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-ai-forward-deployment-engineer-sphera-solutions-inc-remote-4-to-6-years-181126506125",
+   "apply_url": "https://sphera.wd1.myworkdayjobs.com/en-US/careers/job/IN-Remote/AI-Forward-Deployment-Engineer_R106270-1",
+   "date_posted": "2026-11-18",
+   "experience": "4-6 Yrs",
+   "skills": "Instrumentation, Artificial Intelligence, GIT, SQL, Building, Instruments, Deployment, Prototype",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "f7ea81124c18": {
+   "id": "f7ea81124c18",
+   "site": "naukri",
+   "title": "Java Full Stack Developer",
+   "company": "Infosys",
+   "location": "Indore, Nagpur, Jaipur, India",
+   "job_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-indore-nagpur-jaipur-5-to-10-years-171126032903",
+   "apply_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-indore-nagpur-jaipur-5-to-10-years-171126032903",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Spring, Full Stack, AWS, Boot, Spring Boot, React.js, Bootstrap, Stack",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "ac2b388d2e09": {
+   "id": "ac2b388d2e09",
+   "site": "naukri",
+   "title": "Web Developer",
+   "company": "Hotbit Infosoft",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-web-developer-hotbit-infosoft-indore-0-to-3-years-191126501440",
+   "apply_url": "https://hotbitinfosoft.com/careers/",
+   "date_posted": "2026-11-19",
+   "experience": "0-3 Yrs",
+   "skills": "Coding, Engine, Cs, Javascript, Search Engines, CSS, Human Computer Interaction, Web development",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "d84acf9cc838": {
+   "id": "d84acf9cc838",
+   "site": "naukri",
+   "title": "Full- Stack Professional",
+   "company": "Hotbit Infosoft",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-full-stack-professional-hotbit-infosoft-indore-1-to-4-years-191126501329",
+   "apply_url": "https://hotbitinfosoft.com/careers/",
+   "date_posted": "2026-11-19",
+   "experience": "1-4 Yrs",
+   "skills": "Coding, Full Stack, Ruby rails, Fullstack Development, Javascript, Program, Django, DBMS",
+   "emails": [],
+   "description": "",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b43b3e7c1ee7": {
+   "id": "b43b3e7c1ee7",
+   "site": "indeed",
+   "title": "Full-Stack Developer — AI Automation & Business Operations",
+   "company": "iVA TEK PRIVATE LIMITED",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=9b09ffaea3582b19",
+   "apply_url": "https://in.indeed.com/viewjob?jk=9b09ffaea3582b19",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Full-Stack Developer — AI Automation & Business Operations (Remote)**\n\nRemote\n\n**About the Role**\n\nWe are a Singapore-based company working across Australian hospitality businesses, marketing, and internal business systems.\n\nWe're looking for a developer who can build reliable software, understand how a business operates, and take ownership of problems from investigation through to completion.\n\nThis is not a coding-heavy role. It involves significant non-technical work, including coordinating with onsite staff, follow-ups, video editing and administrative tasks (you will be trained). Fluent English communication is a must and a dealbreaker.\n\nYou will work with senior developers and business leaders on OpenClaw, AI engineering, AI automation, and day-to-day operations. You'll learn workflows firsthand, help execute them, identify what needs improving, and build solutions for the repetitive parts.\n\nDevelopment and operations are both core responsibilities. You should be comfortable moving between coding, investigating operational issues, coordinating with colleagues, and following up until work is complete.\n\nWhat You'll Work On\n\nBusiness Operations\n\n- Learn how our hospitality, customer service, marketing, and internal teams work.\n\n- Handle assigned operational tasks directly and identify opportunities to improve or automate them.\n\n- Monitor systems such as GoHighLevel, Goki, email, and booking platforms for missed messages, delayed responses, and unresolved issues.\n\n- Coordinate with colleagues and operational teams, track progress, and follow up until issues are resolved.\n\n- Keep task lists, documentation, and handovers organised.\n\n- Support tasks outside development when needed, including AI-assisted video editing, creative support, research, and administrative follow-ups.\n\nYou do not need experience with every platform listed. You do need the initiative to learn, ask useful questions, and make progress independently.\n\nRequired Skills and Qualities\n\n- Strong practical development skills in Python or JavaScript.\n\n- Experience building backend services, REST APIs, and third-party integrations.\n\n- Experience integrating AI/LLM APIs into applications or workflows.\n\n- Confidence using Linux, Git, and the command line.\n\n- Ability to develop, debug, test, and deploy your work.\n\n- Fluent spoken and written English (mandatory), including the ability to explain problems to nontechnical colleagues.\n\n- Strong organisation, prioritisation, and follow-through.\n\n- Ability to investigate unfamiliar problems and propose practical next steps.\n\n- Willingness to learn new tools and take responsibility beyond your main programming specialisation.\n\n- Professional, empathetic communication with colleagues and operational teams.\n\nWe assess both technical ability and how you approach real business problems.\n\nNice to Have\n\n- Next.js, Express, or Flask.\n\n- VPS infrastructure.\n\n- WordPress or WooCommerce.\n\n- Workflow automation and internal tooling.\n\n- GoHighLevel, hospitality systems, or booking-platform integrations.\n\n- Experience in operations, customer service, project coordination, freelancing, or running your own projects.\n\nWorking Days, Hours and Expectations\n\nThis is a six-day role, Monday to Saturday. Saturday is a regular working day.\n\nTypical India working hours are approximately 4:30 AM–12:30 PM IST, aligned with Australian business hours.\n\nYou should start your shift prepared, organise your priorities, and manage assigned tasks without repeated reminders. Raise blockers early and communicate clearly about progress and next steps.\n\nDuring assessments and probation, you will be expected to provide brief progress updates every 25 minutes without being prompted, covering:\n\n- What you have completed.\n\n- What you are working on next.\n\n- Any blockers or support needed.\n\nAdditional hours beyond your scheduled shift, or work on Sundays, may be required to complete priority work or address urgent issues. Availability and arrangements will be discussed during recruitment.\n\nWhat You'll Gain\n\n- Fully remote work.\n\n- Direct collaboration with senior developers and business leaders.\n\n- Experience building and maintaining systems used in live businesses.\n\n- Practical exposure to operations, marketing, customer service, and business decision-making.\n\n- Opportunities to take on broader responsibilities as you demonstrate reliable delivery.\n\nHiring Process\n\nOur selection process includes:\n\n- Review of your CV and code samples.\n\n- A practical technical trial task, completed over a fixed window with periodic progress updates.\n\n- A short recorded voice note explaining your approach (transcribed and reviewed).\n\n- A prerecorded video interview covering communication, problem-solving, organisation, and working expectations.\n\n- A team discussion for shortlisted candidates.\n\nWe assess the quality of your work, your reasoning, your communication, and your ability to make progress independently. Recorded responses may be transcribed and assessed using AI-assisted tools.\n\nHow to Apply\n\n- Your CV.\n\n- A GitHub profile, code portfolio, or relevant code samples.\n\n- A brief example of an API integration or AI automation you built, explaining your contribution.\n\n- An example of a problem you took ownership of beyond writing code.\n\nApplications without code samples may not be reviewed.\n\nPay: ₹75,000.00 - ₹100,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of backend development experience do you have, and which language are you strongest in?\n* Please share your GitHub profile or code portfolio and identify one project you personally built.\n* Describe an AI/LLM or third-party API integration you delivered. What problem did it solve?\n* This role includes hands-on operations, follow-ups, and occasional creative tasks alongside development. Are you comfortable with this? Please share a relevant example.\n* If assigned to an unfamiliar department, how would you learn its workflow, contribute, and identify opportunities to automate it?\n* Give an example of a task you completed independently. How did you organise the work, communicate progress, and handle blockers?\n* Can you work Monday to Saturday, approximately 4:30 AM–12:30 PM IST?\n* Are you comfortable providing proactive progress updates every 30 minutes during assessments and probation?\n* Are you available for additional hours or Sunday work when required for priority tasks or urgent issues? Please explain any availability constraints.\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "e03e6b107d02": {
+   "id": "e03e6b107d02",
+   "site": "indeed",
+   "title": "Lead Full Stack Developer – AI Agents, Azure & Healthcare Integration",
+   "company": "BigR.io",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=21e8b6f8759c7be6",
+   "apply_url": "https://in.indeed.com/viewjob?jk=21e8b6f8759c7be6",
+   "date_posted": "2026-11-18",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job Title: Lead Full Stack Developer – AI Agents, Azure & Healthcare Integration**\n\n**Experience:** 5–8 Years\n\n**Employment Type:** Full-Time\n\n**Location** - Remote\n\n**Job Overview**\n\nWe are looking for an experienced Full Stack Developer with strong expertise in React.js, Node.js/Express, Microsoft Azure, and Azure Cosmos DB. The candidate should have hands-on experience in building and integrating AI Agents, LLM-based applications, and cloud-based solutions.\n\nThe ideal candidate should be capable of independently handling frontend and backend development, AI Agent implementation, database management, and Azure integrations.\n\nExperience in healthcare applications, particularly DICOM/PACS integration and medical imaging workflows, will be an added advantage.\n\n**Key Responsibilities**\n\n* Design, develop, and maintain scalable web applications using React.js and Node.js/Express.\n* Build, develop, and integrate AI Agents into applications to automate workflows and improve business processes.\n* Implement LLM-based solutions and AI-powered workflows.\n* Develop and integrate REST APIs and backend services.\n* Work with Microsoft Azure services for application deployment, integration, monitoring, and management.\n* Design, develop, and manage databases using Azure Cosmos DB.\n* Implement secure and scalable application architectures.\n* Integrate third-party applications, APIs, and healthcare systems.\n* Work on DICOM integration, PACS connectivity, and medical imaging workflows, where applicable.\n* Collaborate with product managers, QA engineers, and other development team members.\n* Troubleshoot, debug, and optimize application performance.\n\n**Required Skills & Qualifications**\n\n* 5–8 years of overall experience in Full Stack Development.\n* Minimum 3 years of hands-on experience with React.js.\n* Minimum 3 years of experience with Node.js and Express.js.\n* 2+ years of experience working with Microsoft Azure services.\n* Experience working with Azure Cosmos DB.\n* Hands-on experience designing, developing, and implementing AI Agents.\n* Practical experience with LLM integration and AI-powered application development.\n* Experience developing and integrating REST APIs.\n* Strong understanding of application architecture, database design, and cloud-based development.\n* Experience with Git and modern software development practices.\n\n**Good to Have – Healthcare & DICOM Integration**\n\n* Experience developing healthcare applications or healthcare technology solutions.\n* Hands-on experience with DICOM integration and medical imaging workflows.\n* Knowledge of DICOM standards and protocols.\n* Experience integrating DICOM viewers, PACS systems, and medical imaging devices.\n* Knowledge of DICOMweb services such as WADO-RS, QIDO-RS, and STOW-RS.\n* Understanding of healthcare interoperability standards such as HL7 and FHIR.\n* Knowledge of healthcare data privacy and security requirements.\n\n**Preferred Candidate Profile**\n\n* Strong problem-solving and analytical skills.\n* Ability to independently manage frontend, backend, and cloud development activities.\n* Practical experience building and deploying AI Agents, not just consuming LLM APIs.\n* Ability to work in a fast-paced development environment.\n* Good communication and collaboration skills.\n* Ability to quickly learn and implement emerging AI technologies.\n\n**Technical Skills Summary**\n\n**Technical SkillExperience / Priority**\n\nOverall Full Stack Development\n\n5–8 Years with React.js\n\n3+ Years with Node.js / Express.js\n\n3+ Years with Microsoft Azure Services\n\n2+ Years with Azure Cosmos DB\n\nHands-on Experience\n\nAI Agent Development\n\nHands-on Experience\n\nLLM Integration\n\nPreferred\n\nDICOM / PACS Integration\n\nHL7 / FHIR\n\nPay: ₹3,000,000.00 - ₹4,000,000.00 per year\n\nBenefits:\n\n* Paid time off\n* Work from home\n\nEducation:\n\n* Master's (Required)\n\nExperience:\n\n* Node/ Express: 5 years (Required)\n* React: 5 years (Required)\n* development : 8 years (Required)\n* Agentic AI: 2 years (Required)\n* Healthcare: 3 years (Required)\n* DICOM or PACS or FHIR or Device integration: 3 years (Required)\n* Azure Cosmos DB: 2 years (Required)\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "98c1f22128c0": {
+   "id": "98c1f22128c0",
+   "site": "indeed",
+   "title": "QA Automation Engineer",
+   "company": "BigR.io",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=0dd8dff39d5cc136",
+   "apply_url": "https://in.indeed.com/viewjob?jk=0dd8dff39d5cc136",
+   "date_posted": "2026-11-18",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job Description – QA Automation Engineer**\n\n**Position:** QA Automation Engineer\n\n**Experience:** 4–7 Years (Preferred)\n\n**Role Type:** Full-Time\n\n**Technical Stack:** React, Node.js, Express.js, Cosmos DB, DICOM/ PACS/ FHIR/ Device integration\n\n**Job Summary:** We are looking for an experienced QA Automation Engineer with strong expertise in UI and API automation testing. The candidate should be capable of independently designing, developing, and executing automation scripts for web applications and backend APIs.\n\nThe ideal candidate should have hands-on experience testing applications built using React, Node.js/Express, and Cosmos DB. Experience leveraging AI tools such as ChatGPT, GitHub Copilot, or similar AI assistants to quickly generate, optimize, and maintain automation scripts will be an added advantage.\n\n**Key Responsibilities**\n\n* Design, develop, and maintain automated test scripts for UI and API testing.\n* Perform UI automation testing for React-based web applications.\n* Develop and execute API automation scripts for Node.js/Express backend services.\n* Validate API responses, request payloads, status codes, authentication, and error handling.\n* Perform database validation using Cosmos DB, including data integrity and CRUD operations.\n* Identify, report, track, and verify defects throughout the testing lifecycle.\n* Integrate automated test scripts into CI/CD pipelines.\n* Perform regression, functional, integration, and end-to-end testing.\n* Collaborate with developers and project managers to understand requirements and define test scenarios.\n* Use AI-powered tools to accelerate automation script development, debugging, and test case generation.\n\n**Required Technical Skills**\n\n**UI Automation**\n\n* Hands-on experience with Playwright, Selenium, or Cypress.\n* Experience automating React-based web applications.\n* Ability to develop reusable automation frameworks.\n* Experience with cross-browser testing.\n\n**API Automation**\n\n* Strong experience with REST API automation.\n* Hands-on experience with Postman, REST Assured, Playwright API, or similar tools.\n* Experience validating API responses, headers, authentication, and error scenarios.\n* Ability to develop automated API test suites.\n\n**Database Testing**\n\n* Experience with Cosmos DB or similar NoSQL databases.\n* Ability to validate database records, queries, and data consistency.\n* Understanding of CRUD operations and database integration testing.\n\n**Technology Understanding**\n\n* Basic understanding of React applications.\n* Familiarity with Node.js and Express.js backend architecture.\n* Understanding of frontend and backend integration.\n\n**AI-Assisted Automation**\n\n* Experience using ChatGPT, GitHub Copilot, or similar AI tools.\n* Ability to quickly generate automation scripts using AI assistance.\n* Ability to review, debug, optimize, and validate AI-generated scripts.\n* Experience using AI to generate test cases, test data, and edge-case scenarios.\n\n**Good to Have**\n\n* Experience with CI/CD tools such as Azure DevOps or GitHub Actions.\n* Experience with DICOM/ PACS/ FHIR/ Device integration.\n* Familiarity with Git and version control.\n* Experience with performance and load testing.\n* Knowledge of Agile/Scrum methodologies.\n* Experience testing AI-powered applications or LLM-based solutions.\n\n**Expected Candidate Profile**\n\n* Strong hands-on automation experience across UI and API testing.\n* Ability to work independently with minimal supervision.\n* Capable of quickly understanding application workflows and creating automation scripts.\n* Strong analytical and problem-solving skills.\n* Comfortable using AI tools to improve testing productivity.\n* Focused on automation coverage, quality, and faster release cycles.\n\n**Key Evaluation Criteria**\n\n* Practical UI automation experience.\n* Ability to independently write API automation scripts.\n* Understanding of React and Node.js/Express applications.\n* Database validation experience, preferably Cosmos DB.\n* Practical experience using AI tools to generate and debug automation scripts.\n\nPay: ₹2,500,000.00 - ₹3,000,000.00 per year\n\nBenefits:\n\n* Paid time off\n* Work from home\n\nEducation:\n\n* Master's (Required)\n\nExperience:\n\n* Playwright: 5 years (Required)\n* Postman: 5 years (Required)\n* integration testing (FHIR/ DICOM/ PACS/ Device): 3 years (Required)\n* Cosmos DB: 1 year (Preferred)\n* Healthcare: 3 years (Required)\n\nWork Location: Remote",
+   "found_at": "2026-11-19T12:01:11+00:00",
+   "status": "new",
+   "updated_at": "2026-11-19T12:01:11+00:00",
+   "history": [
+    {
+     "at": "2026-11-19T12:01:11+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
   }
  },
  "runs": [
