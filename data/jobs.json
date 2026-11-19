@@ -4570,15 +4570,32 @@
    "emails": [],
    "description": "**Job Information**\n-------------------\n\n* Date Opened 11/06/2026\n* Job Type Full time\n* Work Experience Fresher\n* Industry Services\n* Remote Job\n\n**About Us**\n------------\n\n**Welcome to the Cutting-Edge of Innovation: ZAZZ**\n\nStep into the world of ZAZZ, a realm where innovative design meets software development brilliance. We're not your average tech company; we're trendsetters shaping the future, crafting digital masterpieces, and redefining boundaries.\n\nAt ZAZZ, technology isn't just a tool—it's our canvas, our playground. Our passionate, ingenious team doesn't just adapt to the latest technologies; we shape them. Join us, and you’ll be at the heart of a revolution, influencing, and driving technological advancements.\n\n**Empowering People. Transforming Experiences.**\n\nEver dreamed of putting your mark on the digital universe? ZAZZ is the place. We breathe life into a bottom-up approach where our employees and users are the stars. Here, you won't just be creating software—you'll be part of a grand journey to revolutionize digital experiences.\n\n**Dive into the Tech Spectrum**\n\nWith ZAZZ, you don't just get a job; you get an open ticket to a roller-coaster of challenges and opportunities. From Product Strategy, IoT App Development to the bleeding-edge Blockchain tech, we cover the entire spectrum of tech innovation. Prepare to ignite your creativity and fuel your passion in an environment buzzing with groundbreaking ideas and projects.\n\n**Shaping the Future, Together**\n\nIt doesn't matter if our client is a fledgling startup, a dynamic SME, or a Fortune 500 titan—we’ve partnered with them all. At ZAZZ, you'll gain unparalleled exposure and experience in diverse sectors and technologies. You’ll not just grow; you'll evolve.\n\n**Why Join ZAZZ?**\n\nIf you're seeking a place where your curiosity is celebrated, your skills valued, and your growth accelerated, look no further. ZAZZ offers a thriving work environment, opportunities for continuous learning, and the chance to work with some of the best minds in the industry. Plus, our team loves to get geeky over a coffee chat on the latest tech!\n\nSo, are you ready to leave a lasting footprint in the tech world? Join the ZAZZ family, and together, let's create the future.\n\n**Job Description**\n-------------------\n\nThis is a remote position.\n\n### **About the role**\n\nOne of our client is building a custom AI-native FP&A platform delivered on Google Sheets, Google Apps Script, BigQuery, and the Anthropic Claude API — deliberately built with no third-party dependencies. We're deploying it for a live client engagement: a $500M-revenue, ~1,200-employee, multi-entity B2B SaaS company (US/UK HQ plus several international subsidiaries, PE-backed and pre-IPO). We need a hands-on developer to own the data engineering and backend automation layer so the Principal Consultant can focus on financial design, client relationship, and the AI/context\n\nlayer.\n\n  \n\n### **What you'll do**\n\n* Build and maintain ingestion pipelines from source systems (ERP, CRM, HRIS) into BigQuery via Apps Script and/or Cloud Functions — handling OAuth, API rate limits, scheduled triggers, and idempotent retries\n* Write and maintain the canonical dimensional model in BigQuery: dimension tables (accounts, departments, employees, customers, fiscal calendar) and versioned fact tables (fact\\_actuals, fact\\_forecast, fact\\_budget, fact\\_headcount, fact\\_pipeline, fact\\_quota)\n* Build multi-entity consolidation logic — FX translation, intercompany elimination, entity-level rollups — correctly handling the client's global subsidiary structure\n* Own Connected Sheets integration points so finance users work in familiar Sheets while queries run against BigQuery\n* Solve the Snowflake connectivity requirement (JWT key-pair auth via raw UrlFetchApp, since Apps Script has no native Advanced Service for Snowflake) if/when that source system comes into scope\n* Maintain data quality and reconciliation tooling — freshness monitoring, schema validation, not-null/unique/referential integrity checks (dbt Core or scheduled BigQuery queries)\n* Support monthly close, forecast, and quota cycles from the engineering side: fixing pipeline breaks, tuning query performance, managing BigQuery cost (partitioning, pre-aggregation)\n* Work from exact specifications provided by the Principal Consultant (column names, SQL, schema definitions) with high fidelity — this is a precision-driven build, not a loose one\n\n### **What we need**\n\n* Strong Google Apps Script experience (triggers, Advanced Services, HTML Service for sidebars/dialogs, quota-aware design)\n* Strong SQL and BigQuery experience — partitioning, clustering, cost-aware query design, scheduled queries; dbt Core experience a plus\n* Experience integrating with REST APIs from ERP/CRM/HRIS systems (e.g., NetSuite, Salesforce, HubSpot, BambooHR, Rippling, Xero/QuickBooks) — auth flows, pagination, rate-limit handling\n* Comfort with financial data structures: chart of accounts, GL postings, cost centers, headcount/comp data, pipeline/opportunity data — you don't need to be a finance person, but you need to not be scared of a trial balance\n* Experience with multi-entity / multi-currency data models is a strong plus given this client's structure\n* Discipline with version control (Git) for SQL, dbt models, and Apps Script code\n* Comfort working to exact, detailed specs and flagging deviations rather than improvising around them\n* No dependency on third-party iPaaS, ETL SaaS, or vector database tooling — this stack is Google + Claude only, by design\n\n### **Nice to have**\n\n* Prior experience in FP&A, EPM, or financial systems implementation (Vena, Anaplan, Adaptive Insights, Datarails, etc.)\n* Experience with SOC 2 / data governance documentation in a client-facing consulting context\n* Familiarity with the Anthropic Claude API (not required to build with it, but useful to understand what it's querying against)",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 20"
     }
-   ]
+   ],
+   "score": 20,
+   "reasons": [
+    "Matched: about, company, here, open, senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Google Cloud Data & Automation Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at ZAZZ,\n\nI am writing to apply for the Senior Google Cloud Data & Automation Developer role. I am a Senior Software Engineer, 7+ years, and my background in about, company, here matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "2126cc5f82d1": {
    "id": "2126cc5f82d1",
@@ -4594,15 +4611,39 @@
    "emails": [],
    "description": "* Lead the development team in designing, developing, and testing policy center solutions.\n  \n* Collaborate with cross-functional teams to identify business requirements and develop technical solutions.\n  \n* Develop and maintain high-quality code, adhering to industry standards and best practices.\n  \n* Troubleshoot and resolve complex technical issues related to policy center development.\n  \n* Mentor junior developers to enhance their skills and knowledge.\n  \n* Participate in code reviews to ensure adherence to coding standards.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Agile",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Guidewire Development",
+    "Coding Standards",
+    "Policy Center",
+    "Requirements",
+    "Coding",
+    "Center"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Guidewire Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Clifyx Technology,\n\nI am writing to apply for the Guidewire Developer role. I am a Senior Software Engineer, 7+ years, and my background in Agile matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b70eb15dc199": {
    "id": "b70eb15dc199",
@@ -4618,15 +4659,39 @@
    "emails": [],
    "description": "**Requirements**\n\n* Experience : 4+ years\n* Strong experience and hands-on Microsoft Power Platform development experience.\n* Strong hands-on expertise in Power Apps, including Canvas Apps and Model-Driven Apps.\n* Strong experience in Microsoft Power Automate for workflow development and business process automation.\n* Practical experience with Microsoft Copilot Studio for building and customizing intelligent agents.\n* Good understanding of Microsoft Dataverse, including data modelling, tables, relationships, and security.\n* Strong knowledge of Power Fx for application development and business logic implementation.\n* Hands-on experience developing Copilot and AI-enabled business solutions.\n* Understanding of Generative AI, prompt engineering, AI Builder, and agent-based solutions.\n* Experience integrating Power Platform solutions with REST APIs, custom connectors, Microsoft 365, and external enterprise systems.\n* Ability to independently design, develop, and deliver scalable enterprise-grade Power Platform solutions.\n* Strong analytical, problem-solving, and stakeholder communication skills.\n* Experience with Power BI, including dashboard development, Power Query, and DAX, would be an added advantage.\n* Familiarity with Microsoft 365 Copilot and Copilot extensibility would be beneficial.\n* Exposure to Azure AI services would be an advantage.\n* Knowledge of JavaScript, JSON, C#, or other Power Platform extensibility technologies would be beneficial.\n* Microsoft certifications such as PL-400, PL-600, or PL-200 would be preferred.\n\n**Responsibilities**\n\n* Design, develop, and implement enterprise-grade business solutions using Microsoft Power Platform.\n* Build and customize Canvas Apps and Model-Driven Apps using Power Apps.\n* Develop complex workflows, approval processes, and business process automation using Microsoft Power Automate.\n* Design and implement scalable data models and solutions using Microsoft Dataverse.\n* Build, configure, and customize intelligent agents and conversational solutions using Microsoft Copilot Studio.\n* Integrate Copilot agents with Power Platform, Microsoft 365, enterprise data sources, REST APIs, and external systems.\n* Develop AI-enabled business solutions using Generative AI, prompt engineering, AI Builder, and agent-based capabilities.\n* Create custom connectors and REST API integrations to connect Power Platform solutions with enterprise applications.\n* Use Power Fx to implement application logic, business rules, and reusable functionalities.\n* Collaborate with business stakeholders to understand requirements and translate them into scalable technical solutions.\n* Identify opportunities to implement intelligent automation and AI-driven user experiences across business processes.\n* Ensure application performance, security, scalability, and maintainability of Power Platform solutions.\n* Participate in solution design, development, testing, deployment, and ongoing support activities.\n* Develop dashboards and reports using Power BI, wherever required. Qualifications\n\nBachelor s or master s degree in computer science, Information Technology, or a related field.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Technology",
+    "Enterprise",
+    "Analytics",
+    "Application development",
+    "Enterprise applications",
+    "Workflow"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Associate Staff Engineer (Power Apps/Power Automate) - Taniya Malviya",
+    "body": "Dear Hiring Team at Nagarro,\n\nI am writing to apply for the Associate Staff Engineer (Power Apps/Power Automate) role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "3d72cb404ef3": {
    "id": "3d72cb404ef3",
@@ -4642,15 +4707,39 @@
    "emails": [],
    "description": "* Design, develop, and test PHP-based software applications.\n  \n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n  \n* Develop and maintain large-scale web applications using PHP and MySQL.\n  \n* Troubleshoot and resolve technical issues efficiently.\n  \n* Participate in code reviews and contribute to improving overall code quality.\n  \n* Stay updated with the latest trends and technologies in PHP development.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: SQL database, Javascript Frameworks",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Program",
+    "Coding",
+    "Development",
+    "PHP Development",
+    "PHP Programming",
+    "Application"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for PHP Programmer - Taniya Malviya",
+    "body": "Dear Hiring Team at Aspirehive,\n\nI am writing to apply for the PHP Programmer role. I am a Senior Software Engineer, 7+ years, and my background in SQL database, Javascript Frameworks matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "976b83eb9632": {
    "id": "976b83eb9632",
@@ -4666,15 +4755,38 @@
    "emails": [],
    "description": "* Design and develop high-quality applications using .NET and Angular.\n* Implement testable and scalable code.\n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n* Develop and maintain large-scale web applications using .NET and Angular.\n* Troubleshoot and resolve technical issues efficiently.\n* Participate in code reviews and contribute to improving overall code quality.\n\n  \n   \n  **Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.**",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Communication skills, Software development, Agile",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Customer satisfaction",
+    "Interpersonal",
+    "Version control",
+    "Quality",
+    "Application"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full stack .NET Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Msmp Technologies,\n\nI am writing to apply for the Full stack .NET Developer role. I am a Senior Software Engineer, 7+ years, and my background in Communication skills, Software development, Agile matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "14eacbe24be5": {
    "id": "14eacbe24be5",
@@ -4690,15 +4802,39 @@
    "emails": [],
    "description": "Develop, maintain and optimize scalable backend applications using Node   \n   \n js   \n   \n Build RESTful APIs, integrate databases, implement authentication and ensure application security and performance   \n   \n Collaborate with frontend developers and product teams to deliver reliable solutions   \n   \n Knowledge of JavaScript, Express   \n   \n js, MongoDB, SQL, Git and cloud platforms is preferred  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Node.js, Javascript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Postgresql",
+    "Microservices",
+    "DBMS",
+    "Database design",
+    "MongoDB",
+    "Architecture"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Node.js Backend Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Adrs Techno,\n\nI am writing to apply for the Node.js Backend Developer role. I am a Senior Software Engineer, 7+ years, and my background in Node.js, Javascript matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b3a66a09c0ab": {
    "id": "b3a66a09c0ab",
@@ -4714,15 +4850,39 @@
    "emails": [],
    "description": "Develop and implement Generative AI solutions using large language models, prompt engineering and AI frameworks   \n   \n Work on chatbots, automation, intelligent applications and AI integrations   \n   \n Evaluate model performance and optimize outputs   \n   \n Knowledge of Python, LLMs, LangChain, APIs, vector databases, machine learning and cloud-based AI platforms is preferred  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Graphics",
+    "Bus",
+    "Can Bus",
+    "HIL Testing",
+    "C++",
+    "Integration"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Generative AI Specialist - Taniya Malviya",
+    "body": "Dear Hiring Team at Skilltect Technologies,\n\nI am writing to apply for the Generative AI Specialist role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "a20dcab8fbca": {
    "id": "a20dcab8fbca",
@@ -4738,15 +4898,39 @@
    "emails": [],
    "description": "* We are looking for an experienced Salesforce Developer with hands-on experience in Clinical Trial Management Systems (CTMS), preferably with Cloudbyz CTMS or Veeva Vault Clinical. The ideal candidate should have strong expertise in Salesforce development, customization, integrations, and configuration, along with a good understanding of clinical trial operations and clinical research processes.\n* The candidate will be responsible for developing, enhancing, and maintaining Salesforce-based clinical trial management solutions to support clinical research, study management, and operational workflows.\n* Key Responsibilities: Design, develop, customize, and maintain Salesforce applications supporting Clinical Trial Management Systems (CTMS). Work on Cloudbyz CTMS or Veeva Vault Clinical implementations, enhancements, and integrations. Develop Salesforce components using Apex, Lightning Web Components (LWC), Visualforce, and SOQL. Customize Salesforce objects, fields, workflows, validation rules, triggers, and approval processes. Build and maintain integrations between Salesforce CTMS and external clinical research systems.\n* Work on clinical trial workflows covering study planning, site management, investigator management, patient recruitment, and trial monitoring. Collaborate with functional consultants, business analysts, QA teams, and clinical operations stakeholders. Perform debugging, unit testing, deployment, and production support. Ensure data integrity, security, and compliance with applicable clinical research and regulatory requirements. Participate in technical discussions, solution design, code reviews, and deployment activities.\n* Mandatory Technical Skills: Strong hands-on experience in Salesforce development. Proficiency in Apex, Lightning Web Components (LWC), SOQL, SOSL, and Salesforce APIs. Experience with Salesforce customization, configuration, and integration. Hands-on experience with at least one of the following: Cloudbyz CTMS Veeva Vault Clinical / Veeva Clinical Operations Understanding of REST/SOAP APIs and third-party system integrations. Experience with Salesforce deployment tools, Git, and CI/CD processes.\n* Clinical Domain Knowledge: Understanding of Clinical Trial Management Systems (CTMS). Knowledge of clinical trial lifecycle and clinical research processes. Familiarity with clinical study management, clinical sites, investigators, patient enrollment, and monitoring workflows. Understanding of GCP (Good Clinical Practice) and clinical research compliance requirements. Exposure to clinical data management and integrations with other clinical systems is an added advantage.\n* Good to Have: Experience integrating CTMS with EDC, eTMF, RTSM, or other clinical research platforms. Knowledge of Veeva Vault architecture and application configuration. Experience with Salesforce Health Cloud. Knowledge of Agile/Scrum methodologies. Salesforce Platform Developer I / II certification.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-17T12:20:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-17T12:20:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-17T12:20:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Sales force development",
+    "Research",
+    "Data management",
+    "Clinical",
+    "Development",
+    "Debugging"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Sr Salesforce Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Aviintech Business Solutions,\n\nI am writing to apply for the Sr Salesforce Developer role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "d02c96b66f5e": {
    "id": "d02c96b66f5e",
@@ -4764,15 +4948,32 @@
    ],
    "description": "Job Description – Junior Server Engineer\n\n**Company:** Junosys Networks Pvt. Ltd.  \n**Job Title:** Junior Server Engineer  \n**Experience:** 6 Months – 1 Year  \n**Location:** Indore, Madhya Pradesh\n\nJob Overview\n\nJunosys Networks Pvt. Ltd. is looking for a motivated and technically skilled Junior Server Engineer with 6 months to 1 year of experience in server administration, troubleshooting, and maintenance. The candidate should have basic knowledge of Windows Server, Active Directory, and networking concepts.\n\nRoles & Responsibilities\n\n* Assist in the installation, configuration, and maintenance of Windows Servers.\n* Provide support for Windows Server 2012, 2016, 2019, and 2022.\n* Perform basic server troubleshooting and resolve technical issues.\n* Manage Active Directory, user accounts, and permissions.\n* Assist in managing DNS, DHCP, and Group Policy (GPO).\n* Monitor server performance, system health, and resource utilization.\n* Assist with server backups, restoration, and data recovery.\n* Provide support for virtualization technologies such as VMware and Hyper-V.\n* Troubleshoot hardware, software, and network-related issues.\n* Maintain server documentation and technical reports.\n* Coordinate with senior engineers to ensure smooth server operations.\n\nRequired Skills\n\n* Basic knowledge of Windows Server Administration.\n* Understanding of Active Directory, DNS, and DHCP.\n* Basic knowledge of networking concepts (LAN, WAN, TCP/IP).\n* Familiarity with VMware or Hyper-V is an added advantage.\n* Basic troubleshooting and problem-solving skills.\n* Good communication and coordination skills.\n* Willingness to learn new technologies.\n\nEligibility Criteria\n\n* 6 months to 1 year of relevant experience in Server Administration or IT Support.\n* Candidates with relevant internships or practical training may also apply.\n* IT-related educational background preferred.\n\nHow to Apply?\n\nInterested candidates can share their updated resumes at:\n\n**Email:** ops@junosys.in  \n**Company:** Junosys Networks Pvt. Ltd.  \n**Location:** Indore, Madhya Pradesh\n\nPay: ₹13,000.00 - ₹15,000.00 per month\n\nWork Location: In person",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 22"
     }
-   ]
+   ],
+   "score": 22,
+   "reasons": [
+    "Matched: also, company, engineer, indore, roles",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "ops@junosys.in",
+    "subject": "Application for Server Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Junosys Networks Pvt Ltd.,\n\nI am writing to apply for the Server Engineer role. I am a Senior Software Engineer, 7+ years, and my background in also, company, engineer matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4613baff447e": {
    "id": "4613baff447e",
@@ -4788,15 +4989,39 @@
    "emails": [],
    "description": "**Senior Manager QA / Quality Engineering**\n\n**Location:** Pune  \n**Experience:** 15+ years  \n**Role:** Senior Manager – QA / Quality Engineering\n\n**Role Overview**\n\nWe are looking for an experienced **Senior Manager – QA / Quality Engineering** to lead quality engineering transformation, automation strategy, and delivery across enterprise applications. The ideal candidate should have strong hands-on expertise in **Python-based test automation using Playwright**, API automation, CI/CD, and modern AI-driven quality engineering practices.\n\nThe role will involve building scalable automation frameworks, driving shift-left quality practices, establishing QA standards and KPIs, and leading distributed QA teams while partnering closely with Engineering, Product, and Business stakeholders.\n\n**Key Responsibilities**\n\n**QA Leadership & Transformation**\n\n* Lead QA and Quality Engineering strategy across multiple projects and products.\n* Define and implement scalable QA processes, standards, methodologies, and quality KPIs.\n* Drive **Shift-Left testing** and quality engineering practices across the SDLC.\n* Establish automation-first approaches to improve test coverage, release velocity, and product quality.\n* Build and evolve QA CoE capabilities, frameworks, reusable accelerators, and best practices.\n* Identify opportunities for process optimization, test automation, and intelligent quality engineering.\n* Drive root-cause analysis, defect prevention, risk assessment, and continuous improvement.\n\n**Test Automation – Python & Playwright**\n\n* Design, develop, and maintain **UI automation frameworks using Python and Playwright**.\n* Establish scalable automation architecture using Page Object Model, reusable components, fixtures, and data-driven approaches.\n* Develop automated functional, regression, smoke, and end-to-end test suites.\n* Integrate Playwright automation with **CI/CD pipelines** using GitHub Actions, Jenkins, or Azure DevOps.\n* Implement parallel execution, cross-browser testing, reporting, test retry, and flaky-test management.\n* Evaluate and modernize existing Selenium-based automation frameworks by introducing Playwright and Python where appropriate.\n* Drive automation coverage across critical business workflows and continuously improve automation ROI.\n* Establish coding standards, framework guidelines, code reviews, and best practices for automation engineers.\n\n**API & Performance Testing**\n\n* Lead API automation using tools such as **Python, Postman, RestAssured, or Karate**.\n* Define API testing strategy covering functional, integration, negative, and contract testing.\n* Drive performance testing using **JMeter** and other appropriate tools.\n* Analyze performance bottlenecks and work with engineering teams on remediation.\n* Integrate API and performance testing into CI/CD pipelines where appropriate.\n\n**AI-Driven Quality Engineering**\n\n* Explore and implement **AI/GenAI-assisted testing** to improve productivity and test effectiveness.\n* Evaluate AI-assisted test generation, test optimization, defect triage, RCA assistance, and regression optimization.\n* Define quality validation approaches for AI-powered applications, including:\n\n+ Response accuracy\n+ Contextual relevance\n+ Response consistency\n+ Hallucination detection\n+ Prompt effectiveness\n+ Edge-case handling\n\n* Participate in designing and validating **Agentic AI workflows and autonomous testing solutions**.\n* Identify opportunities to use tools such as Claude, Cursor, ChatGPT, MCP, and other AI technologies within QA workflows.\n\n**CI/CD & Engineering Practices**\n\n* Integrate automated testing into CI/CD pipelines.\n* Establish quality gates and automated regression checks within deployment pipelines.\n* Work closely with DevOps and Engineering teams to improve continuous testing and release confidence.\n* Promote Git-based development, code reviews, test reporting, and engineering best practices.\n\n**Team Leadership**\n\n* Lead, mentor, and develop QA/QE engineers across multiple projects.\n* Build automation and quality engineering capabilities within the team.\n* Conduct technical mentoring, framework reviews, and knowledge-sharing sessions.\n* Define team goals, performance expectations, and development plans.\n* Manage distributed teams and coordinate with global stakeholders.\n\n**Stakeholder Management**\n\n* Partner with Product, Engineering, Business, and Program teams to define quality objectives.\n* Own QA strategy, estimates, test plans, release readiness, and quality reporting.\n* Communicate quality risks, dependencies, defects, and release recommendations to senior stakeholders.\n* Support client discussions, solutioning, proposals, and QA transformation initiatives.\n\n**Required Skills & Experience**\n\n* **15+ years of experience in Software Testing / Quality Engineering**, with significant experience in QA leadership.\n* Strong hands-on experience in **Python-based automation**.\n* Strong expertise in **Playwright** for web/UI automation.\n* Experience designing and implementing automation frameworks from the ground up.\n* Strong understanding of Selenium and modern automation framework architecture.\n* Experience with **API automation and testing**.\n* Strong experience with **CI/CD tools** such as Jenkins, GitHub Actions, or Azure DevOps.\n* Experience with **Git and modern software engineering practices**.\n* Strong understanding of Agile/Scrum, STLC, test strategy, and release management.\n* Experience with performance testing, preferably **JMeter**.\n* Experience leading and mentoring QA/QE teams.\n* Strong stakeholder management and communication skills.\n* Experience working with enterprise/SaaS applications.\n\n**Preferred / Good-to-Have Skills**\n\n* Experience in **AI/GenAI testing and AI-assisted QA automation**.\n* Experience with Claude, Cursor, ChatGPT, LLMs, or MCP-based workflows.\n* Knowledge of Agentic AI and autonomous workflow validation.\n* Experience with AI-assisted test generation and intelligent test optimization.\n* Experience with accessibility testing using tools such as **NVDA and Axe**.\n* Experience with web performance tools such as Lighthouse/PageSpeed.\n* Banking, Financial Services, Insurance, Payments, or other enterprise-domain experience.\n* Experience establishing or scaling a **QA CoE / Quality Engineering practice**.\n\n**Education**\n\n* Bachelor's or Master's degree in Computer Science, Information Technology, Engineering, or a related discipline.\n\n**Key Success Measures**\n\n* Increased automation coverage and reduction in manual regression effort.\n* Improved release quality and reduction in production defects.\n* Adoption of Python + Playwright automation across strategic applications.\n* Improved CI/CD and continuous testing maturity.\n* Successful implementation of AI-assisted quality engineering initiatives.\n* Strong team capability development and engineering productivity.\n* Consistent quality governance, metrics, and stakeholder visibility.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: SQL",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "python",
+    "Pytest",
+    "Test Automation Framework",
+    "Playwright",
+    "Test Scripts",
+    "Pytest Framework"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for QA Manager - Python Playwright - Taniya Malviya",
+    "body": "Dear Hiring Team at InfoBeans,\n\nI am writing to apply for the QA Manager - Python Playwright role. I am a Senior Software Engineer, 7+ years, and my background in SQL matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "165c38c6ce10": {
    "id": "165c38c6ce10",
@@ -4812,15 +5037,39 @@
    "emails": [],
    "description": "Role: AI Engineer\n\nLocation: Indore/ Pune\n\nExperience: 6 to 9 Years\n\nKey Skills: Python, GenAI, Agentic Development, APIs, Data Integration, Git/CI-CD, Cloud Architecture, Azure, Databricks, Snowflake, Claude Code, Copilot, Spec-Driven Development\n\n  \n\nJob Description:\n\n  \n\nAs an AI Engineer, you will help teams apply artificial intelligence to real engineering and business workflows with a focus on rapid prototyping, validation, reuse, and production adoption. Working directly with client engineering leads, you will independently shape solutions, build reusable agentic frameworks, and streamline engineering workflows.\n\n  \n\nWhat will your role look like\n\n  \n\n* Develop SDLC agents and construct a reusable skills and instructions library.\n* Implement agent-assisted PR reviews, development, testing, and related engineering workflows.\n* Codify reusable prompts, skills, patterns, and implementation knowledge.\n* Support Databricks Lakehouse automation where AI genuinely adds value.\n* Contribute to credit-risk AI extensions as mature opportunities arise.\n* Work directly with client engineering leads to shape solutions independently.\n\n  \n\nWhy you will love this role\n\n  \n\n* Opportunity to drive hands-on adoption of cutting-edge GenAI and agentic frameworks.\n* Direct client impact and ownership over solution design and engineering workflows.\n* Culture focused on rapid prototyping, practical automation, and high-value production adoption.\n* Exposure to advanced cloud and big data platforms like Azure, Databricks, and Snowflake.\n\n  \n\nWe would like you to bring along\n\n  \n\n* Strong foundation in Python and application engineering.\n* Hands-on experience with GenAI and agentic development.\n* Solid understanding of APIs, data integration, Git/CI-CD, and cloud application architecture.\n* Familiarity with Azure for cloud and Databricks or Snowflake for big data.\n* Comfort working with Claude Code or Copilot using spec-driven development.\n* Proven ability to work directly with client engineering leads and independently shape solutions.\n* Strong product judgment on when to use automation, agents, or conventional engineering.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Software engineering, Software",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Artificial Intelligence",
+    "Intelligence",
+    "Python",
+    "Ml",
+    "Engineering",
+    "Machine"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for AI ML Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at InfoBeans,\n\nI am writing to apply for the AI ML Developer role. I am a Senior Software Engineer, 7+ years, and my background in Software engineering, Software matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "6eb9c269c67a": {
    "id": "6eb9c269c67a",
@@ -4836,15 +5085,36 @@
    "emails": [],
    "description": "**Senior Software Engineer (C# .NET Azure)**\n\nWith a global team of around 5600+ IT professionals, DHL IT Services connects people and keeps the global economy running by continuously innovating and creating sustainable digital solutions. We work beyond global borders and push boundaries across all dimensions of logistics. You can leave your mark shaping the technology backbone of the biggest logistics company of the world. All our locations have earned #GreatPlaceToWork certification, reflecting our commitment to exceptional employee experiences.\n\n  \n\n**Digitalization. Simply delivered.**\n\nWere very excited to see the positive impact of our work but also recognize the potential is much larger. This is why we need you!\n\n*#DHL #DHLITServices #GreatPlace #JobLocations #Indore #Chennai # Bangalore*\n\n  \n\n**Grow together.**\n\nWe operate in an agile/DevSecOps manner, with product-oriented teams holding end-to-end responsibility for product success. Our work follows Scrum practices, including stand-ups, reviews, and iterative deployment. While not strictly by the book, we embrace agile principles, learning from failures and getting better every day.\n\n  \n\n**About the IoT team**\n\nWe are a supportive, quality-driven group of tech enthusiasts who strive to improve daily and are eager to assist you on your journey with us! Our global team includes members from India and Germany, collaborating via Microsoft Teams, Jira, and Confluence. We are aiming to provide a platform that accelerates IoT adoption for operational excellence, customer experience, and employee safety. We built a global platform that processes data from millions of connected devices across DHL and are developing modular use cases for real-time shipment monitoring (e.g. for life science and healthcare shipments) and actionable insights.\n\n  \n\n**Tech stack**\n\nOur IoT platform is built on Microsoft Azure, featuring a micro-services architecture and Azure DevOps for continuous integration and delivery, utilizing Docker and Kubernetes. We primarily use .NET Core, C#, and Angular for coding.\n\n  \n\n**Ready to embark on the journey? Heres what we are looking for:**\n\nWere looking for a Software Engineer in our IoT team who does both product development (we also do something with AI) where you will have an opportunity to directly impact customer experience in DHL as well as support existing IoT use case implementations.\n\n  \n\n**What do we expect from you?**\n\n* Proven experience as a Software Engineer with a strong portfolio of projects\n* Excellent problem-solving skills\n* Individual with positive energy and can-do attitude\n* A desire to grow and continuously improve in a fast-paced environment\n* Strong knowledge in .NET Core and C#\n* Strong code-reading skills and knack for writing clean, testable, easily maintainable code\n* Experience with Microsoft Azure Cloud PaaS services\n* Extensive knowledge in Entity Framework Core\n* Experience in MS SQL Server\n* Very good written and spoken English\n* Willingness to work in the UK shift\n\n  \n\n**Good to have:**\n\n* Experience with Azure DevOps and Azure Kubernetes Service\n* Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the syste\n\n**Job Locations:** Bangalore, Chennai and Indore\n\n**An array of benefits for you:**\n\n* Hybrid work arrangements to balance in-office collaboration and home flexibility.\n* Annual Leave: 42 days off apart from Public / National Holidays.\n* Medical Insurance: Self + Spouse + 2 children. An option to opt for Voluntary Parental Insurance (Parents / Parent -in-laws) at a nominal premium covering pre existing disease.\n* In House training programs: professional and technical training certifications.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 40"
     }
-   ]
+   ],
+   "score": 40,
+   "reasons": [
+    "Matched: Software, Senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    ".Net",
+    "C#",
+    "Microsoft Azure"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Software Engineer (C# .NET Azure) - Taniya Malviya",
+    "body": "Dear Hiring Team at DHL IT,\n\nI am writing to apply for the Senior Software Engineer (C# .NET Azure) role. I am a Senior Software Engineer, 7+ years, and my background in Software, Senior matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "6100d2cf4132": {
    "id": "6100d2cf4132",
@@ -4860,15 +5130,32 @@
    "emails": [],
    "description": "Position Summary\n\nWe are looking for an experienced Senior Software Engineer with strong hands-on experience in Python, REST API development, AWS cloud services, and microservices architecture.\n\nKey Responsibilities\n\n* Design, develop, and maintain REST APIs using Python.\n* Build scalable and reusable microservices for enterprise applications.\n* Develop APIs using FastAPI, Flask, or Django REST Framework.\n* Deploy and manage applications using AWS ECS/Fargate, Lambda, and API Gateway.\n* Build and maintain Docker containers and application configurations.\n* Integrate APIs with Snowflake, PostgreSQL, and other relational databases.\n* Write and optimize SQL queries for efficient data processing.\n* Implement API authentication and authorization using OAuth 2.0, OIDC, JWT, and Okta.\n* Define API specifications using OpenAPI/Swagger.\n* Implement API validation, pagination, filtering, sorting, and error handling.\n* Develop and maintain CI/CD pipelines using GitHub Actions, Jenkins, or similar tools.\n* Perform unit testing, integration testing, and API performance testing.\n* Implement application monitoring and logging using AWS CloudWatch.\n* Troubleshoot application and production issues.\n* Collaborate with cross-functional teams on architecture and integration requirements.\n* Participate in code reviews, technical discussions, and mentor junior developers.\n\nRequired Skills & Qualifications\n\n* Bachelor’s degree in Computer Science, Engineering, or equivalent experience.\n* 10–12+ years of software development experience.\n* Strong hands-on experience in Python and REST API development.\n* Experience with FastAPI, Flask, or Django REST Framework.\n* Strong knowledge of microservices and enterprise API architecture.\n* Hands-on experience with AWS ECS/Fargate, Lambda, and API Gateway.\n* Experience with Docker and containerized applications.\n* Strong SQL knowledge and experience with Snowflake or PostgreSQL.\n* Knowledge of OAuth 2.0, OIDC, JWT, and API security.\n* Experience with OpenAPI/Swagger and API design.\n* Experience with CI/CD pipelines, Git, and automated testing.\n* Strong troubleshooting, analytical, and communication skills.\n\nPreferred Skills\n\n* Experience with Snowflake integration.\n* Familiarity with Okta, AWS IAM, Secrets Manager, and CloudWatch.\n* Experience with Terraform or Infrastructure as Code.\n* Knowledge of Amazon Aurora PostgreSQL.\n* Understanding of Domain-Driven Design and API Gateway patterns.\n* Exposure to React, Next.js, or OutSystems.\n* Experience in banking, financial services, or regulated industries.\n\nPay: ₹384,000.00 - ₹2,050,000.00 per year\n\nApplication Question(s):\n\n* Mention your last working day\n\nExperience:\n\n* Python : 10 years (Preferred)\n* API development : 10 years (Preferred)\n* Aws: 10 years (Preferred)\n* Snowflake : 10 years (Preferred)\n* API security : 10 years (Preferred)\n* CI/CD: 10 years (Preferred)\n* React: 1 year (Preferred)\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 32"
     }
-   ]
+   ],
+   "score": 32,
+   "reasons": [
+    "Matched: apis, aws, degree, engineer, git",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Python Full Stack Developer (React with AWS) - Taniya Malviya",
+    "body": "Dear Hiring Team at Raah Techservices,\n\nI am writing to apply for the Python Full Stack Developer (React with AWS) role. I am a Senior Software Engineer, 7+ years, and my background in apis, aws, degree matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "c41f592b2a2e": {
    "id": "c41f592b2a2e",
@@ -4884,15 +5171,38 @@
    "emails": [],
    "description": "Role\n\nSenior Gen AI Engineer\n\nLocation\n\nRemote\n\nExperience\n\n5 Years to 9 Years\n\nType\n\nFull Time\n\nResponsibilities\n\nWhat You Will\n\nBe Doing\n\n* 01  Design and deploy agent-driven systems that autonomously solve complex business problems\n* 02  Engineer collaborative multi-agent frameworks for coordinated reasoning and action\n* 03  Build and extend MCP-based infrastructure for secure agent-to-tool/API interactions\n* 04  Develop human-in-the-loop workflows combining agent autonomy with human oversight (for example RLHF, in-context correction)\n* 05  Build, fine-tune, train and evaluate ML and deep-learning models using PyTorch and TensorFlow\n* 06  Work with multimodal data pipelines (text, images, structured data) for embedding generation and feature extraction\n* 07  Integrate models into production via APIs, inference pipelines and monitoring tools\n* 08  Use Git, testing frameworks and CI/CD for maintainable code\n* 09  Document architectural decisions and stay current with AI research trends\n\nRequired Skills\n\nWhat You\n\nNeed to Bring\n\nStrong fluency in Python and Agentic frameworks.   Solid understanding of ML fundamentals: optimization, representation learning, evaluation metrics, supervised / unsupervised / generative modeling.   Hands-on experience with multimodal datasets and feature pipelines.   Experience deploying ML models to production, including inference optimization and monitoring.   Familiarity with LLMOps/MLOps concepts: versioning, reproducibility, observability, governance.\n\nGood to Have\n\nNot mandatory, but a bonus.\n\nExperience designing goal-oriented agentic systems and multi-agent coordination workflows.   Proficiency with LangChain, LangGraph, AutoGen, Google ADK or similar agent orchestration frameworks.   Knowledge of secure tool/agent communication protocols such as MCP.   Exposure to reinforcement learning from human feedback (RLHF) and reward modeling.   Cloud experience\n\nQualifications\n\nWhat We Are\n\nLooking For\n\n* Bachelors or Masters in Computer Science, AI, Engineering or related field\n* 5 to 9 years in AI or software engineering, with at least 2 years in Generative AI\n* Proven experience deploying RAG systems or LLM applications in production\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Senior, GIT, Communication skills",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Science",
+    "Engineering",
+    "Communication Protocol",
+    "Deep Learning",
+    "Computer science"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Gen AI Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Neoquant Solutions,\n\nI am writing to apply for the Senior Gen AI Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Senior, GIT, Communication skills matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "7ee6de6119f3": {
    "id": "7ee6de6119f3",
@@ -4908,15 +5218,39 @@
    "emails": [],
    "description": "**The Role**\n\nWe are seeking an execution-driven Senior Engineering Manager to own the technical architecture, system reliability, and end-to-end delivery of our Agentic AI voice testing product line.\n\nIn this role, you will lead multiple cross-functional PODs consisting of:\n\n* AI/ML Engineers (Multi-agent orchestration, MCP server architectures, LLM evaluation & tracing pipelines, STT/TTS streaming, synthetic caller persona generation)\n* Full-Stack / Web Developers (Enterprise SaaS dashboards in React/Next.js, Python/FastAPI microservices, real-time analytics, workflow builders, API integrations)\n* QA / SDETs (Telecom call verification, regression frameworks, deterministic and non-deterministic test automation)\n\nYour primary mandate is predictable roadmap execution, architectural rigor, and operational discipline. You must be hands-on enough to audit system designs, review critical code, and bridge the gap between probabilistic generative AI workflows and deterministic, enterprise-grade delivery schedules.\n\n**Key Responsibilities  \n1. Multi-Pod Leadership & Predictable Delivery**\n\n* Direct and mentor multiple cross-functional engineering PODs (AI/ML, Full-Stack/Backend, QA/SDET), establishing high ownership, code quality, and engineering hygiene.\n* Run disciplined Agile cadences (sprint planning, effort estimation, architectural reviews, retrospectives) to guarantee on-time delivery of quarterly roadmap commitments.\n* Identify and eliminate cross-pod dependencies, technical debt, and single points of failure through clear architectural documentation (RFCs/ADRs) and rigorous code reviews.\n\n**2. Agentic AI Architecture & Observability**\n\n* Guide the technical design and scaling of multi-agent conversational workflows (dynamic intent exploration, multi-turn memory/context management, tool calling, RAG pipelines, and autonomous task execution) built on LangChain, LangGraph, and MCP (Model Context Protocol) servers.\n* Oversee multi-model integration strategies across commercial (GPT, Claude, Gemini) and open-source LLMs, balancing response latency, accuracy, and inference cost.\n* Enforce production-grade AI observability, tracing, and evaluation pipelines using tools like Langfuse, ensuring every release is benchmarked against hallucination, behavioral drift, and regression metrics.\n\n**3. Full-Stack Platform, Telephony & AI Governance**\n\n* Oversee scalable, asynchronous backend services (Python, FastAPI) and modern web front-ends (React, Next.js), backed by relational, NoSQL, caching, and vector/search datastores (PostgreSQL, MySQL, MongoDB, Redis, OpenSearch/Elasticsearch, Vector DBs).\n* Architect real-time, event-driven audio and conversational pipelines integrating telephony and messaging protocols (SIP, WebRTC, RTP, Asterisk, Twilio, WebSockets, WhatsApp Business APIs).\n* Establish strict AI governance and application security protocols-covering prompt injection defenses, MCP tool permissions, data privacy, and auditability across enterprise customer environments.\n\n**4. Quality Engineering & Organizational Growth**\n\n* Partner with QA leadership to automate end-to-end regression, synthetic call-load testing, and deterministic verification over non-deterministic AI outputs.\n* Champion a high-trust, asynchronous, remote-first engineering culture across distributed teams in India, driving hiring, career progression, and performance management.\n\n**What We Are Looking For  \nLeadership & Execution**\n\n* 11-16 years of software engineering experience, including 3-5+ years leading multiple engineering teams or cross-functional pods across the full SDLC.\n* Proven ability to step into complex, fast-moving codebases, establish architectural visibility, and drive predictable delivery timelines without sacrificing engineering quality.\n* Strong command of engineering metrics (DORA, sprint predictability, MTTR, escape defect rates) and practical sprint management for AI/R&D-heavy workloads.\n\n**Core Technical Stack & Applied AI**\n\n* Agentic AI & LLM Orchestration: Deep, practical understanding of multi-agent systems, tool-calling, context/memory management, RAG, and evaluation pipelines using LangChain, LangGraph, Langfuse, and MCP servers.\n* Backend & Frontend Architecture: Strong foundation in Python (FastAPI, async programming), microservices, event-driven architectures, and working familiarity with React and Next.js.\n* Data & Search Infrastructure: Hands-on architectural familiarity with PostgreSQL, MySQL, MongoDB, Redis/ElastiCache, Elasticsearch/OpenSearch, and Vector Databases.\n* Cloud & DevOps: Solid experience deploying and monitoring containerized workloads on AWS (and/or Azure) using Docker, Kubernetes, and CI/CD pipelines.\n* AI Security & Governance: Practical awareness of model oversight, auditability, RBAC, MCP server permissions, and prompt injection mitigation.\n\n**Domain Advantage (Strongly Preferred)**\n\n* Direct exposure to voice AI, conversational bots, IVR systems, and telecom/VoIP infrastructure (SIP, WebRTC, RTP, Asterisk, Twilio, real-time audio streaming, or CCaaS platforms).\n* Experience building automated testing, QA assurance, or synthetic simulation platforms.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Open, Agile",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "SDLC",
+    "Telecom",
+    "Artificial Intelligence",
+    "Workflow",
+    "MySQL",
+    "Python"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Engineering Manager (Agentic AI) - Taniya Malviya",
+    "body": "Dear Hiring Team at Rekruton Technologies,\n\nI am writing to apply for the Senior Engineering Manager (Agentic AI) role. I am a Senior Software Engineer, 7+ years, and my background in Open, Agile matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4f7221139e48": {
    "id": "4f7221139e48",
@@ -4932,15 +5266,38 @@
    "emails": [],
    "description": "We are looking for experienced **Software Security Engineers** to lead a team supporting an AI training and evaluation project focused on software security, vulnerability analysis, and secure code remediation.\n\nYou will combine software engineering and cybersecurity expertise to develop and review realistic security-focused tasks for AI coding models.\n\n**What Youll Do**\n\n* Lead and coordinate a team of security-focused trainers.\n* Plan task delivery, assign work, and monitor quality and throughput.\n* Transform real-world security vulnerabilities, advisories, and bug reports into structured evaluation tasks.\n* Reproduce vulnerabilities and develop proof-of-vulnerability tests.\n* Review completed tasks for security, reproducibility, quality, and evaluation standards.\n* Calibrate trainers on vulnerability classification, task difficulty, verifier robustness, and acceptance criteria.\n* Track project risks, quality metrics, delivery progress, and resource requirements.\n* Collaborate with clients to clarify requirements and project scope.\n* Mentor team members and provide technical guidance.\n\n**What Were Looking For**\n\n* **6+ years of professional software engineering experience.**\n* Expert-level proficiency in at least one programming language such as **Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, or Swift**.\n* Strong understanding of **CWE, CVE, and OWASP Top 10**.\n* Experience reproducing software vulnerabilities and creating security tests.\n* Hands-on experience with security tools such as **CodeQL, Semgrep, sanitizers, or fuzzers**.\n* Strong proficiency with **Git, Linux, Bash, and Docker**.\n* Excellent technical writing and documentation skills.\n* Strong judgment when reviewing security findings and evaluating technical solutions.\n* Experience mentoring or leading technical teams.\n* Ability to work independently in a remote environment.\n\n**Project Details**\n\n* **Role:** Senior Software Security Engineer - Pod Lead\n* **Type:** Contractor\n* **Location:** Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Pakistan, Indonesia, Kenya, Nigeria, Turkey & Vietnam\n* **Duration:** 3 months\n* **Commitment:** 40 hours/week\n* **Schedule:** 4 hours overlap with PST\n* **Start:** Immediate\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Software, Software Security, Senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "C++",
+    "Ruby",
+    "Python",
+    "Technical writing",
+    "PHP"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Software Security Engineer - Pod Lead - Taniya Malviya",
+    "body": "Dear Hiring Team at Edatabae,\n\nI am writing to apply for the Senior Software Security Engineer - Pod Lead role. I am a Senior Software Engineer, 7+ years, and my background in Software, Software Security, Senior matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "97da0a8e8973": {
    "id": "97da0a8e8973",
@@ -4956,15 +5313,39 @@
    "emails": [],
    "description": "Deep understanding of machine learning algorithms, such as linear regression, decision trees, support vector machines, random forests, deep learning models (e.g., neural networks), and reinforcement learning.   \n   \n Proficient in model selection, hyperparameter tuning, and evaluating model performance using appropriate metrics.\n\nAdditionally, knowledge of libraries and frameworks like TensorFlow, PyTorch, sci-kit, and Keras is a plus.\n\nA strong foundation in mathematics and statistics. In-depth knowledge of linear algebra, calculus, probability theory, and statistical concepts.   \n   \n Understanding and developing complex machine learning models and algorithms.\n\nProficiency in programming languages such as Python,FAST API, Gen AI (eg framework like Langraph or Langchain), any Vector db (like for eg. Mongodb or IT has a solution called eRAG- Based on Azure)\n\nWorking Knowledge of AI Ops(Langfuse, Jenkins, Docker, Groovy, FitNesse, NFRs)\n\nExperience developing production-level code and familiarity with software engineering best practices, version control systems (e.g., Git), and software development methodologies are also required.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Software development, GIT",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Machine",
+    "Programming",
+    "Neural networks",
+    "Linear Regression",
+    "Machine learning",
+    "Ml"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for ML Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Alois Solutions,\n\nI am writing to apply for the ML Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Software development, GIT matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "f8484ba86347": {
    "id": "f8484ba86347",
@@ -4980,15 +5361,39 @@
    "emails": [],
    "description": "Role Summary\n\nWe are looking for a Senior Front End Engineer to help improve and develop the user experience for an internal network and security orchestration platform.\n\nThe platform automates technical workflows across technologies such as Zscaler and Palo Alto, using Python, Terraform, GitHub Actions and APIs.\n\nA working Streamlit application is already in place. The role will focus on improving and maturing the existing application into a clear, intuitive and production ready user experience, while helping establish reusable front end patterns as the platform grows.\n\nKey Responsibilities\n\n- Design and build simple user interfaces for network and security orchestration workflows.\n\n- Translate complex technical processes into simple and clear user journeys.\n\n- Improve existing forms, validation, approvals, status views, dashboards and operational workflows.\n\n- Integrate the front end with APIs, backend services and automation workflows.\n\n- Work closely with network, automation and software engineers to understand requirements and technical constraints.\n\n- Improve consistency and reusable UI components across the existing application.\n\n- Support testing, troubleshooting and continuous improvement of the application.\n\n- Identify areas where the current front end architecture may need to evolve in the future.\n\nRequired Skills and Experience\n\n- Strong experience in front end development and delivering production quality applications.\n\n- Good understanding of UX principles, particularly for workflow driven and operational applications.\n\n- Experience working with Python based applications and the ability to work effectively in an existing codebase.\n\n- Experience with modern front end technologies and frameworks.\n\n- Experience integrating front ends with REST APIs and backend services.\n\n- Ability to simplify and clearly present complex technical processes and system states.\n\n- Practical experience with Git, pull requests and code review.\n\n- Strong communication and collaboration skills.\n\n- A delivery focused approach and the ability to make meaningful improvements within a short engagement.\n\nNice to Have\n\n- Experience with Streamlit.\n\n- Experience with React and TypeScript.\n\n- Experience with dashboards, monitoring interfaces or operational tooling.\n\n- Understanding of Terraform, GitHub Actions or CI CD.\n\n- Familiarity with network, infrastructure, security or IAM.\n\n- Experience with AWS or other cloud environments.\n\n- Experience integrating with enterprise authentication and single sign on.\n\n- Familiarity with accessibility and responsive design.\n\nWhat Success Looks Like\n\nAt the end of the 3 month engagement the application should be easier to use, more consistent and better suited to supporting additional orchestration workflows.\n\nThe role should leave behind improved user journeys, reusable UI patterns with a more maintainable front end and a clear view of any future front end changes needed as the platform continues to grow.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: GIT",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Operations",
+    "Troubleshooting",
+    "Workflow",
+    "Orchestration",
+    "Python",
+    "Infrastructure Security"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for UX Front end developer - Taniya Malviya",
+    "body": "Dear Hiring Team at TESTQ Technologies,\n\nI am writing to apply for the UX Front end developer role. I am a Senior Software Engineer, 7+ years, and my background in GIT matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b76581844b15": {
    "id": "b76581844b15",
@@ -5004,15 +5409,39 @@
    "emails": [],
    "description": ";\n\n* Follow CI/CD practices, version control, and Agile development methodologies.   \n    Required Skills   \n  + Strong hands-on experience in  **Core Java, Spring Boot, Spring Framework, and Microservices  .**\n  + **Experience developing and integrating REST APIs.**\n  + **Strong knowledge of SQL and relational databases.**\n  + **Experience with application debugging, production troubleshooting, and performance tuning.**\n  + **Hands-on experience with application deployment, release management, and production support.**\n  + **Familiarity with Git, CI/CD pipelines, and build tools such as Maven or Gradle.**\n  + **Knowledge of AWS or other cloud platforms is preferred.**\n  + **Good understanding of Agile/Scrum methodologies and software development best practices.**\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: SQL, GIT",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "SR",
+    "Core",
+    "Troubleshooting",
+    "Maven",
+    "Release",
+    "Performance tuning"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Sr Java Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at E Tech Software,\n\nI am writing to apply for the Sr Java Developer role. I am a Senior Software Engineer, 7+ years, and my background in SQL, GIT matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "a48ebbf7f311": {
    "id": "a48ebbf7f311",
@@ -5028,15 +5457,39 @@
    "emails": [],
    "description": "Shift: 1pm to 10pm\n\nJob Description\n\n- Extensive experience in ServiceNow HR Service Delivery (HRSD) implementation, configuration, and administration.\n\n- Strong knowledge of HR Service Delivery capabilities, including HR case management, HR services, and employee lifecycle management.\n\n- Experience configuring HR services, HR service catalog items, HR case templates, and HR workflows.\n\n- Hands-on experience with Employee Center, HR knowledge management, and employee self-service capabilities.\n\n- Experience implementing HR criteria, HR profiles, assignment rules, and case routing.\n\n- Knowledge of HR integrations with enterprise systems and third-party HR platforms.\n\n- Experience with Flow Designer, business rules, client scripts, and other ServiceNow development capabilities.\n\n- Understanding of HR data security, access controls, and role-based permissions.\n\n- Ability to gather business requirements, translate them into technical solutions, and collaborate with HR stakeholders.\n\n- Strong troubleshooting, documentation, and communication skills.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Routing",
+    "Management",
+    "Security",
+    "Service delivery",
+    "Data",
+    "Hrsd"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for HRSD Senior Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Alois Solutions,\n\nI am writing to apply for the HRSD Senior Developer role. I am a Senior Software Engineer, 7+ years, and my background in Senior matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b4ddbd27263c": {
    "id": "b4ddbd27263c",
@@ -5052,15 +5505,39 @@
    "emails": [],
    "description": "Shift: 10am to 7pm\n\nJob Description\n\n- Extensive experience in ServiceNow Software Asset Management (SAM), including implementation, configuration, and optimization.\n\n- Strong knowledge of software asset lifecycle management, software license compliance, and software entitlement management.\n\n- Experience with ServiceNow Software Asset Management Professional (SAM Pro).\n\n- Hands-on experience with software discovery, software models, normalization, reconciliation, and license calculations.\n\n- Knowledge of software license metrics, compliance positions, and software usage optimization.\n\n- Experience managing software entitlements, contracts, purchase records, and software allocations.\n\n- Understanding of software publisher licensing models and compliance requirements for major vendors.\n\n- Experience integrating ServiceNow SAM with CMDB, Discovery, procurement systems, and third-party software inventory tools.\n\n- Ability to identify software compliance risks, reduce unnecessary licensing costs, and improve software asset governance.\n\n- Experience gathering requirements, preparing solution designs, and working with technical and business stakeholders.\n\n- Strong troubleshooting, analytical, documentation, and communication skills.\n\nPreferred Experience\n\nExperience with enterprise SAM implementations and software licensing for major publishers such as Microsoft, Oracle, IBM, and Adobe.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Senior, Software Asset Management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Asset management",
+    "Analytics",
+    "Procurement",
+    "Management",
+    "Oracle",
+    "Asset"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior SAM Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Alois Solutions,\n\nI am writing to apply for the Senior SAM Developer role. I am a Senior Software Engineer, 7+ years, and my background in Senior, Software Asset Management matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "6b7dde20bbd0": {
    "id": "6b7dde20bbd0",
@@ -5076,15 +5553,39 @@
    "emails": [],
    "description": "Shift: 10am to 7pm\n\nJob Description\n\n- Strong hands-on experience with ServiceNow IT Operations Management (ITOM).\n\n- Experience configuring and implementing ServiceNow Discovery, including horizontal discovery and service discovery.\n\n- Knowledge of Discovery schedules, MID Servers, probes, sensors, patterns, and troubleshooting discovery failures.\n\n- Experience with Service Mapping, including application dependency mapping and business service mapping.\n\n- Understanding of CMDB, Configuration Items (CIs), and CI relationships.\n\n- Experience integrating ITOM capabilities with other ServiceNow modules and external monitoring tools.\n\n- Knowledge of Event Management, alert correlation, and event-to-incident workflows.\n\n- Ability to troubleshoot technical issues, improve discovery accuracy, and maintain reliable CMDB data.\n\n- Strong problem-solving and stakeholder collaboration skills.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Operations",
+    "Event management",
+    "IT operations",
+    "Operations management",
+    "Management",
+    "Sensor"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for ITOM Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Alois Solutions,\n\nI am writing to apply for the ITOM Developer role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "5613a3a23945": {
    "id": "5613a3a23945",
@@ -5100,15 +5601,39 @@
    "emails": [],
    "description": "**Role Overview**   \n\nWe are looking for a skilled Golang Software Engineer to join the Google CSRM Automation/SRE team. The engineer will be responsible for developing scalable automation solutions, backend services, and integrations to improve security network operations, infrastructure reliability, and operational efficiency across global sites.\n\n  \n Key Responsibilities\n\n* Design, develop, and maintain backend services and automation tools using Golang.\n* Build RESTful APIs and integrate with infrastructure management platforms.\n* Automate network and server provisioning, configuration, monitoring, and troubleshooting.\n* Develop integrations with Cisco NSO, NetBox, ServiceNow, and other infrastructure platforms.\n* Build automated health checks, diagnostics, and remediation workflows.\n* Support CI/CD pipelines, containerized applications, and cloud-native deployments.\n* Collaborate with Installation, Sustainment, and SRE teams to identify automation opportunities.\n* Improve system reliability, observability, and operational performance.\n\n  \n Required Technical Skills\n\n* Strong hands-on experience with **Golang (Go)**, concurrency, goroutines, and REST APIs.\n* Experience with Python or Bash scripting.\n* Good understanding of Linux, networking fundamentals (TCP/IP, DNS, HTTP/HTTPS), and distributed systems.\n* Experience with Docker, Kubernetes, Git, and CI/CD pipelines.\n* Familiarity with Google Cloud Platform (GCP), particularly GKE.\n* Experience with monitoring tools such as Prometheus and Grafana.\n* Strong debugging, troubleshooting, and problem-solving skills.\n\n  \n   \n Preferred Qualifications\n\n* Experience with Cisco NSO, NetBox, or network automation platforms.\n* Knowledge of NETCONF, RESTCONF, gRPC, or gNMI.\n* Experience developing infrastructure automation and self-healing workflows.\n* Familiarity with enterprise network and physical security infrastructure.\n* Experience working in a global SRE or infrastructure operations environment.\n\n  \n Expected Outcomes\n\n* Reduce manual operational effort through automation.\n* Improve infrastructure monitoring and incident resolution.\n* Deliver reusable, scalable automation workflows.\n* Accelerate network installation, provisioning, and operational handovers.\n* Improve service reliability across the global CSRM environment.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Operations",
+    "Cisco",
+    "Troubleshooting",
+    "DNS",
+    "Golang",
+    "Infrastructure management"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Golang Software Engineer II - Taniya Malviya",
+    "body": "Dear Hiring Team at Astreya,\n\nI am writing to apply for the Golang Software Engineer II role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "84451adc7ebb": {
    "id": "84451adc7ebb",
@@ -5124,15 +5649,39 @@
    "emails": [],
    "description": "Hi, were TechnologyAdvice.\n\nHeadquartered in Nashville, Tennessee, TechnologyAdvice helps millions of B2B technology buyers make smarter decisions by providing trusted research, practical guidance, and connections to the worlds leading technology brands. Our work spans 30+ media brands and 50+ newsletters, supported by a global team across the United States, United Kingdom, Singapore, Australia, and the Philippines.\n\nWere a remote-first company that values curiosity, collaboration, and growth. We invest in our people, embrace AI and new technologies to improve how we work, and create opportunities for team members to build meaningful careers. Many of our leaders have grown from within, including our CEO, who started here as an intern.\n\nWe believe great work happens when people feel connected. Through company all-hands, team events, Slack communities, learning sessions, and in-person gatherings, we create intentional opportunities for our global team to collaborate, build relationships, and celebrate successes together.\n\n**All positions are open to remote work unless otherwise specified in the requirements below.**\n\n**The opportunity**\n\nWere seeking a **Senior DevOps Engineer** who views infrastructure as a product and operational excellence as an engineering discipline. Youll take end-to-end ownership of the cloud platforms, deployment systems, observability, automation, and infrastructure that enable TechnologyAdvice engineers to deliver reliable software quickly and safely.\n\nAs an individual contributor on our distributed team, youll independently identify opportunities to improve reliability, scalability, security, cost efficiency, developer experience, and operational effectiveness. Youll own initiatives from problem discovery and architecture through implementation, rollout, measurement, documentation, and ongoing improvement. Youll make sound technical decisions with minimal direction, even when problems are ambiguous or established solutions dont exist.\n\nThis is not a role focused solely on responding to tickets or keeping existing infrastructure running. We expect our Senior DevOps Engineers to understand where operational friction exists, identify recurring problems that should be engineered away, challenge unnecessary complexity, and proactively improve how TechnologyAdvice builds and operates software.\n\nAI-assisted engineering is an expected part of how we work. Youll use modern AI tools to accelerate infrastructure development, troubleshooting, automation, documentation, incident investigation, and operational analysis while applying the systems judgment necessary to evaluate technical correctness, security, and operational risks before they affect production.\n\nSuccess in this role isnt measured by the number of infrastructure tickets completed or alerts resolved. Its measured by improvements in system reliability, engineering velocity, operational efficiency, security, cost effectiveness, and your ability to independently identify and deliver high-value platform improvements.\n\n**Employment Level:** Pro 4 - Senior\n\n**Employment Type:** Contract\n\n**Location:** India (Remote)\n\n**Working hours:** 1:30 PM to 10:30 PM IST\n\n**What youll do**\n\n* Own and continuously improve the cloud infrastructure and platform capabilities that support TechnologyAdvices applications, data systems, and engineering teams.\n* Independently identify opportunities to improve system reliability, scalability, security, performance, cost efficiency, developer experience, and operational effectiveness.\n* Design, build, and maintain secure, scalable cloud infrastructure using modern infrastructure-as-code and cloud-native engineering practices.\n* Engineer away repetitive operational work by building automation, self-service capabilities, reusable infrastructure patterns, and platform tooling.\n* Improve Kubernetes and container-based infrastructure to make application deployment, scaling, recovery, and operations increasingly standardized and reliable.\n* Own and evolve CI/CD and GitOps workflows that allow engineers to ship changes quickly, consistently, and safely.\n* Partner directly with Software Engineers, Product Engineers, Analytics Engineers, and other Technology teams to understand operational friction and build platform solutions that increase engineering leverage.\n* Improve observability across applications and infrastructure through effective monitoring, logging, tracing, alerting, dashboards, and actionable service health indicators.\n* Lead technical investigations during complex production incidents, diagnose root causes across interconnected systems, restore services safely, and implement preventive improvements.\n* Continuously identify opportunities to improve resilience, disaster recovery, backup strategies, security controls, access management, and infrastructure risk.\n* Evaluate cloud infrastructure and architecture for cost efficiency and proactively identify opportunities to reduce unnecessary spend without compromising reliability or engineering effectiveness.\n* Apply AI-assisted engineering practices to accelerate infrastructure development, troubleshooting, root-cause analysis, automation, documentation, and operational workflows while maintaining rigorous standards for production safety.\n* Contribute to architectural decisions and long-term platform strategy, balancing immediate business needs with reliability, security, scalability, simplicity, and maintainability.\n* Define, document, and champion engineering standards, operational practices, reusable patterns, and platform capabilities that improve how TechnologyAdvice Engineering operates.\n* Mentor other engineers and help raise the organizations standards for infrastructure ownership, automation, reliability, and operational excellence.\n\n**Who you are** **Ownership & Engineering Impact**\n\n* Demonstrated ability to independently identify infrastructure and operational problems, determine their root causes, design solutions, and drive improvements through implementation and measurable results.\n* Proven track record of owning business-critical production infrastructure and complex platform initiatives with minimal oversight, including responsibility for major technical decisions and production outcomes.\n* Strong bias toward eliminating recurring operational work through automation, platform improvements, and systemic fixes rather than repeated manual intervention.\n* Strong judgment in balancing reliability, security, engineering velocity, cost, complexity, and business needs when making infrastructure decisions.\n* Demonstrated ability to improve the effectiveness of other engineers through better platforms, tooling, automation, documentation, and self-service capabilities.\n* Ability to operate effectively during production incidents while maintaining clear communication, disciplined investigation, and ownership through resolution and follow-up.\n\n**AI-Native DevOps Engineering**\n\n* Demonstrated ability to effectively leverage AI-assisted engineering tools to improve infrastructure development, troubleshooting, automation, documentation, incident analysis, and engineering productivity.\n* Strong systems and architectural judgment to critically evaluate AI-generated infrastructure, scripts, configurations, troubleshooting recommendations, and operational changes before applying them to production environments.\n* Curiosity about emerging AI capabilities and how they can improve infrastructure operations, observability, incident response, developer experience, and engineering leverage.\n\n**DevOps & Platform Engineering Excellence**\n\n* Deep experience designing, operating, troubleshooting, and improving highly available production systems in cloud environments.\n* Strong experience with Kubernetes, containerization, and modern cloud-native infrastructure, including troubleshooting production issues involving workloads, nodes, networking, and resource constraints.\n* Strong experience designing and managing ",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Automation",
+    "Troubleshooting",
+    "DNS",
+    "Networking",
+    "MySQL",
+    "Python"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior DevOps Engineer (Contract) - Taniya Malviya",
+    "body": "Dear Hiring Team at Itsm Technologies,\n\nI am writing to apply for the Senior DevOps Engineer (Contract) role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "59e866c68fb9": {
    "id": "59e866c68fb9",
@@ -5148,15 +5697,39 @@
    "emails": [],
    "description": "Accomplished Tech Visionary:\n\nElevate your expertise to new heights at 3Pillar, the premier destination for trailblazing senior software engineers like yourself. Picture collaborating with industry leaders, spearheading transformative projects that redefine urban living, establishing new media channels for enterprise companies, or driving innovation in healthcare. Our mission is to revolutionize the tech landscape, and your skills are integral to achieving this ambitious goal.\n\nYour role extends beyond the realm of code composition; you will architect transformative solutions that reshape entire industries. Join us and spearhead the charge toward a tech future that transcends the ordinary.\n\nKey Responsibilities:\n\n* Facilitate effective communication with client project stakeholders regarding project status and recommendations.\n* Craft client code that is not just efficient, but also performant, testable, scalable, secure, and of the highest quality.\n* Actively participate in accurate planning and estimation efforts, utilizing project methods and tools.\n* Proficiently gather requirements and organize/present developed features for clients.\n* Execute complex activities within the current methodology and quality standards, showcasing success across diverse engagements.\n* Promote client success across the team by collaborating with engineers, designers, and managers to understand user pain points, anticipate potential problems, and iterate on solutions that drive client success.\n* Engage in agile software development, including daily stand-ups, sprint planning, team retrospectives, and other governance activities.\n* Actively participate in the Engineering Practice community, mentoring others through Communities of Practice (CoPs) or on project teams, and supporting the growth of technical capabilities.\n* Independently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment.\n\nMinimum Qualifications:\n\n* Experience/expertise in the following areas specified below:\n\n  + Design and implement scalable backend services and APIs using Node.js\n  + Utilize serverless services, namely AWS services such as Lambda, API Gateway, DynamoDB, or RDS for robust backend infrastructure\n  + Collaborate with cross-functional teams to define and execute on technical requirements\n  + Optimize system performance and troubleshoot complex issues\n  + Mentor and guide junior team members, fostering a culture of learning and growth\n  + Stay updated with the latest Node.js and AWS technologies to drive continuous improvement\n* Experience in Agile software development methodologies.\n* Expertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\n* High-level design proficiency following UML / C4 / ArchiMate.\n* Experience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\n* Practice and initiative mentoring other engineers and decision-makers throughout the organization.\n* Good understanding of SOLID principles.\n* Familiarity with OWASP.\n* Proficiency in the English language.\n\nAdditional Experience Desired:\n\n* Ability to optimize backend performance and troubleshoot complex issues.\n* Familiarity with modern frontend build tools and CI/CD pipelines.\n* Excellent problem-solving skills and a proactive attitude towards challenges.\n* Strong verbal and written communication skills.\n* Professional software engineering experience, working on multi-discipline teams\n* Experience in backend development with expertise in node.js\n* Proficiency in designing and implementing RESTful APIs and microservices architecture.\n* Strong knowledge of AWS services like Lambda, API Gateway, DynamoDB/RDS, and S3.\n* Experience with containerization using Docker and orchestration with Kubernetes (optional).\n* Excellent problem-solving skills and a proactive attitude towards challenges.\n\nand   Object-Relational Mappers (ORMs)\n\n* Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Observer etc) Patterns\n* Unit Testing\n\n**What is it like working for 3Pillar Global**\n\nAt 3Pillar, we offer a world of opportunity:\n\n* Imagine a flexible work environment whether it's the office, your home, or a blend of both. From interviews to onboarding, we embody a remote-first approach.\n* You will be part of a global team, learning from top talent around the world and across cultures, speaking English everyday. Our global workforce enables our team to leverage global resources to accomplish our work in efficient and effective teams.\n\n* Were big on your well-being as a company, we spend a whole trimester in our annual cycle focused on wellbeing. Whether it is taking advantage of fitness offerings, mental health plans (country-dependent), or simply leveraging generous time off, we want all of our team members operating at their best.\n* Our professional services model enables us to accelerate career growth and development opportunities - across projects, offerings, and industries.\n* We are an equal opportunity employer. It goes without saying that we live by values like Intrinsic Dignity and Open Collaboration to create cutting-edge technology AND reinforce our commitment to diversity - globally and locally.\n\n  \n  \nDisclaimer: This job posting and Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-19T12:01:13+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-19T12:01:13+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: AWS IAM, AWS",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Gateways",
+    "Continuous Integration",
+    "Architecture",
+    "Development",
+    "Infrastructure",
+    "Continuous Integration"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Fullstack Technical Lead (React.js, Node.js) - Taniya Malviya",
+    "body": "Dear Hiring Team at 3Pillar,\n\nI am writing to apply for the Fullstack Technical Lead (React.js, Node.js) role. I am a Senior Software Engineer, 7+ years, and my background in AWS IAM, AWS matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9f557439330d": {
    "id": "9f557439330d",
