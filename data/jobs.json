@@ -6599,6 +6599,800 @@
      "note": "found on indeed"
     }
    ]
+  },
+  "8d1442864ea6": {
+   "id": "8d1442864ea6",
+   "site": "indeed",
+   "title": "Software Developer Golang",
+   "company": "0101digitall solutions pvt ltd",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=734c66178a4d4ac7",
+   "apply_url": "https://in.indeed.com/viewjob?jk=734c66178a4d4ac7",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Software Developer I/II**\n\n**About the opportunity**\n\n* We're looking for an expert **Software Developer III** to join the PVC Product Software Engineering team and help design and evolve the core of RackAI. You'll pair deep **Go** and **Kubernetes** expertise with genuine architectural leadership — and you'll help set the standard for how a modern engineering team builds software in the age of AI. It's a hands-on senior role: strategic enough to shape direction, close enough to the code to lead by example.\n\n* Put simply: **we build AI, and we build with AI.** If you want to work at the intersection of cloud-native platform engineering and applied AI — and help define an AI-first engineering culture — this is the seat.\n\n**What you'll do**\n\n* Design and develop highly scalable backend services in **Go (Golang)**.\n\n* Build Kubernetes-native applications — operators, controllers, and platform services — using controller-runtime and kubebuilder.\n\n* Define and evolve the RackAI platform architecture for growth, reliability, security, and operational excellence.\n\n* Develop the APIs, automation frameworks, and platform capabilities that power AI-enabled products.\n\n* Champion cloud-native best practices: observability, resiliency, and operational readiness.\n\n**Lead an AI-first engineering culture**\n\n* Make AI-assisted engineering the default way of working — champion an **AI-driven, AI-first** approach across the team.\n\n* Embed AI development tooling — **Claude Code**, **Kiro**, **Codex**, or **GitHub Copilot** — across the lifecycle, from design and coding through testing, review, and documentation.\n\n* Set the standards and guardrails for responsible, effective use of AI coding assistants — code quality, security, licensing, and human-in-the-loop review.\n\n* Turn AI augmentation into measurable gains in velocity and quality through prompt engineering and agentic workflows.\n\n* Coach engineers to get real leverage from AI tooling, and continually assess what to adopt next.\n\n**Engineer the platform and infrastructure**\n\n* Design and optimise Kubernetes deployments across multiple environments.\n\n* Automate provisioning, deployment, scaling, and lifecycle management.\n\n* Partner with Platform Engineering to raise developer productivity and platform reliability.\n\n* Ensure solutions meet security, compliance, and operational requirements.\n\n**Lead and mentor**\n\n* Provide technical leadership across multiple engineering teams.\n\n* Lead architectural reviews and design discussions, and set coding standards and patterns.\n\n* Mentor Software Developers I–III and grow engineering capability across the group.\n\n* Evaluate emerging technologies and recommend strategic investments.\n\n**What you'll bring**\n\n* **Core software engineering**\n\n* Expert-level **Go (Golang)** development.\n\n* Deep **Kubernetes** expertise — architecture, operations, and application development.\n\n* Proven experience with distributed systems and microservices architectures.\n\n* Strong command of RESTful APIs, event-driven systems, and service-oriented architecture.\n\n* Hands-on with container technologies such as Docker and OCI-compliant runtimes.\n\n* Solid grounding in software design patterns, CI/CD, DevOps, Git-based workflows, and secure coding practices.\n\n**Experience**\n\n* 2 to 3 years in software development, including 1 or 2-years writing production Go.\n\n* Demonstrable experience building Kubernetes operators or controllers with controller-runtime or kubebuilder.\n\n* A track record of delivering production-grade cloud-native applications.\n\n* Experience leading complex technical projects end to end, and mentoring engineers to a higher standard.\n\n**AI-assisted development**\n\n* Hands-on experience with AI coding assistants such as **Claude Code**, **Kiro**, **Codex**, and **GitHub Copilot**, integrated effectively into day-to-day engineering.\n\n* A genuine commitment to working within — and helping to shape — an AI-first development culture.\n\n**AI and machine learning**\n\n* Practical understanding of modern Generative AI and Large Language Models (LLMs).\n\n* Familiarity with open-source foundation models such as Llama, Mistral, Gemma, Qwen, or DeepSeek.\n\n* Understanding of AI inference concepts, including model serving, latency, throughput, batching, performance improvements, optimizations, benchmarking of model inference?.\n\n* Knowledge of model fine-tuning techniques, including supervised fine-tuning (SFT), LoRA, and parameter-efficient fine-tuning (PEFT).\n\n* Understanding of Retrieval-Augmented Generation (RAG), vector databases, embeddings, and semantic search.\n\n* Experience integrating AI models into production applications using APIs or self-hosted inference platforms.\n\n**AI platform and infrastructure**\n\n* Experience with containerised AI workloads on Docker and Kubernetes.\n\n* Familiarity with AI serving frameworks such as vLLM, Triton Inference Server, TensorRT-LLM, or similar technologies.\n\n* Understanding of GPU-accelerated computing and how AI workloads are deployed on modern GPU infrastructure.\n\n* Experience deploying scalable AI applications in cloud or private cloud environments.\n\n**Nice to have**\n\n* Experience building AI/ML platforms or AI-enabled enterprise products.\n\n* Advanced work with CRDs and operator patterns.\n\n* Cloud platforms — AWS preferred; Azure or Google Cloud also welcome.\n\n* Service mesh technologies and platform-engineering concepts.\n\n* Observability stacks such as OpenTelemetry, Prometheus, Grafana, or similar.\n\n* Contributions to open-source projects.\n\n**How we'll measure success**\n\n* Deliver scalable, reliable platform capabilities that accelerate RackAI innovation.\n\n* Lift developer productivity through automation, platform improvements, and AI-augmented workflows.\n\n* Influence architectural direction across the RackAI ecosystem.\n\n* Drive measurable gains in platform performance, scalability, and reliability.\n\n* Raise the engineering bar of the teams around you through mentorship and leadership.\n\n* Keep a steady flow of innovation going, balanced with operational excellence.\n\nPay: ₹800,000.00 - ₹1,000,000.00 per year\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "87dcec047c77": {
+   "id": "87dcec047c77",
+   "site": "indeed",
+   "title": "Senior Staff Engineer (Infor M3 Technical Developer)",
+   "company": "Nagarro",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=57e98f821dc77a21",
+   "apply_url": "https://jobs.smartrecruiters.com/Nagarro1/744000162663558-senior-staff-engineer-infor-m3-technical-developer-",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Company Description**\n\n**We're Nagarro.**\n\nWe are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at a scale — across all devices and digital mediums, and our people exist everywhere in the world (18500+ experts across 39 countries, to be exact). Our work culture is dynamic and non-hierarchical. We are looking for great new colleagues. That is where you come in!\n\n **Job Description**\n\n**Requirements**\n\n* Experience : 7.5+ years\n* Strong hands-on experience in Infor M3 technical development, customization and enhancement.\n* In-depth understanding of Infor M3 architecture, technical components and M3 Business Engine (BE) programs.\n* Experience with Infor M3 development tools, including M3 Adaptation Kit (MAK), M3 SDK and related development frameworks.\n* Strong knowledge of M3 APIs, MI programs (M3 Business Engine MI) and API transactions.\n* Experience in developing custom programs, extensions, interfaces and business logic within Infor M3.\n* Hands-on experience in customizing M3 screens, programs, workflows and business processes based on functional requirements.\n* Strong understanding of Infor M3 database structures, tables, data models and SQL queries.\n* Experience with Infor Enterprise Collaborator (IEC), Infor ION and other integration frameworks.\n* Experience in developing and maintaining M3 APIs, integration components and custom extensions.\n* Strong knowledge of integration technologies, including REST/SOAP web services, APIs and messaging frameworks.\n* Experience in designing and developing integrations between Infor M3 and external or third-party applications.\n* Working knowledge of JSON, XML and other integration data formats.\n* Experience in integration testing, troubleshooting, performance optimization and data interface management.\n* Strong technical analysis and problem-solving skills to address complex business requirements.\n* Experience in technical support, root-cause analysis, defect resolution and production maintenance.\n* Knowledge of Software Development Life Cycle (SDLC), SIT, UAT, regression testing, deployment and production release processes.\n* Ability to prepare technical documentation, deployment instructions and development specifications.\n\n**Responsibilities**\n\n* Develop, customize and maintain technical enhancements and extensions within the Infor M3 application.\n* Utilize Infor M3 development tools, including M3 Adaptation Kit (MAK), M3 SDK and related development frameworks.\n* Develop custom programs, extensions, interfaces and business logic to meet business and functional requirements.\n* Customize M3 screens, programs, workflows and business processes to support evolving business needs.\n* Design, develop and maintain M3 APIs, MI programs, API transactions and extension components.\n* Perform technical analysis of complex business requirements and provide scalable and efficient technical solutions.\n* Work with M3 Business Engine (BE) programs, database structures, tables and SQL queries.\n* Develop and maintain integrations between Infor M3 and external applications using Infor ION, APIs, REST/SOAP web services and messaging frameworks.\n* Design and implement data interfaces for third-party systems and ensure seamless data exchange across applications.\n* Work with JSON, XML and other data formats to support integration and interface development.\n* Collaborate with functional consultants and business teams to understand requirements and deliver appropriate technical solutions.\n* Perform integration testing, troubleshoot interface failures and optimize integration performance.\n* Analyze and resolve technical issues, application defects and production incidents within Infor M3.\n* Conduct root-cause analysis (RCA) for recurring issues and implement permanent corrective solutions.\n* Support System Integration Testing (SIT), User Acceptance Testing (UAT), regression testing and deployment activities.\n* Optimize existing customizations, interfaces and integrations to improve system performance and stability.\n* Support production releases, technical deployments and post-deployment validation.\n* Prepare and maintain technical specifications, development documentation, deployment instructions and support documentation.\n* Ensure adherence to development standards, technical best practices and quality guidelines across Infor M3 custom development.\n\n  \n**Qualifications**\n\nBachelor’s or master’s degree in computer science, Information Technology, or a related field.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "82d4d0fa8286": {
+   "id": "82d4d0fa8286",
+   "site": "indeed",
+   "title": "Senior DevOps Engineer",
+   "company": "Cell Tech",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d12e5ccea28d79b5",
+   "apply_url": "https://celltech.bamboohr.com/careers/339?source=indeed&src=indeed&postedDate=2026-11-19",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Cell Tech Inc. is a US-based device repair business with multiple shop locations. Our shops are hands-on with hardware; our software and infrastructure teams are distributed across Pakistan, India, and Australia. Our internal IT (endpoints, identity, network edge) is handled by a separate team. This role is about everything our applications and tooling run on.\n\nHere is the state of that today: we have production workloads and internal tools spread across AWS Lightsail, Supabase, Render, Lovable, and some local hosting. Some of it is locked down well, some is not. There is no infrastructure-as-code, no configuration management, no centralized health monitoring, and we currently run two separate Bitbucket environments that should be one. Everything works, but it grew rather than being designed.\n\nIf reading that paragraph made you start forming opinions, keep reading.\n\n**About the role**\n\nYou will own our cloud infrastructure from day one. Not a piece of it — the environment. Your job is to look at what we have, propose where it should go, and then take it there: consolidate the sprawl onto a deliberate architecture, bring it under infrastructure-as-code, make security and patching systematic instead of per-project, stand up centralized monitoring and alerting, and get our costs matched to what we actually use.\n\nWe will not hand you a target architecture, because defining it is the job. Leadership here thinks in outcomes: everything centrally managed, secure and kept current, economical, and easy to live with for the teams that build and run things on it. You translate those outcomes into concrete choices — which workloads belong on which services, what the migration order is, what we monitor and where it alerts, what gets a WAF in front of it — and you explain those choices in plain language to smart people who are not infrastructure specialists. If your proposal only makes sense to another DevOps engineer, it doesn't make sense.\n\nYou will report to our CIO and CTO, who set direction and priorities and will back your decisions once they understand them. You will work alongside our Systems Administrator where infrastructure meets internal IT; where exactly those lines sit, we will work out together as they come up.\n\n**What you will do**\n\n**Consolidation and migration**\n\n* Inventory everything we run and where it runs, and build the case for where each thing should live.\n* Plan and execute migrations off scattered hosting onto the target architecture, without breaking the teams that depend on it. Staged, communicated, reversible.\n* Consolidate our two Bitbucket environments into one.\n* Retire what should be retired. Part of this job is deleting things safely.\n\n**Infrastructure as code and central management**\n\n* Bring the environment under infrastructure-as-code (Terraform or make the case for your tool of choice) so that what we run is written down, reviewable, and reproducible.\n* Establish configuration management where it earns its keep.\n* Organize our AWS accounts, IAM, and access so that who-can-touch-what is deliberate.\n\n**Security and currency**\n\n* Make patching and updates systematic across everything we run.\n* Lock down what isn't locked down: least-privilege access, no public things that shouldn't be public, secrets out of code.\n* Subscribe us to the security advisories that matter and be the person who acts on them.\n* Evaluate and propose protective layers (WAF, DNS filtering, and similar) as discussion items with a recommendation, not as surprises.\n* Choose and connect a centralized logging/SIEM destination so security events from across the environment land somewhere someone looks.\n\n**Monitoring and reliability**\n\n* Stand up centralized health monitoring and alerting for everything production. If it matters and it goes down, someone finds out from a page, not from a user.\n* Establish backups and recovery that are tested, not assumed.\n* Write the runbooks and handoff SOPs so that off-hours issues have a path even when you're asleep.\n\n**Developer and team tooling**\n\n* Build and maintain the execution side of CI/CD: build/task runners, pipeline infrastructure, integrating services like AI-assisted code review into the pipeline. (Branch strategy, PR and commit practices stay with the dev teams — you build the rails, they drive.)\n* Keep our Atlassian environment organized and sensibly administered.\n* Treat the internal teams as your customers. The measure of your work is that their lives get easier.\n\n**Cost**\n\n* Right-size what we run. Find what's oversized, duplicated, idle, or on the wrong pricing model, and fix it.\n* Make cost visible: leadership should be able to see what we spend and what it buys.\n\n**Documentation**\n\n* Document the architecture and the reasoning behind it, so the environment survives any one person — including you.\n\n  \n\n**What we need from you**\n\n**Must have**\n\n* 5 or more years in DevOps, platform, cloud, or infrastructure engineering, with real production ownership — environments where you made the architecture calls and lived with them.\n* Deep AWS experience in production: compute, managed databases, networking/VPC, and IAM at minimum.\n* Infrastructure-as-code in production. Terraform preferred; fluency in the discipline matters more than the brand.\n* You have planned and executed migrations of live workloads — moved production systems between platforms or providers without burning the business down.\n* Security as a habit, not a department: least privilege, patching discipline, secrets management, and the instinct to ask \"what's exposed?\" before \"does it work?\"\n* You have set up monitoring and alerting from scratch somewhere, not just inherited a dashboard.\n* CI/CD pipeline infrastructure experience (Bitbucket Pipelines, GitHub Actions, Jenkins, or similar).\n* Clear plain-language communication, spoken and written. You will regularly explain trade-offs to non-specialists, and we will test for this.\n* Comfortable with ambiguity: given an outcome and a messy starting point, you produce the plan rather than waiting for one.\n\n**Nice to have**\n\n* Experience migrating off PaaS platforms (Supabase, Render, Heroku-style hosting) onto AWS.\n* Cloudflare (WAF, DNS, or Zero Trust).\n* SIEM selection or administration.\n* Atlassian administration (Jira, Confluence, Bitbucket).\n* Configuration management (Ansible or similar).\n* A cost-optimization story with numbers attached.\n* Exposure to compliance frameworks (SOC 2 or similar).\n\n**How we think about skills**\n\nWe have named the tools we use today, and we have guesses about where things should go — but we are deliberately not prescribing the target stack, because evaluating those guesses is your job. We care that you know the disciplines (provisioning, configuration, observability, access control, cost) deeply enough that any given tool is just the current spelling of them. If you disagree with something we've assumed, we want to hear it — after you've asked why we assumed it.\n\n**Working arrangement**\n\n* Fully remote from India.\n* Standard local business hours. This is not a night-shift US-overlap role.\n* If something you own becomes 24/7-critical down the road, we will solve that together with handoff SOPs or an on-call arrangement — it is not the default.\n* No travel.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "0cf64455ee14": {
+   "id": "0cf64455ee14",
+   "site": "indeed",
+   "title": "Senior Generative AI & LLM Engineer — Freelance / Part-Time Technical Support",
+   "company": "ABH Consultants",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d8269b4599832efe",
+   "apply_url": "https://in.indeed.com/viewjob?jk=d8269b4599832efe",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Senior Generative AI & LLM Engineer — Freelance / Part-Time Technical Support**\n\n**Job Type:** Freelance / Part-Time / Contract\n\n**Engagement:** Approximately 10–15 hours per week**Duration:** Ongoing, based on project requirements**Work Mode:** Remote (Pan-India)\n\n**Experience Required:** 6–9 years\n\n**Opportunity:** Suitable for experienced Generative AI Engineers, LLM Engineers, AI Architects, and Machine Learning Engineers seeking additional freelance income or part-time consulting opportunities alongside their existing employment.\n\nWe are seeking experienced professionals with strong hands-on expertise in Python, PyTorch, LangChain, LlamaIndex, OpenAI/Anthropic APIs, Retrieval-Augmented Generation (RAG), Vector Databases, Agentic AI, LLM Fine-Tuning, and Production-Scale Generative AI Applications.\n\n**1. Core Generative AI & LLM Technologies**\n\n* Python – Advanced programming, asynchronous processing, reusable libraries, API development, and AI application engineering.\n* PyTorch – Deep learning model development, neural networks, model training, and GPU-based computation.\n* LangChain – LLM application development, chains, tools, memory management, and agent integrations.\n* LlamaIndex – Data ingestion, indexing, retrieval, and knowledge-based LLM application development.\n* OpenAI / Anthropic APIs – GPT models, Claude models, prompt engineering, function calling, and structured outputs.\n* Hugging Face Transformers – Pre-trained models, tokenizers, model deployment, and fine-tuning workflows.\n* FastAPI – Building scalable REST APIs, asynchronous AI services, and LLM-powered backend applications.\n* RAG Pipelines – Document processing, chunking, embeddings, retrieval, context management, and response generation.\n\n**2. LLM Architecture, Agentic AI & Fine-Tuning**\n\n* Agentic AI Workflows – Designing autonomous AI agents capable of reasoning, planning, tool usage, and task execution.\n* Multi-Agent Orchestration – Coordinating multiple specialized agents using LangGraph, CrewAI, and AutoGen.\n* Hybrid RAG Architecture – Combining dense vector search, sparse retrieval, keyword search, and reranking techniques.\n* Model Context Protocol (MCP) – Building MCP servers and clients, tool integrations, and standardized AI application connectivity.\n* LLM Fine-Tuning – Customizing foundation models for domain-specific applications.\n* LoRA / QLoRA – Parameter-efficient fine-tuning and memory-efficient model adaptation.\n* DPO / RLHF – Preference optimization and reinforcement learning from human feedback.\n* Distributed GPU Inference – Multi-GPU deployments, parallel inference, batching, and high-throughput model serving.\n* Prompt Engineering – System prompts, few-shot learning, prompt optimization, and context-window management.\n\n**3. Data, Vector Databases & Knowledge Management**\n\n* Pinecone – Vector indexing, similarity search, metadata filtering, and scalable retrieval systems.\n* Weaviate – Vector database architecture, hybrid search, embeddings, and semantic retrieval.\n* Qdrant / Milvus – Vector indexing, filtering, collections, and high-performance similarity search.\n* PostgreSQL / pgvector – Vector storage, similarity search, relational data integration, and hybrid retrieval.\n* Neo4j Knowledge Graphs – Graph-based retrieval, entity relationships, and GraphRAG implementation.\n* Redis Semantic Cache – Semantic response caching, session management, and low-latency retrieval.\n* Apache Spark – Large-scale data processing, document transformation, and distributed data engineering.\n* Delta Lake / Snowflake – Data ingestion, structured data processing, and enterprise data integration.\n* Amazon S3 – Document storage, data lakes, file management, and AI knowledge-base integration.\n\n**4. Cloud, Model Deployment & Infrastructure**\n\n* AWS SageMaker – Model training, experimentation, deployment, and ML lifecycle management.\n* AWS Bedrock – Foundation model access, model customization, knowledge bases, and managed AI applications.\n* AWS EKS GPU Nodes – Kubernetes-based GPU workloads and scalable LLM deployments.\n* Azure OpenAI – Enterprise LLM integrations, secure deployments, and production AI applications.\n* GCP Vertex AI – Foundation model development, model training, deployment, and generative AI services.\n* Docker – Containerization, application packaging, and deployment standardization.\n* Kubernetes – LLM workload orchestration, GPU resource management, scaling, and high availability.\n* NVIDIA Triton Inference Server – Production model serving, inference optimization, and concurrent model execution.\n* vLLM – High-throughput LLM inference, continuous batching, and KV cache optimization.\n* TensorRT-LLM – GPU-accelerated inference and model performance optimization.\n* Terraform – Infrastructure as Code, cloud provisioning, and automated infrastructure management.\n* GitHub Actions – CI/CD automation, model deployment pipelines, and application release management.\n\n**5. LLM Observability, Security & Evaluation**\n\n* LangSmith – LLM application tracing, debugging, monitoring, and execution analysis.\n* Arize Phoenix – LLM observability, tracing, retrieval evaluation, and performance analysis.\n* Ragas – RAG evaluation, context relevance, answer quality, and faithfulness measurement.\n* DeepEval – LLM testing, evaluation metrics, and automated quality assurance.\n* MLflow – Experiment tracking, model versioning, deployment, and lifecycle management.\n* Weights & Biases – Model training experiments, metrics tracking, and performance visualization.\n* NeMo Guardrails / Guardrails AI – LLM output validation, policy enforcement, and controlled AI interactions.\n* Prompt Injection Defense – Detecting malicious prompts, jailbreak attempts, and unsafe model instructions.\n* PII Redaction – Sensitive information detection, masking, and privacy protection.\n* AI Security & Governance – HIPAA/SOC 2 considerations, access control, auditability, and responsible AI implementation.\n\n**6. Advanced Generative AI, MLOps & Enterprise Integration**\n\n* GraphRAG – Combining knowledge graphs with retrieval-augmented generation for complex enterprise queries.\n* Advanced Retrieval Optimization – Query rewriting, contextual retrieval, reranking, and metadata-based filtering.\n* LLMOps – Automated model evaluation, deployment, monitoring, versioning, and lifecycle management.\n* Model Quantization – Reducing model memory requirements using 4-bit, 8-bit, and other quantization techniques.\n* Embedding Optimization – Selecting embedding models, vector similarity tuning, and retrieval performance optimization.\n* AI API Integration – REST APIs, third-party services, enterprise systems, and external tool integrations.\n* Distributed AI Systems – Scalable inference architectures, GPU scheduling, caching, and concurrency management.\n* AI Cost Optimization – Token usage monitoring, model selection, inference optimization, and cloud GPU cost management.\n* Enterprise AI Governance – Model access policies, audit logging, data privacy, and compliance controls.\n* Technical Leadership – Architecture reviews, technical documentation, mentoring, and cross-team collaboration.\n\n**Candidate Requirements**\n\n* Minimum 6–9 years of professional experience in Software Engineering, Machine Learning, Generative AI, or AI Engineering.\n* Strong hands-on production experience with Python, PyTorch, LangChain, and LlamaIndex.\n* Proven experience developing and deploying production-grade LLM applications using OpenAI, Anthropic, or open-source foundation models.\n* Strong understanding of RAG architectures, hybrid retrieval, embeddings, vector databases, and semantic search.\n* Practical experience building Agentic AI workflows, multi-agent systems, and MCP integrations.\n* Experience with LLM fine-tuning techniques such as LoRA, QLoRA, DPO, or RLHF.\n* Strong knowledge of Vector Databases such as Pinecone, Weaviate, Qdrant, Milvus, or pgvector.\n* Experience deploying AI applications using AWS, Azure, or GCP.\n* Hands-on experience with Docker, Kub",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "925e4d2e3324": {
+   "id": "925e4d2e3324",
+   "site": "indeed",
+   "title": "Customer Success Engineer - CSE / Sr. CSE",
+   "company": "ArmorCode",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=e710c644b92a1260",
+   "apply_url": "https://job-boards.greenhouse.io/armorcode/jobs/5302528007",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "### **About ArmorCode**\n\nArmorCode is the agentic control plane for Unified Exposure Management: one platform that unifies, prioritizes, and remediates risk across applications, code, software supply chain, cloud, infrastructure, and AI.\n\nThe ArmorCode Agentic AI Platform ingests findings from 400+ security tools, correlates them with business context in the Context Risk Graph, and puts Anya AI agents to work prioritizing, routing, and verifying fixes.  \n  \nThe platform is proven at enterprise scale, processing 400B+ findings annually and supporting more than 5,600 security professionals and 300,000 developers. Global enterprises including Visa, PayPal, Volvo Group, and Johnson Controls use ArmorCode to shorten find-to-fix time and reduce risk.\n\nArmorCoders believe in five core values: **Hungry. Humble. Hardworking. Honest. Human.** Our organization is powered by exceptional professionals who bring fresh ideas and passion to their roles, believing that nothing is beyond reach when our \"5H\" principles are applied. In their work and professional relationships, ArmorCoders commit to excellence and experiences that leave an impression.\n\n### \n\n### **About the Role**\n\nOur Customer Success Engineers play an important role in onboarding new customers and ensuring successful adoption of the platform. Together with the Customer Success Manager, you will ensure a smooth onboarding process for the technical implementation of the ArmorCode SaaS platform. You will work closely with Product Management and Engineering to make sure feature requests are developed to meet customer use cases. You will also use AI hands-on in your day-to-day work, building automations and AI-assisted workflows that make onboarding and integrations faster, more repeatable, and more consistent across customers.\n\n  \n\n### **What You'll Own**\n\n**Strategic Customer Engagement**\n\n* Act as a trusted advisor to customers and internal teams, providing feedback to accelerate and prioritize delivery.\n* Identify technical and business requirements, aligning solutions with customer needs to drive value and exceed expectations.\n* Serve as the main point of contact throughout the customer journey, working with the CSM on a success plan with clear outcomes and keeping communication effective across executives, business owners, and operational teams.\n\n**Technical Implementation and Integration**\n\n* Accelerate time to value (TTV) through short deployments, working with the Development team to find the best setup for each customer's integration needs.\n* Oversee and support technical implementation tasks for new customers.\n* Build and maintain scripts and automations (Python, APIs, and LLM-assisted workflows) that make onboarding, integration setup, and configuration validation repeatable.\n* Use AI tools to speed up implementation work, such as mapping customer tool landscapes to integrations, drafting implementation plans, and generating configuration and API scripts, and review everything before it reaches a customer.\n\n**Product Adoption and Insights**\n\n* Drive adoption of our product and solutions, using data to give 360-degree insight into current status and progress, from baseline customers to enterprise upsells.\n* Build relationships within assigned customers to support and execute their strategy and solutions roadmap.\n* Identify risks early, build and execute \"get well\" plans, and define critical success factors and success metrics.\n* Use AI-assisted analysis of usage and onboarding data to spot adoption gaps and stalled deployments early, and turn them into specific next steps.\n\n**AI Enablement**\n\n* Help customers adopt and get value from the platform's AI-driven capabilities, and bring their feedback to Product and Engineering.\n* Build reusable assets (prompt libraries, scripts, onboarding templates, playbooks) and share them so the whole Customer Success team gets faster.\n\n  \n\n**Exceptional Customer Experience**\n\n* Deliver an exceptional customer experience through proactive communication, effective use of internal resources, and customer enablement resources that support business goals.\n\n**Cross-functional Collaboration**\n\n* Liaise between product management, engineering, marketing, and the customer, communicating product and strategic roadmaps and generating insights that influence company and customer action.\n\n**Training and Knowledge Management**\n\n* Drive training initiatives, maintain a training record, and keep your own knowledge current.\n* Participate in answering level one support questions and contribute to building and updating the knowledge base for internal and external use.\n* Use AI to accelerate drafting of implementation guides and enablement content, with human review for accuracy.\n\n**Data Management and Hygiene**\n\n* Keep customer data up to date across all platforms, and regularly verify the hygiene of new and existing data so it stays usable.\n\n  \n\n### **Who you are**\n\n**Qualifications**\n\n* 7+ years of experience in a technical customer-facing role such as Customer Success Engineer, Solutions Engineer, Sales Engineer, Implementation Engineer, or similar, with a cybersecurity background.\n* Knowledge of the mission and practices of Customer Success functions.\n* Experience with Software as a Service (SaaS), preferably at a security software company.\n* Python scripting experience, including using APIs for workflow automation.\n* Hands-on experience using LLMs or generative AI tools in technical work such as scripting, automation, integration work, or technical documentation, including effective prompting.\n* Practical judgment about AI limits: you validate outputs, recognize hallucinations, and protect customer and confidential data when using AI tools.\n* Knowledge of Single Sign-on (SSO), Okta, and similar identity providers.\n* Experience in technical troubleshooting (product, software, etc.).\n* Bachelor's degree in computer science or a related field, a coding bootcamp, or equivalent work experience is a strong plus.\n* CISSP, CISM, OSCP, or PMP is a strong plus.\n* Plus: experience building automations that call LLM APIs, or working with agentic or workflow tools.\n\n**Skills**\n\n* Excellent communication skills and enjoyment in working directly with customers.\n* Strong problem solver who thrives in an unstructured environment.\n* Ability to explain technical concepts and recommendations clearly to customers.\n* Team player who builds collaborative relationships with other departments.\n* Organized in tracking customer requests.\n* Ownership of the post-sales process, including kick-off, launch, health checks, and renewal/upsell.\n* AI-first habits: you reach for automation and AI first on repetitive implementation and onboarding work, and you share what works.\n\n**Behavioural Skills**\n\n* Customer-centric approach and solution selling\n* Problem-solving\n* Proactive customer engagement\n* Cross-functional collaboration\n* Excellent communication\n\n  \n\n### **Why You Will Love It**\n\n* Career Growth Opportunities: We believe in promoting from within and provide career progression paths, enabling our employees to advance in their careers\n* Work-Life Balance: We understand the importance of a healthy work-life balance, offering flexible hours and remote work options to promote a sustainable lifestyle\n* Collaborative Environment: Our company fosters a collaborative and inclusive workplace culture, where employees can collaborate and learn from each other's experiences\n* Employee Recognition: We value and recognize the contributions of our team members through awards, employee of the month programs, and other forms of acknowledgment.\n* Competitive Compensation: We offer competitive salaries and performance-based bonuses, recognizing and rewarding the hard work and dedication of our team\n* Comprehensive Benefits: Our benefits package includes health insurance for employees and dependents, to support the overall well-being of our employees. We encourage learning and skilling, and aid our employees to contin",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "605564ed8dc8": {
+   "id": "605564ed8dc8",
+   "site": "indeed",
+   "title": "Playwright Automation QA",
+   "company": "Appzlogic Mobility Solutions Pvt Ltd",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=0c93f4a050c1f501",
+   "apply_url": "https://in.indeed.com/viewjob?jk=0c93f4a050c1f501",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job Description – Senior QA Automation Engineer (Playwright + AI)**5+ Years ExperienceAutomation TestingAI-Enabled TestingJob Title: Senior QA Automation Engineer – Playwright & AI\n\n**Experience:** 5+ Years  \n**Employment Type:** Full-Time  \n**Work Mode:** As per project requirements\n\nJob Summary\n\nWe are looking for an experienced Senior QA Automation Engineer with 5+ years of expertise in software testing and automation using Playwright. The ideal candidate should have strong hands-on experience in designing, developing, and maintaining scalable automation frameworks, along with proficiency in JavaScript/TypeScript and Python.\n\nCandidates must also have practical experience leveraging AI-powered development and testing tools such as **Claude Code and Atlassian Rovo** to improve test automation, test case generation, debugging, code quality, and overall QA productivity.\n\nThe candidate should be comfortable working in an Agile environment, collaborating with development teams, and driving end-to-end quality assurance activities.\n\nKey Responsibilities\n\n* Design, develop, and maintain robust UI and end-to-end automation test frameworks using Playwright.\n* Create, execute, and maintain automated test scripts using JavaScript/TypeScript and Python.\n* Perform functional, regression, integration, API, and cross-browser testing.\n* Develop reusable test components, fixtures, page objects, and automation utilities.\n* Identify, analyze, document, and track defects using appropriate defect management tools.\n* Integrate automated test suites into CI/CD pipelines for continuous testing.\n* Utilize AI-powered tools such as Claude Code and Atlassian Rovo to accelerate test automation and improve testing efficiency.\n* Leverage AI tools for generating test scenarios, test scripts, debugging automation failures, analyzing test results, and improving test coverage.\n* Evaluate AI-generated test scripts and validate their accuracy, reliability, and maintainability.\n* Collaborate with developers, product owners, and QA teams to understand requirements and ensure application quality.\n* Perform root cause analysis of test failures and recommend corrective actions.\n* Maintain test documentation, automation reports, and quality metrics.\n\nMandatory Technical Skills\n\n**1. Playwright Automation**\n\n* Strong hands-on experience with Playwright automation.\n* Expertise in developing end-to-end automation frameworks.\n* Knowledge of Playwright locators, fixtures, assertions, hooks, and browser contexts.\n* Experience with Page Object Model (POM) and reusable framework architecture.\n* Handling dynamic elements, waits, parallel execution, retries, and test data.\n* Experience in cross-browser and responsive testing.\n\n**2. Programming Languages**\n\n* Strong proficiency in JavaScript and/or TypeScript.\n* Working knowledge of Python for test automation and scripting.\n* Understanding of asynchronous programming, promises, functions, and error handling.\n\n**3. AI Tools & Automation**\n\n* Hands-on experience with Claude Code for AI-assisted coding, automation script generation, debugging, and refactoring.\n* Practical experience with Atlassian Rovo for AI-powered knowledge discovery, workflow assistance, and QA productivity.\n* Ability to use AI tools for test case generation, test data creation, test script optimization, and failure analysis.\n* Understanding of how to validate AI-generated code and prevent unreliable test automation.\n\n**4. API & Integration Testing**\n\n* Experience with API testing using Playwright APIRequestContext, Postman, or similar tools.\n* Understanding of REST APIs, HTTP methods, status codes, JSON, and authentication.\n* Experience validating backend responses and end-to-end application workflows.\n\n**5. CI/CD & Version Control**\n\n* Experience integrating Playwright automation suites with CI/CD pipelines.\n* Knowledge of Jenkins, GitHub Actions, GitLab CI/CD, or similar tools.\n* Hands-on experience with Git, GitHub, or Bitbucket.\n\nGood-to-Have Skills\n\n* Experience with SQL and database validation.\n* Knowledge of Docker and containerized test execution.\n* Experience with performance and accessibility testing.\n* Exposure to AI-assisted QA tools, MCP integrations, and agentic automation workflows.\n* Familiarity with Jira, Confluence, and Agile/Scrum methodologies.\n* Experience with test reporting tools such as Allure or Playwright HTML Reporter.\n\nRequired Candidate Profile\n\n* 5+ years of overall experience in Software Quality Assurance and Automation Testing.\n* Strong practical experience in Playwright automation.\n* Hands-on expertise in JavaScript/TypeScript and working knowledge of Python.\n* Practical exposure to Claude Code and Atlassian Rovo.\n* Strong understanding of automation framework design and testing methodologies.\n* Excellent analytical, debugging, and problem-solving skills.\n* Ability to independently handle automation activities and collaborate with cross-functional teams.\n\n**Important:** Candidates should have actual hands-on experience with Playwright and AI tools (Claude Code/Rovo), rather than just theoretical knowledge.\n\nBenefits:\n\n* Health insurance\n* Internet reimbursement\n* Life insurance\n* Work from home\n\nExperience:\n\n* Playwright: 6 years (Preferred)\n* JavaScript: 6 years (Preferred)\n* TypeScript: 6 years (Preferred)\n* Python: 6 years (Preferred)\n* claude: 4 years (Preferred)\n* Rovo: 4 years (Preferred)\n* Functional testing: 6 years (Preferred)\n* Agile: 6 years (Preferred)\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "105ba90023cc": {
+   "id": "105ba90023cc",
+   "site": "indeed",
+   "title": "Senior Fullstack Software Engineer",
+   "company": "SeeClear Studio Pvt Ltd",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=cfa5eb32afed079b",
+   "apply_url": "https://in.indeed.com/viewjob?jk=cfa5eb32afed079b",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Apply here** - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral\n\n**Pay:** $50–$100/hour (approx. ₹5,000–₹9,000/hour)\n\n**Location:** Global, fully remote\n\n**Job Type:** Contractor (~15 hours per week)\n\n**Schedule:** Flexible\n\nSeeClear may be paid by micro1 for this listing.\n\n**Job Description:**\n\nThe client is looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation.\n\nThe work involves creating, solving, reviewing, and validating challenging software-engineering tasks across front-end and back-end systems and helping with translating full coding builds from one particular language into another.\n\nThis role requires meaningful hands-on experience across both front-end and back-end engineering. Candidates should be comfortable working throughout the application stack rather than specializing exclusively in one layer.\n\n**What You'll Work On:**\n\n- Develop, modify, and debug front-end and back-end application components.\n\n- Implement user-facing features and the services, APIs, and data models that support them.\n\n- Trace requests and data across browsers, front-end applications, APIs, services, databases, and external integrations.\n\n- Work inside unfamiliar repositories and understand existing application architecture.\n\n- Diagnose failures involving application state, API contracts, authentication, persistence, networking, and deployment.\n\n- Evaluate and improve code written in multiple programming languages.\n\n- Review AI-generated solutions for correctness, completeness, performance, security, and maintainability.\n\n**Required Qualifications:**\n\n- Strong professional experience developing production full-stack applications.\n\n- Meaningful hands-on experience with both front-end and back-end engineering.\n\n- Production experience with multiple programming languages.\n\n- Strong knowledge of browser applications, APIs, application state, databases, and service integration.\n\n- Experience understanding and contributing to the architecture of complete software systems.\n\n- Ability to work effectively in unfamiliar codebases.\n\n- Strong debugging and technical problem-solving skills.\n\n**Application Process:**\n\n1. Apply to the role and complete the screening questions.\n\n2. Complete an AI interview of approximately 30 minutes.\n\n3. Complete a technical assessment, if required.\n\n4. Complete the hiring manager review.\n\n**Compensation Structure:**\n\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert's experience and workflow.\n\nMinimum submission requirements apply. Experts must submit a minimum number of tasks per week.\n\n**Start Timeline & Availability:**\n\nThe client typically fills roles within 48 hours and is looking for experts who are ready to begin immediately. If selected, you will be expected to start your first tasks within 24–48 hours of completing onboarding.\n\n**How the selection process works**\n\n1. *Apply here - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral* and complete the screening questions\n\n2. Complete the AI interview for this role - it's how your expertise gets in front of the client\n\n3. Profile review\n\n4. Onboarding - the client's Talent Ops team will get you set up\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "8eac6a583f4a": {
+   "id": "8eac6a583f4a",
+   "site": "indeed",
+   "title": "Senior Staff Engineer (Core Banking Implementation Lead – Oracle FLEXCUBE)",
+   "company": "Nagarro",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=0393c018436ecce1",
+   "apply_url": "https://jobs.smartrecruiters.com/Nagarro1/744000162584628-senior-staff-engineer-core-banking-implementation-lead-oracle-flexcube-",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Company Description**\n\n**We're Nagarro.**\n\nWe are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at a scale — across all devices and digital mediums, and our people exist everywhere in the world (18500+ experts across 39 countries, to be exact). Our work culture is dynamic and non-hierarchical. We are looking for great new colleagues. That is where you come in!\n\n **Job Description**\n\n**Requirements**\n\n* Experience : 7.5 +yrs\n* Strong experience in Core Banking Implementation, Core Banking Transformation and application modernization projects.\n* Hands-on experience with Oracle FLEXCUBE Core Banking solutions; experience with FLEXCUBE 14.x versions is an added advantage.\n* Mandatory experience in core banking implementation in the capacity of a Consultant, Solution Architect or Senior Product Developer.\n* Strong understanding of banking domain, particularly Core Banking, General Ledger, Loans, Payments, Trade Finance and related banking channels.\n* Good knowledge of functional and technical architecture of core banking applications.\n* Proven experience in managing end-to-end core banking implementation, upgrade and transformation programs.\n* Strong expertise in project management, implementation planning, execution, monitoring and delivery.\n* Experience in stakeholder management, vendor management and coordination with business and technology teams.\n* Hands-on experience in project and cost management, including budget, scope, schedule and resource management.\n* Strong knowledge of PMP tools, project management methodologies and Software Development Life Cycle (SDLC) processes.\n* Experience in supporting User Training, PWT, SIT, UAT, Business Simulation and Production Rollout activities.\n* Understanding of testing methodologies, quality assurance, compliance controls and production implementation processes.\n* Experience in banking production support and handling business-critical application issues is an advantage.\n* Strong business orientation and ability to understand, analyze and translate banking requirements into functional and technical solutions.\n* Excellent leadership, team-building, mentoring and organizational skills.\n* Strong interpersonal, communication, analytical and problem-solving abilities.\n* Experience in core banking transformation and next-version migration projects is an added advantage.\n\n**Responsibilities**\n\n* Lead and deliver the functional and technical aspects of Core Banking Implementation programs, ensuring alignment with business and technology objectives.\n* Develop and execute core banking implementation strategies, technology roadmaps and delivery plans to achieve defined project goals.\n* Manage end-to-end core banking implementation and transformation programs within agreed SLA, timelines, budgets and scope.\n* Lead the implementation, upgrade and transformation of core banking applications, including migration to newer versions.\n* Leverage Oracle FLEXCUBE expertise to drive functional and technical implementation activities and ensure successful project delivery.\n* Oversee the functional and technical architecture of core banking applications and ensure alignment with enterprise banking requirements.\n* Understand business requirements across Core Banking, General Ledger, Loans, Payments, Trade Finance and other banking channels, and translate them into effective implementation solutions.\n* Coordinate with business stakeholders, technology teams, implementation partners and external vendors to ensure seamless project execution.\n* Manage stakeholder expectations, vendor relationships, project dependencies and escalations throughout the implementation lifecycle.\n* Plan and oversee project activities, resource allocation, cost management, budgeting, scheduling and delivery governance.\n* Provide leadership and guidance to project teams, consultants and technical resources while ensuring high-quality delivery.\n* Support and oversee User Training sessions, PWT, System Integration Testing (SIT), User Acceptance Testing (UAT), Business Simulation and Production Rollout.\n* Ensure comprehensive testing, defect management, quality assurance and compliance controls throughout the project lifecycle.\n* Lead production implementation activities and ensure successful go-live within agreed timelines and service-level commitments.\n* Monitor project progress, identify risks and issues, implement mitigation strategies and ensure timely resolution of critical dependencies.\n* Drive adherence to established SDLC processes, project management standards and implementation best practices.\n* Manage project documentation, status reporting, governance reviews and communication with senior stakeholders.\n* Ensure smooth transition to production support teams and address implementation-related challenges during stabilization.\n* Guide and mentor team members, promote knowledge sharing and drive continuous improvement in project delivery.\n* Identify opportunities to optimize core banking processes, improve application performance and enhance overall banking operations.\n\n  \n**Qualifications**\n\nBachelor’s or master’s degree in computer science, Information Technology, or a related field.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "bba9d98cf12e": {
+   "id": "bba9d98cf12e",
+   "site": "naukri",
+   "title": "Principal Software Engineer / Technical Lead",
+   "company": "Programmers io",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-principal-software-engineer-technical-lead-programmers-io-remote-8-to-10-years-191126505967",
+   "apply_url": "https://programmers.io/job-opening-detail/?jobId=692",
+   "date_posted": "2026-11-19",
+   "experience": "8-10 Yrs",
+   "skills": "Production support, Coding, C, SQL, ASP.Net, Debugging, Enterprise, Enterprise applications",
+   "emails": [],
+   "description": "### Job Summary\n\nProgrammers.IO is currently looking to hire **Principal Software Engineer / Technical Lead** on **C#, .NET Core, MVC, Web API/REST API, Microservices, Blazor** technology. If you think you are a good fit and willing to work from **Pan India Remote** location. Please apply with your resume.\n\n### Experience Required\n\n**Experience Required:** 8 to 10 Years\n\n### Role Overview\n\nWe are looking for a **hands-on Principal Software Engineer** with 8-10 years of experience in designing, developing, and delivering enterprise applications using **C#, .NET Core, ASP.NET Core, MVC, Blazor, Web API, SQL Server, and Microservices**.\n\nThe ideal candidate should possess strong **OOP/OOPS and SQL fundamentals**, remain actively involved in coding, and have experience owning projects from **requirement analysis and estimation through development, deployment, and production support**.\n\nThe role also requires practical exposure to **AI-assisted coding/development tools** and the ability to use AI effectively while maintaining strong engineering, security, and code-quality standards.\n\n### Key Responsibilities\n\n* Design and develop scalable applications using **C#, .NET Core, ASP.NET Core, MVC, Blazor, and Web API**.\n* Remain actively involved in **hands-on coding, debugging, code reviews, and technical problem-solving**.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "05ccc410dd2a": {
+   "id": "05ccc410dd2a",
+   "site": "naukri",
+   "title": "Software Engineer II",
+   "company": "Globalization Partners International (GPI)",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-software-engineer-ii-g-p-globalization-partners-remote-3-to-8-years-191126505966",
+   "apply_url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8164414003",
+   "date_posted": "2026-11-19",
+   "experience": "3-8 Yrs",
+   "skills": "Operations, SDLC, Improvement, Workflow, Orchestration, Python, Software engineering, Continuous improvement",
+   "emails": [],
+   "description": "### Job Summary\n\nWe are looking for a mid-level Software Engineer II to design, build, and scale our AI powered product features with agentic experiences using AI agents and multi-agent workflows. Operating at the crossroads of Agentic AI and full-stack product engineering, you will harness the latest foundation or purpose-fit models and modern agent frameworks to resolve intricate business challenges.\n\n### What you will do\n\n* Design, build, and operate production AI features across the stack (APIs, services, and product UI) using modern cloud architectures\n* Design and implement agentic systems: tool-calling agents, multi-step workflows, and multi-agent orchestration patterns with guardrails, authz, rate limits, retries, fallbacks, and safe human-in-the-loop paths\n* Own quality loops: offline/online evals, benchmarks, regression sets, prompt/version management, A/B or canary rollouts, and continuous improvement of evals, accuracy, latency, and cost\n* Instrument AI systems for production: tracing, token/cost metrics, failure taxonomy, grounding/hallucination signals, and operational runbooks\n* Collaborate with Product and UX to translate ambiguous use cases into shippable, measurable outcomes\n* Contribute to shared AI platform patterns (agent frameworks, RAG/retrieval, memory, tool registries, evaluation harnesses) and evolve the SDLC for AI delivery\n\n### What we\\'re looking for\n\n* 3+ years building Agentic / SaaS / enterprise software in distributed teams\n* Strong full-stack foundations: Python, TypeScript, React, Node.js, APIs, and modern databases\n* Hands-on experience with AWS Bedrock, AgentCore, Strands Agents SDK (or comparable frameworks like LangGraph, CrewAI, or Claude Agent SDK), including function/tool calling, structured outputs, and streaming responses.\n* Deep practical understanding of multi-agent orchestration, context management, and API integrations across models.\n* Hands-on experience shipping, scaling and improving AI applications in production (LLM apps, RAG, copilots, or agent workflows)\n* Working knowledge of agent design: tools/function calling, state/memory, orchestration graphs, and failure handling\n* Familiarity with cloud architectures (AWS preferred) and shipping services with CI/CD, monitoring, and secure defaults\n* Startup / high-growth experience desirable\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "a4593a4e814a": {
+   "id": "a4593a4e814a",
+   "site": "naukri",
+   "title": "Staff Software Engineer - AI",
+   "company": "Egnyte",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-staff-software-engineer-ai-egnyte-remote-6-to-8-years-191126505929",
+   "apply_url": "http://jobs.jobvite.com/egnyte/job/oZD0AfwW",
+   "date_posted": "2026-11-19",
+   "experience": "6-8 Yrs",
+   "skills": "Cloud, Insurance, Healthcare, Medical insurance, Security, Intelligence, Recruitment, Architecture",
+   "emails": [],
+   "description": "### Job Summary\n\nTitle: Staff Software Engineer - AI\n\nLocation: India, Remote\n\n### Responsibilities\n\n* Design and develop highly scalable and resilient cloud architecture that seamlessly integrates with on-premises systems\n* Drive the team's goals and technical direction to find and pursue technical opportunities that make Egnyte's cloud platform more efficient\n* Effectively communicate complex design and architecture details\n* Understand company and industry-wide trends to help develop new technologies\n* Conceptualize, develop, and implement changes that prevent key systems from becoming unreliable, under-utilized, or unsupported\n* Own all aspects of critical software projects from design to implementation, QA, deployment, and monitoring\n\n### Your Qualifications\n\n* BE, ME, or related technical field, or equivalent practical experience\n* 6-8 years of professional experience in engineering with a history of technical innovation\n* Experience in providing technical leadership to engineers\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "acdbf3b3180c": {
+   "id": "acdbf3b3180c",
+   "site": "naukri",
+   "title": "Senior Analytics Engineer (Looker)",
+   "company": "Fusemachines",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-analytics-engineer-looker-fusemachines-remote-5-to-10-years-191126505927",
+   "apply_url": "https://fusemachines.applytojob.com/apply/Csrv8XsMDu/Senior-Analytics-Engineer-Looker",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Looker, Coding, SQL, Intelligence, Data, Quality, Quality assurance, Assurance",
+   "emails": [],
+   "description": "### Job Summary\n\nWe are seeking a talented and experienced Senior Data Analyst / Analytics Engineer with deep expertise in Tableau, Google BigQuery, Snowflake, and modern semantic data modeling (LookML / Looker, dbt, Omni, or Looker Studio) to join our team. In this role, you will lead critical business intelligence modernization initiatives, reverse-engineering complex reporting logic from legacy dashboards and rebuilding high-performance analytical data models to power executive decision-making. Type: Remote, Contracted.\n\n### Job Description\n\nAs a Senior Data Analyst / Analytics Engineer, you will work closely with technical leads, product managers, and business stakeholders to modernize legacy BI environments.\n\nYou will be responsible for deconstructing legacy dashboard architectures, extracting embedded business rules and Level of Detail (LOD) calculations, and re-architecting those metrics into scalable SQL models and LookML-governed cloud semantic layers.\n\nYou will perform as a core data translator, bridging the gap between cloud data warehouses, semantic layers, and client-facing business teams.\n\n### Qualifications\n\n* Bachelors or masters degree in a quantitative field such as computer science, systems engineering, mathematics, statistics, or a related technical discipline.\n* At least 5 years of professional experience in data analytics, business intelligence, or analytics engineering.\n* At least 4 years of hands-on experience using Tableau to design, maintain, and audit complex dashboards and calculated fields.\n* Demonstrated hands-on experience coding and maintaining LookML semantic models (views, explores, derived tables) in Looker.\n* Demonstrated experience with cloud data warehouses, specifically Google BigQuery and/or Snowflake.\n* Proven experience delivering BI migration, dashboard refactoring, or semantic data modeling projects.\n\n### Required Skills / Competencies\n\n* Advanced Tableau Engineering: Deep understanding of complex Tableau calculations, parameters, table calculations, and Level of Detail (LOD) expressions (FIXED, INCLUDE, EXCLUDE), with the ability to unpack workbook logic.\n* Cloud Data Warehousing Advanced SQL: Strong expertise in writing performant, modular SQL (CTEs, window functions) and structuring data within Google BigQuery and/or Snowflake.\n* Modern Transformations Modeling: Hands-on experience with dbt for building curated data models and managing transformation workflows.\n* LookML Modern BI Semantic Layers: Direct, hands-on experience writing LookML (.view and .model files, Explores, Persistent Derived Tables, symmetric aggregates) with Git version control, alongside building curated topics in Omni Analytics or Looker Studio.\n* Data Validation Quality Assurance: Rigorous approach to data reconciliation, checking data parity between legacy source reporting and modernized target models.\n* Communication Stakeholder Management: Excellent verbal and written English communication skills (Full Professional / Advanced) to lead technical discussions, clarify metric definitions, and present solutions directly to stakeholders.\n* Ways of Working: Self-motivated, proactive problem-solver comfortable working independently in an Agile sprint-based environment.\n\n### Responsibilities\n\n* Reverse-Engineer Reporting Logic: Audit and deconstruct legacy Tableau workbooks, deciphering nested formulas, calculated fields, and LOD expressions into clear business documentation.\n* Warehouse Data Modeling: Translate extracted business logic into scalable, maintainable SQL and transformation models using dbt across BigQuery and Snowflake.\n* Semantic Layer Implementation: Architect, write, and maintain LookML semantic models, reusable metrics, and self-service Explores/topics in Looker, Omni Analytics, or Looker Studio.\n* Data Parity Governance: Implement thorough data validation checks to ensure metrics produced in the modern semantic layer match legacy benchmarks with 100% precision.\n* Stakeholder Alignment: Collaborate with technical teams, data engineers, and business leaders to define canonical KPI definitions and document data dictionaries.\n* Best Practices Documentation: Establish reusable modeling standards, Git workflows, documentation, and maintainable BI pipelines for long-term platform health.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "938267345456": {
+   "id": "938267345456",
+   "site": "naukri",
+   "title": "Senior Java Developer - Core Java, Eclipse",
+   "company": "Advantest",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-java-developer-core-java-eclipse-advantest-remote-5-to-10-years-191126505913",
+   "apply_url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001238091000",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Multithreading, Core, Troubleshooting, Workflow, Product management, Eclipse, SQL, MySQL",
+   "emails": [],
+   "description": "### Job Summary\n\nIf you want to directly shape the future, this is your opportunity. Advantest is one of the world's leading providers of automatic test equipment for the semiconductor industry. We work closely with leading companies in fast-moving markets. Almost any modern AI, cloud, or embedded system is based on semiconductor devices that have been tested with our products.\n\nWe are looking for an experienced Senior Java Developer with strong expertise in Core Java and hands-on experience with Eclipse and Git. You will develop and maintain Java-based applications (SMT8 for 93K) with a focus on performance, reliability, and maintainability. As a senior developer, you will also contribute to technical design, code reviews, troubleshooting, and the technical guidance of other developers.\n\n### Key Responsibilities\n\n* Java Development: Design, develop, test, and maintain Core Java applications. Apply Java SE concepts including multithreading, concurrency, collections, memory management, exception handling, and object-oriented design.\n* System Design: Translate requirements into technical designs and implementations. Develop APIs, services, and software components and contribute to architectural decisions.\n* Development Tools: Use Eclipse for development, debugging, testing, and refactoring. Use Git for branching, merging, code reviews, and collaborative development.\n* Code Quality and Technical Guidance: Review code, support junior developers, and help resolve complex technical, performance, scalability, and maintainability issues.\n* Testing and Troubleshooting: Develop unit tests using JUnit or TestNG, support integration and system testing, and diagnose software, memory, threading, database, and performance issues.\n* Development Practices: Work closely with QA, DevOps, product management, and other developers. Contribute to build automation, CI/CD, and continuous improvement of the development workflow.\n\n### Required Qualifications\n\n* Bachelor s degree in Computer Science, Software Engineering, or a related field; Master s degree is a plus.\n* 5+ years of professional Core Java development experience, preferably with Java 17 or 21.\n* Strong knowledge of object-oriented design, data structures, algorithms, design patterns, multithreading, concurrency, and memory management.\n* Hands-on experience with Eclipse, Git, build automation tools such as Bazel, and unit testing with JUnit or TestNG.\n* Experience with REST APIs and integration patterns.\n* Strong analytical and problem-solving skills and the ability to work effectively in a software development team.\n\n#### Preferred Skills\n\n* In-depth knowledge of Advantest products (93K) and software solutions (SMT8).\n* Experience with AI-assisted and AI-native software development workflows.\n* Experience with Guice or other dependency injection frameworks.\n* Experience with CI/CD environments and tools such as Jenkins and Docker.\n* Knowledge of SQL and relational databases such as MySQL or PostgreSQL.\n* Experience guiding and mentoring other software developers.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "7b76d595530f": {
+   "id": "7b76d595530f",
+   "site": "naukri",
+   "title": "Senior Software Engineer-UiPath Test Automation Lead",
+   "company": "webjobs-nest070120161511@naukri.com",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-engineer-uipath-test-automation-lead-nest-information-technologies-pvt-ltd-remote-8-to-13-years-191126505831",
+   "apply_url": "https://careers.nestdigital.com/apply?job=2620",
+   "date_posted": "2026-11-19",
+   "experience": "8-13 Yrs",
+   "skills": "Enterprise, Analytics, Application, SQL, Github, Automation, Python, Software testing",
+   "emails": [],
+   "description": "**UiPath Test Automation Lead**\n\n**Experience - 8+ Years**\n\n**Location - Remote**\n\n**Role Summary**\n\nWe are looking for a  **UiPath Test Automation Lead**  with  **7-9 years of QA/Test Automation experience**  to lead enterprise test automation initiatives. The role involves technical leadership, automation strategy, delivery ownership, framework design, CI/CD integration, governance, and stakeholder management.\n\n**Key Responsibilities**\n\n* Lead end-to-end implementation and adoption of  **UiPath Test Cloud / Test Suite**  .\n* Own automation strategy, architecture, planning, execution, and release readiness.\n* Design and develop scalable, reusable  **UiPath test automation frameworks**  .\n* Automate  **web, desktop, API, and enterprise applications**  .\n* Integrate automation with  **CI/CD and DevOps pipelines**  .\n* Manage test execution, environments, test data, reporting, and automation stability.\n* Define automation standards, governance, coverage metrics, and quality KPIs.\n* Troubleshoot automation failures and improve reliability and regression efficiency.\n* Lead, mentor, and guide automation engineers.\n* Collaborate with QA, Development, Product, Business, and DevOps teams in Agile environments.\n* Support  **presales, RFPs, POCs, demos, estimations, and solution design**  .\n* Drive adoption of  **AI-assisted and agentic test automation**  , including Autopilot for Testers, AI-driven test generation, self-healing automation, and intelligent regression optimization.\n\n**Required Skills**\n\n* **3+ years**  of experience in QA/Test Automation.\n* Strong hands-on experience with  **UiPath Test Cloud / Test Suite**  .\n* Expertise in  **UiPath Web Automation, Testing Activities, Orchestrator, APIs, and Integration Services**  .\n* Strong knowledge of  **.NET/C#, REST APIs, SQL, and JSON.**\n* Experience with  **CI/CD**  using Azure DevOps, Jenkins, GitHub Actions, or GitLab.\n* Experience in  **web, desktop, API, and end-to-end testing**  .\n* Strong understanding of automation frameworks, QA methodologies, and Agile/Scrum.\n* Experience with cloud-based test execution and enterprise applications.\n* Strong troubleshooting, analytical, communication, and stakeholder management skills.\n\n**Good to Have**\n\n* UiPath Automation Developer / Test Automation certification.\n* UiPath Test Architect Professional certification\n* Experience with  **Automation CoE**  setup or governance.\n* Knowledge of Java/Python.\n* Experience with performance, security, or accessibility testing.\n\nHands-on exposure to  **AI-assisted / agentic testing**  and  **Autopilot for Testers**  .\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "2fe115e889f0": {
+   "id": "2fe115e889f0",
+   "site": "naukri",
+   "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
+   "company": "Volga Partners",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-ai-ml-engineer-production-ai-llm-systems-india-volga-partners-remote-3-to-8-years-191126505821",
+   "apply_url": "https://apply.workable.com/volga-partners/j/61F7CCDF5B/",
+   "date_posted": "2026-11-19",
+   "experience": "3-8 Yrs",
+   "skills": "Automation, Research, Production, Source, GCP, Product engineering, Ml, Engineering",
+   "emails": [],
+   "description": "AI Engineer | India\n\n**Department:**  Engineering   \n  **Reports To:**  Product Engineering Leadership   \n  **Location:**  India - Fully Remote   \n  **Employment Type:**  Full-Time   \n  **Experience Level:**  Mid-Level   \n  **Compensation:**  15,00,000 - 22,00,000 per year (15-22 LPA), commensurate with experience and technical expertise\n\n**Position Overview**\n\nThe AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, agentic AI workflows, and intelligent automation technologies.\n\nThis role requires a strong combination of AI research, hands-on model training and optimization, and software engineering expertise, with the ability to translate innovative AI concepts into scalable, reliable, and practical business applications.\n\nWorking closely with software engineers, product teams, and leadership, the AI Engineer will lead the development and integration of high-performance AI solutions that solve complex business challenges, enhance operational efficiency, and deliver measurable value to our global clients.\n\n**Key Responsibilities**\n\n**AI System Development**\n\n* Design, develop, and deploy AI systems, including LLMs, RAG, agentic workflows, and ML/DL solutions.\n* Select appropriate models and architectures while balancing accuracy, latency, cost, and complexity.\n* Train and fine-tune models using PyTorch or Keras, including data preparation and evaluation.\n* Implement and benchmark research methods before adoption.\n* Build APIs, inference pipelines, and backend integrations.\n\n**Production Optimization**\n\n* Own evaluation of metrics and track quality, latency, and cost.\n* Monitor, debug, and optimize AI systems post-launch.\n* Ensure production readiness and identify regressions before they impact users.\n\n**Collaboration**\n\n* Partner with software engineers and product teams to integrate AI into applications.\n* Contribute to technical discussions and technical decision-making.\n* Document architecture, implementation approaches, and key technical decisions.\n\n**Research Experimentation**\n\n* Read and evaluate ML research papers.\n\n* Implement promising methods and reproducing results where applicable.\n\n* Adapt emerging techniques into production-ready systems.\n* Contribute to continued innovation across AI and engineering initiatives.\n\n**Working Relationships**\n\nThe AI Engineer will collaborate with:\n\n* Engineering leadership and product teams.\n* Software engineers and backend developers.\n* Global AI research and development teams.\n\n**Success in This Role**\n\nSuccess means you can build with AI and deliver reliable production solutions, not simply experiment with AI models.\n\nYou should be able to:\n\n* Deliver production-ready AI systems with measurable impact.\n* Translate research into practical engineering solutions.\n* Collaborate effectively across distributed teams.\n* Document and share technical knowledge for scalability.\n* Adapt to evolving technical and business priorities.\n\n**Work Environment**\n\nThis is a fully remote position based in India. Candidates should be comfortable working independently and collaborating with globally distributed teams across different time zones.\n\n**Required Work Schedule**\n\n**This AI Engineer role requires working Monday through Friday, 7:30 PM-4:30 AM or 8:30 PM-5:30 AM IST in India, depending on U.S. daylight saving time**\n\nThe ability to consistently work the assigned schedule is a required and non-negotiable condition of this role. Candidates must be comfortable working overnight hours and maintaining reliable availability throughout the assigned shift.\n\nDue to project deadlines, production needs, client requirements, or other business priorities, occasional weekend availability or schedule adjustments may be required. Weekend work is not intended to be the standard schedule but flexibility to support business needs when necessary is expected\n\n**Our Hiring Process**\n\nWe value your time and aim to keep our recruitment process transparent, efficient, and engaging.\n\n1. Initial Recruiter Screening\n\nAn introductory video call with a member of our Recruiting team to discuss your background, experience, career goals, salary expectations, and any initial questions you may have about the role or Volga Partners.\n\n2. Practical Skills Assessment\n\nCandidates who successfully complete the initial screening will receive a practical assessment to complete asynchronously.\n\nThe assessment is designed to evaluate technical knowledge, problem-solving ability, and how you approach a real-world engineering scenario.\n\n3. Assessment Review\n\nOur team will review your submission against the technical requirements of the role.\n\nCandidates who meet the required criteria will advance to the final interview stage.\n\n4. Technical / Coding Interview   \n Candidates who pass the assessment will meet with our Engineering team to further evaluate their technical skills, experience, and AI Engineering knowledge\n\n5. Final Interview - CTO\n\nA deep-dive conversation with our Chief Technology Officer focused on technical alignment, your assessment approach, architectural thinking, problem-solving, and overall alignment with the role and team.\n\n**Required Qualifications**\n\n* 3+ years of hands-on AI/ML engineering experience, with at least one system deployed to production.\n* Strong NLP fundamentals, including tokenization, embeddings, classification, NER, and information extraction.\n* Strong engineering skills across coding, Git, testing, API/system design, and debugging.\n* Hands-on model training experience using PyTorch or Keras.\n* Understanding generative model architectures, including Transformers and VAEs.\n* Production experience with LLMs, including RAG, embeddings/vector databases, and prompt/evaluation design.\n* Experience with FastAPI or similar frameworks, Docker, and at least one cloud platform such as AWS, GCP, or Azure.\n* Ability to read ML research papers and translate ideas into working code.\n\n**Preferred Qualifications**\n\n* Experience with LLM fine-tuning, including LoRA and RL-based methods.\n* SQL database knowledge.\n* Familiarity with agent frameworks such as LangGraph or LangChain.\n* Experience with Kubernetes, CI/CD, and model-serving infrastructure.\n* Open-source contributions or experience reproducing research results.\n\n**Compensation Benefits**\n\n* Annual Compensation: 15,00,000- 22,00,000 (15-22 LPA), based on experience and technical expertise.\n\n* Contract and payment administration facilitated through Deel.\n\n* 90-day probationary period.\n\n* Benefits eligibility upon successful completion of probation, including:\n\n+ Paid Time Off (PTO) in accordance with company policy.\n\n+ Holiday pay for company-observed holidays.\n\n+ Career growth and professional development opportunities.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "a0ca73924ad8": {
+   "id": "a0ca73924ad8",
+   "site": "naukri",
+   "title": "Senior Software testing engineer (Part-time, Equity only)",
+   "company": "Kefilo",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-testing-engineer-part-time-equity-only-kefilo-remote-5-to-10-years-191126505815",
+   "apply_url": "https://app.pyjamahr.com/careers?company=kefilo&job_id=429691&company_uuid=E155771B10",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "SQL, Regression testing, Test cases, Tools, Testing tools, Technology, Quality, Quality assurance",
+   "emails": [],
+   "description": "Software Testing Engineer\n\n**Company:** Kefilo  \n **Role Type:** Equity-Based Founding Team Position  \n **Work Model:** Part-Time | Hybrid/Remote  \n **Time Commitment:** Approximately 20 hours per week\n\nAbout Kefilo\n\nKefilo is a NutritionTech and wellness innovation company building a technology-driven approach to personalised nutrition, preventive wellness and lifestyle transformation.\n\nOur vision combines functional nutrition, fitness, mental wellness, data-driven personalisation and intelligent food systems. We are developing a **Nutrition Intelligence Engine (NIE)** alongside a technology-enabled food ecosystem built around our Dark Factory Model for Food.\n\nWe are looking for a detail-oriented Software Testing Engineer to take ownership of product quality, testing processes and reliability across Kefilos digital platforms.\n\nKey Responsibilities\n\n* **Functional Manual Testing:** Test web and mobile applications, identify bugs, validate features and ensure that all functionalities work according to business and technical requirements.\n* **Automation Regression Testing:** Develop and maintain automated test cases, conduct regression testing and establish repeatable testing processes to improve product reliability.\n* **API Database Testing:** Validate APIs, backend services, database operations, integrations and data flow between different application modules.\n* **Performance Compatibility Testing:** Evaluate application performance, responsiveness, usability, security-related vulnerabilities and compatibility across devices, browsers and operating systems.\n* **Test Documentation:** Prepare test plans, test cases, bug reports, test scenarios and quality-assurance documentation.\n* **Cross-functional Coordination:** Work closely with developers, UI/UX designers and product teams to reproduce issues, track bug resolution and validate fixes.\n* **Release Quality Management:** Conduct end-to-end testing, support user acceptance testing (UAT) and ensure product readiness before releases and updates.\n\nDesired Candidate Profile\n\n* Background in Computer Science, Information Technology, Software Engineering or a related field.\n* Experience in software testing, quality assurance or application testing.\n* Knowledge of manual testing, automation testing and software testing methodologies.\n* Familiarity with tools such as Selenium, Cypress, Playwright, Postman, JMeter or similar testing frameworks.\n* Understanding of APIs, databases, SQL, mobile application testing and web technologies.\n* Knowledge of Agile development, bug-tracking tools and software development lifecycle.\n* Strong analytical thinking, attention to detail and problem-solving skills.\n* Experience testing health, nutrition, food-tech, wellness or consumer-facing applications will be an advantage.\n\nEngagement Equity Structure\n\n* Equity-based founding team opportunity.\n* Part-time engagement of approximately 20 hours per week.\n* Hybrid/Remote working arrangement.\n* No fixed salary or monthly compensation until the company secures funding. Fixed compensation will be considered after funding and revenue stabilization.\n* Equity participation will be discussed separately based on experience, responsibilities, contribution and long-term commitment.\n* Proposed equity vesting period: 5 years.\n\nSelection Process\n\n* Initial strategic discussions to understand experience, technical capabilities and alignment with Kefilo.\n* Approximately 3-4 discussions to evaluate mutual suitability.\n* One-month collaborative engagement under NDA.\n* Finalisation of responsibilities, equity participation and formal founding team agreement.\n\nWho Should Apply\n\nSoftware testing professionals interested in building reliable technology products from an early stage and taking ownership of quality assurance within a growing NutritionTech venture.\n\nInterested candidates can share their profile along with details of testing tools, frameworks and applications they have worked on.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "190b3ffb7933": {
+   "id": "190b3ffb7933",
+   "site": "naukri",
+   "title": "Agentforce Contact Center Developer - DX",
+   "company": "Huemot Technology",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-agentforce-contact-center-developer-dx-huemot-technology-private-limited-remote-5-to-10-years-191126505701",
+   "apply_url": "https://www.rivvra.com/careers/huemot-technology/jobs/agentforce-contact-center-developer-dx-3947b5",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Supervision, Routing, SMS, Transcription, Cloud, Metadata, Development, Dx",
+   "emails": [],
+   "description": "* Build the clients new contact center inside Salesforce with Agentforce Contact Center, replacing Five9. Position 1 focuses on voice: setup, IVR, routing, and cutover. Position 2 focuses on messaging and intelligence: SMS, email, transcription, AI call summaries, call scoring, and supervisor dashboards. The project is a Salesforce implementation for a US medical device company, moving a patient support program onto standard Sales Cloud objects (Lead, Opportunity, custom metadata-driven Flows, PandaDoc, email, and SMS) and replacing a Five9 contact center with Agentforce Contact Center, delivered as one 13-week program with a single go-live.\n\nKey Responsibilities\n\n* Set up Agentforce Contact Center: phone numbers, 12 agent seats, softphone in the Service Console, presence statuses\n* Build IVR and Omni-Channel routing flows: business hours and holidays, route to the record owner by phone match, voicemail choice, post-implant routing on Case\n* Set presence and capacity so an inbound call still rings while texts are open\n* Build SMS and email channels with replies and consent written to the record\n* Configure call recording, transcription, AI summaries, and call scoring with sentiment\n* Build the supervisor wallboard and dashboards; support number forwarding cutover and porting\n\nMust-Have Skills:\n\n* Hands-on Service Cloud with Omni-Channel routing (queues, skills, presence, capacity)\n* Built a Salesforce-integrated contact center: Agentforce Contact Center, Service Cloud Voice (Amazon Connect or partner telephony), or a CTI integration\n* IVR or contact flow design\n* Flow for routing and record updates\n* Nice to Have\n* Agentforce Contact Center specifically (Service Cloud Voice experience counts)\n* Messaging for SMS, Enhanced Email, Einstein Conversation Insights\n* Number porting or carrier messaging registration\n* Migration off Five9, Genesys, NICE, or Talkdesk\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "3a83e0e42164": {
+   "id": "3a83e0e42164",
+   "site": "naukri",
+   "title": "Technical Lead - ATE / SmarTest 8 / Advantest V93000",
+   "company": "Advantest",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-technical-lead-ate-smartest-8-advantest-v93000-advantest-remote-6-to-8-years-191126505685",
+   "apply_url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001238091500",
+   "date_posted": "2026-11-19",
+   "experience": "6-8 Yrs",
+   "skills": "Science, Debugging, Software, Agile, JIRA, Analysis, Perl, Computer",
+   "emails": [],
+   "description": "### Job Summary\n\nAs Technical Lead - ATE / SmarTest 8 / Advantest V93000, you will provide technical leadership for a team responsible for defining, implementing, and improving test strategies for SmarTest 8 and the Advantest V93000 (V93K) platform.\n\nThis is a hands-on technical leadership role combining ATE and semiconductor test engineering, software development, and technical team coordination.\n\nYou will work directly on test strategy, automation, CI/CD integration, customer device programs, validation, and debugging while guiding the technical work of the team.\n\nYou will work closely with product owners, developers, test engineers, subcontractors, and global engineering teams.\n\nThe role requires strong practical experience with V93000, SmarTest 8, Java, Python, and test automation, together with the ability to provide technical direction and develop engineers within the team.\n\n### Key Responsibilities\n\n* Provide technical leadership for the team, define technical priorities together with the product owner, coordinate engineering activities, review technical solutions, and ensure consistent implementation and test quality.\n* Own and continuously improve the SmarTest 8 test strategy, including test coverage, validation, regression testing, reporting, and release testing.\n* Design and contribute hands-on to test automation, tools, and utilities using Java, Python, and scripting languages. Drive Offline Result Emulation (ORE), CI/CD integration, device deployment, and application performance monitoring.\n* Work with customer device programs on the V93000 platform. Guide online and offline testing, test method development and optimization, result analysis, debugging, and root-cause analysis across software and hardware.\n* Lead the validation of new SmarTest 8 software features and V93000 hardware capabilities and ensure that test methods, automation, and validation approaches are technically sound and maintainable.\n* Guide and mentor engineers, support technical problem solving and knowledge sharing, and work with global teams and subcontractors to improve engineering practices and automation coverage.\n* Contribute to Agile planning and continuously improve development, testing, and delivery processes.\n\n### Required Qualifications Skills\n\n* Bachelor's or Master's degree in Electronics, Electrical Engineering, Computer Science, or a related field, with strong professional experience in ATE, semiconductor test engineering, and software development.\n* Strong hands-on experience with Advantest V93000, including good knowledge of SmartScale, EXA Scale, and SmarTest 8. SmarTest 7 experience is an advantage.\n* Hands-on software development experience with Java and Python, including object-oriented programming, software design, code reviews, and source code management with Git.\n* Experience developing test automation frameworks and tools, including scripting with Shell, Perl, TCL, or similar technologies.\n* Experience with CI/CD, automated testing, test method development, debugging, and software/hardware validation, including systematic root-cause analysis.\n* Experience with AI-assisted and AI-native software development workflows and the ability to introduce effective AI-based development and testing practices within the team.\n* Experience providing technical leadership, including guiding engineers, coordinating technical work, reviewing solutions, and driving technical decisions.\n* Strong analytical and problem-solving skills, good English communication skills, and experience working with distributed engineering teams.\n\n### Nice to Have\n\n* Experience leading technical work in an Agile development team and working with Git, Bitbucket, Jira, Azure DevOps, and Confluence.\n* Good understanding of semiconductor test processes, ATE technologies, and Linux environments, particularly RHEL.\n* Experience developing data analysis, reporting, or visualization solutions using Python.\n* Experience mentoring engineers and building technical knowledge within a team.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "04843953c83c": {
+   "id": "04843953c83c",
+   "site": "naukri",
+   "title": "Palantir Foundry Developer",
+   "company": "Methodhub Software",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-palantir-foundry-developer-methodhub-software-private-limited-remote-5-to-10-years-191126505687",
+   "apply_url": "https://methodhub.in/jobs/palantir-foundry-developer/",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Data analysis, Python, Agile, UI, Palantir, Production, Data, SAP",
+   "emails": [],
+   "description": "### Responsibilities\n\n* Design, develop, and support Palantir Foundry pipelines, transforms, and data models using Spark SQL, PySpark, and Python\n* Build and enhance Foundry applications and dashboards using Slate, Contour, SQL, JavaScript, and CSS\n* Support inbound and outbound data integrations (file-based, API-based, and database-based)\n* Perform data analysis, issue diagnosis, and remediation for data quality, data restoration, and report discrepancies\n* Ensure end-to-end data quality, lineage, and integrity within Palantir Foundry\n* Provide production support during normal operations and peak PSPS activation periods\n* Respond to and resolve business-reported issues, defects, and enhancement requests in a timely manner\n* Participate in on-call / extended support as required during critical utility events\n* Produce and maintain technical documentation, including data flow diagrams, model control documentation, and code artifacts\n* Support knowledge transition and ensure sustainability of the Palantir platform within Client teams\n* Work closely with Client business users, Data Stewards, SMEs, IT leadership, Infosys delivery teams, and Palantir support\n* Translate business needs into actionable Palantir backlog items and deliver solutions aligned to Client priorities\n\n### Required Qualifications\n\n* Strong Hands-on experience with Palantir Foundry (pipelines, ontology, data integration, and applications)\n* Strong expertise in Python, PySpark, Spark SQL, and data transformation frameworks\n* Experience with dashboard and UI development (Slate, SQL, JavaScript, CSS)\n* Familiarity with GIS / AGOL integrations and enterprise data platforms\n* Prior experience supporting utility, grid modernization, PSPS, or operational analytics programs is strongly preferred\n* Proven ability to work in Agile / DevOps delivery models\n* Ability to operate independently with minimal reliance on Palantir vendor teams\n\n### Nice to have Skills\n\n* Palantir certification or formal Foundry training\n* Experience with Snowflake, SAP, or enterprise data warehouses\n* Prior experience in incident-driven or event-driven operational environments (e.g., outage management)\n\n### Job Details\n\n* Job Category: Palantir Foundry Developer\n* Job Type: Full Time\n* Job Location: Remote\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "ce29dd0c5eef": {
+   "id": "ce29dd0c5eef",
+   "site": "naukri",
+   "title": "Senior Software Developer-Blockchain / Solidity Developer(Contract)",
+   "company": "webjobs-nest070120161511@naukri.com",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-developer-blockchain-solidity-developer-contract-nest-information-technologies-pvt-ltd-remote-5-to-10-years-191126505648",
+   "apply_url": "https://careers.nestdigital.com/apply?job=2808",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "Software development, Senior, Blockchain, Smart Contracts, Ethereum, Oracle, Web technologies, React.js",
+   "emails": [],
+   "description": "**The role: Blockchain / Solidity Developer**\n\nWork:\n\n* Develop and optimize Solidity smart contracts on Arbitrum\n* Build the trading and settlement mechanisms (taking bets, paying out winners)\n* Implement AMM logic (pricing), oracle integrations (real-world results) and secure transaction flows\n* Integrate blockchain functionality with their Web3 frontend\n* Smart-contract security, testing and MVP deployment\n\nSkills: Solidity EVM, Arbitrum / Ethereum, Foundry or Hardhat, DeFi protocols smart-contract security. React / Web3 integration is a plus.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "1fa81dffabc9": {
+   "id": "1fa81dffabc9",
+   "site": "naukri",
+   "title": "Sr Software Developer-Blockchain / Solidity Developer(Contract)",
+   "company": "Nest Digital",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-sr-software-developer-blockchain-solidity-developer-contract-nest-digital-remote-5-to-6-years-191126502034",
+   "apply_url": "https://careers.nestdigital.com/apply?job=2808",
+   "date_posted": "2026-11-19",
+   "experience": "5-6 Yrs",
+   "skills": "Smart Contracts, Blockchain, SR, Oracle, Web technologies, Foundry, Contracts, React.js",
+   "emails": [],
+   "description": "**The role: Blockchain / Solidity Developer**\n\nWork:\n\n* Develop and optimize Solidity smart contracts on Arbitrum\n* Build the trading and settlement mechanisms (taking bets, paying out winners)\n* Implement AMM logic (pricing), oracle integrations (real-world results) and secure transaction flows\n* Integrate blockchain functionality with their Web3 frontend\n* Smart-contract security, testing and MVP deployment\n\nSkills: Solidity EVM, Arbitrum / Ethereum, Foundry or Hardhat, DeFi protocols smart-contract security. React / Web3 integration is a plus.\n\n  \n  \n Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "57443844ab60": {
+   "id": "57443844ab60",
+   "site": "indeed",
+   "title": "Python and Mern Stack Developer",
+   "company": "Climeto Sustainable Services Pvt. Ltd.",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=bdca3d81dd4fe8c1",
+   "apply_url": "https://in.indeed.com/viewjob?jk=bdca3d81dd4fe8c1",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job Type:** Full-Time  \nWe are looking for a passionate Python + MERN Stack Developer with hands-on experience in development, automation, and desktop applications.  \n**Required Skills:**\n\n* Good knowledge of Python and Python Automation.\n* Experience in Javascript-based Desktop Application Development.\n* Good understanding of JavaScript (ES6+).\n* Hands-on experience with React.js and Node.js.\n* Knowledge of MongoDB and SQL databases.\n* Understanding of REST APIs and database management.\n* Experience in Bug Fixing, Debugging, and Testing.\n* Knowledge of Git and GitHub is a plus.\n\n**Responsibilities:**\n\n* Develop and maintain web and desktop applications.\n* Work on Python automation tasks.\n* Develop frontend and backend functionalities.\n* Handle database operations and API integrations.\n* Identify and fix bugs and perform application testing.\n\n**Candidate Requirements:**\n\n* 1 to 1.5 years of relevant experience.\n* Good problem-solving skills.\n* Ability to work independently and in a team.\n* Hands-on project experience is preferred.\n\nPay: ₹15,000.00 - ₹25,000.00 per month\n\nBenefits:\n\n* Provident Fund\n\nWork Location: In person",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "be12f8dbbebf": {
+   "id": "be12f8dbbebf",
+   "site": "indeed",
+   "title": "Analyst I Software Engineering (Full Stack Java Developer)",
+   "company": "DXC Technology",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=26404b584ba68cc2",
+   "apply_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---MP---INDORE/Analyst-I-Software-Engineering--Full-Stack-Java-Developer-_51589973",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job Description:**\n\n### **About the Role**\n\nWe are seeking a hands-on Full Stack Java Developer to build, test and support enterprise applications. In this role, you will bring strong Java, Spring Boot, REST API and SQL skills together with exposure to modern frontend technologies to deliver high-quality, secure software solutions.\n\nDay to day, you will design, develop and maintain enterprise applications, build and integrate RESTful APIs, microservices and database components, and support user-interface development. You will work closely with business analysts, QA and engineering teams in an Agile/Scrum environment, taking part in code reviews, CI/CD processes, deployments and production support.\n\nThis role also requires an AI-tool-ready mindset: you will use approved AI-assisted development tools to accelerate coding, refactoring, testing, debugging and documentation activities, while critically validating all AI-generated output for correctness, security and maintainability.\n\n### **Essential Job Functions**\n\n* Design, develop, test and maintain enterprise applications using Java and Spring Boot.\n* Build and integrate RESTful APIs, microservices and database components.\n* Develop or support user-interface components using Angular, React, JavaScript or TypeScript.\n* Write clean, maintainable code with appropriate unit and integration tests.\n* Troubleshoot application, API, integration and data issues, and perform root-cause analysis.\n* Participate in code reviews, CI/CD, deployments and production support.\n* Collaborate with business analysts, QA and engineering teams in an Agile/Scrum environment.\n* Use approved AI-assisted development tools for coding, refactoring, testing, debugging and documentation, validating all generated output for correctness, security and maintainability.\n\n### **Basic Qualifications**\n\n* 4-6 years of hands-on software development experience.\n* Strong Java/J2EE, Spring Boot, Spring Framework and Spring Data JPA experience.\n* RESTful API development and service integration.\n* SQL and relational databases such as SQL Server, Oracle or PostgreSQL.\n* JPA/Hibernate or an equivalent ORM framework.\n* JUnit and Mockito; unit and integration testing practices.\n* Git and Maven or Gradle.\n* Strong understanding of object-oriented programming, design principles, debugging and coding standards.\n* Ability to independently deliver low-to-medium complexity application changes.\n* Comfort using or rapidly adopting GitHub Copilot, Amazon Q Developer, Microsoft Copilot or similar GenAI engineering assistants.\n* Ability to use AI for code generation, code understanding, refactoring, unit-test creation, debugging, SQL assistance and technical documentation.\n* Ability to critically review AI-generated code and follow enterprise security, privacy and source-code handling standards.\n\n### **Other Qualifications**\n\n* Angular or React, TypeScript, JavaScript, HTML and CSS.\n* Microservices, Docker, Kubernetes, AWS or Microsoft Azure.\n* CI/CD using Jenkins, GitHub Actions or Azure DevOps.\n* Swagger/OpenAPI, Postman or REST Assured.\n* Kafka, RabbitMQ, IBM MQ, batch processing or high-volume data processing.\n* Data migration and reconciliation experience.\n* Insurance, banking or financial-services domain exposure.\n\nAt DXC Technology, we believe strong connections and community are key to our success. Our work model prioritizes in-person collaboration while offering flexibility to support wellbeing, productivity, individual work styles, and life circumstances. We’re committed to fostering an inclusive environment where everyone can thrive.\n\n**Recruitment fraud is a scheme in which fictitious job opportunities are offered to job seekers typically through online services, such as false websites, or through unsolicited emails claiming to be from the company. These emails may request recipients to provide personal information or to make payments as part of their illegitimate recruiting process. DXC does not make offers of employment via social media networks and DXC never asks for any money or payments from applicants at any point in the recruitment process, nor ask a job seeker to purchase IT or other equipment on our behalf. More information on employment scams is available** here***.***",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "81ac9d391805": {
+   "id": "81ac9d391805",
+   "site": "naukri",
+   "title": "JavaScript Developer",
+   "company": "Brain Inventory",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-javascript-developer-brain-inventory-indore-2-to-7-years-201126500398",
+   "apply_url": "https://braininventory.in/career",
+   "date_posted": "2026-11-20",
+   "experience": "2-7 Yrs",
+   "skills": "Coding, Automated Test Scripts, Cs, Javascript, CSS, Tools, Program, Languages",
+   "emails": [],
+   "description": "2+ years of experience as a JavaScript Developer\n\n- Work with agile development methodologies, adhering to best practices and pursuing continued learning opportunities.\n- Strong analytical and troubleshooting skills.\n- Design, code, and manage automated test scripts, continuous builds, and deployment.\n- Complete knowledge of programming languages like JavaScript, HTML, and CSS.\n- Understanding of JavaScript libraries and frameworks like node.js, reactjs, angular, vue.js, etc.\n- Familiarity with code versioning tools such as Git, SVN, and Github\n- Proficiency in browser rendering behavior and performance.\n\n  \n  \nThe job location mentioned in this description is based on publicly available information or company headquarters. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b7941e7f2695": {
+   "id": "b7941e7f2695",
+   "site": "naukri",
+   "title": "YASH Technologies is Hiring - Senior Fullstack Developer",
+   "company": "Yash Technologies",
+   "location": "Indore, Pune, Bengaluru, India",
+   "job_url": "https://www.naukri.com/job-listings-yash-technologies-is-hiring-senior-fullstack-developer-yash-technologies-indore-pune-bengaluru-5-to-10-years-051126031775",
+   "apply_url": "https://www.naukri.com/job-listings-yash-technologies-is-hiring-senior-fullstack-developer-yash-technologies-indore-pune-bengaluru-5-to-10-years-051126031775",
+   "date_posted": "2026-11-19",
+   "experience": "5-10 Yrs",
+   "skills": "HTML, Spring Boot, Hiring, React.js, Java, Javas, Senior, Javascript",
+   "emails": [],
+   "description": "YASH Technologies is looking for Senior Fullstack Developer with strong development skills. The shortlisted candidate should have strong communication, interpersonal, analytical and problem solving skills. Should have an ability to effectively communicate technical concepts within the team, and is able to work individually or as part of a team to achieve project goals.\n\n  \n\n**Locations - Bangalore, Pune, Hyderabad, Indore, Chennai.**\n\n  \n\n* 5 to 10 years of application development experience in Java and J2EE related technologies.\n* Strong proficiency in developing applications using Core Java, Spring MVC, Spring Boot, Spring Security, Hibernate/Spring Data JPA.\n* Experience in developing web-based applications using JavaScript, HTML, CSS and React frameworks.\n* Experience working with Java build tools like Maven.\n* Experience in implementing and integrating Logger frameworks (Log4j/LogBak) etc.\n* Good working knowledge in securing java applications using OAuth2/JWT/LDAP/SAML etc.\n* Experience using AI tools like Microsoft Copilot for software development and testing.\n* Understanding and experience in using AI/GenAI for automation.\n* Experience in unit testing applications using Junit, Mockito frameworks etc. and testing service using Postman and Swagger etc.\n* Good understanding of Monolithic/Microservices architectures and design patterns.\n* Good understanding about creating Microservices using Docker/Kubernetes.\n* Good knowledge and experience in cloud computing platforms such as Amazon Web Services or Microsoft Azure\n* Good understanding of CI/CD pipelines and application deployment procedures. (On premises/Cloud servers).\n* Experience with version control systems (e.g. Git)\n* Experience working on an Agile team using Azure DevOps (ADO) boards.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "286606ade5d7": {
+   "id": "286606ade5d7",
+   "site": "naukri",
+   "title": "Accountant/CPA",
+   "company": "RNS Id",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-accountant-cpa-rns-id-indore-1-to-5-years-250626045976",
+   "apply_url": "https://www.naukri.com/job-listings-accountant-cpa-rns-id-indore-1-to-5-years-250626045976",
+   "date_posted": "2026-11-19",
+   "experience": "1-5 Yrs",
+   "skills": "Tax Compliance, CPA, Taxation, Us Tax, CMA, Compliance, Finance, Accounting",
+   "emails": [],
+   "description": "**Role & responsibilities**\n\nThe Accountant is responsible for overseeing the financial activities of the organization, ensuring accuracy, compliance, and efficiency in financial reporting and analysis. This position requires strong analytical skills, attention to detail, and comprehensive knowledge of accounting principles and regulations.\n\n  \n\n**Key Responsibilities:**\n\n1. Financial Reporting:\n\n* Prepare and analyze financial statements, including balance sheets, income statements, and cash flow statements.\n* Ensure compliance with accounting standards and regulations (GAAP, IFRS, etc.).\n* Generate financial reports for internal and external stakeholders, such as management, investors, and regulatory agencies.\n\n2. General Ledger Management:\n\n* Maintain the integrity of the general ledger and subsidiary ledgers.\n* Reconcile accounts and resolve discrepancies in a timely manner.\n* Review and post journal entries as necessary.\n\n3. Budgeting and Forecasting:\n\n* Assist in the development of annual budgets and financial forecasts.\n* Monitor budget variances and provide analysis to management.\n* Recommend adjustments to budgetary allocations as needed.\n\n4. Financial Analysis:\n\n* Conduct financial analysis to support decision-making processes.\n* Identify trends, opportunities, and risks within the financial data.\n* Present findings and recommendations to management.\n\n5. Audit and Compliance:\n\n* Coordinate with internal and external auditors during financial audits.\n* Ensure compliance with tax regulations and assist with tax filings.\n* Develop and implement internal controls to safeguard company assets and ensure accuracy of financial records.\n\n6. Process Improvement:\n\n* Identify opportunities to streamline accounting processes and enhance efficiency.\n* Implement best practices and automation tools to improve productivity.\n* Provide training and guidance to junior accounting staff.\n\n  \n\n**Preferred candidate profile**\n\n* Bachelor's degree in Accounting.\n* US Taxation Experience\n* Proven experience (typically 1+ years) in accounting or finance roles, with increasing levels of responsibility.\n* Thorough knowledge of accounting principles, practices, and regulations.\n* Proficiency in accounting software and ERP systems (e.g., SAP, Oracle, Xero, QuickBooks).\n* Strong analytical and problem-solving skills.\n* Excellent communication and interpersonal abilities.\n* Ability to work effectively in a fast-paced environment and meet tight deadlines.\n\n  \n\n**Perks and benefits**\n\n  \n\n* Opportunities for promotion\n* Paid training\n* Work from home\n* Schedule: 6-8 hour shift\n* Flexible shift",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "2c60b2b74aaa": {
+   "id": "2c60b2b74aaa",
+   "site": "indeed",
+   "title": "Programmer / Automation Developer (3-5 Years)",
+   "company": "AETIUS OUTSOURCING AND CONSULTING PRIVATE LIMITED",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=cd439944572887ad",
+   "apply_url": "https://in.indeed.com/viewjob?jk=cd439944572887ad",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [
+    "hr@gatpsolutions.com"
+   ],
+   "description": "\\*Automation Developer\\*\n\nRemote | Full-time | 3-5 Years\n\n\\*The Role:\\*\n\nWe are hiring an Automation Developer who can translate the day-to-day needs of our accounting team into reliable cloud-based tools. You will work closely with team members, understand what they actually need, and build solutions that are simple to use, fully accurate, and easy to maintain. This is a hands-on builder role for someone who genuinely enjoys turning messy, manual workflows into clean automated systems and who can explain in plain English what the program is doing and why.\n\n\\*Responsibilities:\\*\n\n- \\*Understand requirements:\\* Sit with team members, listen to the problem they are trying to solve, and translate it into a clear scope before writing a single line of code.\n\n- \\*Build cloud-based applications:\\* Design and develop tools using modern stacks (Python, JavaScript/Node.js, SQL databases like PostgreSQL/MySQL, REST APIs and Webhooks) to replace legacy Excel/VBA macros.\n\n- \\*Automate workflows:\\* Build end-to-end automations using Zapier, Make.com, or similar no-code/low-code platforms connected to QuickBooks Online, Xero, Karbon, Google Workspace, Slack, and other tools we use.\n\n- \\*Use AI as a tool:\\* Leverage Claude, ChatGPT, and similar AI tools to accelerate development, write better code, and prototype faster, while owning the final quality of what ships.\n\n- \\*Explain in simple language:\\* Document every program in plain, non-technical language so accountants can understand what it does, what inputs it needs, and what to do if something looks off.\n\n- \\*Debug and support:\\* When errors happen, troubleshoot quickly, identify root causes, fix them, and put guardrails in place so the same issue does not return.\n\n- \\*Ensure 100% accuracy:\\* Build validation checks, reconciliation logic, and audit trails into every tool. Accounting work has no room for silent errors.\n\n- \\*Maintain and scale:\\* Keep tools running smoothly as the team grows and client requirements change.\n\n\\*Required Skills:\\*\n\n- Python\n\n- SQL (PostgreSQL/MySQL)\n\n- Zapier / Make.com\n\n- JavaScript / Node.js\n\n- REST APIs and Webhooks\n\n- Strong debugging, analytical, and problem-solving skills\n\n- Excellent communication and collaboration skills\n\n\\*Bonus:\\* Experience with QuickBooks Online, Xero, or accounting automation is highly preferred.\n\n\\*To apply:\\* Share your resume at hr@gatpsolutions.com\n\nPay: ₹30,000.00 - ₹45,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of experience do you have in Automation Developer?\n* \\* What is your current notice period?\n\n* What is your current CTC?\n* What are your salary expectations?\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "12ab609db315": {
+   "id": "12ab609db315",
+   "site": "indeed",
+   "title": "FULL-STACK WEB DEVELOPER & AI DEVELOPMENT SPECIALIST",
+   "company": "Alluring Monks Private Limited",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=c0d1d94860f59669",
+   "apply_url": "https://in.indeed.com/viewjob?jk=c0d1d94860f59669",
+   "date_posted": "2026-11-20",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "WE'RE HIRING: FULL-STACK WEB DEVELOPER & AI DEVELOPMENT SPECIALIST\n\n**Company:** Alluring Monks Private Limited  \n**Location:** Remote  \n**Employment Type:** Full-Time  \n**Experience:** 4–5 Years\n\nSalary - Rs 30,000-Rs35000/- (Depending on their Experience)\n\nABOUT THE ROLE\n\nAlluring Monks is looking for a highly skilled and versatile Full-Stack Web Developer who can independently design, develop, customise, integrate, deploy and maintain modern websites across multiple platforms and technologies.\n\nWe are looking for someone who understands the complete website development ecosystem, from traditional static websites and WordPress to Shopify ecommerce stores, custom-coded websites, web applications and next-generation interactive 3D experiences.\n\nThe ideal candidate should be comfortable working with AI-powered development tools such as Claude Code, Cursor, Google Antigravity and other emerging platforms to accelerate development and create advanced digital experiences.\n\nWe aren't looking for someone who simply installs templates or generates websites using AI. We need someone who understands the technology behind the website and can deliver a complete, functional and production-ready product.\n\nKEY RESPONSIBILITIES\n\n* Develop complete business, corporate, portfolio and landing page websites.\n* Build and customise Shopify, WordPress and WooCommerce websites.\n* Develop custom-coded websites and web applications.\n* Work with existing themes, templates, plugins and custom components.\n* Develop premium ecommerce stores with complete shopping and checkout functionality.\n* Integrate payment gateways, shipping providers, CRM systems and third-party APIs.\n* Configure product catalogues, inventory, order management and delivery workflows.\n* Build interactive, animated and 3D websites.\n* Use AI coding tools to accelerate development and improve workflows.\n* Handle website hosting, domain configuration, deployment and migration.\n* Ensure website security, speed, SEO and mobile responsiveness.\n* Troubleshoot, maintain and optimise existing websites.\n\nTECHNICAL SKILLS & PLATFORMS\n\n**1. Core Development**\n\n* HTML5, CSS3 and JavaScript.\n* React.js and Next.js.\n* Node.js and Express.js.\n* PHP and basic Laravel.\n* REST APIs, webhooks and third-party integrations.\n* Git and GitHub.\n\n**2. CMS & Website Development Platforms**\n\n* WordPress and custom WordPress themes.\n* Shopify and Shopify Liquid.\n* WooCommerce.\n* Webflow.\n* Framer.\n* Wix and Squarespace.\n* Magento / Adobe Commerce.\n* Sanity and Strapi.\n\n**3. Ecommerce & Payment Integrations**\n\nExperience configuring complete ecommerce operations, including:\n\n* Razorpay, Cashfree, PayU, Stripe and PayPal.\n* UPI, debit cards, credit cards and Cash on Delivery.\n* Product catalogues, variants and inventory management.\n* Shopping carts and checkout configuration.\n* Discounts, coupons and promotional offers.\n* GST configuration and invoice generation.\n* Order management and automated notifications.\n* Refunds, cancellations, returns and exchanges.\n\n**4. Shipping & Logistics Integrations**\n\n* Shiprocket.\n* Delhivery.\n* NimbusPost.\n* Blue Dart.\n* Shipping API integrations.\n* Pincode serviceability and shipping rate configuration.\n* Courier selection and shipment creation.\n* AWB generation and order tracking.\n* COD, RTO and reverse pickup workflows.\n\n**5. AI-Powered Development Tools**\n\n* Claude Code.\n* Cursor.\n* Google Antigravity.\n* Lovable.\n* Bolt.new.\n* Vercel v0.\n\nMust understand AI-assisted development, code generation, debugging, customisation and building complete websites using AI coding workflows.\n\n**6. Advanced Creative & Interactive Development**\n\n* GSAP and ScrollTrigger.\n* Framer Motion.\n* Three.js and React Three Fiber.\n* WebGL.\n* Spline.\n* Blender.\n* Lottie animations.\n* Interactive 3D product displays.\n* Scroll-triggered animations and immersive website experiences.\n\n**7. Backend & Database Technologies**\n\n* MySQL and PostgreSQL.\n* MongoDB.\n* Firebase and Supabase.\n* Authentication and user management.\n* Database integrations and API development.\n\n**8. Hosting, Cloud & Deployment**\n\n* AWS (EC2, S3, CloudFront, Route 53, Lambda and RDS).\n* Vercel and Netlify.\n* Cloudflare.\n* Hostinger and cPanel.\n* Domain and DNS configuration.\n* SSL installation and management.\n* Website migration, backups and deployment.\n* Server configuration and monitoring.\n\n**9. SEO, Performance & Security**\n\n* Technical SEO and website indexing.\n* Google Analytics 4 and Google Tag Manager.\n* Google Search Console.\n* Meta Pixel and conversion tracking.\n* Core Web Vitals and website speed optimisation.\n* Image optimisation and caching.\n* Website security and regular backups.\n* Mobile responsiveness and cross-browser compatibility.\n\nTYPES OF WEBSITES YOU SHOULD BE ABLE TO BUILD\n\n* Static and dynamic websites.\n* Corporate and business websites.\n* Premium brand and portfolio websites.\n* Shopify and WooCommerce ecommerce stores.\n* Custom ecommerce platforms.\n* Landing pages and campaign microsites.\n* SaaS websites and web applications.\n* Booking and appointment platforms.\n* Membership and subscription websites.\n* LMS and educational platforms.\n* Marketplace and directory websites.\n* Interactive and animated websites.\n* 3D and immersive product websites.\n* Custom dashboards and customer portals.\n\nWHAT WE EXPECT\n\n* Ability to independently handle website projects from concept to deployment.\n* Strong understanding of modern web development technologies.\n* Ability to identify the right platform and technology for each project.\n* Experience customising templates and developing websites from scratch.\n* Practical knowledge of ecommerce operations and third-party integrations.\n* Ability to troubleshoot and resolve technical issues independently.\n* Strong understanding of responsive design, website performance and security.\n* Willingness to experiment with emerging AI tools and modern web technologies.\n* Ability to manage multiple projects and work with internal creative and marketing teams.\n\nEXPERIENCE & QUALIFICATIONS\n\n* 4–5 years of relevant web development experience preferred.\n* Strong practical knowledge of frontend and backend development.\n* Experience with Shopify, WordPress and ecommerce projects is highly preferred.\n* Experience with AI-assisted development tools is a strong advantage.\n* A strong portfolio of live websites and completed projects is mandatory.\n\nHOW TO APPLY\n\nInterested candidates can share their resume\n\nAlluring Monks Private Limited\n\nBuild experiences. Create impact.\n\nPay: ₹30,000.00 - ₹35,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* Which platforms and technologies have you independently worked with to develop and deploy complete websites? (WordPress, Shopify, WooCommerce, Webflow, Framer, React, Next.js, HTML/CSS/JavaScript, etc.)\n* Have you independently developed and configured complete ecommerce websites, including payment gateways (Razorpay, Cashfree, Stripe), shipping integrations (Shiprocket, Delhivery), product management, inventory, checkout, COD, order tracking and returns?\n* Which AI development tools have you worked with (Claude Code, Cursor, Google Antigravity, Lovable, Bolt, etc.)? Have you built interactive, animated or 3D websites using technologies such as GSAP, Three.js, WebGL or Framer Motion?\n* What experience do you have with backend development, databases, APIs, cloud hosting and website deployment? (Node.js, PHP, MySQL, PostgreSQL, Supabase, AWS, Vercel, Netlify, Cloudflare, DNS and SSL, etc.)\n* Can you share at least 3–5 live websites you have personally developed, preferably covering ecommerce, business websites and custom or interactive websites? Are you capable of independently managing a complete project from development and integrations to testing, deployment and maintenance?\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "e067d35d9932": {
+   "id": "e067d35d9932",
+   "site": "indeed",
+   "title": "Full Stack Developer (Project-based training program)",
+   "company": "NGFO Technologies",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d38c5ccfc419ad12",
+   "apply_url": "https://in.indeed.com/viewjob?jk=d38c5ccfc419ad12",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Position:** Full Stack Developer Training\n\n**Technology:** Node.js / Express.js / MongoDB / React.js\n\n**Department:** Software Development\n\n**Internship Duration:** 3 Months\n\n**Work Mode:** Remote / Work From Home\n\n**Employment Type:** Internship to be paid to the company\n\n**Experience:** Freshers / Students Can Apply\n\n**About the Training**\n\nWe are looking for motivated Full Stack Developer who are passionate about backend and frontend development. Interns will get hands-on experience working on real-world software applications, including our ride-hailing technology platform.\n\n**Roles & Responsibilities**\n\n* Assist in developing backend applications using Node.js.\n* Build and maintain RESTful APIs using Express.js.\n* Work with MongoDB databases and database queries.\n* Develop frontend components using React.js.\n* Integrate frontend applications with backend APIs.\n* Implement authentication and authorization.\n* Debug, test and optimize application performance.\n* Work with Git and GitHub for version control.\n* Collaborate with the development team on assigned modules.\n* Participate in code reviews and technical discussions.\n\n**Required Technical Skills**\n\n* Basic knowledge of JavaScript.\n* Understanding of Node.js fundamentals.\n* Basic knowledge of Express.js.\n* Familiarity with MongoDB.\n* Understanding of HTML, CSS and React.js.\n* Knowledge of REST API concepts.\n* Familiarity with Git and GitHub.\n\n**Good to Have**\n\n* Knowledge of Socket.IO.\n* Basic understanding of Redis.\n* Familiarity with AWS or cloud deployment.\n* Knowledge of JWT authentication.\n* Understanding of software architecture.\n\n**What You Will Learn**\n\n* Real-world backend development.\n* API development and integration.\n* Database design and optimization.\n* Full stack application development.\n* Software development workflows.\n* Debugging, testing and deployment processes.\n\n**Eligibility**\n\n* B.E / B.Tech / BCA / MCA / B.Sc Computer Science or equivalent.\n* Final-year students and recent graduates.\n* Candidates with basic programming knowledge.\n* A laptop and reliable internet connection are required.\n\n**Internship Benefits**\n\n* Work on real-world software products.\n* Technical mentorship.\n* Internship completion certificate.\n* Opportunity for full-time employment based on performance.\n\nPay: From ₹15,000.00 per month\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "8dd39bb1007d": {
+   "id": "8dd39bb1007d",
+   "site": "indeed",
+   "title": "Full Stack Developer",
+   "company": "KIYAN CH SOLUTIONS",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=abf818e9d65878ed",
+   "apply_url": "https://in.indeed.com/viewjob?jk=abf818e9d65878ed",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Job Responsiblities :-\n\n* Create visually appealing user interactions\n* Develop frontend website architecture and backend web apps\n* Maintain and upgrade software following implementation\n* Oversee the analysation, development, and execution of software\n* Test changes to previously created programs\n* Work closely with product management teams and graphic designers for web features.\n* Design and develop application programming interfaces (APIs)\n* Stay updated with the latest technological advancements in web apps and programming languages\n* Handle automated testing and provide feedback during the software development phase\n* Should have knowledge of API integration\n\nJob Type: Full-time\n\nPay: ₹200,000.00 - ₹500,000.00 per year\n\nEducation:\n\n* Bachelor's (Preferred)\n\nExperience:\n\n* Angular: 1 year (Preferred)\n* total work: 1 year (Preferred)\n* Java: 1 year (Preferred)\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "9cb358d40ff3": {
+   "id": "9cb358d40ff3",
+   "site": "indeed",
+   "title": "Full Stack Developer",
+   "company": "Golden Bird Healthcare Pvt. Ltd.",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=a6f1447373cb6b33",
+   "apply_url": "https://in.indeed.com/viewjob?jk=a6f1447373cb6b33",
+   "date_posted": "2026-11-19",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Full Stack Developer – AI & 3D Visualization**\n\n**Company:** KrinosAI (Dental AI Startup)\n\n**Location:** Remote\n\n**Job Type:** Full-Time\n\n**Experience:** 3–4 Years\n\n**Salary:** ₹6–8 LPA\n\n**About the Role:**\n\nKrinosAI is looking for a skilled Full Stack Developer to build scalable web applications, integrate AI-powered APIs and develop interactive 3D medical visualization solutions. The candidate will work on AI-driven healthcare products, backend architecture, cloud deployment, and real-time applications.\n\n**Key Responsibilities:**\n\n* Develop scalable web applications using React.js, Next.js, Node.js and Express.js.\n* Build REST APIs, backend services and database architectures.\n* Integrate LLM APIs, AI agents, and third-party services.\n* Develop interactive 3D visualization using Three.js, WebGL or similar technologies.\n* Work with PostgreSQL, MongoDB, AWS and Docker.\n* Manage application deployment, debugging, performance optimization and security.\n* Collaborate with AI/ML and product teams to build production-ready solutions.\n\n**Required Skills:**\n\n* Strong knowledge of JavaScript, TypeScript, React.js, Next.js and Node.js.\n* Experience with Python, FastAPI/Flask, REST APIs and databases.\n* Understanding of system design, backend architecture and cloud deployment.\n* Experience with AWS, Docker, Git and CI/CD.\n* Knowledge of AI API integration, LLM workflows and WebSockets.\n* Familiarity with Three.js, WebGL or 3D visualization.\n\n**Preferred:** LangChain, LangGraph, RAG, vector databases, Redis, DICOM, medical imaging and AI agent workflows.\n\n**Apply Here:** https://forms.gle/PRhknvXAWkx3mcRQ6\n\n**Website:** https://krinosai.com/\n\nIf you want, I can also make this **more attractive and keyword-optimized for Indeed to get better-quality applicants**.\n\nPay: ₹600,000.00 - ₹800,000.00 per year\n\nWork Location: Remote",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "359d653b9d13": {
+   "id": "359d653b9d13",
+   "site": "naukri",
+   "title": "Dot NET Developer",
+   "company": "Workiy Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-dot-net-developer-workiy-inc-remote-7-to-12-years-191126505824",
+   "apply_url": "https://workiy.zohorecruit.com/jobs/Workiy-Careers/574222000027390012",
+   "date_posted": "2026-11-19",
+   "experience": "7-12 Yrs",
+   "skills": "Analytical, SQL, Application development, Information technology, Production support, Integration, Science, SSIS",
+   "emails": [],
+   "description": "We are looking for an experienced .NET Developer with strong hands\\-on expertise in Microsoft .NET technologies, SQL Server, and SQL Server Integration Services (SSIS). The ideal candidate will have experience developing, maintaining, and enhancing enterprise\\-level applications, building data integration workflows, and managing complex ETL processes.    The candidate should possess strong programming skills in C#, ASP.NET, .NET Core\\/.NET 6+, SQL Server, and SSIS, along with the ability to work on application development, database integration, data migration, and production support activities.     \n\nRequirements\n\n* Bachelors degree in Computer Science, Information Technology, or a related discipline.\n* 7+ years of overall software development experience preferred.\n* Strong experience in enterprise application development.\n* Demonstrated experience developing and supporting SSIS packages.\n* Excellent analytical, communication, and troubleshooting skills.\n* Ability to work independently and collaborate with distributed teams\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b918ee9f4cf7": {
+   "id": "b918ee9f4cf7",
+   "site": "naukri",
+   "title": "Contractor - GlobalLogic",
+   "company": "Verint Systems",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-contractor-globallogic-verint-financial-compliance-remote-3-to-5-years-191126505550",
+   "apply_url": "https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4385",
+   "date_posted": "2026-11-19",
+   "experience": "3-5 Yrs",
+   "skills": "Analytical, Interpersonal, Data analysis, Communication skills, Financial Transactions, Contracts, Interpersonal skills, Analytical Skill",
+   "emails": [],
+   "description": "* Collaborate with cross-functional teams to identify and mitigate potential risks.\n  \n* Develop and implement effective audit plans to ensure regulatory compliance.\n  \n* Conduct thorough reviews of financial transactions and reports to detect fraudulent activities.\n  \n* Provide expert guidance on financial regulations and compliance matters.\n  \n* Analyze complex data sets to identify trends and patterns that may indicate non-compliance.\n  \n* Develop and maintain relationships with external auditors and regulatory bodies.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-20T12:03:01+00:00",
+   "status": "new",
+   "updated_at": "2026-11-20T12:03:01+00:00",
+   "history": [
+    {
+     "at": "2026-11-20T12:03:01+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
   }
  },
  "runs": [
