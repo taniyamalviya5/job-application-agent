@@ -5745,15 +5745,37 @@
    "emails": [],
    "description": "Senior Software Engineer\n\nAccomplished Tech Visionary:\n\nElevate your expertise to new heights at 3Pillar, the premier destination for trailblazing senior software engineers like yourself. Picture collaborating with industry leaders, spearheading transformative projects that redefine urban living, establishing new media channels for enterprise companies, or driving innovation in healthcare. Our mission is to revolutionize the tech landscape, and your skills are integral to achieving this ambitious goal.\n\nYour role extends beyond the realm of code composition; you will architect transformative solutions that reshape entire industries. Join us and spearhead the charge toward a tech future that transcends the ordinary.\n\nKey Responsibilities:\n\n* Facilitate effective communication with client project stakeholders regarding project status and recommendations.\n* Craft client code that is not just efficient, but also performant, testable, scalable, secure, and of the highest quality.\n* Actively participate in accurate planning and estimation efforts, utilizing project methods and tools.\n* Proficiently gather requirements and organize/present developed features for clients.\n* Execute complex activities within the current methodology and quality standards, showcasing success across diverse engagements.\n* Promote client success across the team by collaborating with engineers, designers, and managers to understand user pain points, anticipate potential problems, and iterate on solutions that drive client success.\n* Engage in agile software development, including daily stand-ups, sprint planning, team retrospectives, and other governance activities.\n* Actively participate in the Engineering Practice community, mentoring others through Communities of Practice (CoPs) or on project teams, and supporting the growth of technical capabilities.\n* Independently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment.\n\nMinimum Qualifications:\n\n* A minimum of 4 to 7 years of experience/expertise in the following areas specified below\\*:\n\n  + Expertise in Java, J2EE, Springboot, Hibernate, Docker, and MySQL\n  + Experience in exception handling, cor   rect use of data structures, multi-threaded programming, memory management and application tuning\n  + microservices based microservices development\n  + Experience ORM technologies using Spring/springboot\n  + Proficien   cy with cloud platforms (AWS/GCP) and NoSQL databases   .\n  + Must have excellent exposure in Unit Testing\n  + Good knowledge in design patterns\n  + Good hands on experience with RDBMS like Oracle/ Mysql have ability to write data structures, basic SQL Queries knowledge of joins, Views, Group By, Having Clause etc\n  + Excellent oral/written communication and interpersonal skills with ability to   multitask and work under pressure to meet deadlines\n\n* Experience in Agile software development methodologies.\n* Expertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\n* High-level design proficiency following UML / C4 / ArchiMate.\n* Experience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\n* Practice and initiative mentoring other engineers and decision-makers throughout the organization.\n* Good understanding of SOLID principles.\n* Familiarity with OWASP.\n* Proficiency in the English language.\n* Educational Qualification: B.E. (C.S/IT/EC) / B.Tech. (C.S/IT/EC) / MCA.\n\nAdditional Experience Desired:\n\n* Object-Relational Mappers (ORMs)\n* Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Observer etc) Patterns\n* Unit Testing\n* Working in the Cloud\n* Containers using Docker/Kubernetes\n* Specific client-engagement specified technologies, which will be determined and vetted at the time of the interview.\n\nWhat is it like working for 3Pillar Global\n\nAt 3Pillar, we offer a world of opportunity:\n\n* Imagine a   flexible work environment   whether it's the office, your home, or a blend of both. From interviews to onboarding, we embody a remote-first approach.\n* You will be part of a   global team   , learning from top talent around the world and across cultures, speaking English everyday. Our global workforce enables our team to leverage global resources to accomplish our work in efficient and effective teams.\n* Were   big on your well-being   as a company, we spend a whole trimester in our annual cycle focused on wellbeing. Whether it is taking advantage of fitness offerings, mental health plans (country-dependent), or simply leveraging generous time off, we want all of our team members operating at their best.\n* Our professional services model enables us to   accelerate career growth   and development opportunities - across projects, offerings, and industries.\n* We are an equal opportunity employer.   It goes without saying that we live by values like Intrinsic Dignity and Open Collaboration to create cutting-edge technology AND reinforce our commitment to diversity - globally and locally.\n\n  \n  \nDisclaimer: This job posting and Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 50"
     }
-   ]
+   ],
+   "score": 50,
+   "reasons": [
+    "Matched: Interpersonal skills, Agile Software, Agile Software Development, Software development",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Architecture",
+    "Craft",
+    "Data",
+    "Docker"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Sr Software Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at 3Pillar,\n\nI am writing to apply for the Sr Software Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Interpersonal skills, Agile Software, Agile Software Development matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9f6ee4757f51": {
    "id": "9f6ee4757f51",
@@ -5772,15 +5794,32 @@
    ],
    "description": "Hiring: MERN Stack Full Stack Developer (React.js & Node.js)\n\n**Company:** Logical Soft Tech Pvt. Ltd.  \n**Location:** Indore, Madhya Pradesh  \n**Job Type:** Full-Time  \n**Work Mode:** On-Site  \n**Experience Required:** Minimum 6 Months in any IT Company (Mandatory)\n\nAbout the Role\n\nLogical Soft Tech Pvt. Ltd. is looking for a skilled and motivated MERN Stack Full Stack Developer with practical experience in React.js and Node.js. The candidate should be capable of developing responsive web applications, integrating APIs, and working on both frontend and backend development.\n\nKey Responsibilities\n\n* Develop and maintain web applications using React.js and Node.js.\n* Build responsive and user-friendly frontend interfaces.\n* Develop RESTful APIs and manage backend functionality.\n* Work with MongoDB for database design and management.\n* Integrate third-party APIs and services.\n* Write clean, reusable, scalable, and optimized code.\n* Debug, troubleshoot, and resolve technical issues.\n* Collaborate with the development team to deliver projects on time.\n\nRequired Technical Skills\n\n* Strong knowledge of JavaScript (ES6+).\n* Hands-on experience with React.js.\n* Working experience with Node.js and Express.js.\n* Knowledge of MongoDB and database operations.\n* Understanding of REST API development and integration.\n* Familiarity with HTML5, CSS3, Bootstrap or Tailwind CSS.\n* Knowledge of Git and GitHub.\n* Understanding of frontend and backend integration.\n\nEligibility Criteria\n\n* Minimum 6 months of working experience in any IT company is mandatory.\n* Must have practical project development experience.\n* Candidates should be able to work independently and in a team.\n* Good problem-solving and communication skills.\n* Must be available for an on-site job in Indore.\n\n**Important:** Candidates without at least 6 months of IT company experience\n\n**\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\***\n\n**Apply Now** and join **Logical Soft Tech Pvt. Ltd.** to work on real-world\n\n**Please Check job description carefully and come for Interview, Apply or can send CV on mail. We will shortlist the candidate for Interview soon:-**\n\n**Company Name : Logical Soft Tech Pvt Ltd**\n\n**Email: logicalhr.softtech@gmail.com , talentlogicalsofttech@gmail.com**\n\n**HR Team: - +91-7869731595 , +91-8269829729**\n\n**Technical Department: +91-8210251824**\n\n**Website : https://logicalsofttech.com**\n\n**Instagram : https://www.instagram.com/logical\\_softtech/reels/**\n\n**Youtube : https://www.youtube.com/@LogicalSoftTechITProgram/shorts**\n\n*\\*\\*\\*\\*Notes: This job is not for Fresher candidates, for Fresher we only have Training and internship \\*\\*\\*\\*\\*\\**\n\nPay: ₹5,000.00 - ₹15,000.00 per month\n\nWork Location: In person",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 30"
     }
-   ]
+   ],
+   "score": 30,
+   "reasons": [
+    "Matched: about, apis, both, company, git",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "logicalhr.softtech@gmail.com",
+    "subject": "Application for Full Stack Developer (MERN) - Taniya Malviya",
+    "body": "Dear Hiring Team at Logical Soft srl,\n\nI am writing to apply for the Full Stack Developer (MERN) role. I am a Senior Software Engineer, 7+ years, and my background in about, apis, both matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "2822137444e7": {
    "id": "2822137444e7",
@@ -5796,15 +5835,39 @@
    "emails": [],
    "description": "Job Description:\n\nJob Title:  AI Forward Python Developer\n\n**Experience Level:** 3 - 7 years\n\n  \n\n**Job Overview:** We are seeking an experienced Python Full Stack  Developer to join our team. The ideal candidate will have a strong background in backend development, front development,  cloud technologies, and big data processing using AI tools like Claude, Github Copilot etc. This role involves contributing to technical projects ensuring the delivery of high-quality solutions.\n\n**Responsibilities:**\n\n* Development of backend micro services using Django.\n* Implement AI forward development practices\n* Design and implement scalable and secure APIs.\n* Integrate Azure Cloud services for application deployment and management.\n* Utilize Azure Databricks for big data processing and analytics.\n* Implement data processing pipelines using PySpark.\n* Collaborate with front-end developers, product managers, and other stakeholders to deliver comprehensive solutions.\n* Conduct code reviews and ensure adherence to best practices.\n* Mentor and guide junior developers.\n* Optimize database performance and manage data storage solutions.\n* Ensure high performance and security standards for applications.\n* Participate in architecture design and technical decision-making.\n\n**Qualifications:**\n\n* Bachelor's degree in Computer Science, Information Technology, or a related field.\n* Experience  with backend development.\n* Experience with Django. React\n* Proven experience with Azure Cloud services.\n* Experience with Azure Databricks and PySpark.\n* Strong understanding of RESTful APIs and web services.\n* Excellent communication and problem-solving skills.\n* Familiarity with Agile methodologies.\n* Experience with database management (SQL and NoSQL).\n\n**Skills:** Django, Python, Claude/Github Copilot, Azure Cloud, Azure Databricks, Delta Lake and Delta tables, PySpark, SQL/NoSQL databases, RESTful APIs, Git, and Agile methodologies",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: SQL",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Machine",
+    "Python",
+    "Web technologies",
+    "Python Development",
+    "Artificial Intelligence",
+    "Web Framework"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for AI Forward Python Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at InfoBeans,\n\nI am writing to apply for the AI Forward Python Developer role. I am a Senior Software Engineer, 7+ years, and my background in SQL matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9a1f879d37e8": {
    "id": "9a1f879d37e8",
@@ -5820,15 +5883,39 @@
    "emails": [],
    "description": "**Roles and Responsibilities**\n\n* Design, develop, test, deploy, and maintain full-stack applications using Java as the primary programming language.\n* Collaborate with cross-functional teams to identify requirements and deliver high-quality solutions.\n* Implement microservices architecture using Spring Boot and communicate effectively with other services through APIs.\n* Ensure scalability, security, and performance of the application by implementing load balancing techniques such as Kafka.\n* Participate in code reviews to ensure adherence to coding standards and best practices.\n* Programming Language - React.js",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: AWS",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Boot",
+    "Spring Boot",
+    "Bootstrap",
+    "React.js",
+    "Java",
+    "Java Fullstack"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Java Full Stack Developer (React.js) -Nagpur - Taniya Malviya",
+    "body": "Dear Hiring Team at Infosys,\n\nI am writing to apply for the Java Full Stack Developer (React.js) -Nagpur role. I am a Senior Software Engineer, 7+ years, and my background in AWS matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "ea296d221fb5": {
    "id": "ea296d221fb5",
@@ -5844,15 +5931,38 @@
    "emails": [],
    "description": "**Job Summary**  \n\n5+ years of Backend Development experience in a Product-Based Company.\n\n**Requirements**  \n\n* Strong expertise in Node.js.\n* Experience with Express.js / NestJS / Fastify.\n* Strong knowledge of JavaScript, TypeScript, SQL & NoSQL.\n* Hands-on experience with MongoDB, Microservices, Authentication & Authorization.\n* React.js knowledge.\n* Comfortable working in a startup environment.\n* Must be willing to work onsite in Indore.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Typescript, SQL, Senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "MongoDB",
+    "Full Stack",
+    "Nestjs",
+    "Backend",
+    "Microservices"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Backend/Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Skyline Dynamics,\n\nI am writing to apply for the Senior Backend/Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in Typescript, SQL, Senior matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "f16db69a9596": {
    "id": "f16db69a9596",
@@ -5868,15 +5978,32 @@
    "emails": [],
    "description": "Hiring: Part-Time Full-Stack AI Developer\n\n**Experience:** 3–6 Years  \n**Work Mode:** Remote  \n**Job Type:** Part-Time  \n**Working Hours:** 3–4 Hours Daily  \n**Project Budget:** ₹1,00,000 (Fixed, negotiable based on experience)  \n**Initial Duration:** 3 Months\n\nRequired Skills\n\n**1. Full-Stack Development**\n\n* Next.js, React and TypeScript.\n* Node.js or Python.\n* PostgreSQL and REST APIs.\n* OAuth 2.0 and third-party API integrations.\n* Website crawling and data extraction.\n* SaaS architecture and cloud deployment.\n\n**2. AI / LLM Engineering**\n\n* OpenAI API integration.\n* Prompt engineering.\n* AI-powered application development.\n* AI content generation and recommendations.\n* Data analysis and automation.\n* Keyword clustering and content gap analysis.\n\nKey Responsibilities\n\n* Develop frontend and backend applications.\n* Integrate third-party APIs.\n* Build AI-powered features and automation workflows.\n* Develop dashboards and reporting systems.\n* Design and manage databases.\n* Ensure application security, performance and scalability.\n* Test, deploy and maintain applications.\n\nPreferred Skills\n\n* Google Search Console API and Google Analytics API.\n* Google Ads API / Keyword Planner.\n* Playwright, Scrapy or BeautifulSoup.\n* Cloudflare or AWS.\n* Experience building and deploying SaaS applications.\n\nCandidate Requirements\n\n* 3–6 years of relevant development experience.\n* Experience building at least one real-world application.\n* Practical AI/LLM integration experience.\n* Ability to work independently and meet deadlines.\n* Strong problem-solving skills.\n\nApplication\n\nInterested candidates should share:\n\n* Updated resume.\n* GitHub profile or portfolio.\n* Previous AI/SaaS project examples.\n* Current availability.\n\n**Project Budget: ₹1,00,000 for the complete assignment, subject to agreed milestones and deliverables.**\n\nPay: Up to ₹100,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* Have you developed backend applications using Node.js or Python?\n\nExperience:\n\n* OpenAI API or other LLM API: 3 years (Required)\n* Google APIs, OAuth 2.0 and third-party API integrations: 3 years (Required)\n* deployed a SaaS application: 3 years (Required)\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 18"
     }
-   ]
+   ],
+   "score": 18,
+   "reasons": [
+    "Matched: apis, node.js, profile, react, rest",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at ShiiftoTech,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in apis, node.js, profile matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "e37593155109": {
    "id": "e37593155109",
@@ -5892,15 +6019,32 @@
    "emails": [],
    "description": "Job Overview\n\nWe are looking for a skilled **Full Stack Developer with 4 to 6 years of hands-on experience** in the MERN stack to join our development team. The ideal candidate should have strong experience building scalable web applications, REST APIs, database-driven systems, and cloud-based applications using **MongoDB, PostgreSQL, and AWS**.\n\nExperience working with **AI-powered features and payment gateway/payment processing systems** will be highly preferred.\n\nThe candidate will work closely with product, backend, frontend, DevOps, and QA teams to design, develop, integrate, test, and maintain reliable production-grade applications.\n\nKey Responsibilities Full Stack Development\n\n* Develop responsive and scalable web applications using **React.js, Node.js, Express.js, and JavaScript/TypeScript**.\n* Build reusable and maintainable frontend components.\n* Develop secure and scalable RESTful APIs and backend services.\n* Implement authentication, authorization, RBAC, session management, and API security.\n* Integrate frontend applications with backend APIs and third-party services.\n* Troubleshoot and optimize application performance.\n\nDatabase Development\n\n* Work with **MongoDB and PostgreSQL** for application development.\n* Design database schemas, relationships, indexes, and queries.\n* Write optimized SQL queries and MongoDB queries.\n* Handle transactions, data consistency, migrations, and database optimization.\n* Troubleshoot database performance and connectivity issues.\n\nAWS & Cloud\n\n* Deploy and maintain applications on **AWS**.\n* Hands-on experience with services such as:\n* EC2\n* ECS\n* ECR\n* S3\n* RDS\n* CloudWatch\n* IAM\n* VPC\n* ALB\n* Route 53\n* Understand basic cloud networking, security groups, IAM permissions, and environment configuration.\n* Work with development, staging, and production environments.\n* Support CI/CD pipelines and automated deployments.\n\nPayment Systems\n\n* Develop and integrate **payment gateways and payment APIs**.\n* Understand payment flows such as:\n* Payment initiation\n* Authorization\n* Capture\n* Success/failure handling\n* Refunds\n* Webhooks\n* Transaction reconciliation\n* Work with payment gateway APIs, SDKs, webhooks, and third-party payment providers.\n* Implement secure handling of payment-related data.\n* Troubleshoot payment API and transaction integration issues.\n* Understanding of **payment orchestration, routing, or payment processing systems** is an advantage.\n\nAI Integration\n\n* Integrate **AI/LLM-powered features** into web applications.\n* Work with AI APIs and third-party AI services.\n* Build features such as AI assistants, intelligent search, automation, recommendations, or AI-based analytics.\n* Understand basic concepts such as:\n* LLMs\n* Prompt engineering\n* Embeddings\n* RAG\n* Vector databases\n* AI API integration\n* Experience with OpenAI, Claude, Gemini, Qwen, Ollama, or similar technologies is a plus.\n\nAPI & Third-Party Integrations\n\n* Design and consume REST APIs.\n* Integrate external services and third-party APIs.\n* Implement webhook-based integrations.\n* Handle API authentication, retries, errors, rate limits, and logging.\n* Document APIs using Swagger/OpenAPI or similar tools.\n\nSecurity & Performance\n\n* Follow secure coding practices.\n* Implement proper input validation and error handling.\n* Protect APIs against common vulnerabilities such as SQL injection, NoSQL injection, XSS, CSRF, and unauthorized access.\n* Optimize frontend and backend performance.\n* Implement logging, monitoring, and proper exception handling.\n\nCollaboration\n\n* Work with developers, DevOps engineers, QA engineers, and product teams.\n* Participate in code reviews and technical discussions.\n* Analyze requirements and convert them into technical solutions.\n* Debug production issues and provide root-cause analysis.\n* Maintain clean, documented, and maintainable code.\n\nRequired Technical SkillsFrontend\n\n* React.js\n* JavaScript / TypeScript\n* HTML5\n* CSS3\n* REST API integration\n* State management such as Redux, Context API, or similar\n\nBackend\n\n* Node.js\n* Express.js\n* TypeScript\n* REST API development\n* Authentication & Authorization\n* JWT\n* Webhooks\n\nDatabases\n\n* MongoDB\n* PostgreSQL\n* SQL\n* Database schema design\n* Query optimization\n* Indexing\n\nCloud / DevOps\n\n* AWS\n* EC2\n* ECS\n* ECR\n* S3\n* RDS\n* IAM\n* CloudWatch\n* Basic Docker knowledge\n* Git and GitHub\n* Basic CI/CD knowledge\n\nPayment Technology\n\n* Payment gateway API integration\n* Payment webhooks\n* Transaction lifecycle\n* Refunds\n* Reconciliation\n* Payment failure handling\n* Experience with providers such as Stripe, Razorpay, PayPal, Adyen, Checkout.com, or similar is an advantage.\n\nAI\n\n* AI API integration\n* LLM concepts\n* Prompt engineering\n* RAG fundamentals\n* AI chatbot/assistant development\n* Experience with OpenAI, Claude, Gemini, Qwen, Ollama, or similar platforms is a plus.\n\nPreferred Skills\n\n* Experience with **payment platforms, fintech, banking, or financial applications**.\n* Understanding of **PCI DSS and payment security**.\n* Experience with payment orchestration or multi-provider payment systems.\n* Experience working with microservices.\n* Docker and containerization.\n* Redis or caching technologies.\n* Message queues such as RabbitMQ, Kafka, or SQS.\n* Basic understanding of AWS networking and security.\n* Experience with automated testing.\n* Experience troubleshooting production systems.\n\nEducation\n\n* Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field is preferred.\n* Equivalent practical development experience will also be considered.\n\nWhat We Are Looking For\n\n* Strong problem-solving and debugging skills.\n* Good understanding of software development lifecycle.\n* Ability to write clean, scalable, and maintainable code.\n* Good understanding of API architecture and database design.\n* Ability to work independently as well as within a team.\n* Strong attention to security, performance, and reliability.\n* Willingness to learn and work with new technologies.\n* Good communication and documentation skills.\n\nExperience Level\n\n**2–3 years of professional software development experience**, with strong hands-on experience in:\n\n**MERN Stack + AWS + MongoDB + PostgreSQL + APIs + Payment Systems + AI Integrations**\n\nInterview Focus Areas\n\nCandidates may be evaluated on:\n\n* JavaScript / TypeScript fundamentals\n* React.js development\n* Node.js and Express.js\n* REST API architecture\n* MongoDB and PostgreSQL\n* AWS fundamentals\n* Docker and deployment concepts\n* Payment gateway integrations\n* Webhooks and transaction lifecycle\n* AI/LLM integration\n* Application security\n* Debugging and production troubleshooting\n* System design fundamentals\n* Git and development workflow\n* Real-world coding/problem-solving ability\n\nPay: ₹70,000.00 - ₹100,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 18"
     }
-   ]
+   ],
+   "score": 18,
+   "reasons": [
+    "Matched: apis, aws, javascript, node.js, rest",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at E PAYMENT SERVICES L.L.C,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in apis, aws, javascript matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "06041719bdfb": {
    "id": "06041719bdfb",
@@ -5916,15 +6060,32 @@
    "emails": [],
    "description": "**Job Description**\n\nWe are looking for a skilled and motivated Full Stack Web Developer with 2 years of experience in web development. The candidate should have knowledge of both front-end and back-end development and be capable of developing, maintaining, and optimizing web applications.\n\n**Job Details**\n\n* **Position:** Full Stack Web Developer\n* **Experience:** 2 Years\n* **Salary:** ₹15,000 – ₹20,000 per month\n* **Job Location:** Meerut, Uttar Pradesh\n* **Work Mode:** Work From Home Available\n* **Employment Type:** Full Time\n\n**Required Skills**\n\n* HTML, CSS, JavaScript\n* React.js / Angular\n* PHP / Node.js\n* MySQL / MongoDB\n* Frontend & Backend Development\n* API Integration\n* Website Maintenance & Bug Fixing\n* Responsive Web Design\n\n**Responsibilities**\n\n* Develop and maintain websites and web applications.\n* Work on frontend and backend development.\n* Integrate APIs and databases.\n* Fix bugs and improve website performance.\n* Ensure responsive and user-friendly website design.\n\n**Candidate Requirements**\n\n* Minimum 2 years of relevant experience.\n* Good problem-solving skills.\n* Ability to work independently.\n* Good communication and time-management skills.\n\nPay: ₹15,000.00 - ₹20,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 15"
     }
-   ]
+   ],
+   "score": 15,
+   "reasons": [
+    "Matched: apis, both, javascript, node.js, skills",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Web Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Foryoucreations,\n\nI am writing to apply for the Full Stack Web Developer role. I am a Senior Software Engineer, 7+ years, and my background in apis, both, javascript matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "e0708e4175f2": {
    "id": "e0708e4175f2",
@@ -5940,15 +6101,32 @@
    "emails": [],
    "description": "**Company:** SmoothSales  \n**Job Type:** Full-Time  \n**Work Mode:** Work From Home (Remote)  \n**Experience Required:** Minimum 2 Years  \n**Vacancies:** 4\n\nAbout the Company\n\nSmoothSales is developing a modern SaaS-based CRM platform designed to help businesses manage leads, customers, teams, workflows and business operations.\n\nWe are looking for a technically strong **Full Stack Developer who can work across Frontend, Backend and Mobile App Development and contribute to building and scaling our CRM software.**\n\nAbout the Role\n\nWe need a developer with practical experience in building complete software products, particularly SaaS-based CRM systems, ERP platforms and multi-tenant applications.\n\nThe candidate should understand the complete application architecture and be capable of developing frontend interfaces, backend services, database structures, APIs and mobile application integrations.\n\nCandidates with previous hands-on experience in developing and maintaining production-level CRM or SaaS products will be given preference.\n\n**Required Technical Skills1. Frontend Development**\n\n* React.js and Next.js\n* JavaScript and TypeScript\n* HTML5, CSS3 and Tailwind CSS\n* Redux / Zustand\n* TanStack Query\n* React Hook Form and Zod\n* REST API Integration\n* WebSockets\n\n**2. Backend Development**\n\n* Java 17+\n* Spring Boot\n* Spring Security\n* Spring Data JPA / Hibernate\n* MySQL / SQL\n* REST API Development\n* JWT Authentication\n* Role-Based Access Control\n* Redis and RabbitMQ\n* Microservices Architecture\n* WebSockets\n\n**3. Mobile App Development**\n\n* React Native and Expo\n* JavaScript / TypeScript\n* React Hooks\n* Expo Router\n* Kotlin / Java (Android)\n* Redux / Zustand\n* Firebase Cloud Messaging\n* Push Notifications\n* REST API Integration\n* EAS Build\n\n**4. Software Deployment & Development Tools**\n\n* Git and GitHub\n* Linux\n* Docker (Preferred)\n* Server Configuration\n* Production Deployment\n* API Security\n* Testing and Debugging\n\n**Key Responsibilities**\n\n* Design, develop and maintain complete SaaS CRM applications.\n* Build frontend interfaces, dashboards and reusable components using React.js and Next.js.\n* Develop scalable backend services and APIs using Java and Spring Boot.\n* Design and manage database architecture using MySQL.\n* Develop CRM features such as Lead Management, Customer Management, Task Management, Follow-ups, Automation and Reporting.\n* Implement multi-tenant architecture, workspace management and role-based access control.\n* Integrate third-party services, APIs, webhooks and notification systems.\n* Develop and maintain Android mobile applications using React Native and Expo.\n* Ensure seamless integration between web applications, backend services and mobile apps.\n* Implement real-time updates and notifications using WebSockets.\n* Manage application performance, security, debugging and production deployment.\n* Take ownership of assigned development modules from development to deployment.\n\n**Candidate Requirements**\n\n* **Minimum 2 years** of professional software development experience.\n* **Practical experience in Frontend, Backend and Mobile App Development.**\n* Strong understanding of React.js, Next.js, Java and Spring Boot.\n* Working experience with React Native / Expo.\n* Good knowledge of database design, REST APIs and authentication.\n* Experience with SaaS-based CRM, ERP or enterprise software development.\n* Understanding of multi-tenant application architecture.\n* Ability to independently develop and integrate different software modules.\n* Strong analytical, debugging and problem-solving skills.\n* Ability to work remotely and manage development responsibilities independently.\n\nPreferred Previous Project Experience\n\nCandidates who have worked on:\n\n* SaaS-Based CRM Platforms\n* Multi-Tenant CRM Applications\n* ERP and Business Management Software\n* Lead Management Systems\n* Subscription-Based SaaS Products\n* Enterprise Web Applications\n* Android Applications Integrated with CRM Software\n* Third-Party API and Automation Integrations\n\nWork Details\n\n* Full-Time Position\n* 100% Work From Home\n* One Vacancy\n* Opportunity to work on a real-world SaaS CRM product.\n* Work with modern technologies and scalable software architecture.\n\nApplication Process\n\nInterested candidates should share their updated resume along with the following details:\n\n* Total Professional Experience\n* Frontend Development Experience\n* Backend Development Experience\n* Mobile App Development Experience\n* Previous CRM / SaaS Project Details\n* Personal Role and Responsibilities\n* Current CTC\n* Expected CTC\n* Notice Period\n* GitHub Profile / Portfolio\n\n**Important:** We are looking for developers with real product development experience, not just basic website development knowledge. Candidates must be able to explain their personal contribution to previous software projects.\n\n**Join SmoothSales and help us build and scale a next-generation SaaS CRM platform!**\n\nPay: ₹12,000.00 - ₹15,000.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Health insurance\n* Internet reimbursement\n* Paid sick time\n* Work from home\n\nApplication Question(s):\n\n* How many years of professional experience do you have in software development?\n* Have you previously worked on a SaaS-based CRM, ERP or enterprise software product?\n* Please describe the CRM / SaaS product you previously worked on. What was your role, and what features or modules did you personally develop?\n* Do you have hands-on experience with React.js, Next.js, JavaScript and TypeScript?\n* Do you have hands-on experience with Java 17+, Spring Boot, Spring Security, MySQL and REST API development?\n* Do you have practical experience with React Native, Expo or Native Android Development (Kotlin / Java)?\n* Have you worked on Multi-Tenant Architecture, Multiple Workspaces, Subscription Management or Role-Based Access Control?\n* Can you independently handle Frontend, Backend, Database, API Integration and Mobile App Development?\n* Please share your previous CRM / SaaS project links, demo, GitHub profile and explain your personal contribution to the project.\n\nExperience:\n\n* Full Stack Software Developer – SaaS CRM: 1 year (Required)\n\nLanguage:\n\n* English (Preferred)\n* Hindi (Preferred)\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 30"
     }
-   ]
+   ],
+   "score": 30,
+   "reasons": [
+    "Matched: about, apis, company, git, javascript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Software Developer – SaaS CRM (Frontend, Backend & Mobile App) - Taniya Malviya",
+    "body": "Dear Hiring Team at digisetups,\n\nI am writing to apply for the Full Stack Software Developer – SaaS CRM (Frontend, Backend & Mobile App) role. I am a Senior Software Engineer, 7+ years, and my background in about, apis, company matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "33e2d0e85c4f": {
    "id": "33e2d0e85c4f",
@@ -5964,15 +6142,32 @@
    "emails": [],
    "description": "**Company:** SmoothSales  \n**Job Type:** Full-Time  \n**Work Mode:** Work From Home (Remote)  \n**Experience Required:** Minimum 2 Years  \n**Vacancies:** 4\n\nAbout the Role\n\nWe are looking for an **experienced Full Stack Software Developer** who has practical **experience in developing SaaS-based CRM software, ERP systems, multi-tenant applications and enterprise-level business management platforms**.\n\nThe candidate should have knowledge of **Frontend Development, Backend Development and Mobile App Development** and should be capable of working across the complete software development lifecycle.\n\nCandidates who have **previously worked on CRM/SaaS product**s and personally contributed to d**eveloping frontend interfaces, backend services, APIs, databases or mobile applications will be highly preferred.**\n\nRequired Technical Skills1. Frontend Development\n\n* **Next.js and React.js**\n* **JavaScript (ES6+) and TypeScript**\n* **Tailwind CSS, HTML5 and CSS3**\n* **Zustand / Redux**\n* **TanStack Query**\n* **React Hook Form and Zod**\n* **REST API Integration**\n* **WebSockets / Real-time Data**\n\n2. Backend Development\n\n* **Java 17+**\n* **Spring Boot and Spring Security**\n* **Spring Data JPA / Hibernate**\n* **MySQL / SQL**\n* **REST API Development**\n* **JWT Authentication**\n* **Role-Based Access Control (RBAC)**\n* **Redis and RabbitMQ**\n* **WebSockets**\n* **Microservices Architecture**\n\n3. Mobile App Development\n\n* **React Native and Expo**\n* **JavaScript / TypeScript**\n* **React Hooks and Expo Router**\n* **Android Native Development (Kotlin / Java)**\n* **Zustand / Redux**\n* **REST API Integration**\n* **Firebase Cloud Messaging (FCM)**\n* **Push Notifications**\n* **Native Android Modules**\n* **EAS Build**\n\n4. Development & Deployment\n\n* **Git and GitHub**\n* **Linux Server Management**\n* **Docker (Preferred)**\n* **Production Deployment**\n* **API Security**\n* **Application Testing and Debugging**\n\nKey Responsibilities\n\n* Develop and maintain SaaS-based CRM web applications using React.js and Next.js.\n* Develop scalable backend services and REST APIs using Java and Spring Boot.\n* Design and optimize database architecture using MySQL.\n* Develop CRM modules including Lead Management, User Management, Task Management, Follow-ups, Automation and Reporting.\n* Implement multi-tenant architecture, authentication and role-based access control.\n* Integrate third-party APIs, webhooks, WhatsApp services and notification systems.\n* Develop and maintain Android mobile applications using React Native and Expo.\n* Integrate backend APIs with web and mobile applications.\n* Implement real-time communication using WebSockets.\n* Optimize application performance, security and scalability.\n* Handle application builds, server configuration, testing and production deployment.\n* Collaborate across frontend, backend and mobile development workflows.\n\nCandidate Requirements\n\n* Minimum 2 years of professional software development experience.\n* Practical experience in Frontend and Backend Development.\n* Working knowledge of React Native / Android App Development.\n* Strong understanding of React.js, Next.js, Java and Spring Boot.\n* Experience with REST APIs, MySQL and application architecture.\n* Previous experience working on SaaS-based CRM, ERP or enterprise software products.\n* Understanding of multi-tenant applications.\n* Knowledge of Git and GitHub.\n* Strong problem-solving and debugging skills.\n* Ability to independently handle development tasks.\n* Good communication and remote working skills.\n\nPreferred Project Experience\n\nCandidates who have previously worked on:\n\n* SaaS-Based CRM Software\n* Multi-Tenant Applications\n* ERP Systems\n* Lead Management Systems\n* Subscription-Based Software\n* Enterprise Business Management Platforms\n* Web and Mobile Application Integration\n\nWork Details\n\n* 100% Work From Home.\n* Full-Time Employment.\n* One Vacancy.\n* Opportunity to work on a real-world SaaS CRM product.\n* Work with modern technologies and scalable software architecture.\n\nHow to Apply\n\nInterested candidates should share their updated resume along with:\n\n* Total Work Experience\n* Frontend Development Experience\n* Backend Development Experience\n* Mobile App Development Experience\n* Previous CRM / SaaS Project Details\n* Personal Role and Responsibilities in Previous Projects\n* Current CTC\n* Expected CTC\n* Notice Period\n* GitHub Profile / Portfolio\n\n**Important:** Candidates must have practical experience in software product development. Previous hands-on experience with SaaS-based CRM software will be highly preferred.\n\n**Join SmoothSales and help us build a powerful, scalable SaaS CRM platform!**\n\nPay: ₹12,000.00 - ₹15,000.00 per month\n\nBenefits:\n\n* Cell phone reimbursement\n* Flexible schedule\n* Health insurance\n* Internet reimbursement\n* Leave encashment\n* Life insurance\n* Paid sick time\n* Paid time off\n* Provident Fund\n* Work from home\n\nApplication Question(s):\n\n* How many years of professional experience do you have in software development?\n* Have you previously worked on a SaaS-based CRM, ERP or enterprise software product?\n* Please describe the CRM / SaaS product you previously worked on. What was your role, and what features or modules did you personally develop?\n* Do you have hands-on experience with React.js, Next.js, JavaScript and TypeScript?\n* Do you have hands-on experience with Java 17+, Spring Boot, Spring Security, MySQL and REST API development?\n* Do you have practical experience with React Native, Expo or Native Android Development (Kotlin / Java)?\n* Have you worked on Multi-Tenant Architecture, Multiple Workspaces, Subscription Management or Role-Based Access Control?\n* Can you independently handle Frontend, Backend, Database, API Integration and Mobile App Development?\n* Please share your previous CRM / SaaS project links, demo, GitHub profile and explain your personal contribution to the project.\n\nExperience:\n\n* Full Stack Software Developer – SaaS CRM: 1 year (Required)\n\nLanguage:\n\n* English (Preferred)\n* Hindi (Preferred)\n\nWork Location: Remote",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 30"
     }
-   ]
+   ],
+   "score": 30,
+   "reasons": [
+    "Matched: about, apis, company, git, javascript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Software Developer – SaaS CRM (Frontend, Backend & Mobile App) - Taniya Malviya",
+    "body": "Dear Hiring Team at Classify Marketing,\n\nI am writing to apply for the Full Stack Software Developer – SaaS CRM (Frontend, Backend & Mobile App) role. I am a Senior Software Engineer, 7+ years, and my background in about, apis, company matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "da1f30024ed6": {
    "id": "da1f30024ed6",
@@ -5988,15 +6183,39 @@
    "emails": [],
    "description": "Experience: 5+ years of hands-on Snaplogic integration/project delivery experience\n\nKey Responsibilities\n\n- Design, develop, test, and deploy integrations using SnapLogic.\n\n- Build and maintain SnapLogic pipelines, reusable components, and integration workflows.\n\n- Develop integrations across REST/SOAP APIs, databases, files, and enterprise applications.\n\n- Perform unit testing, defect resolution, troubleshooting, and production support.\n\n- Implement appropriate error handling, logging, monitoring, and exception management.\n\n- Work closely with business, functional, and technical teams to understand integration requirements.\n\n- Participate in code reviews and follow integration development standards and best practices.\n\n- Support deployment and migration of SnapLogic assets across environments.\n\nMandatory Skills\n\n- 4-5+ years of hands-on integration/project experience, with strong practical experience in SnapLogic.\n\n- Hands-on experience developing and supporting SnapLogic pipelines.\n\n- Good understanding of REST APIs, SOAP services, JSON, XML, and integration patterns.\n\n- Experience working with authentication mechanisms such as OAuth 2.0, Basic Authentication, API keys, and certificates.\n\n- Strong troubleshooting and debugging skills.\n\n- Experience working in enterprise integration delivery projects.\n\nGood to Have\n\n- Experience with Workday integrations, including Workday APIs/Web Services.\n\n- Experience integrating other enterprise applications or modules such as SAP, Salesforce, ServiceNow, Oracle, or similar platforms.\n\n- Exposure to API Management (APIM) concepts.\n\n- Experience working in Agile/Scrum-based delivery teams.\n\n- Understanding of CI/CD and automated deployment practices for integration solutions.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Software testing",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Production support",
+    "Salesforce",
+    "XML",
+    "Enterprise",
+    "Debugging",
+    "Enterprise applications"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Snaplogic / mulesoft developers - Taniya Malviya",
+    "body": "Dear Hiring Team at TESTQ Technologies,\n\nI am writing to apply for the Snaplogic / mulesoft developers role. I am a Senior Software Engineer, 7+ years, and my background in Software testing matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "196314fbbea2": {
    "id": "196314fbbea2",
@@ -6012,15 +6231,39 @@
    "emails": [],
    "description": "Position Overview:\n\nWe are seeking a highly skilled Web Scraping A    rchitect    to join our team. The successful candidate will be responsible for designing, implementing, and maintaining web scraping processes to gather data from various online sources efficiently and accurately. As a Web Scraping Specialist, you will play a crucial role in collecting data for competitor analysis, and other business intelligence purposes.\n\nResponsibilities:\n\n* Scalability/Performance: Lead and provide expertise in scraping at scale e-commerce marketplaces.\n* Data Source Identification: Identify relevant websites and online sources from which data needs to be scraped. Collaborate with the team to understand data requirements and objectives.\n* Web Scraping Design: Develop and implement effective web scraping strategies to extract data from targeted websites. This includes selecting appropriate tools, libraries, or frameworks for the task.\n* Data Extraction: Create and maintain web scraping scripts or programs to extract the required data. Ensure the code is optimized, reliable, and can handle changes in the websites structure.\n* Data Cleansing and Validation: Cleanse and validate the collected data to eliminate errors, inconsistencies, and duplicates. Ensure data integrity and accuracy throughout the process.\n* Monitoring and Maintenance: Continuously monitor and maintain the web scraping processes. Address any issues that arise due to website changes, data format modifications, or anti-scraping mechanisms.\n* Scalability and Performance: Optimize web scraping procedures for efficiency and scalability, especially when dealing with a large volume of data or multiple data sources.\n* Compliance and Legal Considerations: Stay up-to-date with legal and ethical considerations related to web scraping, including website terms of service, copyright, and privacy regulations.\n* Documentation: Maintain detailed documentation of web scraping processes, data sources, and methodologies. Create clear and concise instructions for others to follow.\n* Collaboration: Collaborate with other teams such as data analysts, developers, and business stakeholders to understand data requirements and deliver insights effectively.\n* Security: Implement security measures to ensure the confidentiality and protection of sensitive data throughout the scraping process.\n\nRequirements:\n\n* Proven experience of 4+ years as a Web Scraping Specialist or similar role, with a track record of successful web scraping projects.\n* Expertise in handling dynamic content, user-agent rotation, bypass CAPTCHAs, rate limits, and utilization of proxy services.\n* Knowledge on browser fingerprinting\n* Has leadership experience.\n* Proficiency in programming languages commonly used for web scraping, such as Python, BeautifulSoup, Scrapy, or Selenium.\n* Strong knowledge of HTML, CSS, XPath, and other web technologies relevant to web scraping and Coding.\n* Knowledge and experience in best of class data storage and retrieval of large volume of scraped data.\n* Understanding of web scraping best practices, including handling dynamic content, user-agent rotation, and IP address management.\n* Attention to detail and the ability to handle and process large volumes of data accurately.\n* Familiarity with data cleansing techniques and data validation processes.\n* Good communication skills and the ability to collaborate effectively with cross-functional teams.\n* Knowledge of web scraping ethics, legal considerations, and compliance with website terms of service.\n* Strong problem-solving skills and the ability to adapt to changing web environments\n\nPreferred Qualifications:\n\n* Bachelors degree in Computer Science, Data Science, Information Technology, or related fields.\n* Experience with cloud-based solutions and distributed web scraping systems.\n* Familiarity with APIs and data extraction from non-public sources.\n* Knowledge of machine learning techniques for data extraction and natural language processing is desired but not mandatory\n* Prior experience in handling large-scale data projects and working with big data frameworks.\n* Understanding of various data formats such as JSON, XML, CSV, etc.\n* Experience with version control systems like Git.       \n     \n   This is a Work from Home position\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Computer",
+    "Business intelligence",
+    "Science",
+    "Cleansing",
+    "Intelligence",
+    "Information technology"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Web Scraping Specialist - Taniya Malviya",
+    "body": "Dear Hiring Team at Hypersonix,\n\nI am writing to apply for the Web Scraping Specialist role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "bc3430c6660a": {
    "id": "bc3430c6660a",
@@ -6036,15 +6279,39 @@
    "emails": [],
    "description": "/span>\n\nJava   Spring Boot   Microservices   Kafka   PostgreSQL\n\nBuild and modernize high-performance enterprise backends using Java, Spring Boot, and microservices architecture for regulated BFSI and fintech clients.\n\nResponsibilities\n\n* - Architect and build microservices using Java / Spring Boot / Quarkus\n* - Design event-driven systems with Apache Kafka\n* - Own API design (REST, GraphQL, gRPC)\n* - Modernize legacy monoliths to cloud-native architectures\n* - Write clean, testable code with 90%+ test coverage\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Software testing, Senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Postgresql",
+    "Bfsi",
+    "Spring Boot",
+    "Java",
+    "Bootstrap",
+    "Architecture"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Java / Microservices Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Sminetech Solutions,\n\nI am writing to apply for the Senior Java / Microservices Developer role. I am a Senior Software Engineer, 7+ years, and my background in Software testing, Senior matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "ba19350b09b0": {
    "id": "ba19350b09b0",
@@ -6060,15 +6327,39 @@
    "emails": [],
    "description": "/span>\n\nReact   Node.js   TypeScript   PostgreSQL   REST APIs\n\nDesign and build enterprise web platforms and portals - from SaaS dashboards to internal tooling - for clients across financial services and manufacturing.\n\nResponsibilities\n\n* - Build enterprise web applications with React / Next.js and TypeScript\n* - Develop REST and GraphQL APIs with Node.js / NestJS\n* - Design and optimize PostgreSQL, MongoDB data models\n* - Implement authentication, authorisation, and security best practices\n* - Deploy and monitor applications on cloud infrastructure\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Node.js",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Financial services",
+    "Full Stack",
+    "SAAS",
+    "Web technologies",
+    "Postgresql",
+    "React.js"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer (React / Node.js) - Taniya Malviya",
+    "body": "Dear Hiring Team at Sminetech Solutions,\n\nI am writing to apply for the Full Stack Developer (React / Node.js) role. I am a Senior Software Engineer, 7+ years, and my background in Node.js matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "fe9228a8a17e": {
    "id": "fe9228a8a17e",
@@ -6084,15 +6375,39 @@
    "emails": [],
    "description": "**Work From Home Account Specialist**     \n   \n   **About the Role**     \n   \n Nuvant is seeking Work From Home Account Specialists to join our team. In this role, you ll support individuals and small businesses by helping them understand and access personalized financial solutions. You ll manage inbound and outbound communications and offer thoughtful recommendations based on the client s goals.   \n   \n   **Core Responsibilities**  \n\n* Proactively reach out to clients and handle inbound inquiries\n* Discuss client goals and align solutions accordingly\n* Provide clear explanations of services and next steps\n* Track activity and maintain up-to-date records in CRM\n* Support retention efforts through ongoing communication\n\n  \n   **Qualifications**  \n\n* High school diploma or college degree preferred\n* Prior experience in sales, lead generation, or customer service roles a plus\n* Results and goal oriented\n* Able to work independently in a remote environment\n\n  \n   **What We Offer**  \n\n* Competitive base salary plus performance-based bonuses and incentives.\n* Access to comprehensive benefits package including medical, dental, vision, 401k, and paid time off\n* Remote work environment with flexible scheduling options\n* Ongoing training and support\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-18T12:07:21+00:00",
-   "status": "new",
-   "updated_at": "2026-11-18T12:07:21+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-18T12:07:21+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Lead generation",
+    "Customer service",
+    "Sales",
+    "Training",
+    "Management",
+    "Sales lead generation"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Work From Home Account Specialist - Taniya Malviya",
+    "body": "Dear Hiring Team at Nuvant Consulting Group,\n\nI am writing to apply for the Work From Home Account Specialist role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "f0d0908f0557": {
    "id": "f0d0908f0557",
@@ -6108,15 +6423,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Node.js, TypeScript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Leadership",
+    "MongoDB",
+    "Expresjs",
+    "Angular",
+    "RestAPI",
+    "Postgresql"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Technical Lead - Taniya Malviya",
+    "body": "Dear Hiring Team at InfoBeans,\n\nI am writing to apply for the Technical Lead role. I am a Senior Software Engineer, 7+ years, and my background in Node.js, TypeScript matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9971746d3716": {
    "id": "9971746d3716",
@@ -6132,15 +6471,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: AWS",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Continuous Integration",
+    "Pipeline",
+    "Bash",
+    "Cd",
+    "Languages",
+    "Continuous Integration"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Devops Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Everestek Technosoft Solutions,\n\nI am writing to apply for the Devops Engineer role. I am a Senior Software Engineer, 7+ years, and my background in AWS matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "99b04ee7f11a": {
    "id": "99b04ee7f11a",
@@ -6156,15 +6519,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: SQL, AWS",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Database design",
+    "Cloud",
+    "Technical architecture",
+    "Database Optimization",
+    "Management",
+    "Microsoft Azure"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Technical Architect / Manager / Lead - DBMS - Taniya Malviya",
+    "body": "Dear Hiring Team at Benovymed Healthcare,\n\nI am writing to apply for the Technical Architect / Manager / Lead - DBMS role. I am a Senior Software Engineer, 7+ years, and my background in SQL, AWS matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4b6aaa6e9be8": {
    "id": "4b6aaa6e9be8",
@@ -6180,15 +6567,32 @@
    "emails": [],
    "description": "**Senior Software Security Engineer – AI Trainer**\n\n**Rate - 2.19 LPM**\n\n**Type of Role - Short-term contract**\n\n**Engagement Type - Short Term Contract (3 month )**\n\n**Availability - 8 hours per day with an overlap of 4 hours with PST.**\n\n**Skill**\n\n5+ years of professional software engineering experience.\n\nExpert-level proficiency in at least one of Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, or Swift.\n\nStrong understanding of software security concepts, including CWE, CVE, and the OWASP Top 10\n\n**Specifics**\n\nCybersecurity engineers with any programming language background - 5 + YOE\n\n**Role Overview**\n\nWe are seeking a Senior Software Security Engineer to develop high-quality training and evaluation tasks for frontier AI coding models. You will transform real-world open-source vulnerabilities—including CVEs, security advisories, and bug reports—into Harbor-format audit-and-patch tasks across multiple programming languages.\n\nThis role combines software security research, vulnerability reproduction, benchmark development, automated testing, and technical review. The goal is to create realistic tasks that evaluate whether AI systems can identify, understand, exploit, and securely remediate software vulnerabilities without relying on superficial pattern matching or known patches.\n\n**What does day-to-day look like**\n\nSource and analyze real-world vulnerabilities from CVEs, security advisories, bug reports, and open-source repositories.\n\nClassify vulnerabilities using the most specific applicable CWE and map them to relevant OWASP Top 10 categories where appropriate.\n\nReproduce vulnerabilities and develop reliable proof-of-vulnerability tests.\n\nBuild Harbor-format audit-and-patch tasks across languages such as Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, and Swift.\n\nWrite realistic task instructions that describe the security issue without revealing the vulnerable code, exploit details, or expected fix.\n\nCreate reproducible Docker-based environments with pinned dependencies and clear setup procedures.\n\nHarden verifiers against gaming, overfitting, test manipulation, and hardcoded solutions.\n\nScreen out tasks that can be solved by copying a well-known upstream patch without understanding the vulnerability.\n\nReview and score AI-generated patches and reasoning using clearly defined technical rubrics.\n\nDocument vulnerability context, reproduction steps, expected behavior, patch requirements, test methodology, and review decisions.\n\n**Requirements**\n\n5+ years of professional software engineering experience.\n\nExpert-level proficiency in at least one of Python, JavaScript/TypeScript, Java, C/C++, C#, Go, Rust, Ruby, PHP, Kotlin, or Swift.\n\nStrong understanding of software security concepts, including CWE, CVE, and the OWASP Top 10.\n\nAbility to reproduce vulnerabilities and write proof-of-vulnerability tests.\n\nHands-on experience with security tooling, including sanitizers, fuzzers, and static-analysis tools such as CodeQL or Semgrep.\n\nStrong proficiency with Git, Linux, Bash, and Docker.\n\nExcellent technical writing and documentation skills.\n\nAbility to work independently in a fully remote, research-oriented environment.\n\nPay: From ₹200,000.00 per month\n\nExperience:\n\n* professional software engineering : 6 years (Required)\n\nWork Location: Remote",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 15"
     }
-   ]
+   ],
+   "score": 15,
+   "reasons": [
+    "Matched: engineer, javascript, open, senior, software",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Software Security Engineer - AI Trainer - Taniya Malviya",
+    "body": "Dear Hiring Team at oak tree software solutions,\n\nI am writing to apply for the Senior Software Security Engineer - AI Trainer role. I am a Senior Software Engineer, 7+ years, and my background in engineer, javascript, open matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "70c4ce9a0d36": {
    "id": "70c4ce9a0d36",
@@ -6206,15 +6610,32 @@
    ],
    "description": "If you are looking for a meaningful career where people work and act with passion, rethink the existing and always strive to find the best solution - you have come to the right place. We develop future technologies to relentlessly make supply chains better.\n\nWe are a leader in supply chain software solutions, helping organizations streamline operations, reduce costs, and improve efficiency.\n\n### **Job Summary**\n\nWe are looking for an experienced and ambitious Senior Software Engineer with strong Java, Spring Boot & SQL skills, and solid C#/.NET competence, to join our growing global and distributed product development team. As a tech-savvy software craftsman, you must have a deep understanding of coding principles, understand object-oriented programming and appreciate the agile development way of working. All developers are encouraged to consistently assist in innovation of the software development in terms of agility, DevOps and modern development technologies.\n\nThis role is anything but your average Senior Software Engineer job; you will have the opportunity to work on exciting new solutions in Warehouse Slotting and Warehouse Simulation (CLASS). We operate daily stand-ups, sprint retros and Scrum tactics. We pride ourselves as being an innovative company and provide you with all the modern tools that you will need to be successful in your lifelong career with us.\n\n  \n\n**What a day in the life looks like:**\n\n* Develop and maintain applications using Java, Spring Boot, C#/.NET, PostgreSQL, and TypeScript.\n\n* Contribute to solution design, architecture, and technical decision-making.\n* Deliver high-quality, tested code following Agile and SOLID principles.\n* Resolve defects, support production issues, and implement enhancements\n* Support Azure DevOps, CI/CD pipelines, and development best practices.\nMentor junior engineers and participate in code reviews and estimations.  \n\n**What you bring to the team** :\n\n* 5+ years of software development experience.\n\n* Strong expertise in **Java, Spring Boot, Microservices, SQL, and PostgreSQL** .\n* Hands-on experience with **C#/.NET** development.\n* Proficiency in **JavaScript/TypeScript, HTML, and CSS** .\n* Solid understanding of **OOP, design patterns, ORM frameworks, and REST APIs** .\n* Experience with **Azure DevOps, Git, and Agile methodologies** .\nStrong communication and problem-solving skills.  \n\n**Preferred Qualifications**\n\n* Experience with **Kubernetes, CI/CD pipelines, and cloud-native applications** .\n* Knowledge of **OWASP security practices** and containerized deployments.\n* Experience with **AI-assisted development tools** (e.g., Claude, Kiro).\n* Exposure to **retail, logistics, or supply chain software domains** .\n\n**Why join us?**\n\nAt Infios, we're not just looking for employees; we're looking for partners in innovation, growth, and purpose. Meeting you where you are to create the future you need is at the core of who we are and what we do. Whether you're at the beginning of your career or a seasoned expert, we meet you on your journey, equipping you with the tools and opportunities to build the future you envision. Together, we will relentlessly work toward one common goal - making supply chains better.\n\n**We believe the future is better when supply chains work better.**\n\nWe are an equal-opportunity employer and committed to inclusion in the workplace.\n\nAt Infios, we believe that inclusion is a fundamental cornerstone of our success. We are committed to creating a safe and welcoming environment where every individual’s unique experiences and perspectives are valued—whether they look, think, move, believe, or love differently.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, ethnicity, national origin, sex, sexual orientation, gender identity, marital status, pregnancy, religion, age, disability, veteran status, genetic information, or any other characteristic protected by law.\n  \n  \nReasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role. If you require assistance or accommodation due to a disability during the recruiting process, please let us know at jobs@infios.com\n  \n  \n**Disclaimer:** This job advertisement is not designed to cover a comprehensive listing of all duties or responsibilities that are required for this job. Please note that any salary information is a general guideline only. Individual compensation will be determined by various factors such as the scope and responsibilities of the position, experience, education, skills, location, and market and business considerations. Applications must be submitted via our career site.",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 32"
     }
-   ]
+   ],
+   "score": 32,
+   "reasons": [
+    "Matched: agile, apis, company, engineer, git",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "jobs@infios.com",
+    "subject": "Application for Senior Software Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Infios,\n\nI am writing to apply for the Senior Software Developer role. I am a Senior Software Engineer, 7+ years, and my background in agile, apis, company matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "42230f4faa0d": {
    "id": "42230f4faa0d",
@@ -6230,15 +6651,32 @@
    "emails": [],
    "description": "**Apply here** - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral\n\n**Pay:** $50–$100/hour (approx. ₹5,000–₹9,000/hour)\n\n**Location:** Global, fully remote\n\n**Job Type:** Contractor (~15 hours per week)\n\n**Schedule:** Flexible\n\nSeeClear may be paid by micro1 for this listing.\n\n**Job Description:**\n\nThe client is looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation.\n\nThe work involves creating, solving, reviewing, and validating challenging software-engineering tasks across front-end and back-end systems and helping with translating full coding builds from one particular language into another.\n\nThis role requires meaningful hands-on experience across both front-end and back-end engineering. Candidates should be comfortable working throughout the application stack rather than specializing exclusively in one layer.\n\n**What You'll Work On:**\n\n- Develop, modify, and debug front-end and back-end application components.\n\n- Implement user-facing features and the services, APIs, and data models that support them.\n\n- Trace requests and data across browsers, front-end applications, APIs, services, databases, and external integrations.\n\n- Work inside unfamiliar repositories and understand existing application architecture.\n\n- Diagnose failures involving application state, API contracts, authentication, persistence, networking, and deployment.\n\n- Evaluate and improve code written in multiple programming languages.\n\n- Review AI-generated solutions for correctness, completeness, performance, security, and maintainability.\n\n**Required Qualifications:**\n\n- Strong professional experience developing production full-stack applications.\n\n- Meaningful hands-on experience with both front-end and back-end engineering.\n\n- Production experience with multiple programming languages.\n\n- Strong knowledge of browser applications, APIs, application state, databases, and service integration.\n\n- Experience understanding and contributing to the architecture of complete software systems.\n\n- Ability to work effectively in unfamiliar codebases.\n\n- Strong debugging and technical problem-solving skills.\n\n**Application Process:**\n\n1. Apply to the role and complete the screening questions.\n\n2. Complete an AI interview of approximately 30 minutes.\n\n3. Complete a technical assessment, if required.\n\n4. Complete the hiring manager review.\n\n**Compensation Structure:**\n\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert's experience and workflow.\n\nMinimum submission requirements apply. Experts must submit a minimum number of tasks per week.\n\n**Start Timeline & Availability:**\n\nThe client typically fills roles within 48 hours and is looking for experts who are ready to begin immediately. If selected, you will be expected to start your first tasks within 24–48 hours of completing onboarding.\n\n**How the selection process works**\n\n1. *Apply here - https://refer.micro1.ai/referral/jobs?referralCode=ee82dd74-7a43-41d0-b28e-fefbb3fbdbfb&linkId=9e5faa51-4c65-4015-a2af-929a3bc92a97&utm\\_source=referral&utm\\_medium=share&utm\\_campaign=job\\_referral* and complete the screening questions\n\n2. Complete the AI interview for this role - it's how your expertise gets in front of the client\n\n3. Profile review\n\n4. Onboarding - the client's Talent Ops team will get you set up\n\nWork Location: Remote",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 22"
     }
-   ]
+   ],
+   "score": 22,
+   "reasons": [
+    "Matched: apis, both, engineer, here, jobs",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Fullstack oftware Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at SeeClear Studio Pvt Ltd,\n\nI am writing to apply for the Senior Fullstack oftware Engineer role. I am a Senior Software Engineer, 7+ years, and my background in apis, both, engineer matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "6530f0a38164": {
    "id": "6530f0a38164",
@@ -6254,15 +6692,32 @@
    "emails": [],
    "description": "***Job Title: Senior AI Technical Consultant***  \n***Company: Aximm LLC***  \n***Location: Remote***  \n***Job Type: Full Time***  \n***Working Hours: 8:00 AM to 5:00 PM Eastern Time (ET)***  \n***Department: AI & Engineering***  \n***Compensation: $40 to $50 per hour during onboarding, followed by $3,000 to $4,000 monthly base salary plus project based bonuses***  \n***Experience Required: 7+ years in Software Engineering and 5+ years in AI/ML Engineering***  \n***Start Date: Immediate***  \n***Prerequisite: Exceptional spoken English proficiency (CEFR C1 minimum, near C2 preferred), strong client facing communication skills, and proven experience in production AI/ML and Agentic AI applications.***\n\n**Job Overview**\n\nAximm LLC is seeking an experienced Senior AI Technical Consultant with a strong background in Software Engineering, AI/ML, Generative AI, and Agentic AI.\n\nThis is a client facing technical role focused on participating in technical interviews, discussions, and evaluations with U.S. based clients. The successful candidate will demonstrate technical expertise, understand client requirements, propose practical solutions, and collaborate with internal engineering teams to support project acquisition.\n\nThe ideal candidate combines extensive hands on engineering experience, advanced AI expertise, exceptional spoken English, and strong interpersonal and client communication skills.\n\n**Key Responsibilities**\n\n* Participate in technical interviews, evaluations, and discussions with prospective U.S. based clients.\n* Demonstrate expertise in Software Engineering, AI/ML, Generative AI, and Agentic AI.\n* Understand client requirements, identify technical challenges, and propose scalable and practical solutions.\n* Provide technical consulting on software architecture, LLM applications, RAG systems, AI agents, and automated workflows.\n* Explain technical concepts, architectural decisions, implementation strategies, and technical tradeoffs confidently.\n* Collaborate with internal engineering teams to evaluate requirements, design solutions, and support project acquisition.\n* Represent Aximm LLC professionally and establish technical credibility with clients and stakeholders.\n\n**Required QualificationsSoftware Engineering**\n\n* More than 7 years of professional software engineering experience, including production application development.\n* Strong proficiency in Python, backend development, REST APIs, microservices, distributed systems, databases, and software architecture.\n* Experience with cloud platforms such as AWS, Azure, or GCP, along with Docker, CI/CD, and modern software engineering practices.\n* Strong understanding of system design, scalability, application development, testing, and deployment.\n\n**AI/ML and Generative AI**\n\n* More than 5 years of professional AI/ML engineering experience, including designing, developing, and deploying production AI solutions.\n* Strong knowledge of machine learning, deep learning, model training, evaluation, and optimization.\n* Hands on experience with PyTorch, TensorFlow, scikit learn, or comparable frameworks.\n* Practical experience with LLMs, Generative AI, RAG, embeddings, vector databases, and prompt engineering.\n* Understanding of production AI architecture, performance, reliability, and evaluation.\n\n**Agentic AI**\n\n* Hands on experience developing AI agents, tool calling, workflow automation, and multi step task execution.\n* Experience with LangGraph, LangChain, Microsoft AutoGen, CrewAI, OpenAI Agents SDK, or similar frameworks.\n* Understanding of multi agent systems, orchestration, memory management, human in the loop workflows, evaluation, observability, security, and deployment.\n* Ability to confidently explain Agentic AI architectures, implementation strategies, and technical tradeoffs.\n\n**English and Communication Skills**\n\n* Minimum C1 level spoken English, with near C2 proficiency strongly preferred.\n* Excellent verbal fluency, pronunciation, listening comprehension, and spontaneous conversational ability.\n* Ability to explain complex technical concepts clearly, naturally, and confidently.\n* Strong interpersonal, presentation, problem solving, and relationship building skills.\n* Confidence in handling challenging technical discussions and communicating with U.S. based clients.\n\n**Preferred Qualifications**\n\n* At least 1 year of direct experience working with U.S. based clients.\n* Experience in technical consulting, presales engineering, solution architecture, client facing technical interviews, or business development support.\n* Familiarity with U.S. business culture and professional communication expectations.\n* Production experience with enterprise AI applications, multi agent systems, AI workflow automation, MLOps, or LLMOps.\n* Familiarity with AWS Bedrock, Azure AI Foundry, or Google Vertex AI.\n* Proven contribution to successful client engagements and project acquisition.\n* Compensation StructureOnboarding and Evaluation\n* Compensation of $40 to $50 USD per hour, depending on experience and qualifications.\n* The onboarding period is paid and has no fixed duration. Candidates will be evaluated on technical expertise, English communication, client interview performance, and engineering collaboration.\n* Successful candidates will transition to the ongoing compensation structure following management approval.\n\n**Ongoing Compensation**\n\n* Monthly Base Salary: $3,000 to $4,500 USD, subject to final confirmation based on qualifications and performance.\n* Project Bonus: Additional $500 USD per month for each qualifying ongoing client project.\n* Project bonuses are cumulative and recurring for as long as qualifying projects remain active, subject to company eligibility and verification requirements. There is no predetermined cap on qualifying project bonuses.\n\n**Work Schedule**\n\n* Fully remote position.\n* Working hours: 8:00 AM to 5:00 PM Eastern Time (ET).\n* Candidates must be able to accommodate the schedule consistently and participate in client meetings, technical interviews, and internal collaboration during working hours.\n\n**Candidate Evaluation Process**\n\n* Candidates will undergo an experience review, spoken English assessment, technical interview, client interview simulation, and final management interview.\n* The evaluation will assess technical expertise, practical engineering experience, AI/ML and Agentic AI knowledge, communication skills, client facing confidence, professionalism, teamwork, and overall suitability.\n* Successful candidates will subsequently enter the paid onboarding and evaluation period.\n\n**Ideal Candidate**\n\n* An experienced software engineer and AI specialist with strong hands on experience in Software Engineering, AI/ML, Generative AI, and Agentic AI, combined with exceptional spoken English, confidence, professionalism, and the ability to represent the company effectively in client facing technical discussions.\n* Candidates must be capable of explaining complex technical concepts, answering spontaneous questions, proposing practical solutions, and building technical credibility with U.S. based clients.\n\nApplication\n\nInterested candidates should submit an updated CV highlighting their software engineering experience, AI/ML expertise, Generative AI and Agentic AI projects, cloud technologies, production deployment experience, and client facing experience\n\nPay: ₹2,800.00 - ₹3,500.00 per hour\n\nExpected hours: 40.0 per week\n\nWork Location: Remote",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 20"
     }
-   ]
+   ],
+   "score": 20,
+   "reasons": [
+    "Matched: apis, aws, company, rest, senior",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Advisory Solution Consultant (AI) - Taniya Malviya",
+    "body": "Dear Hiring Team at PMAS technologies,\n\nI am writing to apply for the Advisory Solution Consultant (AI) role. I am a Senior Software Engineer, 7+ years, and my background in apis, aws, company matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b4aa557a76ac": {
    "id": "b4aa557a76ac",
@@ -6278,15 +6733,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: AWS",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Digital",
+    "Microsoft Azure",
+    "Architecture",
+    "Apache",
+    "Data warehousing",
+    "Cloud"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Sr Product Manager- Lakehouse - Taniya Malviya",
+    "body": "Dear Hiring Team at Cloudera,\n\nI am writing to apply for the Sr Product Manager- Lakehouse role. I am a Senior Software Engineer, 7+ years, and my background in AWS matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "532a4c3af843": {
    "id": "532a4c3af843",
@@ -6302,15 +6781,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Communication skills",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "API Management",
+    "Management",
+    "Ai Solutions",
+    "Azure Devops",
+    "Application",
+    "Microsoft Azure"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Applied AI / Agentic Solutions Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at E4 Software Services,\n\nI am writing to apply for the Applied AI / Agentic Solutions Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Communication skills matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "59006d0fcacc": {
    "id": "59006d0fcacc",
@@ -6326,15 +6829,39 @@
    "emails": [],
    "description": "",
    "found_at": "2026-11-19T12:01:11+00:00",
-   "status": "new",
-   "updated_at": "2026-11-19T12:01:11+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-20T12:03:03+00:00",
    "history": [
     {
      "at": "2026-11-19T12:01:11+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-20T12:03:03+00:00",
+     "status": "low_match",
+     "note": "score 0"
     }
-   ]
+   ],
+   "score": 0,
+   "reasons": [
+    "Few keyword matches",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Data Transformation",
+    "Deep Learning",
+    "Airflow",
+    "Azure Devops",
+    "Docker",
+    "Cloud Technologies"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for MLOps / DevOps Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at webjobs-nest070120161511@naukri.com,\n\nI am writing to apply for the MLOps / DevOps Engineer role. I am a Senior Software Engineer, 7+ years, and my background in software engineering matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "91ab7225d884": {
    "id": "91ab7225d884",
