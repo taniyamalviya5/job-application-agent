@@ -8017,6 +8017,25 @@
     "follow_up_due": 0
    },
    "pruned": 0
+  },
+  {
+   "command": "run",
+   "at": "2026-11-20T12:02:38+00:00",
+   "ai": false,
+   "new_jobs": 33,
+   "scored": {
+    "review": 0,
+    "low_match": 25
+   },
+   "send": {
+    "sent": 0,
+    "failed": 0
+   },
+   "track": {
+    "replied": 0,
+    "follow_up_due": 0
+   },
+   "pruned": 0
   }
  ]
 }
