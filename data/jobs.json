@@ -10267,15 +10267,32 @@
    "emails": [],
    "description": "Job title\n\nFull Stack Developer for a Web Ticketing Platform (3D Experience)\n\nAbout the project\n\nWe are building a web platform for ticket booking in India.\n\nIt has an interactive 3D feature, and we will share the full details after an agreement is signed.\n\nWhat you will build\n\nYou will build a booking system with seat selection and a timed hold during payment.\n\nYou will connect Razorpay or Cashfree for UPI and card payments.\n\nYou will create QR code tickets and a simple scanner page.\n\nYou will set up a database and make everything work well on mid-range phones.\n\nSkills we need\n\nYou should know JavaScript, React or Next.js, Node.js and PostgreSQL.\n\nThree.js experience is a strong plus.\n\nYou should have built a payment integration before.\n\nYou should understand basic web security.\n\nWhat we need from you\n\nPlease share a live project you have built, and explain it in plain language.\n\nPlease tell us your estimated time and price.\n\nHow we will work\n\nWe will sign a confidentiality agreement (NDA) before sharing any details.\n\nWe will start with a small paid test task, and then pay in stages.\n\nAll code and accounts will be owned by us, with temporary access for you only.\n\nTo apply\n\nSend your portfolio, a short note on similar work, your price and your timeline.\n\nPay: From ₹15,000.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Paid sick time\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T16:00:37+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T16:00:37+00:00",
+     "status": "low_match",
+     "note": "score 52"
     }
-   ]
+   ],
+   "score": 52,
+   "reasons": [
+    "Matched: building, code, developer, integration, javascript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for full stack developer,3D artist,security reviewer - Taniya Malviya",
+    "body": "Dear Hiring Team at Booking ticket,\n\nI am writing to apply for the full stack developer,3D artist,security reviewer role. I am a Senior Software Engineer, 7+ years, and my background in building, code, developer matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "1701bda41148": {
    "id": "1701bda41148",
@@ -10291,15 +10308,35 @@
    "emails": [],
    "description": "* Design and develop scalable, efficient, and reliable full-stack applications using React and Node.js.\n  \n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n  \n* Develop high-quality, user-friendly, and responsive web pages using React and TypeScript.\n  \n* Implement AI and machine learning models into web applications.\n  \n* Ensure the best possible performance, quality, and responsiveness of web applications.\n  \n* Participate in code reviews and contribute to improving overall code quality.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T16:00:37+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T16:00:37+00:00",
+     "status": "review",
+     "note": "score 75"
     }
-   ]
+   ],
+   "score": 75,
+   "reasons": [
+    "Matched: Typescript, Interpersonal skills, Development, Interpersonal skills, Application",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Interpersonal Skill",
+    "Coding"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full-Stack Developer (React / Node) - Taniya Malviya",
+    "body": "Dear Hiring Team at Prisaat Technologies,\n\nI am writing to apply for the Full-Stack Developer (React / Node) role. I am a Senior Software Engineer, 7+ years, and my background in Typescript, Interpersonal skills, Development matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9c79074885a9": {
    "id": "9c79074885a9",
@@ -10315,15 +10352,37 @@
    "emails": [],
    "description": "See the impact you make. Join an AI-enabled engineering team where your work is recognised and your career follows a clear path.\n\nWhat project we have for you\n\nOur client is a leading multi-brand technology solutions provider serving business, government, education, and healthcare customers in several international markets. The project involves supporting and enhancing a mature Salesforce and Certinia PSA ecosystem used by distributed teams across the United States and Canada.\n\nWhat you will do\n\n* Develop, enhance, and maintain Salesforce applications and solutions.\n* Support and improve PSA-related functionality and business processes within the Salesforce ecosystem.\n* Work with Salesforce CPQ functionality and contribute to related enhancements and integrations.\n* Design, develop, and maintain custom Salesforce components using Apex, Lightning, and Lightning Web Components (LWC).\n* Configure and customise Salesforce objects, workflows, and platform functionality to meet business requirements.\n* Develop and maintain integrations between Salesforce and external systems using APIs and web services.\n* Collaborate with business stakeholders to understand requirements and translate them into technical solutions.\n* Troubleshoot, investigate, and resolve technical issues and production incidents.\n* Participate in code reviews and ensure code quality and adherence to Salesforce best practices.\n* Collaborate with other developers, QA engineers, architects, and business stakeholders.\n* Contribute to technical discussions, solution design, and continuous improvement of development practices.\n* Deliver solutions in an Agile development environment.\n\nWhat you need for this\n\nMust-have\n\n* 5+ years of application development experience.\n* 3+ years of hands-on Salesforce development experience.\n* Experience working with Salesforce and PSA (Professional Services Automation) solutions.\n* Understanding of PSA business processes, workflows, and data models.\n* Experience supporting large-scale Salesforce implementations, including multiple instances.\n* Experience with Salesforce configuration, including custom objects, permission sets, and platform customisation.\n* Experience with Salesforce APIs, REST integrations, web services, and external systems.\n* Some exposure to Salesforce CPQ (Configure, Price, Quote), with an understanding of its core functionality and business processes.\n* Ability to investigate and troubleshoot technical issues.\n* Experience with Git and Agile development methodologies.\n* Good communication and collaboration skills, with the ability to work effectively with technical and business stakeholders.\n* Availability to work shifted hours, either 10:00 to 19:00 CET or 11:00 to 20:00 CET, with approximately four hours of daily overlap with US Central Time. (For EU candidates only)\n\nWill be a plus\n\n* Experience supporting large-scale Salesforce implementations, including multiple instances.\n* Experience with Microsoft Azure integrations and services.\n* Familiarity with Microsoft Azure DevOps.\n* Previous development experience with Java or .NET.\n* Experience working within the Agile SAFe framework.\n* Experience optimising and tuning Salesforce solutions to meet performance requirements.\n* Experience working in an enterprise environment with several interconnected Salesforce and PSA teams.\n* Salesforce certifications.\n\nWhat it s like to work at Intellias\n\nAt Intellias, where technology takes center stage, people always come before processes. By creating a comfortable atmosphere in our team, we empower individuals to unlock their true potential and achieve extraordinary results. That s why we offer a range of benefits that support your well-being and charge your professional growth.  \n We are committed to fostering equity, diversity, and inclusion as an equal opportunity employer. All applicants will be considered for employment without discrimination based on race, color, religion, age, gender, nationality, disability, sexual orientation, gender identity or expression, veteran status, or any other characteristic protected by applicable law.  \n We welcome and celebrate the uniqueness of every individual. Join Intellias for a career where your perspectives and contributions are vital to our shared success.\n\nSkills\n\nPSA\n\nSalesforce\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T16:00:37+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T16:00:37+00:00",
+     "status": "low_match",
+     "note": "score 50"
     }
-   ]
+   ],
+   "score": 50,
+   "reasons": [
+    "Matched: Sales force development, Automation, Healthcare, Web services",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Agile",
+    "Continuous improvement",
+    "Microsoft Azure",
+    "Improvement"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Salesforce\\/PSA Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Intellias,\n\nI am writing to apply for the Senior Salesforce\\/PSA Developer role. I am a Senior Software Engineer, 7+ years, and my background in Sales force development, Automation, Healthcare matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "93c04fda1924": {
    "id": "93c04fda1924",
@@ -10339,15 +10398,32 @@
    "emails": [],
    "description": "**Senior DevSecOps Engineer (Cloud & Kubernetes) — Freelance / Part-Time Technical Support**\n\n**Job Type:** Freelance / Part-Time / Contract\n\n**Engagement:** Approximately 20–30 hours per week**Duration:** Ongoing, based on project requirements**Work Mode:** Remote (Pan-India)\n\n**Experience Required:** 6–10 years\n\n**Opportunity:** Suitable for experienced DevSecOps Engineers, Cloud Security Engineers, and Kubernetes Security Specialists seeking additional freelance income or part-time consulting opportunities alongside their existing employment.\n\nWe are seeking experienced professionals with strong hands-on expertise in Kubernetes Security, Trivy, Snyk, SonarQube, Checkov, Terraform, AWS Security Services, GitHub Actions, Python, and Enterprise Cloud Security Architecture.\n\n**1. Core DevSecOps & Application Security Technologies**\n\n* Kubernetes Security – Securing Kubernetes clusters, workloads, namespaces, service accounts, RBAC, and containerized applications.\n* Trivy – Container image scanning, vulnerability detection, SBOM generation, and Infrastructure as Code security scanning.\n* Snyk – Open-source dependency scanning, container security, license compliance, and vulnerability remediation.\n* SonarQube – Static Application Security Testing (SAST), code quality analysis, security hotspots, and automated quality gates.\n* Checkov – Infrastructure as Code security scanning, cloud misconfiguration detection, and policy enforcement.\n* Terraform – Secure infrastructure provisioning, reusable modules, state management, and automated cloud resource deployment.\n* AWS IAM / GuardDuty – Identity and access management, threat detection, and cloud security monitoring.\n* GitHub Actions – Secure CI/CD workflows, automated security scanning, and DevSecOps pipeline integration.\n* Python – Security automation, vulnerability reporting, cloud security scripting, and incident response utilities.\n\n**2. Security Architecture, Threat Modeling & Risk Management**\n\n* Zero-Trust Architecture (ZTA) – Implementing identity-based access control, continuous verification, and least-privilege security.\n* Defense-in-Depth – Designing layered security controls across applications, infrastructure, networks, and cloud environments.\n* Threat Modeling – Applying STRIDE and PASTA methodologies to identify threats, attack surfaces, and mitigation strategies.\n* Shift-Left DevSecOps – Integrating security testing into development workflows and CI/CD pipelines.\n* Cloud Security Posture Management (CSPM) – Identifying cloud misconfigurations, compliance gaps, and infrastructure security risks.\n* Security Architecture Reviews – Evaluating application architecture, infrastructure design, and security controls.\n* Incident Command – Coordinating security incidents, incident escalation, response procedures, and stakeholder communication.\n* Digital Forensics & Incident Response (DFIR) – Investigating security incidents, analyzing evidence, and supporting recovery.\n* MITRE ATT&CK – Mapping adversary tactics, techniques, and procedures to enterprise security controls.\n* Risk Assessment & Remediation – Prioritizing vulnerabilities based on exploitability, severity, and business impact.\n\n**3. Security Data, SIEM & Threat Intelligence Platforms**\n\n* Splunk / Microsoft Sentinel / Panther – Security Information and Event Management (SIEM), log analysis, threat detection, and security alerting.\n* CrowdStrike Falcon EDR – Endpoint detection, threat investigation, behavioral monitoring, and incident response.\n* Threat Intelligence Feeds – Integrating STIX/TAXII feeds for threat intelligence ingestion, enrichment, and detection.\n* PostgreSQL / Elasticsearch Security Logs – Centralized security event storage, indexing, and investigation.\n* SIEM Data Lakes – Building scalable security data ingestion, retention, and analytics architectures.\n* Software Bill of Materials (SBOM) – Generating, validating, and managing software component inventories.\n* SBOM Repositories – Maintaining software supply chain inventories and tracking vulnerable dependencies.\n* Security Log Correlation – Correlating application, infrastructure, network, and cloud security events.\n* Threat Hunting – Identifying suspicious activities, indicators of compromise, and potential attack patterns.\n* SOAR Automation – Automating security alert enrichment, incident triage, and response workflows.\n\n**4. Cloud Security, Infrastructure as Code & Kubernetes Orchestration**\n\n* AWS Security Services – IAM, GuardDuty, Security Hub, KMS, WAF, CloudTrail, and Nitro Enclaves.\n* Azure Security – Microsoft Defender for Cloud, Microsoft Entra ID, Azure Policy, and cloud security monitoring.\n* Kubernetes Runtime Security – Implementing Falco, Cilium Tetragon, runtime threat detection, and workload protection.\n* Terraform – Secure cloud infrastructure provisioning, configuration validation, and policy-based deployment.\n* HashiCorp Vault – Secrets management, dynamic credentials, encryption, and secure workload authentication.\n* Docker Security – Container image hardening, secure base images, image signing, and vulnerability remediation.\n* Kubernetes RBAC – Role-based access control, service account security, and least-privilege permissions.\n* Network Security – Network policies, ingress/egress controls, service mesh security, and microsegmentation.\n* GitOps Security – Secure deployment workflows, protected repositories, and policy enforcement.\n* Cloud Infrastructure Security – Secure networking, encryption, identity management, and infrastructure compliance.\n\n**5. Security Testing, Observability & Compliance Engineering**\n\n* SAST / DAST / IAST – Static, dynamic, and interactive application security testing.\n* SonarQube / Snyk / Checkmarx – Source code analysis, dependency scanning, and application vulnerability detection.\n* Burp Suite Professional / OWASP ZAP – Web application security testing, API security assessment, and vulnerability validation.\n* Trivy – Container, filesystem, dependency, and Infrastructure as Code vulnerability scanning.\n* Sigstore / Cosign – Software artifact signing, image verification, and supply chain integrity.\n* OPA / Checkov – Policy as Code, infrastructure validation, and security compliance enforcement.\n* MITRE ATT&CK – Threat detection mapping, adversary behavior analysis, and security control validation.\n* SOAR Automation – Security incident workflows, automated enrichment, and response orchestration.\n* ISO 27001 / SOC 2 / PCI-DSS / NIST CSF – Security governance, compliance controls, audit readiness, and risk management.\n* Security Observability – Centralized logging, security metrics, alerting, and incident visibility.\n\n**6. Advanced DevSecOps, Leadership & Governance**\n\n* Secure CI/CD Architecture – Designing automated security gates, approval workflows, and secure software delivery pipelines.\n* Software Supply Chain Security – Dependency integrity, SBOM management, artifact signing, and provenance verification.\n* Vulnerability Management – Vulnerability prioritization, remediation tracking, and security risk reduction.\n* Cloud Security Governance – Establishing security standards, policy enforcement, and cloud compliance controls.\n* Security Automation – Automating vulnerability assessments, compliance checks, and security operations.\n* Production Security Operations – Monitoring production systems, responding to incidents, and maintaining security SLAs.\n* Security Architecture RFCs / ADRs – Technical documentation, architecture decisions, and security design reviews.\n* FinOps & Security Optimization – Balancing cloud security controls, infrastructure costs, and operational efficiency.\n* Technical Mentorship – Guiding engineering teams, conducting security reviews, and establishing DevSecOps best practices.\n* Cross-Squad Technical Leadership – Providing asynchronous security architecture guidance to distributed teams across India and global time zones.\n\n**Candidate Requirements**\n\n* Minimum 6–10 years of professional experie",
    "found_at": "2026-11-22T15:58:46+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T15:58:46+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T16:00:37+00:00",
    "history": [
     {
      "at": "2026-11-22T15:58:46+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T16:00:37+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, application, applications, applications., architecture",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior DevSecOps Engineer (Cloud & Kubernetes) — Freelance / Part-Time Technical Support - Taniya Malviya",
+    "body": "Dear Hiring Team at ABH Consultants,\n\nI am writing to apply for the Senior DevSecOps Engineer (Cloud & Kubernetes) — Freelance / Part-Time Technical Support role. I am a Senior Software Engineer, 7+ years, and my background in across, application, applications matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   }
  },
  "runs": [
