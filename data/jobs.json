@@ -9022,6 +9022,246 @@
      "note": "found on naukri"
     }
    ]
+  },
+  "72f0d2a427d8": {
+   "id": "72f0d2a427d8",
+   "site": "naukri",
+   "title": "Analyst I Software Engineering",
+   "company": "DXC Technology",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-analyst-i-software-engineering-dxc-technology-indore-4-to-6-years-211126500666",
+   "apply_url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---MP---INDORE/Analyst-I-Software-Engineering--Full-Stack-Java-Developer-_51589973",
+   "date_posted": "2026-11-21",
+   "experience": "4-6 Yrs",
+   "skills": "Production support, Coding, SQL, Debugging, Enterprise, Enterprise applications, Engineering, Javascript",
+   "emails": [],
+   "description": "### Job Summary\n\nWe are seeking a hands-on Full Stack Java Developer to build, test and support enterprise applications. In this role, you will bring strong Java, Spring Boot, REST API and SQL skills together with exposure to modern frontend technologies to deliver high-quality, secure software solutions.\n\nDay to day, you will design, develop and maintain enterprise applications, build and integrate RESTful APIs, microservices and database components, and support user-interface development. You will work closely with business analysts, QA and engineering teams in an Agile/Scrum environment, taking part in code reviews, CI/CD processes, deployments and production support.\n\nThis role also requires an AI-tool-ready mindset: you will use approved AI-assisted development tools to accelerate coding, refactoring, testing, debugging and documentation activities, while critically validating all AI-generated output for correctness, security and maintainability.\n\n### Essential Job Functions\n\n* Design, develop, test and maintain enterprise applications using Java and Spring Boot.\n* Build and integrate RESTful APIs, microservices and database components.\n* Develop or support user-interface components using Angular, React, JavaScript or TypeScript.\n* Write clean, maintainable code with appropriate unit and integration tests.\n* Troubleshoot application, API, integration and data issues, and perform root-cause analysis.\n* Participate in code reviews, CI/CD, deployments and production support.\n* Collaborate with business analysts, QA and engineering teams in an Agile/Scrum environment.\n* Use approved AI-assisted development tools for coding, refactoring, testing and documentation, validating all generated output for correctness, security and maintainability.\n\n### Basic Qualifications\n\n* 4-6 years of hands-on software development experience.\n* Strong Java/J2EE, Spring Boot, Spring Framework and Spring Data JPA experience.\n* RESTful API development and service integration.\n* SQL and relational databases such as SQL Server, Oracle or PostgreSQL.\n* JPA/Hibernate or an equivalent ORM framework.\n* JUnit and Mockito; unit and integration testing practices.\n* Git and Maven or Gradle.\n* Strong understanding of object-oriented programming, design principles, debugging and coding standards.\n* Ability to independently deliver low-to-medium complexity application changes.\n* Comfort using or rapidly adopting GitHub Copilot, Amazon Q Developer, Microsoft Copilot or similar GenAI engineering assistants.\n* Ability to use AI for code generation, code understanding, refactoring, unit-test creation, debugging, SQL assistance and technical documentation.\n* Ability to critically review AI-generated code and follow enterprise security, privacy and source-code handling standards.\n\n### Other Qualifications\n\n* Angular or React, TypeScript, JavaScript, HTML and CSS.\n* Microservices, Docker, Kubernetes, AWS or Microsoft Azure.\n* CI/CD using Jenkins, GitHub Actions or Azure DevOps.\n* Swagger/OpenAPI, Postman or REST Assured.\n* Kafka, RabbitMQ, IBM MQ, batch processing or high-volume data processing.\n* Data migration and reconciliation experience.\n* Insurance, banking or financial-services domain exposure.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "c059dd6d6efb": {
+   "id": "c059dd6d6efb",
+   "site": "indeed",
+   "title": "Lead Data Architect",
+   "company": "Weekday",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d7a082997fdbe39b",
+   "apply_url": "https://jobs.lever.co/weekdayworks/9463e582-70f2-4621-bd90-d7e14d632a23?lever-source=Indeed",
+   "date_posted": "2026-11-21",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**This role is for one of our clients**\n\nIndustry: Software Development  \nCompany Name: EazyML\n\nSeniority level: Mid-Senior Level\n\n  \n\nExperience: 10+ Years Overall (Minimum 8+ Years Required)  \nMicrosoft Fabric Experience: 2+ Years of Hands-on Experience  \nLocation: Remote – Anywhere in India  \nEmployment Type: Full-Time\n\nEazyML, recognized by Gartner, EazyML specializes in Responsible AI. Our solutions facilitate proactive compliance and sustainable automation, and the company is associated with breakthrough startups like Amelia.ai.\n\n  \n\nThis is a full-time Remote role for an experienced Senior Platform Architect — Microsoft Fabric who enjoys solving complex data problems and takes ownership from design through delivery. You can work from home (anywhere in INDIA, job location is in India).\n\nExperience Level: Senior (10+ years overall, 2+ years hands-on with Microsoft Fabric) DO NOT APPLY IF YOU DON'T HAVE AT LEAST 8+ YEARS OF EXPERIENCE. THIS IS A SENIOR POSITION\n\n  \n\nThis role is ideal for someone who can build scalable data pipelines on Microsoft Azure Fabric, leverage AI to improve engineering productivity, and work closely with business and technical stakeholders.\n\n  \n\nAbout the Role\n\nWe're looking for a Senior Platform Architect with strong DevOps expertise to design, implement, and operationalize our Microsoft Fabric data platform. You'll own the architecture of our unified data estate — spanning OneLake, Data Factory pipelines, Synapse Data Engineering, Power BI, and Real-Time Analytics — while building the CI/CD, governance, and automation backbone that lets our data teams ship reliably and securely. This is a hands-on architecture role: you'll set technical direction and also build it yourself.\n\n  \n\nRequired Qualifications\n\n* Bachelor's or Master's degree in Computer Science, Information Technology, Engineering, or a related field.\n* 10+ years of experience in Data Engineering, Data Warehousing, or Cloud Data Platform development.\n* 4+ years of hands-on experience with Microsoft Azure Data Platform technologies.\n* 2+ years of hands-on experience with Microsoft Fabric in enterprise implementations.\n* Strong expertise in SQL, PySpark, Python, and Spark optimization.\n* Experience with Microsoft Fabric components including OneLake, Lakehouse, Data Warehouse, Data Factory, Power BI, and Real-Time Intelligence.\n* Experience with Azure Data Lake Storage (ADLS), Azure DevOps, GitHub, and CI/CD pipelines.\n* Strong knowledge of dimensional data modeling, ETL/ELT architecture, and data governance.\n\n  \n\nWhat You'll Do\n\n* Design and own the end-to-end architecture for Microsoft Fabric, including OneLake data lake structure, workspace and capacity strategy, domain/workspace segregation, and medallion (bronze/silver/gold) layering.\n* Define and implement DevOps practices for Fabric: Git integration, deployment pipelines, environment promotion (dev/test/prod), and infrastructure-as-code for Fabric items (lakehouses, warehouses, notebooks, pipelines, semantic models).\n* Build and maintain CI/CD pipelines (Azure DevOps or GitHub Actions) for Fabric artifacts, including automated testing, validation, and rollback strategies.\n* Architect and enforce governance, security, and access controls across Fabric — workspace roles, OneLake data access policies, sensitivity labels, row-level security, and integration with Microsoft Purview.\n* Partner with data engineers, analysts, and platform teams to standardize development patterns, reusable templates, and best practices across Fabric workloads (Data Factory, Data Engineering/Spark, Data Warehouse, Real-Time Intelligence, Power BI).\n* Lead migration efforts from legacy platforms (Synapse Analytics, Azure Data Factory, on-prem SSIS/SQL Server, or other cloud data warehouses) onto Microsoft Fabric.\n* Mentor engineering teams on Fabric architecture patterns, DevOps practices, and operational excellence.\n\nRoles & Responsibilities: Technical Leadership\n\n* Lead the end-to-end implementation of Microsoft Fabric solutions across enterprise programs.\n* Define technical architecture, engineering standards, and best practices for Microsoft Fabric adoption.\n* Provide technical leadership to a team of data engineers and developers.\n* Review solution designs, code, and deployment strategies to ensure quality and scalability.\n\nMicrosoft Fabric Architecture\n\n* Design and implement enterprise data platforms using Microsoft Fabric components including OneLake, Lakehouse, Data Warehouse, Data Factory, Real-Time Intelligence, Data Engineering, and Power BI.\n* Architect scalable, cloud-native data solutions supporting analytics, AI, and business intelligence workloads.\n* 3 + years of hands-on experience with Microsoft Fabric, or deep equivalent experience with Azure Synapse Analytics, Power BI, and Azure Data Factory with a clear path to Fabric.\n* Strong command of OneLake, Lakehouse and Warehouse architecture, Delta Lake/Parquet formats, and medallion architecture design.\n\nData Engineering & Integration\n\n* Design and develop robust ETL/ELT pipelines using Microsoft Fabric Data Factory and Spark Notebooks.\n* Integrate structured, semi-structured, and unstructured data from cloud and on-premises systems.\n* Implement data transformation, cleansing, validation, and orchestration processes.\n* Optimize data ingestion strategies for performance and reliability.\n\nData Modeling & Analytics\n\n* Design dimensional models, Lakehouse architectures, and enterprise data warehouses.\n* Develop semantic models and datasets for Power BI reporting and self-service analytics.\n* Collaborate with business teams to translate analytical requirements into scalable data solutions.\n\nPerformance Optimization\n\n* Optimize Spark workloads, SQL Warehouse performance, and OneLake storage utilization.\n* Implement partitioning, indexing, caching, and workload optimization strategies.\n* Monitor platform performance and proactively resolve bottlenecks.\n\nSecurity & Governance\n\n* Implement enterprise security using Microsoft Entra ID, RBAC, and Fabric workspace security.\n* Ensure adherence to enterprise security, privacy, and regulatory standards.\n\nDevOps & Automation\n\n* Implement CI/CD pipelines using Azure DevOps or GitHub.\n* Automate deployment of Microsoft Fabric artifacts across Development, QA, UAT, and Production environments.\n* Manage source control, release management, and deployment automation.\n\nAI & Advanced Analytics\n\n* Enable AI, Machine Learning, and Copilot capabilities within Microsoft Fabric.\n* Support Data Science workloads using Spark, notebooks, and ML models.\n* Collaborate with AI teams to operationalize predictive analytics and intelligent data solutions.\n\nProduction Support & Operations\n\n* Lead production deployments and post-production support activities.\n* Monitor platform health, troubleshoot incidents, and ensure SLA compliance.\n* Implement disaster recovery, backup, and business continuity strategies.\n\nStakeholder Management\n\n* Collaborate with enterprise architects, product owners, business stakeholders, and cross-functional teams.\n* Participate in architecture review boards and technical governance meetings.\n* Communicate technical solutions and project status to senior leadership.\n\nTeam Leadership & Mentoring\n\n* Mentor junior and senior engineers on Microsoft Fabric technologies and engineering best practices.\n* Conduct code reviews, design reviews, and technical knowledge-sharing sessions.\n* Drive continuous improvement initiatives and foster engineering excellence.\n\n  \n\nNice to Have\n\n* Microsoft certifications: DP-600 (Fabric Analytics Engineer), DP-203 (Azure Data Engineer), or Azure Solutions Architect Expert.\n* Experience with Power BI semantic model optimization and DirectLake mode.\n* Familiarity with data mesh or domain-driven data architecture principles.\n* Experience with Databricks, Synapse Analytics, Azure AI Services, or Microsoft Purview.\n* Knowledge of Agile/Scrum delivery methodologies.\n* Strong communication, stakeholder manage",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "8a9b44164471": {
+   "id": "8a9b44164471",
+   "site": "naukri",
+   "title": "Senior Software Engineer",
+   "company": "Globalization Partners International (GPI)",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-engineer-g-p-globalization-partners-remote-6-to-11-years-211126501224",
+   "apply_url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8164387003",
+   "date_posted": "2026-11-21",
+   "experience": "6-11 Yrs",
+   "skills": "SDLC, Workflow, Agile, Postgresql, SQL, MySQL, Python, Modeling",
+   "emails": [],
+   "description": "### Responsibilities\n\n* Design, build, and operate production AI features across the stack (APIs, backend services, and product UI) within an AWS cloud-managed and serverless-first platform ecosystem.\n* Design and implement tool-calling agents, MCP Servers, multi-step workflows with durable execution, and multi-agent orchestration patterns complete with guardrails, authorization (authz), rate limits, retries, fallbacks, and safe human-in-the-loop paths.\n* Establish and manage offline/online evals, benchmarks, regression datasets, prompt/version management, and A/B or canary rollouts to continuously experiment and optimize accuracy, latency, and cost.\n* Build deep production observability for AI systems, including distributed tracing, token/cost metrics, failure taxonomies, grounding/hallucination signals, and operational runbooks-diagnosing and resolving issues reported by internal teams and customers.\n* Lead the design of reusable AI platform patterns-including agent frameworks, RAG/retrieval pipelines, context and memory management, tool registries, and evaluation harnesses-while advancing an AI-native SDLC.\n* Partner closely with Product, UX, and platform stakeholders to rapidly prototype ambiguous concepts and turn them into measurable, production-grade customer experiences.\n* Evangelize modern agile practices, the AWS Well-Architected Framework, comprehensive automated testing (unit, contract, integration, and eval suites), and mentor engineers through technical guidance, code reviews, and coaching.\n\n### What we are looking for\n\n* 6+ years of experience designing and developing highly scalable enterprise-level services, platforms, or SaaS products within geographically distributed teams.\n* Deep engineering expertise across modern stacks, with strong proficiency in Python, TypeScript, Node.js, and React, as well as experience with APIs, caching (e.g., Redis) etc.\n* Agentic Frameworks Model Tooling: Hands-on experience with AWS Bedrock, AgentCore, and Strands Agents SDK (or comparable frameworks such as LangGraph, CrewAI, or Claude Agent SDK), including function/tool calling, structured outputs, and streaming responses.\n* Proven track record shipping, scaling, and iterating on AI applications in production (agent workflows, RAG systems, copilots, or LLM-powered apps), with a deep practical understanding of multi-agent orchestration, context/memory management, prompt engineering, and failure handling.\n* Strong knowledge of modern cloud-native and serverless architectures (AWS strongly preferred), CI/CD, observability, and secure defaults, alongside experience choosing between SQL (MySQL/PostgreSQL) and NoSQL/vector data stores (MongoDB/DynamoDB).\n* Excellent communication skills with the ability to document and articulate complex technical and AI system concepts to both technical and non-technical audiences; startup or high-growth environment experience is desirable.\n* Nice-to-Have / Plus Areas: Data modeling, data architecture, and data governance, Event-driven business workflow orchestration and choreography patterns\n\nIndividuals with disabilities are encouraged to apply for these positions.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "bf848a2d0307": {
+   "id": "bf848a2d0307",
+   "site": "naukri",
+   "title": "RPA Engineer",
+   "company": "Zorba Consulting",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-rpa-engineer-zorba-ai-remote-7-to-10-years-211126500613",
+   "apply_url": "https://app.pyjamahr.com/careers?company=zorba-consulting-india&job_id=430667&company_uuid=A7DEFF2C5C",
+   "date_posted": "2026-11-21",
+   "experience": "7-10 Yrs",
+   "skills": "Automation, Agile, Production, Business objects, XML, Billing, Microsoft Windows, SDLC",
+   "emails": [],
+   "description": "We are looking for an experienced RPA Engineer with strong hands-on expertise in Blue Prism to design, develop, implement, and maintain enterprise-level Robotic Process Automation solutions.\n\nThe ideal candidate should have 7-10 years of overall IT/software engineering experience, with strong expertise in Blue Prism development, solution design, application integration, debugging, and production support.\n\nThe candidate will be responsible for delivering scalable, secure, reusable, and reliable automation solutions while ensuring performance, quality, and operational excellence.\n\nKey Responsibilities\n\nDesign, develop, test, and deploy end-to-end RPA solutions using Blue Prism.\n\nAnalyze business processes and identify automation opportunities.\n\nDevelop and maintain reusable Business Objects, Process Objects, and Work Queues.\n\nWork extensively with Blue Prism Process Studio, Object Studio, Application Modeller, and Control Room.\n\nPrepare and maintain PDDs, SDDs, process maps, and technical documentation.\n\nImplement exception handling, logging, retry mechanisms, and recovery strategies.\n\nIntegrate Blue Prism with web applications, Windows applications, APIs, databases, Excel, and email systems.\n\nPerform unit testing, integration testing, UAT support, and production deployment.\n\nMonitor bot performance, troubleshoot failures, and conduct root-cause analysis.\n\nManage bot scheduling, credentials, environment configurations, and production releases.\n\nOptimize existing automations for improved performance, reliability, and scalability.\n\nCollaborate with business stakeholders, technical teams, and infrastructure teams.\n\nFollow RPA governance, security standards, and development best practices.\n\nMandatory Technical Skills\n\n7-10 years of overall IT/software engineering/automation experience.\n\nStrong hands-on development experience in Blue Prism.\n\nExpertise in Blue Prism architecture, Process Studio, Object Studio, Application Modeller, Control Room, and Work Queues.\n\nExperience developing reusable Business Objects and Process Objects.\n\nStrong knowledge of exception handling, debugging, and troubleshooting.\n\nHands-on experience with UI automation and surface automation.\n\nExperience with Excel automation, VBA, SQL, database connectivity, and file handling.\n\nKnowledge of API integration, web services, JSON, and XML.\n\nExperience in bot scheduling, credential management, deployment, and production support.\n\nGood understanding of SDLC, Agile methodologies, and testing practices.\n\nGood to Have\n\nBlue Prism Developer Certification.\n\nExperience working in enterprise-scale RPA implementations or CoE environments.\n\nKnowledge of version control, CI/CD, and deployment automation.\n\nExposure to OCR, Intelligent Document Processing, and AI-driven automation.\n\nExperience in Finance, HR, Supply Chain, or Customer Operations automation.\n\nKey Competencies\n\nStrong analytical and problem-solving skills.\n\nIndependent ownership of automation development and delivery.\n\nExcellent debugging and root-cause analysis capabilities.\n\nStrong communication and stakeholder management skills.\n\nAbility to work independently and deliver within defined timelines.\n\nEngagement Details\n\nParameter\n\nDetails\n\nPosition\n\nRPA Engineer - Blue Prism\n\nExperience\n\n7-10 Years\n\nBilling Rate\n\n3-3.5 LPM\n\nContract\n\nInitially 3 Months\n\nExtension\n\nPossible\n\nProject Duration\n\nUp to 1 Year\n\nEmployment Type\n\nContractual\n\nOnboarding\n\nFirst Week of December 2026\n\nInterested candidates with strong hands-on Blue Prism development experience are encouraged to apply.Job Description - RPA Engineer (Blue Prism)\n\nRole: RPA Engineer - Blue Prism  \nExperience: 7-10 Years  \nEmployment Type: Contractual  \nContract Duration: 3 Months initially (extendable)  \nProject Duration: Potentially up to 1 Year  \nBilling Rate: 3-3.5 LPM  \nExpected Onboarding: First Week of December 2026\n\nRole Overview\n\nWe are looking for an experienced RPA Engineer with strong hands-on expertise in Blue Prism to design, develop, implement, and maintain enterprise-level Robotic Process Automation solutions.\n\nThe ideal candidate should have 7-10 years of overall IT/software engineering experience, with strong expertise in Blue Prism development, solution design, application integration, debugging, and production support.\n\nThe candidate will be responsible for delivering scalable, secure, reusable, and reliable automation solutions while ensuring performance, quality, and operational excellence.\n\nKey Responsibilities\n\nDesign, develop, test, and deploy end-to-end RPA solutions using Blue Prism.\n\nAnalyze business processes and identify automation opportunities.\n\nDevelop and maintain reusable Business Objects, Process Objects, and Work Queues.\n\nWork extensively with Blue Prism Process Studio, Object Studio, Application Modeller, and Control Room.\n\nPrepare and maintain PDDs, SDDs, process maps, and technical documentation.\n\nImplement exception handling, logging, retry mechanisms, and recovery strategies.\n\nIntegrate Blue Prism with web applications, Windows applications, APIs, databases, Excel, and email systems.\n\nPerform unit testing, integration testing, UAT support, and production deployment.\n\nMonitor bot performance, troubleshoot failures, and conduct root-cause analysis.\n\nManage bot scheduling, credentials, environment configurations, and production releases.\n\nOptimize existing automations for improved performance, reliability, and scalability.\n\nCollaborate with business stakeholders, technical teams, and infrastructure teams.\n\nFollow RPA governance, security standards, and development best practices.\n\nMandatory Technical Skills\n\n7-10 years of overall IT/software engineering/automation experience.\n\nStrong hands-on development experience in Blue Prism.\n\nExpertise in Blue Prism architecture, Process Studio, Object Studio, Application Modeller, Control Room, and Work Queues.\n\nExperience developing reusable Business Objects and Process Objects.\n\nStrong knowledge of exception handling, debugging, and troubleshooting.\n\nHands-on experience with UI automation and surface automation.\n\nExperience with Excel automation, VBA, SQL, database connectivity, and file handling.\n\nKnowledge of API integration, web services, JSON, and XML.\n\nExperience in bot scheduling, credential management, deployment, and production support.\n\nGood understanding of SDLC, Agile methodologies, and testing practices.\n\nGood to Have\n\nBlue Prism Developer Certification.\n\nExperience working in enterprise-scale RPA implementations or CoE environments.\n\nKnowledge of version control, CI/CD, and deployment automation.\n\nExposure to OCR, Intelligent Document Processing, and AI-driven automation.\n\nExperience in Finance, HR, Supply Chain, or Customer Operations automation.\n\nKey Competencies\n\nStrong analytical and problem-solving skills.\n\nIndependent ownership of automation development and delivery.\n\nExcellent debugging and root-cause analysis capabilities.\n\nStrong communication and stakeholder management skills.\n\nAbility to work independently and deliver within defined timelines.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b5c6357c4fe4": {
+   "id": "b5c6357c4fe4",
+   "site": "naukri",
+   "title": "Senior Full Stack Developer",
+   "company": "Indira Securities",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-senior-full-stack-developer-indira-securities-p-ltd-indore-6-to-11-years-211126504615",
+   "apply_url": "https://www.indiratrade.com/job-openings",
+   "date_posted": "2026-11-21",
+   "experience": "6-11 Yrs",
+   "skills": "Senior, Coding, Full Stack, Debugging, Analytics, JMS, Android, Stack",
+   "emails": [],
+   "description": "**Job Description**    \n\nWe are seeking a highly experienced   Senior Full Stack Developer   with a proven track record in Java (backend), Flutter (mobile/web), and advanced AWS Cloud services. The ideal candidate will have hands-on experience with telemetry monitoring, EC2, Load Balancer, and Elasticsearch, and must have previously worked in the stock broking or finance domain.\n\n  \n   \n  **Key Responsibilities**    \n- Design, develop, and maintain scalable financial/trading applications   using Java for backend and Flutter for frontend/mobile.\n- Architect and deploy solutions on AWS   , including EC2, Elastic Load Balancer, and VPC, with automated scaling and high availability.\n- Implement and maintain telemetry monitoring solutions   (CloudWatch, Prometheus, Grafana, etc.) to ensure real-time visibility and incident response.\n- Design and optimize data pipelines   for market data ingestion, order management, and trade lifecycle using Elasticsearch and RDBMS.\n- Integrate with external APIs   (market feeds, KYC, trading gateways, etc.) securely and efficiently.\n- Collaborate with cross-functional teams   including product, QA, and DevOps to deliver high-performance financial systems.\n- Enforce best coding practices, CI/CD, and unit/integration testing   for high-quality releases.\n- Ensure robust security practices   for financial transactions and customer data.\n  \n   \n  **Required Skills Experience**    \n- 6+ years of full stack development experience   in the finance or stock broking industry.\n- Strong expertise in Java (Spring Boot, REST APIs, Multithreading, JMS, etc.).\n- Advanced Flutter development skills   (iOS/Android/Web).\n- Deep hands-on AWS experience   :\n- EC2   : Provisioning, scaling, security groups, automation.\n- Elastic Load Balancer   : Design, routing, auto-scaling, health checks.\n- Elasticsearch   : Setup, query optimization, monitoring, log analytics.\n- Telemetry Monitoring   : CloudWatch, Prometheus, Grafana, or similar.\n- CI/CD and DevOps   : Jenkins, GitHub Actions, Docker, Infrastructure-as-Code (Terraform/CloudFormation).\n- Database skills   : MySQL/PostgreSQL + NoSQL/Elasticsearch.\n- Solid understanding of financial protocols, compliance, and security standards   .\n- Proven experience with high-throughput, low-latency applications   (preferably in trading/stock market systems).\n- Strong debugging, optimization, and troubleshooting skills   .\n  \n   \n  **Preferred Qualifications**    \n- Exposure to   Kafka/RabbitMQ   for event-driven architecture.\n- Knowledge of   microservices, serverless (Lambda), and API Gateway   on AWS.\n- Experience working with   market data vendors   (NSE/BSE/MCX, Bloomberg, etc.).\n- Prior experience building   real-time dashboards   and analytics in fintech.\n- Certification in AWS (AWS Certified Solutions Architect/Developer).     \n     \n   Regards  **Team HR | Indira Securities Pvt Ltd**\n\nGraduate -IT/Computer Science\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "4619b2c472bb": {
+   "id": "4619b2c472bb",
+   "site": "naukri",
+   "title": "Senior Associate - PowerPlatform and SharePoint Developer",
+   "company": "Ignatiuz Software",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-senior-associate-powerplatform-and-sharepoint-developer-ignatiuz-software-pvt-ltd-indore-2-to-6-years-211126504417",
+   "apply_url": "https://ignatiuz.zohorecruit.in/jobs/Careers/97356000007260001",
+   "date_posted": "2026-11-21",
+   "experience": "2-6 Yrs",
+   "skills": "Coding, Performance optimization, Microsoft, Security, Performance, Business process, Process, Security Compliance",
+   "emails": [],
+   "description": "\":\" \n\nRole Overview    \n\nWe are looking for a  **Senior Associate \\- Power Platform SharePoint Developer   to work on our global product  **Timesheet Pro 365   , an  **SPFx full\\-page application deployed on Microsoft AppSource   , along with enterprise solutions built using  **Power Apps and Power Automate   .    \n\nThe ideal candidate will be a  **hands\\-on, independent developer   who can take ownership of features, contribute to solution design, and support both product and project\\-based work.    \n\nKey Responsibilities    \n    *SharePoint SPFx Development    \n\n* Design, develop, and enhance  **SPFx full\\-page applications   using React and TypeScript**\n* **Work on feature enhancements, bug fixes, and version upgrades for  **Timesheet Pro 365****\n* ****Implement scalable and secure solutions on  **SharePoint Online******\n* ******Integrate solutions with  **Microsoft Graph API   , REST APIs, and Azure services********\n* ******Ensure performance optimization, security compliance, and coding best practices    \n      *Power Platform Development    \n  + Develop and maintain  **Power Apps (Canvas and\\/or Model\\-driven apps)**\n  + **Design and implement  **Power Automate flows   for business process automation****\n  + ****Handle integrations between Power Platform, SharePoint, and other Microsoft 365 services****\n  + ****Troubleshoot, optimize, and support existing Power Platform solutions    \n        *Product Delivery Ownership  *- Take ownership of assigned modules and deliverables with minimal supervision\n    - Support production issues and customer escalations\n    - Participate in requirement discussions, estimation, and solution design\n    - Maintain technical documentation and deployment notes    \n          *Quality Collaboration    \n      * Perform code reviews and ensure adherence to development standards\n      * Mentor junior developers and support knowledge sharing within the team\n      * Collaborate with product owners, architects, and cross\\-functional teams    \n\n        Requirements    Technical Skills   \n        + Strong hands\\-on experience in  **SPFx   , React, TypeScript**\n        + **Solid experience with  **SharePoint Online   (lists, libraries, permissions, site architecture)****\n        + ****Proven expertise in  **Power Apps   and  **Power Automate********\n        + ******Experience with  **PnP JS   , REST APIs, and Microsoft Graph********\n        + ******Familiarity with Azure services (Azure Functions, App Registration, Azure AD \\- preferred)******\n        + ******Experience deploying and maintaining solutions on  **Microsoft AppSource   (good to have)    \n              Professional Skills    \n          - Ability to work independently and take ownership of tasks\n          - Strong problem\\-solving and debugging skills*********************************\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "95164735072d": {
+   "id": "95164735072d",
+   "site": "indeed",
+   "title": "Full Stack .Net Developer",
+   "company": "quick pro",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=1ae58e20bcae3ff9",
+   "apply_url": "https://in.indeed.com/viewjob?jk=1ae58e20bcae3ff9",
+   "date_posted": "2026-11-21",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Company:** QuickPro Hiring solutions  \n**Location:** Remote  \n**Job Type:** Contract — 12 months  \n**Experience:** 2–5 years\n\nQuickPro Hiring solutions is hiring a Full Stack .NET Developer for a 12-month remote contract position.\n\nYou will develop and maintain scalable web applications using .NET and React or Angular. There is a possibility of conversion to a permanent, full-time role, subject to performance, business requirements, and mutual agreement. Conversion is not guaranteed.\n\n**Key Responsibilities**\n\n* Develop scalable web applications using .NET, ASP.NET Core, and C#.\n* Build responsive frontend applications using React or Angular with TypeScript.\n* Develop and maintain REST APIs and backend services.\n* Work with Entity Framework Core, SQL Server, and Azure SQL.\n* Integrate applications with external APIs and enterprise systems.\n* Implement authentication, authorization, logging, caching, and error handling.\n* Develop and maintain unit, integration, and automated tests.\n* Troubleshoot application defects and optimize performance.\n* Participate in code reviews and technical design discussions.\n* Support CI/CD pipelines and cloud deployments.\n* Follow secure coding standards, SOLID principles, and Clean Architecture practices.\n* Share knowledge and mentor developers as appropriate to your experience.\n\n**Required Qualifications**\n\n* 2–5 years of professional software development experience.\n* Hands-on experience with C#, .NET, ASP.NET Core, and REST API development.\n* Experience with React or Angular and TypeScript.\n* Working knowledge of JavaScript, HTML, and CSS.\n* Experience with Entity Framework Core and SQL Server.\n* Understanding of relational database design and SQL query optimization.\n* Familiarity with Git, automated testing, authentication, and authorization.\n* Strong problem-solving and communication skills.\n* Ability to work independently and collaborate effectively with a remote team.\n\n**Preferred Qualifications**\n\n* Experience with Azure services and Azure SQL.\n* Familiarity with Azure DevOps, GitHub Actions, or similar CI/CD tools.\n* Exposure to Docker, caching solutions, and application monitoring.\n* Experience with enterprise application integrations.\n\n**How to Apply**\n\nApply through Indeed with your updated résumé. Please include:\n\n* Total experience and relevant .NET development experience.\n* Experience with React or Angular.\n* Expected gross monthly compensation.\n* Notice period or earliest joining date.\n\n*QuickPro Hiring solutions welcomes applications from qualified candidates of all backgrounds. Selection is based on relevant skills, experience, and role requirements.*\n\nPay: ₹1,500,000.00 - ₹2,000,000.00 per year\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "9a33c62bb5bd": {
+   "id": "9a33c62bb5bd",
+   "site": "indeed",
+   "title": "full stack developer,3D artist,security reviewer",
+   "company": "Booking ticket",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=403aca687ce600bb",
+   "apply_url": "https://in.indeed.com/viewjob?jk=403aca687ce600bb",
+   "date_posted": "2026-11-21",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Job title\n\nFull Stack Developer for a Web Ticketing Platform (3D Experience)\n\nAbout the project\n\nWe are building a web platform for ticket booking in India.\n\nIt has an interactive 3D feature, and we will share the full details after an agreement is signed.\n\nWhat you will build\n\nYou will build a booking system with seat selection and a timed hold during payment.\n\nYou will connect Razorpay or Cashfree for UPI and card payments.\n\nYou will create QR code tickets and a simple scanner page.\n\nYou will set up a database and make everything work well on mid-range phones.\n\nSkills we need\n\nYou should know JavaScript, React or Next.js, Node.js and PostgreSQL.\n\nThree.js experience is a strong plus.\n\nYou should have built a payment integration before.\n\nYou should understand basic web security.\n\nWhat we need from you\n\nPlease share a live project you have built, and explain it in plain language.\n\nPlease tell us your estimated time and price.\n\nHow we will work\n\nWe will sign a confidentiality agreement (NDA) before sharing any details.\n\nWe will start with a small paid test task, and then pay in stages.\n\nAll code and accounts will be owned by us, with temporary access for you only.\n\nTo apply\n\nSend your portfolio, a short note on similar work, your price and your timeline.\n\nPay: From ₹15,000.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Paid sick time\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "1701bda41148": {
+   "id": "1701bda41148",
+   "site": "naukri",
+   "title": "Full-Stack Developer (React / Node)",
+   "company": "Prisaat Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-prisaat-technologies-inc-remote-3-to-8-years-211126502001",
+   "apply_url": "http://www.prisaattechnologies.com/",
+   "date_posted": "2026-11-21",
+   "experience": "3-8 Yrs",
+   "skills": "Typescript, Interpersonal Skill, Coding, Interpersonal skills, Development, Interpersonal skills, Application, Node",
+   "emails": [],
+   "description": "* Design and develop scalable, efficient, and reliable full-stack applications using React and Node.js.\n  \n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n  \n* Develop high-quality, user-friendly, and responsive web pages using React and TypeScript.\n  \n* Implement AI and machine learning models into web applications.\n  \n* Ensure the best possible performance, quality, and responsiveness of web applications.\n  \n* Participate in code reviews and contribute to improving overall code quality.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "9c79074885a9": {
+   "id": "9c79074885a9",
+   "site": "naukri",
+   "title": "Senior Salesforce\\/PSA Developer",
+   "company": "Intellias",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-salesforce-psa-developer-intellias-remote-5-to-10-years-211126500615",
+   "apply_url": "https://career.intellias.com/vacancy/senior-salesforcepsa-developer-31181/",
+   "date_posted": "2026-11-21",
+   "experience": "5-10 Yrs",
+   "skills": "Sales force development, Automation, Healthcare, Agile, Continuous improvement, Web services, Microsoft Azure, Improvement",
+   "emails": [],
+   "description": "See the impact you make. Join an AI-enabled engineering team where your work is recognised and your career follows a clear path.\n\nWhat project we have for you\n\nOur client is a leading multi-brand technology solutions provider serving business, government, education, and healthcare customers in several international markets. The project involves supporting and enhancing a mature Salesforce and Certinia PSA ecosystem used by distributed teams across the United States and Canada.\n\nWhat you will do\n\n* Develop, enhance, and maintain Salesforce applications and solutions.\n* Support and improve PSA-related functionality and business processes within the Salesforce ecosystem.\n* Work with Salesforce CPQ functionality and contribute to related enhancements and integrations.\n* Design, develop, and maintain custom Salesforce components using Apex, Lightning, and Lightning Web Components (LWC).\n* Configure and customise Salesforce objects, workflows, and platform functionality to meet business requirements.\n* Develop and maintain integrations between Salesforce and external systems using APIs and web services.\n* Collaborate with business stakeholders to understand requirements and translate them into technical solutions.\n* Troubleshoot, investigate, and resolve technical issues and production incidents.\n* Participate in code reviews and ensure code quality and adherence to Salesforce best practices.\n* Collaborate with other developers, QA engineers, architects, and business stakeholders.\n* Contribute to technical discussions, solution design, and continuous improvement of development practices.\n* Deliver solutions in an Agile development environment.\n\nWhat you need for this\n\nMust-have\n\n* 5+ years of application development experience.\n* 3+ years of hands-on Salesforce development experience.\n* Experience working with Salesforce and PSA (Professional Services Automation) solutions.\n* Understanding of PSA business processes, workflows, and data models.\n* Experience supporting large-scale Salesforce implementations, including multiple instances.\n* Experience with Salesforce configuration, including custom objects, permission sets, and platform customisation.\n* Experience with Salesforce APIs, REST integrations, web services, and external systems.\n* Some exposure to Salesforce CPQ (Configure, Price, Quote), with an understanding of its core functionality and business processes.\n* Ability to investigate and troubleshoot technical issues.\n* Experience with Git and Agile development methodologies.\n* Good communication and collaboration skills, with the ability to work effectively with technical and business stakeholders.\n* Availability to work shifted hours, either 10:00 to 19:00 CET or 11:00 to 20:00 CET, with approximately four hours of daily overlap with US Central Time. (For EU candidates only)\n\nWill be a plus\n\n* Experience supporting large-scale Salesforce implementations, including multiple instances.\n* Experience with Microsoft Azure integrations and services.\n* Familiarity with Microsoft Azure DevOps.\n* Previous development experience with Java or .NET.\n* Experience working within the Agile SAFe framework.\n* Experience optimising and tuning Salesforce solutions to meet performance requirements.\n* Experience working in an enterprise environment with several interconnected Salesforce and PSA teams.\n* Salesforce certifications.\n\nWhat it s like to work at Intellias\n\nAt Intellias, where technology takes center stage, people always come before processes. By creating a comfortable atmosphere in our team, we empower individuals to unlock their true potential and achieve extraordinary results. That s why we offer a range of benefits that support your well-being and charge your professional growth.  \n We are committed to fostering equity, diversity, and inclusion as an equal opportunity employer. All applicants will be considered for employment without discrimination based on race, color, religion, age, gender, nationality, disability, sexual orientation, gender identity or expression, veteran status, or any other characteristic protected by applicable law.  \n We welcome and celebrate the uniqueness of every individual. Join Intellias for a career where your perspectives and contributions are vital to our shared success.\n\nSkills\n\nPSA\n\nSalesforce\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-22T11:51:53+00:00",
+   "status": "new",
+   "updated_at": "2026-11-22T11:51:53+00:00",
+   "history": [
+    {
+     "at": "2026-11-22T11:51:53+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
   }
  },
  "runs": [
