@@ -10597,6 +10597,25 @@
     "follow_up_due": 0
    },
    "pruned": 0
+  },
+  {
+   "command": "run",
+   "at": "2026-11-22T16:00:12+00:00",
+   "ai": false,
+   "new_jobs": 0,
+   "scored": {
+    "review": 2,
+    "low_match": 2
+   },
+   "send": {
+    "sent": 0,
+    "failed": 0
+   },
+   "track": {
+    "replied": 0,
+    "follow_up_due": 0
+   },
+   "pruned": 0
   }
  ]
 }
