@@ -2,7 +2,9 @@ import copy
 
 from jobagent.config import DEFAULTS
 
-RESUME = """Senior Software Engineer, 7 years. React, Node.js, TypeScript, AWS, microservices, SQL.
+RESUME = """Senior Software Engineer, 7 years.
+SKILLS
+React, Node.js, TypeScript, AWS, microservices, SQL.
 Led migration to microservices; cut API latency 40%."""
 
 ROWS = [

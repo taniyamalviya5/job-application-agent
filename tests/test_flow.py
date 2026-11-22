@@ -44,11 +44,9 @@ def test_full_flow(tmp_path, monkeypatch, smtp_server):
     pipeline.run("search", st=st, cfg=c, scrape=fake_scrape)
     pipeline.run("score", st=st, cfg=c)
     jobs = st.load()["jobs"]
-    assert len(jobs) == 2
+    assert len(jobs) == 1
     node = next(j for j in jobs.values() if "Node" in j["title"])
-    java = next(j for j in jobs.values() if "Java" in j["title"])
     assert node["status"] == S.REVIEW and node["draft"]["to"] == "hr@acme-tech.in"
-    assert java["status"] == S.LOW_MATCH
 
     # search again: no duplicates
     assert pipeline.step_search(st, c, fake_scrape) == 0

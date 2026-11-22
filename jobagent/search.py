@@ -11,6 +11,8 @@ log = logging.getLogger(__name__)
 
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 BAD_EMAIL_PARTS = ("noreply", "no-reply", "example.com", ".png", ".jpg")
+SKILL_SECTIONS = {"SKILLS", "TECHNICAL SKILLS", "ALSO WORKED ON"}
+SKILL_SECTION_ENDS = {"CERTIFICATES", "PROJECTS", "EDUCATION", "LANGUAGES", "EXPERIENCE", "TOOLS USED"}
 
 
 def _clean(v: Any) -> str:
@@ -62,10 +64,48 @@ def is_excluded(job: dict, exclude_keywords: Iterable[str]) -> bool:
     return any(k.lower() in title for k in exclude_keywords)
 
 
-def search_jobs(cfg: dict[str, Any], scrape=None) -> list[dict[str, Any]]:
+def _resume_skills(resume: str) -> list[list[str]]:
+    skills: list[list[str]] = []
+    collecting = False
+    for line in resume.splitlines():
+        heading = line.strip().lstrip("#* ").rstrip(":").strip().upper()
+        if heading in SKILL_SECTIONS:
+            collecting = True
+            continue
+        if heading in SKILL_SECTION_ENDS:
+            collecting = False
+            continue
+        if collecting:
+            for item in re.split(r"[,;/|]", line):
+                tokens = re.findall(r"[a-z0-9]+", item.lower())
+                if tokens:
+                    skills.append(tokens)
+    return skills
+
+
+def _matches_resume_skills(job: dict[str, Any], skills: list[list[str]]) -> bool:
+    job_tokens = re.findall(
+        r"[a-z0-9]+",
+        " ".join((job.get("title", ""), job.get("skills", ""), job.get("description", ""))).lower(),
+    )
+    for skill in skills:
+        width = len(skill)
+        if any(job_tokens[i:i + width] == skill for i in range(len(job_tokens) - width + 1)):
+            return True
+    return False
+
+
+def search_jobs(cfg: dict[str, Any], scrape=None, resume: str | None = None) -> list[dict[str, Any]]:
     """Run every (term x location x site) search. One failing site never stops the run."""
     if scrape is None:
         from jobspy import scrape_jobs as scrape  # imported lazily: heavy dependency
+    if resume is None:
+        from .resume import resume_text
+        resume = resume_text(cfg)
+    resume_skills = _resume_skills(resume)
+    if not resume_skills:
+        log.warning("No skills section found in resume; skipping job search")
+        return []
     s = cfg["search"]
     jobs: dict[str, dict] = {}
     for term in s["terms"]:
@@ -85,6 +125,7 @@ def search_jobs(cfg: dict[str, Any], scrape=None) -> list[dict[str, Any]]:
                     continue
                 for row in rows:
                     j = normalize(row)
-                    if j["title"] and not is_excluded(j, s["exclude_keywords"]):
+                    if (j["title"] and not is_excluded(j, s["exclude_keywords"])
+                            and _matches_resume_skills(j, resume_skills)):
                         jobs.setdefault(j["id"], j)
     return list(jobs.values())

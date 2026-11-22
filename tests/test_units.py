@@ -30,7 +30,7 @@ def test_search_dedupes_excludes_and_survives_site_errors():
     c = cfg(search={"sites": ["indeed", "naukri"], "locations": ["Indore", "Remote"]})
     jobs = search.search_jobs(c, scrape=scrape)
     assert len(calls) == 4
-    assert {j["title"] for j in jobs} == {"Senior Node.js Engineer", "Java Developer"}  # intern excluded, deduped
+    assert {j["title"] for j in jobs} == {"Senior Node.js Engineer"}  # Java-only and intern listings excluded
 
 
 def test_heuristic_scores_matching_job_higher():

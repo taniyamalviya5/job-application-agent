@@ -32,7 +32,7 @@ log = logging.getLogger("jobagent")
 
 # --------------------------------------------------------------------- steps
 def step_search(st, cfg, scrape=None) -> int:
-    found = search_jobs(cfg, scrape=scrape)
+    found = search_jobs(cfg, scrape=scrape, resume=resume_text(cfg))
 
     def add(data):
         added = 0
