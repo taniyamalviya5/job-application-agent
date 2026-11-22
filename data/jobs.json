@@ -9133,15 +9133,39 @@
    "emails": [],
    "description": "Job\\_Description\":\" \n\n**Overview :   \n\nWe are looking for an experienced  **AI Project Manager   to lead the planning, execution, delivery, and governance of AI/ML and Generative AI initiatives. The ideal candidate will combine strong project/program management capabilities with a solid understanding of AI technologies, software engineering, data platforms, and Agile delivery.    \n\nThe candidate will work closely with business stakeholders, product teams, data scientists, ML engineers, software engineers, architects, and leadership to deliver AI solutions within agreed timelines, budgets, and quality standards.    \n   Key Responsibilities    \n   1. AI Project Program Management    \n\n* Own end-to-end delivery of AI/ML and GenAI projects from initiation through production deployment.\n* Define project scope, objectives, milestones, deliverables, dependencies, and success metrics.\n* Develop and manage project plans, schedules, budgets, resource allocation, and delivery timelines.\n* Manage multiple AI projects/work streams simultaneously.\n* Track project progress, risks, issues, dependencies, and corrective actions.\n* Ensure delivery against agreed  **scope, schedule, cost, quality, and business outcomes   .    \n     2. AI/ML Delivery    \n  + Understand AI/ML project life cycles including data preparation, model development, evaluation, deployment, monitoring, and optimization.\n  + Manage delivery of  **Generative AI, LLM, NLP, Computer Vision, Machine Learning, Predictive Analytics, and AI Automation   initiatives.**\n  + **Work with technical teams on AI solution architecture, model selection, data requirements, APIs, integrations, and deployment approaches.**\n  + **Understand concepts such as  **RAG, embedding, vector databases, prompt engineering, fine-tuning, AI agents, MLOps, and LLM evaluation   .****\n  + ****Coordinate POCs, MVPs, pilots, and production implementations.    \n       3. Stakeholder Management    \n    - Act as the primary delivery interface between clients/business stakeholders and technical teams.\n    - Conduct project reviews, steering committee meetings, status meetings, and executive reporting.\n    - Translate business requirements into actionable technology deliverables.\n    - Manage stakeholder expectations and communicate project status, risks, and decisions effectively.\n    - Drive alignment across business, product, engineering, data, security, and architecture teams.    \n\n      Requirements   AI / GenAI    \n      * Machine Learning fundamentals\n      * Generative AI and LLMs\n      * NLP and/or Computer Vision\n      * Prompt Engineering\n      * RAG architectures\n      * Vector databases and embedding\n      * AI Agents / Agentic AI\n      * Model evaluation and monitoring\n      * MLOps / LLMOps    \n           Cloud Technology    \n\n        Working knowledge of one or more:    \n        + **AWS**\n        + ****Microsoft Azure****\n        + ******Google Cloud Platform******\n        + ******Azure OpenAI / OpenAI APIs******\n        + ******Data bricks******\n        + ******MLflow******\n        + ******Docker / Kubernetes******\n        + ******REST APIs and microservices******\n        + ******CI/CD and DevOps    \n             Project Management Tools    \n          - Jira\n          - Confluence\n          - Azure DevOps\n          - MS Project / Smart sheet\n          - Power BI or similar reporting tools    \n\n            Benefits \n\n            Diversity Inclusion:\n\n            At Exavalu, we are committed to building a diverse and inclusive workforce. We welcome applications for employment from all qualified candidates, regardless of race, color, gender, national or ethnic origin, age, disability, religion, sexual orientation, gender identity or any other status protected by applicable law. We nurture a culture that embraces all individuals and promotes diverse perspectives, where you can make an impact and grow your career. Exavalu also promotes flexibility depending on the needs of employees, customers and the business. It might be part-time work, working outside normal 9-5 business hours or working remotely. We also have a welcome back program to help people get back to the mainstream after a long break due to health or family reasons.****************\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 12"
     }
-   ]
+   ],
+   "score": 12,
+   "reasons": [
+    "Matched: Machine learning",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Project",
+    "Program",
+    "Monitoring",
+    "Agile",
+    "Resource allocation",
+    "Computer"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for AI Delivery Manager - Taniya Malviya",
+    "body": "Dear Hiring Team at Exavalu,\n\nI am writing to apply for the AI Delivery Manager role. I am a Senior Software Engineer, 7+ years, and my background in Machine learning matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "ba04cc10d18f": {
    "id": "ba04cc10d18f",
@@ -9157,15 +9181,32 @@
    "emails": [],
    "description": "We are looking for an experienced **Senior Full Stack Developer** with strong expertise in Python, MERN Stack, and AI technologies to join our development team. The ideal candidate should have hands-on experience in building scalable web applications, developing backend solutions, integrating APIs, and implementing AI-powered features.\n\nKey Responsibilities\n\n* Design, develop, and maintain scalable full-stack web applications.\n* Build robust backend services and APIs using Python and Node.js.\n* Develop responsive and user-friendly frontend applications using React.js.\n* Work with MongoDB and other databases for efficient data management.\n* Integrate AI/ML models, LLMs, and AI-powered functionalities into applications.\n* Collaborate with cross-functional teams to understand requirements and deliver solutions.\n* Optimize application performance, scalability, and security.\n* Troubleshoot technical issues and ensure code quality through best practices.\n\nRequired Technical Skills\n\n* **Python:** Strong proficiency in Python and backend development.\n* **MERN Stack:** Hands-on experience with MongoDB, Express.js, React.js, and Node.js.\n* **AI Integration:** Practical experience with AI/ML, LLMs, Generative AI, or AI API integrations.\n* **Frontend:** Strong knowledge of JavaScript, HTML, CSS, and React.js.\n* **Backend:** Experience in REST APIs, backend architecture, and third-party integrations.\n* **Database:** Good understanding of MongoDB and SQL databases.\n* **Tools:** Git, GitHub, and development tools.\n\nRequirements\n\n* Minimum 3+ years of relevant full-stack development experience.\n* Strong hands-on experience in Python and MERN Stack.\n* Practical experience in integrating AI technologies into real-world applications.\n* Strong problem-solving and debugging skills.\n* Ability to work independently and collaboratively in a team.\n\nWork Details\n\n* **Experience:** 3+ Years\n* **Location:** Indore, MP\n* **Work Mode:** On-site (Work From Office)\n* **Employment Type:** Full-Time\n\nPay: ₹300,000.00 - ₹700,000.00 per year\n\nWork Location: In person",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: api, apis, application, applications, applications.",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Discover WebTech Pvt. Ltd.,\n\nI am writing to apply for the Senior Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in api, apis, application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "c5b04978482a": {
    "id": "c5b04978482a",
@@ -9181,15 +9222,38 @@
    "emails": [],
    "description": "* Design, develop, and test high-quality software applications using Java Spring Boot.\n  \n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n  \n* Develop and maintain large-scale Java-based systems with complex architecture.\n  \n* Troubleshoot and resolve technical issues efficiently.\n  \n* Participate in code reviews and contribute to improving overall code quality.\n  \n* Stay updated with the latest trends and technologies in Java development.\n  \n\n  \n\n### Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Management, Quality, Java Development",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "HTML",
+    "Postgresql",
+    "Bootstrap",
+    "Program",
+    "CSS"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Java Spring Boot Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Digichum Infotech,\n\nI am writing to apply for the Java Spring Boot Developer role. I am a Senior Software Engineer, 7+ years, and my background in Management, Quality, Java Development matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9a0f55fb7c45": {
    "id": "9a0f55fb7c45",
@@ -9205,15 +9269,36 @@
    "emails": [],
    "description": "**Location:**  Delhi (On-site)\n\n**Experience:**  1+ Years\n\n**Employment Type:**  Full-time\n\n  \n   \n  **Important Instructions**    \n\n* This is a full-time employment opportunity, NOT an internship or training program.\n* Only candidates who have successfully completed their graduation are eligible.\n* Candidates currently pursuing graduation or awaiting final results will not be considered.\n* Applications from candidates outside Delhi, Noida, and Gurgaon will not be considered.\n\n  \n   \n  **Job Overview**    \n\nWe are looking for a skilled Backend Developer with at least 1 year of hands-on professional experience in backend development. The ideal candidate should have practical knowledge of Node.js, LoopBack/Express.js, REST APIs, and PostgreSQL, with the ability to develop and maintain efficient, scalable backend applications.\n\n  \n   \n  **Key Responsibilities**    \n\n* Develop, maintain, and enhance backend applications using Node.js.\n* Build and manage backend services using LoopBack and Express.js.\n* Design, develop, and integrate RESTful APIs.\n* Work with PostgreSQL databases, including database design, queries, and optimization.\n* Identify, troubleshoot, and resolve application bugs and technical issues.\n* Ensure application performance, security, and scalability.\n* Collaborate with frontend developers and other team members.\n* Maintain technical documentation and follow coding best practices.\n\n  \n   \n  **Required Technical Skills**    \n\n* Node.js\n* LoopBack / Express.js\n* REST API Development and Integration\n* PostgreSQL\n* Backend Development\n\n  \n   \n  **Educational Qualification**    \n\nCandidates must have completed their graduation in any of the following disciplines from an AICTE/UGC-recognized institute or possess an equivalent qualification as per Government of India rules:\n\n* B.E. / B.Tech in Computer Science Engineering, Computer Engineering, Computer Technology, Information Technology, Computer Science Information Technology, or Computer Applications.\n* M.E. / M.Tech in the above-mentioned relevant disciplines.\n* MCA.\n* B.Sc. in Computer Science Engineering (4-year degree course).\n\n  \n   \n  **Candidate Requirements**    \n\n* Minimum 1 year of relevant professional experience.\n* Must have completed graduation. Candidates currently pursuing their degree or awaiting graduation are not eligible.\n* Hands-on experience with Node.js, LoopBack/Express.js, REST APIs, and PostgreSQL.\n* Good problem-solving and debugging skills.\n* Ability to work in a collaborative development environment.\n\n  \n   \n  **Location Eligibility**    \n\n* **Work Location:**  Delhi\n* **Work Mode:**  On-site\n* **Eligible Locations:**  Only candidates currently residing in Delhi, Noida, or Gurgaon (Gurugram) can apply.\n* Candidates must be comfortable working on-site in Delhi.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 62"
     }
-   ]
+   ],
+   "score": 62,
+   "reasons": [
+    "Matched: Javascript, Express, Database design, Engineering, Computer Engineering",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "DBMS",
+    "Technology",
+    "Computer"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Backend Developer (Node.js) - Taniya Malviya",
+    "body": "Dear Hiring Team at Developer Bazaar Technologies,\n\nI am writing to apply for the Backend Developer (Node.js) role. I am a Senior Software Engineer, 7+ years, and my background in Javascript, Express, Database design matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "0578a3a690a3": {
    "id": "0578a3a690a3",
@@ -9229,15 +9314,32 @@
    "emails": [],
    "description": "Remote, IndiaFull-timeIntermediateOn-site\n\n  \n\n**Description**\n---------------\n\nCoralogix is a modern, full-stack observability platform transforming how businesses process and understand their data. Our unique architecture powers in-stream analytics without reliance on expensive indexing or hot storage. We specialize in comprehensive monitoring of logs, metrics, trace and security events with features such as APM, RUM, SIEM, Kubernetes monitoring and more, all enhancing operational efficiency and reducing observability spend by up to 70%.\n\nCoralogix is rebuilding the path to observability using a real-time streaming analytics pipeline that provides monitoring, visualization, and alerting capabilities without the burden of indexing.\n\nBy enabling users to define different data pipelines per use case, we provide deep Observability and Security insights, at an infinite scale, for less than half the cost.\n\n**What you’ll do**\n\nWork closely with customers and Coralogix TAMs to understand existing monitoring setups (Grafana, Splunk, New Relic, DataDog etc.) and recreate, improve, and automate alerts and dashboards in Coralogix.\n\n**Key Responsibilities**\n\n**1. Observability Implementation**\n\n* Understand customer use cases (alerts, dashboards, log parsing) from existing platforms\n* Rebuild and optimize them in Coralogix\n* Ensure accuracy, consistency, and best practices\n\n**2. Alert & Dashboard Creation**\n\n* Design alerts and dashboards based on real-world use cases\n* Work with metrics, logs, and queries (PromQL, Dataprime, Lucene)\n* Improve monitoring quality and reduce noise\n\n**3. Migration & Conversion {Key Deliverable}**\n\n* Migrate alerts, dashboards, and parsing rules from tools like Datadog, Splunk, etc.\n* Translate queries and logic into Coralogix-compatible formats\n\n**4. Automation (Key Focus Area)**\n\n* Build scripts/tools to automate alert and dashboard conversion\n* Standardize and scale migration processes\n* Reduce manual effort through reusable frameworks\n* Leverage GenAI (LLMs) to build intelligent tooling for conversion, validation, and documentation\n\n**5. Data Exploration & Troubleshooting (Core Skill)**\n\n* Search and analyze logs, metrics, and traces across observability platforms\n* Identify patterns, validate implementations, and troubleshoot issues\n\n**6. Customer & TAM Collaboration**\n\n* Work directly with customers and Coralogix TAMs\n* Gather requirements, clarify use cases, and drive execution\n* Provide updates, resolve issues, and ensure successful delivery\n\n**7. Documentation & Enablement**\n\n* Document use cases, dashboards, and alert logic, timely status reporting to key stakeholders\n* Share best practices and support training sessions\n\n  \n\n**Requirements**\n----------------\n\n* 2+ years in Observability / DevOps / Monitoring roles\n* Experience with tools like Coralogix,Datadog, Grafana, Splunk, etc.\n* **Strong ability to search and analyze logs/metrics in any observability platform**\n* Strong understanding of alerts, dashboards, and monitoring concepts\n* **Experience with scripting/automation (Python preferred)**\n* **Exposure to GenAI/LLMs for building automation or developer tools**\n* Basic knowledge of PromQL (or similar query languages)\n* Familiarity with cloud (AWS/GCP/Azure) and Kubernetes\n* Strong debugging and analytical skills\n* Ability to work with customers and cross-functional teams (including TAMs)\n* Good communication skills\n\n**Cultural Fit**\n\nWe’re seeking candidates who are hungry, humble, and smart. Coralogix fosters a culture of innovation and continuous learning, where team members are encouraged to challenge the status quo and contribute to our shared mission. If you thrive in dynamic environments and are eager to shape the future of observability solutions, we’d love to hear from you.\n\nCoralogix is an equal opportunity employer and encourages applicants from all backgrounds to apply.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 80"
     }
-   ]
+   ],
+   "score": 80,
+   "reasons": [
+    "Matched: across, analytics, analyze, architecture, automation",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Cloud and Observability Engineer (Remote Role, 6pm - 3am) - Taniya Malviya",
+    "body": "Dear Hiring Team at Coralogix,\n\nI am writing to apply for the Cloud and Observability Engineer (Remote Role, 6pm - 3am) role. I am a Senior Software Engineer, 7+ years, and my background in across, analytics, analyze matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "421c62ff527a": {
    "id": "421c62ff527a",
@@ -9255,15 +9357,32 @@
    ],
    "description": "Job Title: Full Stack Developer (MERN + Next.js)\n\nCompany: Build Beyond Studio\n\nLocation: Work from home (India)\n\nJob Type: Full-time, day shift\n\nSalary: ₹6,000 per month, with an increase after the 3-month review\n\nExperience: 1+ years\n\nAbout Build Beyond Studio\n\nWe're a web development studio that builds websites for marketing agencies and growing brands. We're a small, focused team that cares about clean code, honest timelines and good work. You'll work on live client projects, and your work will be seen and used.\n\nAbout the Role\n\nYou'll build client websites end to end: frontend, backend, deployment and launch. This role is focused on websites only. There's no mobile app development.\n\nWhat You'll Do\n\n- Build responsive, fast websites using Next.js, React, Node.js, Express and MongoDB\n\n- Create APIs, admin panels and simple dashboards\n\n- Set up Google Analytics (GA4) and Meta Pixel on client websites\n\n- Deploy projects on Vercel or Hostinger and connect custom domains\n\n- Use AI tools to speed up your work while keeping the code clean and reliable\n\n- Handle client revisions and bug fixes on time\n\n- Keep the team updated on progress\n\nWhat You Need\n\n- At least 1 year of experience with the MERN stack and Next.js\n\n- Solid JavaScript (ES6+), React, Node.js and MongoDB\n\n- Working knowledge of Next.js (App Router, SSR/SSG, API routes)\n\n- Comfortable using Git and GitHub\n\n- Regular use of AI tools (Claude, ChatGPT, Cursor, Copilot, etc.)\n\n- A portfolio or GitHub with live projects\n\n- Clear communication and a sense of ownership\n\nNice to Have\n\n- Google Analytics / Tag Manager and Meta Pixel setup experience\n\n- Deployment and domain/DNS experience on Vercel or Hostinger\n\n- Basic SEO and website performance knowledge\n\nWhat You Get\n\n- Fully remote work with a day shift\n\n- Real client projects instead of dummy work\n\n- Hands-on exposure to deployment, analytics and tracking\n\n- Salary review after 3 months, with growth tied to your performance\n\nHow to Apply\n\nEmail your resume, portfolio/GitHub link and expected joining date to info@buildbeyondstudio.com\n\nSubject line: Full Stack Developer - Your Name\n\nShortlisted candidates will complete a short practical assignment before the interview.\n\nPay: ₹6,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 90"
     }
-   ]
+   ],
+   "score": 90,
+   "reasons": [
+    "Matched: analytics, api, apis, app, backend",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "info@buildbeyondstudio.com",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Build Beyond Studio,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in analytics, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "02c81c494860": {
    "id": "02c81c494860",
@@ -9279,15 +9398,32 @@
    "emails": [],
    "description": "**Senior Full Stack Developer**\n===============================\n\nRequisition ID\n\n29283\n\nCountry\n\nIndia\n\nLocation type\n\nRemote\n\nAbout Us\n\n**Korn Ferry** is a global consulting firm that powers performance. We unlock the potential in your people and unleash transformation across your business—synchronizing strategy, operations, and talent to accelerate performance, fuel growth, and inspire a legacy of change. That’s why the world’s most forward-thinking companies across every major industry turn to us—for a shared commitment to lasting impact and the bold ambition to *Be More Than.*\n\n**Korn Ferry Digital** is a scaled product business unit within Korn Ferry that develops and sells our suite of talent products and HR technology. The Korn Ferry Talent Suite enables organizations to align strategy and talent across the full workforce lifecycle. Rather than addressing talent challenges in silos, the platform connects insights across:\n\n* Organizational Strategy\n* Talent Acquisition\n* Assessment and Succession\n* Leadership and Professional Development\n* Sales and Service Effectiveness\n* Total Rewards\n\nJob description\n\n**OPPORTUNITY TO ENHANCE YOUR CAREER -** It’s about exceeding your potential.\n\nThe Senior Full Stack Developer is responsible for implementing features end-to-end from building intuitive, responsive web user interfaces to designing scalable cloud microservices, managing Azure production deployments, and integrating AI Assist features (Generative AI / OpenAI APIs). You will work closely with distributed systems (caching, messaging, REST APIs) and ensure reliable, zero-downtime releases.\n\n**KEY RESPONSIBILITIES**\n\n* Build responsive, modular, and maintainable user interfaces using React, TypeScript, HTML5, and modern CSS/SCSS.\n* Design, build, and optimize robust RESTful APIs and microservices using C# and .NET Core / .NET 6/7/8 (ASP.NET Core Web API).\n* Design schemas, write optimized queries, and manage migrations using PostgreSQL (or SQL Server) and Entity Framework Core.\n* Manage release pipelines and deploy containerized services (Docker / AKS) to production environments via Azure DevOps CI/CD.\n* Implement distributed caching solutions (Redis) and asynchronous messaging queues (Azure Service Bus) to ensure high throughput and reliability.\n* Handle environment configurations and secure credential management using Azure Key Vault.\n* Connect and support AI Assist features utilizing OpenAI APIs (chat completion, document/transcript parsing, and Generative AI workflows).\n* Implement input validation and token handling to ensure performant and reliable AI interactions.\n* Monitor production health, trace issues across microservices, and troubleshoot errors using Azure Application Insights and log analytics.\n* Participate in on-call rotations, root cause analysis (RCA), and production support.\n\n**QUALIFICATION & SKILLS**\n\n* 5+ years of hands-on full stack development experience delivering production applications.\n* Strong front-end development expertise with C#, .NET Core / .NET 6/7/8, ASP.NET Core Web API, and Entity Framework Core.\n* Solid hands-on experience with React, TypeScript, JavaScript (ES6+), and component styling (SCSS, Tailwind, or Bootstrap).\n* Practical familiarity with core Azure services (App Services, Azure Service Bus, Azure Cache for Redis, Key Vault, or AKS).\n* Working knowledge of Docker, containerized applications, and Azure DevOps / CI/CD release pipelines.\n* Solid understanding of relational databases (PostgreSQL or SQL Server), query optimization, and schema design.\n* Experience triaging and debugging issues using monitoring tools like Azure Application Insights.\n* Excellent problem-solving and debugging skills\n* Experience working in Agile development environment\n\n**GOOD TO HAVE**\n\n* Curiosity or practical exposure to Generative AI, OpenAI APIs, or RAG concepts.\n* Familiarity with state management libraries (MobX or Redux).\n* Exposure to Kubernetes (AKS) or Dapr (Distributed Application Runtime).\n* Experience with embedded CRM apps (Salesforce Canvas or Dynamics 365) is a plus.\n* Experience with CI/CD pipelines and automated testing\n* Exposure to cloud-native development and deployment\n* Experience using AI-powered developer productivity tools (e.g., GitHub Copilot, Cursor, Cloude)\n\n**EDUCATION**\n\n* Bachelor's of engineering in computer is required.\n\n**Korn Ferry may use AI as part of its recruitment process, but all hiring decisions are made by humans.**\n\n**Internal Mobility at Korn Ferry**\n\nIf you currently work for Korn Ferry or one of our affiliates, you must be eligible to apply for a different position within Korn Ferry to use the Careers Site. If you accept such a position, your benefits programs and Human Resources policies may change. Please consult with your HR contact for the new position concerning application eligibility, including any immigration/visa needs, benefit programs, and HR policies applicable to that position.\n\n**Korn Ferry is an Equal Employment Opportunity** **Employer**\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or veteran status or any other characteristic protected by federal, state, or local law.\n\n**Background Check Disclaimer**\n\nThe successful candidate will need to complete background checks as part of our recruitment process, this may include criminal, education credentials, employment history, and other background information relevant to your employment qualifications",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, api, apis, application, applications.",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Korn Ferry,\n\nI am writing to apply for the Senior Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in across, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "c1ab7eb6c793": {
    "id": "c1ab7eb6c793",
@@ -9303,15 +9439,32 @@
    "emails": [],
    "description": "We are looking for **Fullstack Developer** - **Contract Basis - Work From Home**\n\n**Work timing -** 1.00 - 10.00 p.m  \n**Duration -** 3 months (15 days' notice to end the contract)\n\n**Fullstack Developer**\n\nWork with the Technical Lead, business analysts, QA, DevOps and international clients, from requirement clarification through production delivery.\n\nBring a learning mindset, sound engineering judgment and a proactive approach to solving problems and supporting teammates.\n\n**Responsibility:-**\n\nBuild responsive React and Next.js interfaces, reusable components, dashboards and business workflows.\n\n* Develop Python REST APIs, backend services and integrations, preferably using FastAPI.\n\n* Build and integrate AI solutions using Amazon Bedrock (AWS), translating client needs into practical features and workflows.\n\n* Connect AI assistants to approved APIs, Databricks and application databases through backend services and controlled tool calling, enforcing user permissions and validating query results.\n\n* Validate AI outputs and tool actions; address access control, reliability, latency and cost before production release.\n\n* Design and optimize PostgreSQL databases, queries, migrations and data validation.\n\n* Implement reliable Excel/CSV imports, exports and reporting workflows with clear error handling.\n\n* Integrate Okta SSO and enforce secure authentication and role-based access.\n\n* Work with DevOps to build and maintain CI/CD pipelines, troubleshoot deployments and support releases across development, QA/UAT and production.\n\n* Write automated tests, review code, resolve defects and troubleshoot production issues.\n\n* Estimate tasks, identify dependencies and maintain useful technical documentation.\n\n**Skills and experience React / Next.js, Python & AI solutions What we are looking for**\n\n* Frontend: Hands-on experience with React and Next.js, including JavaScript/TypeScript, routing, layouts, server and client components, hooks, state management, form validation and API integration.\n\n* Backend: Strong Python fundamentals and experience with FastAPI, Django or Flask.\n\n* AI solutions: Hands-on experience integrating foundation models through Amazon Bedrock, designing prompts and connecting model responses to application workflows.\n\n* AI tool integration: Experience with function/tool calling, REST API integration and backend orchestration, including authorization, input validation and error handling.\n\n* Databases: SQL, relational schema design, transactions, indexing and query optimization.\n\n* Identity: Enterprise authentication using Okta, OIDC/OAuth 2.0 or SAML 2.0.\n\n* Cloud & containers: Working knowledge of AWS, familiarity with Azure, and practical experience with Docker, Git and pull requests.\n\n* CI/CD & deployment: Hands-on experience with build, test and deployment pipelines; environment promotion, configuration, release approvals, post-deployment checks and rollback flows.\n\n**Security**: Secure coding, API authorization, secrets management and application logging.\n\n* AI-assisted development: Practical experience using AI coding assistants for implementation, debugging, refactoring, tests and documentation. Provide clear context and review generated code for correctness, security and maintainability.\n\n**Good to have** Familiarity with Model Context Protocol (MCP) and MCP server/client integrations. Retrieval-augmented generation (RAG), vector search, AI evaluation and agent workflows; AWS EKS, Aurora PostgreSQL, Kubernetes, Databricks, PySpark, ETL/ELT pipelines and enterprise data integrations.\n\nPay: ₹80,000.00 - ₹120,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of hands-on experience do you have in Full Stack Development?\n* How many years of professional experience do you have with React.js and Next.js?\n* Do you have hands-on experience with Python and any backend framework (FastAPI, Django or Flask)?\n* Have you implemented Amazon Bedrock in a real-world project?\n* Have you implemented LLM integrations with function calling/tool calling and REST APIs?\n* Have you worked with Okta, OAuth 2.0, OIDC or SAML authentication?\n* Are you ready for a contract-based job - Work From Home?\n* Can you start Immd?\n\nWork Location: Remote",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, api, apis, application, authentication",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Ashapura Softech Pvt. Ltd.,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in across, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "8a70e80f26f5": {
    "id": "8a70e80f26f5",
@@ -9327,15 +9480,36 @@
    "emails": [],
    "description": "### Position Overview\n\nThe **Learning Coach** partners with internal teams and external members to optimize, personalize, and enhance operational workflows across OCHIN member organizations. This role provides expert support to healthcare clinics by evaluating workflows, offering strategic input to member leadership, and driving improvements aligned with OCHIN s best practice standards.\n\n### Essential Functions\n\n* Collaborate with member leadership, including executive-level stakeholders, to assess workflows, identify optimization opportunities, and contribute to strategic decision-making and member engagement initiatives.\n* Deliver interactive training sessions to large and small audiences through multiple modalities, including personalization labs, what to do sessions, at-the-elbow support, and cohort-based learning during and after Epic system go-lives.\n* Provide workflow coaching, optimization, and best practice recommendations to OCHIN members and internal staff. Serve as a change agent during high-impact situations, guiding members and internal stakeholders through operational transformations and change management strategies to promote sustainable improvements.\n* Assist in the design, development, and enhancement of learning programs, training content, lesson plans, and training aids. Collect and analyze feedback and learning data across multiple modalities to inform and implement improvements in learning activities, workflow adoption, and overall training effectiveness.\n* Collaborate with other OCHIN departments (e.g., HCCN, Clinical Informatics, Research) on special projects, grant initiatives, and workflow improvement efforts.\n* Configure Epic system components, document system changes and enhancements, and share expertise by mentoring and coaching peers and new team members.\n* Other duties as assigned.\n\n### Requirements\n\n* Minimum 5 years of experience in similar or relevant role required. 10 Years of applicable experience desired.\n* Epic Certification / Accreditation / Proficiency required withing 6 months of hire\n\n### Work Location and Travel Requirements\n\nOCHIN is a 100% remote organization with no physical corporate office location. Employees work remotely from home, and many of our positions also support our member organizations on-site for new software installations. Nationwide travel is determined based on OCHIN business needs. Please inquire during the interview process about travel requirements for this position.\n\nWork from home requirements are:\n\n* Ability to work independently and efficiently from a home office environment\n* High Speed Internet Service\n* It is a requirement that employees work in a distraction free workplace\n* Travel may be required nationally based on business requirements for OCHIN\n* In alignment with OCHIN s mission and commitment to protecting our workforce and the communities we serve, OCHIN strongly encourages all workforce members, especially those whose role involves travel and in-person engagement, to remain up to date on immunizations, including but not limited to COVID-19 and influenza vaccinations.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 62"
     }
-   ]
+   ],
+   "score": 62,
+   "reasons": [
+    "Matched: Corporate, Change management, Healthcare, Workflow, Management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Training",
+    "Coaching",
+    "Data"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for LEARNING COACH- BEAKER (1722) - Taniya Malviya",
+    "body": "Dear Hiring Team at Ochin,\n\nI am writing to apply for the LEARNING COACH- BEAKER (1722) role. I am a Senior Software Engineer, 7+ years, and my background in Corporate, Change management, Healthcare matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "aa270b90d0f6": {
    "id": "aa270b90d0f6",
@@ -9351,15 +9525,38 @@
    "emails": [],
    "description": "- Develop and enhance NICE CXone IVR (Inbound Voice) and Personal Connection Dialer (Outbound Dialer) solutions.\n\n- Build and maintain inbound call flows, self-service IVR menus, call routing logic, and outbound dialing campaigns.\n\n- Implement new business requirements, enhancements, bug fixes, and production support activities.\n\n- Integrate IVR and dialer applications with external systems, APIs, databases, and CRM platforms as required.\n\n- Participate in Agile ceremonies including sprint planning, daily stand-ups and backlog refinement.\n\n- Analyze and implement user stories, spikes, defects, and change requests managed through Jira.\n\n2. Technical Stack - Development and Programming\n\nContact Center Platform\n\n- NICE CXone / NICE inContact\n\n- Inbound Voice IVR\n\n- Personal Connection Dialer (PC Dialer)\n\n- ACD Routing and Skill Configuration\n\n- API Integrations (REST APIs-Salesforce, Mulesoft)\n\nAgile DevOps Tools\n\n- Jira for Story, Spike, Defect, and Enhancement Tracking\n\n- Agile Scrum Methodology\n\n- Sprint Planning and Release Management\n\n3. Overview of User Stories / Requests\n\nTypical Jira stories and spikes include:\n\nIVR Enhancements\n\n- New menu options and self-service functionality\n\n- Language selection and multilingual support\n\n- Dynamic announcements and holiday messaging\n\n- Skill-based and attribute-based routing changes\n\n- Customer authentication and validation updates\n\nSpikes / Analysis Tasks\n\n- Technical feasibility assessments\n\n- Solution design documentation\n\n- Effort estimation\n\n- Architecture reviews and dependency analysis\n\n4. Pre-Onboarding Information\n\nA new team member should have:\n\nDomain Knowledge\n\n- Knowledge of IVR and Dialer concepts\n\n- Understanding of call flow design and routing mechanisms\n\nTechnical Knowledge\n\n- NICE CXone Platform fundamentals\n\n- Studio scripting concepts\n\n- REST API integration basics\n\n- JSON and web service concepts\n\n- Jira and Agile process understanding\"\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Production, Management, Release management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Agile",
+    "Routing",
+    "Nice",
+    "JIRA",
+    "Dialer"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for NICE CXone IVR & Dialer Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at TESTQ Technologies,\n\nI am writing to apply for the NICE CXone IVR & Dialer Developer role. I am a Senior Software Engineer, 7+ years, and my background in Production, Management, Release management matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4b1ee307614c": {
    "id": "4b1ee307614c",
@@ -9375,15 +9572,39 @@
    "emails": [],
    "description": "Job\\_Description\":\" \n\nThis is a remote position.  Overview :\n\nWe are looking for experienced Guidewire Developers with strong hands-on expertise in PolicyCenter configuration, Gosu development, and integrations.   \n  Key Requirements   \n\n* 8+ years of overall IT experience with relevant Guidewire experience.\n* Strong hands-on experience in Guidewire PolicyCenter configuration and customization.\n* Expertise in Gosu programming.\n* Good knowledge of Product Model, PCF, Entities, Typelists, Workflows, and Business Rules.\n* Strong experience in Guidewire Integration Framework.\n* Hands-on experience with REST/SOAP APIs, Messaging, XML, and JSON.\n* Good understanding of PC Insurance and policy administration processes.\n* Knowledge of SQL and enterprise application integrations.   \n\n  Requirements  Responsibilities   \n  + Configure and customize Guidewire PolicyCenter.\n  + Develop Gosu code and integrations with external applications.\n  + Work on policy lifecycle activities, including submissions, quoting, binding, issuance, endorsements, and renewals.\n  + Develop and maintain APIs, messaging, and web services.\n  + Perform unit testing, debugging, and defect resolution.\n  + Support production issues, enhancements, and upgrades.\n  + Collaborate with BAs, architects, QA, and development teams.   \n      Preferred Skills   \n    - Guidewire implementation, migration, or upgrade experience.\n    - Exposure to ClaimCenter and BillingCenter.\n    - Guidewire Cloud experience.\n    - Guidewire PolicyCenter certification.   \n\n      Benefits\n\n      **Diversity Inclusion:   \n\n      Exavalu also promotes flexibility, adapting to the needs of employees, customers, and the business. It might be part-time work, outside normal 9-5 business hours, or remote. We also offer a welcome-back program to help individuals return to the mainstream after a prolonged absence due to health or family reasons.\n\n      At Exavalu, we are committed to building a diverse and inclusive workforce. We welcome applications for employment from all qualified candidates, regardless of race, colour, gender, national or ethnic origin, age, disability, religion, sexual orientation, gender identity or any other status protected by applicable law. We nurture a culture that embraces all individuals and promotes diverse perspectives, where you can make an impact and grow your career.**\n\n\n\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Business Rules, Web technologies",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Configuration",
+    "UNIT",
+    "SQL",
+    "Programming",
+    "XML",
+    "PC"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Guidewire PC Config + Integration Professional - Taniya Malviya",
+    "body": "Dear Hiring Team at Exavalu,\n\nI am writing to apply for the Guidewire PC Config + Integration Professional role. I am a Senior Software Engineer, 7+ years, and my background in Business Rules, Web technologies matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "ef46d0fe70e3": {
    "id": "ef46d0fe70e3",
@@ -9399,15 +9620,39 @@
    "emails": [],
    "description": "Job\\_Description\":\" \n\nThis is a remote position.  Overview :\n\nWe are looking for an experienced Guidewire Rating Developer with strong hands-on expertise in PolicyCenter rating configuration, Gosu development, and premium calculation.   \n  Key Requirements   \n\n* 8+ years of overall IT experience with relevant Guidewire experience.\n* Strong hands-on experience in Guidewire PolicyCenter rating configuration.\n* Expertise in Gosu programming.\n* Experience with rating worksheets, rate tables, rating factors, and rating routines.\n* Good knowledge of Product Model, Coverages, Modifiers, and Underwriting Rules.\n* Strong understanding of PC Insurance rating processes.\n* Knowledge of XML, JSON, SQL, and REST APIs.\n* Experience in premium calculation and rating logic.   \n\n  Requirements  Responsibilities   \n  + Design and configure rating functionality in Guidewire PolicyCenter.\n  + Develop rating rules, algorithms, and premium calculation logic.\n  + Configure product models, coverages, modifiers, and rating factors.\n  + Customize Gosu code for rating requirements.\n  + Integrate rating functionality with external systems.\n  + Perform unit testing, debugging, and troubleshooting.\n  + Support production issues, enhancements, and upgrades.\n  + Collaborate with BAs, architects, and QA teams.   \n      Preferred Skills   \n    - Insurance product implementation and upgrade experience.\n    - Exposure to rating modernization projects.\n    - Guidewire Cloud experience.\n    - Guidewire PolicyCenter certification.   \n\n      Benefits\n\n      **Diversity Inclusion:   \n\n      Exavalu also promotes flexibility, adapting to the needs of employees, customers, and the business. It might be part-time work, outside normal 9-5 business hours, or remote. We also offer a welcome-back program to help individuals return to the mainstream after a prolonged absence due to health or family reasons.\n\n      At Exavalu, we are committed to building a diverse and inclusive workforce. We welcome applications for employment from all qualified candidates, regardless of race, colour, gender, national or ethnic origin, age, disability, religion, sexual orientation, gender identity or any other status protected by applicable law. We nurture a culture that embraces all individuals and promotes diverse perspectives, where you can make an impact and grow your career.**\n\n\n\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Development, Software testing",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Troubleshooting",
+    "UNIT",
+    "SQL",
+    "Programming",
+    "XML",
+    "Debugging"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Guidewire Rating Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Exavalu,\n\nI am writing to apply for the Guidewire Rating Developer role. I am a Senior Software Engineer, 7+ years, and my background in Development, Software testing matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4ade2cd34370": {
    "id": "4ade2cd34370",
@@ -9423,15 +9668,37 @@
    "emails": [],
    "description": "Job\\_Description\":\" \n\nThis is a remote position.\n\n**Overview :   \n\nTechnical Development   \n\nDesign and develop custom Salesforce solutions using Apex, Lightning Web Components (LWC), Visualforce, and Flows.   \n\nConfigure Salesforce features including security model, automation, reports, dashboards, and data models.   \n\nImplement FSC features including insurance processes.   \n\nDevelop Sales Cloud and Service Cloud solutions including opportunity management and case management workflows.   \n\nSolution Design   \n\nTranslate functional requirements into scalable technical designs.   \n\nPrepare Technical Design Documents (TDD).   \n\nEnsure solutions follow Salesforce best practices and governor limits.   \n\nParticipate in architecture and design discussions.   \n\nIntegration Data Management   \n\nDevelop integrations using REST/SOAP APIs and middleware such as MuleSoft.   \n\nSupport data migration, data quality improvements, and data governance.   \n\nImplement platform events and asynchronous processing where required.   \n\nCode Quality Delivery   \n\nPerform code reviews and enforce coding standards.   \n\nDevelop unit tests and maintain high code coverage.   \n\nSupport CI/CD pipelines and DevOps processes.   \n\nSupport release management and deployments.   \n\nAgile Collaboration   \n\nWork closely with Business Analysts, Architects, and QA teams.   \n\nParticipate in sprint planning, backlog refinement, and technical estimations.   \n\nSupport defect resolution and production support activities.   \n\nTechnical Leadership   \n\nMentor junior developers and provide technical guidance.   \n\nIdentify technical risks and propose mitigation strategies.   \n\nDrive performance optimization and technical debt reduction.   \n\nPromote reusable components and development standards.   \n\nRequired Skills   \n\nSalesforce Technical Skills   \n\nFinancial Services Cloud   \n\nSales Cloud   \n\nService Cloud   \n\nApex   \n\nLightning Web Components (LWC)   \n\nSalesforce Flows   \n\nSecurity and sharing model   \n\nReports and dashboards   \n\nIntegration Skills   \n\nREST/SOAP APIs   \n\nMuleSoft (preferred)   \n\nData migration tools   \n\nEvent-driven architecture (nice to have)   \n\nTools Technologies   \n\nGit / Bitbucket   \n\nCopado / Gearset / Jenkins   \n\nJira / Azure DevOps   \n\nVS Code / Salesforce DX   \n\nExperience Requirements   \n\n6-10 years of Salesforce development experience   \n\nExperience in FSC implementations preferred   \n\nExperience in Financial Services or Insurance domain preferred   \n\nExperience in Agile development environments   \n\nCertifications (Preferred)   \n\nSalesforce Platform Developer I (required)   \n\nSalesforce Platform Developer II (preferred)   \n\nSalesforce Administrator   \n\nSalesforce Financial Services Cloud Accreditation (nice to have)   \n\nSales Cloud or Service Cloud Consultant (nice to have)   \n\nRequirements\n\nTechnical Development   \n\nDesign and develop custom Salesforce solutions using Apex, Lightning Web Components (LWC), Visualforce, and Flows.   \n\nConfigure Salesforce features including security model, automation, reports, dashboards, and data models.   \n\nImplement FSC features including insurance processes.   \n\nDevelop Sales Cloud and Service Cloud solutions including opportunity management and case management workflows.   \n\nSolution Design   \n\nTranslate functional requirements into scalable technical designs.   \n\nPrepare Technical Design Documents (TDD).   \n\nEnsure solutions follow Salesforce best practices and governor limits.   \n\nParticipate in architecture and design discussions.   \n\nIntegration Data Management   \n\nDevelop integrations using REST/SOAP APIs and middleware such as MuleSoft.   \n\nSupport data migration, data quality improvements, and data governance.   \n\nImplement platform events and asynchronous processing where required.   \n\nCode Quality Delivery   \n\nPerform code reviews and enforce coding standards.   \n\nDevelop unit tests and maintain high code coverage.   \n\nSupport CI/CD pipelines and DevOps processes.   \n\nSupport release management and deployments.   \n\nAgile Collaboration   \n\nWork closely with Business Analysts, Architects, and QA teams.   \n\nParticipate in sprint planning, backlog refinement, and technical estimations.   \n\nSupport defect resolution and production support activities.   \n\nTechnical Leadership   \n\nMentor junior developers and provide technical guidance.   \n\nIdentify technical risks and propose mitigation strategies.   \n\nDrive performance optimization and technical debt reduction.   \n\nPromote reusable components and development standards.   \n\nRequired Skills   \n\nSalesforce Technical Skills   \n\nFinancial Services Cloud   \n\nSales Cloud   \n\nService Cloud   \n\nApex   \n\nLightning Web Components (LWC)   \n\nSalesforce Flows   \n\nSecurity and sharing model   \n\nReports and dashboards   \n\nIntegration Skills   \n\nREST/SOAP APIs   \n\nMuleSoft (preferred)   \n\nData migration tools   \n\nEvent-driven architecture (nice to have)   \n\nTools Technologies   \n\nGit / Bitbucket   \n\nCopado / Gearset / Jenkins   \n\nJira / Azure DevOps   \n\nVS Code / Salesforce DX   \n\nExperience Requirements   \n\n6-10 years of Salesforce development experience   \n\nExperience in FSC implementations preferred   \n\nExperience in Financial Services or Insurance domain preferred   \n\nExperience in Agile development environments   \n\nCertifications (Preferred)   \n\nSalesforce Platform Developer I (required)   \n\nSalesforce Platform Developer II (preferred)   \n\nSalesforce Administrator   \n\nSalesforce Financial Services Cloud Accreditation (nice to have)   \n\nSales Cloud or Service Cloud Consultant (nice to have)   \n\nBenefits\n\nDiversity Inclusion:   \n\nAt Exavalu, we are committed to building a diverse and inclusive workforce. We welcome applications for employment from all qualified candidates, regardless of race, color, gender, national or ethnic origin, age, disability, religion, sexual orientation, gender identity or any other status protected by applicable law. We nurture a culture that embraces all individuals and promotes diverse perspectives, where you can make an impact and grow your career. Exavalu also promotes flexibility depending on the needs of employees, customers and the business. It might be part-time work, working outside normal 9-5 business hours or working remotely.. .**\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 50"
     }
-   ]
+   ],
+   "score": 50,
+   "reasons": [
+    "Matched: Finance, Automation, Financial services, Data management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Middleware",
+    "SR",
+    "Agile",
+    "Data migration"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Sr. Salesforce Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Exavalu,\n\nI am writing to apply for the Sr. Salesforce Developer role. I am a Senior Software Engineer, 7+ years, and my background in Finance, Automation, Financial services matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "0a7b55c4a72e": {
    "id": "0a7b55c4a72e",
@@ -9447,15 +9714,39 @@
    "emails": [],
    "description": "We are seeking an experienced Python Developer to design, develop, and support a scalable Calculation Engine Platform that powers calculations related to Energy Management, Water Usage, Materials, Embodied Carbon, Sustainability Metrics, Cost Modeling, Baseline Standards, and Scenario Simulations.\n\nThe ideal candidate will have strong expertise in Python, FastAPI, PostgreSQL, REST APIs, Software Architecture, Automated Testing, Cloud Technologies, and Performance Optimization, with the ability to translate complex business rules, formulas, and scientific models into highly reliable, maintainable, scalable, and production-ready software solutions.\n\nThis role involves building modular backend services, reusable calculation libraries, API integrations, cloud-native applications, automated testing frameworks, and enterprise-grade calculation engines while ensuring accuracy, traceability, auditability, scalability, and operational excellence.\n\nKey Responsibilities  \nCalculation Engine Development  \nDesign, develop, and maintain modular Python-based Calculation Engine services.  \nTranslate complex formulas, scientific calculations, business rules, dependency graphs, and mathematical models into accurate and maintainable software components.  \nDevelop calculation capabilities for Energy Consumption, Water Efficiency, Embodied Carbon, Materials Analysis, Sustainability Metrics, Cost Calculations, Baseline Standards, and Scenario Simulations.  \nBuild reusable calculation frameworks, shared libraries, and configurable rule engines.  \nEnsure all calculations are deterministic, auditable, traceable, version-controlled, and scalable.  \nSupport enhancement of existing calculation models and onboard new calculation methodologies as business requirements evolve.\n\nBackend API Development  \nDesign and develop high-performance RESTful APIs using FastAPI.  \nImplement request validation, authentication, authorization, API versioning, rate limiting, and exception handling.  \nDevelop structured API contracts and standardized response schemas using Pydantic.  \nCreate and maintain OpenAPI/Swagger specifications and API documentation.  \nIntegrate backend services with internal platforms, external applications, and third-party systems.  \nBuild robust API solutions with proper logging, monitoring, security, and observability standards.  \nDatabase Development  \nDesign and optimize database solutions using PostgreSQL.  \nCreate efficient database schemas, tables, indexes, views, stored procedures, and functions.  \nDevelop complex SQL queries and optimize execution plans for large data volumes.  \nEnsure data accuracy, consistency, integrity, and validation across applications.  \nManage version-controlled datasets and calculation reference data.  \nTroubleshoot database bottlenecks and implement performance improvement strategies.  \nPerformance Scalability  \nOptimize application performance through caching strategies, query optimization, indexing, and asynchronous processing.  \nSupport high-volume calculations and enterprise-scale workloads.  \nImplement scalable architecture patterns to support growing business needs.  \nMonitor and improve application reliability, availability, throughput, and response times.  \nDevelop efficient strategies to process computationally intensive calculations.  \nConduct performance analysis and proactively identify scalability improvements.  \nTesting Quality Engineering  \nDevelop comprehensive Unit, Integration, Regression, Functional, and API Test Suites.  \nUtilize PyTest and automated testing frameworks to validate application functionality.  \nSupport System Integration Testing (SIT), User Acceptance Testing (UAT), and Production Validation.  \nMaintain strong code coverage and software quality standards.  \nPerform defect analysis, debugging, and root cause investigations.  \nDevelop reusable testing utilities and automation frameworks to improve engineering productivity.\n\nCloud DevOps  \nDeploy and support applications on Microsoft Azure Cloud Platforms.  \nWork with Azure App Services, Azure Functions, Container Platforms, Azure Storage, and Azure DevOps.  \nImplement and maintain CI/CD Pipelines for automated build, deployment, and release processes.  \nManage application configurations, secrets, environment variables, and deployment settings.  \nMonitor application health using logging and observability tools.  \nSupport production deployments, release planning, and environment management activities.  \nDocumentation Production Support  \nCreate and maintain technical documentation, API specifications, deployment guides, support runbooks, and architecture documents.  \nDocument calculation formulas, business assumptions, and traceability requirements.  \nParticipate in code reviews, sprint planning, backlog grooming, estimation sessions, and Agile ceremonies.  \nProvide production support and contribute to continuous improvement initiatives.  \nCollaborate with business stakeholders, product owners, architects, QA teams, and DevOps engineers across global teams.  \nSupport issue triage, incident management, and root cause analysis activities.  \nRequired Skills Experience\n\nExperience  \n8+ years of professional Python Development experience.  \nProven experience building enterprise-grade backend applications and Calculation Engine platforms.  \nStrong track record delivering highly scalable, secure, and production-ready applications.  \nExperience translating complex business logic into maintainable software solutions.  \nExperience working within Agile/Scrum environments.\n\nTechnical Skills  \nProgramming Frameworks  \nStrong expertise in Python Programming.  \nDeep understanding of Object-Oriented Programming (OOP), Design Patterns, SOLID Principles, and Modular Architecture.  \nHands-on experience building applications using FastAPI.  \nStrong experience with Pydantic, Dependency Injection, Package Management, and Configuration Management.  \nExperience developing reusable Python modules, libraries, and utility packages.  \nStrong understanding of asynchronous programming concepts using AsyncIO.\n\nAPI Development  \nExperience designing and developing REST APIs.  \nStrong understanding of API security, authentication, authorization, and versioning.  \nExperience with JSON Processing, Data Validation, Serialization, and Data Transformation.  \nExperience integrating with external systems and third-party APIs.  \nAbility to build highly secure, resilient, and maintainable API solutions.  \nDatabase Data Management  \nStrong expertise in PostgreSQL.  \nExperience in Schema Design, Query Optimization, Stored Procedures, Indexing, Transaction Management, and Performance Tuning.  \nKnowledge of relational database concepts and best practices.  \nExperience handling structured and semi-structured data efficiently.\n\nTesting Automation  \nHands-on experience with PyTest and automated testing frameworks.  \nExperience in Unit Testing, Integration Testing, Regression Testing, and API Testing.  \nFamiliarity with Test-Driven Development (TDD) and quality assurance best practices.  \nExperience creating automated testing pipelines within CI/CD environments.  \nCloud DevOps  \nExperience with Microsoft Azure Services.  \nStrong knowledge of Azure DevOps, CI/CD Pipelines, and Release Management.  \nExperience with Docker Containers and Microservices Architecture.  \nFamiliarity with logging, monitoring, observability, and alerting frameworks.  \nExperience managing application configurations and secrets securely.  \nEngineering Excellence  \nStrong understanding of Secure Software Development Lifecycle (SDLC).  \nExperience with Git, Branching Strategies, Pull Requests, Code Reviews, and Source Control Best Practices.  \nStrong debugging and troubleshooting capabilities.  \nExcellent analytical and problem-solving skills.  \nAbility to work with cross-functional and globally distributed teams.\n\nPreferred Skills  \nExperience in Energy Management, Sustainability, Building Science, Water Management, Carbon Accountin",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Automation, Quality management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "SDLC",
+    "Configuration",
+    "Stored procedures",
+    "Performance tuning",
+    "Procedures",
+    "Debugging"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Python Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Papigen,\n\nI am writing to apply for the Senior Python Developer role. I am a Senior Software Engineer, 7+ years, and my background in Automation, Quality management matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "905ba340a3b2": {
    "id": "905ba340a3b2",
@@ -9471,15 +9762,38 @@
    "emails": [],
    "description": "Every year, a big share of Fresh Prints customers move on. Students graduate, chapter officers hand the job to someone new, clubs fade, and companies change who buys. Thats not a failure of service. Its the nature of who we sell to. It also means one thing is true no matter how well we do everything else: **we only grow if we win new customers faster than we lose them.**\n\nToday, new customers find us in a lot of ways: search, paid and organic social, our website and design tools, our campus reps, on-campus events, our retail store, referrals, samples and word of mouth. Each of these works to some degree. None of them is yet part of a deliberate, connected system for winning new customers efficiently.\n\nThats what were hiring a Senior Growth Strategist on the Acquisition side to build.\n\nAnd you wont be starting from zero. We have an advantage most companies would love: thousands of students wear our products every week, buy pieces for themselves, see our designs on their friends, and introduce us to new communities. The catch is that the person who first notices us is often not the person who places the order. A student might buy a sweatshirt for herself before she ever has a say in her chapters order. A member might see a friends shirt and pass our name to the officer in charge. A university staffer might find us through a colleagues event. The opportunity isnt just to reach more strangers. Its to turn the visibility we already have into new customers.\n\nYour job is to figure out who we should be winning, how they actually find and choose a vendor like us, and which few bets can change how many of them we win. Then build the programs that do it at scale, for less money every year.\n\nWe dont want someone who thinks about acquisition as a media budget or a list of channels. We want someone who can see the whole picture, find where the biggest opportunities are, and turn them into programs that bring in more new customers for every dollar we spend.\n\nThis isnt a role where you inherit a finished playbook. Youll have the freedom, and responsibility, to question how we do things today, place real bets, and shape what customer acquisition looks like at Fresh Prints.\n\n**This role is about:**\n\n* **Understanding who we should win:** Which customers are worth acquiring, what they need, how they discover and compare vendors, and what makes them say yes the first time.\n* **Picking the bets that matter:** There are dozens of plausible ways to win new customers. The job is finding the two or three that can change our trajectory, and saying no to the rest.\n* **Building an acquisition engine, not a set of campaigns:** Bringing paid, organic, referral, on-campus, product and sales-assisted paths together into one system that compounds.\n* **Being a great marketer:** Knowing what makes someone stop scrolling, click, trust a brand theyve never heard of, and take a first step, and being able to create that yourself.\n* **Turning ideas into results:** Building programs, writing compelling messaging, coordinating teams and partners, testing fast, and owning the outcome.\n\n**What Youll Own** **Understanding New Customers Finding Growth Opportunities**\n\n* Develop a deep understanding of the customers we dont have yet: who they are, what they buy, who they buy from today, and why theyd switch.\n* Map the real paths people take to a first order, including the ones where the person who discovers us isnt the one who buys.\n* Use customer insight, data and commercial judgment to find the biggest opportunities to grow the number and quality of new customers across our segments.\n* **Make the hard tradeoffs.** We have more acquisition ideas than we could ever pursue. Youll decide which few can meaningfully grow new customers, make the case for them, and focus our time and money there. Deciding what not to do is as much the job as deciding what to do.\n\n**Building the Acquisition Engine**\n\n* Own how Fresh Prints wins new customers, from the first moment someone hears about us to their first order.\n* Develop the strategy across paid, organic, referral, partnerships, on-campus, retail and sales-assisted paths, and decide how they work together.\n* Build programs that turn people already in our orbit (shoppers, store buyers, visitors, members of groups we serve) into new customers or introductions to new customers.\n* Work with our ad partners on strategy, targeting and creative, and hold them to the outcomes that matter.\n* Partner with Product and Tech to improve how well our website and tools turn first-time visitors into leads and orders.\n* Create messaging and offers that make a stranger trust us enough to try us, and work with Brand and Creative so everything feels distinctly Fresh Prints.\n\n**Turning Strategy Into Results**\n\n* Take ideas from insight to execution. Youll develop the strategy, build the plan, and make sure it actually happens.\n* Own the performance of the programs you build, measured by new customers won, what it cost to win them, and what theyre worth.\n* Run a disciplined testing program across audiences, messaging, offers, channels and timing. Scale what works quickly and kill what doesnt.\n* Look beyond clicks and return on ad spend to understand whats actually bringing in new customers, and what isnt.\n* Use data, automation and AI to build programs and playbooks that keep running and growing without you managing every step.\n\n**Making Acquisition a Company-Wide Effort**\n\n* Work closely with Sales, Brand, Creative, Product, Tech, Data and Operations to turn acquisition opportunities into coordinated action.\n* Partner with our sales team and campus reps so marketing creates real opportunities for them, and their feedback shapes what marketing does.\n* Make the business case for new initiatives, align stakeholders, and drive execution even when the people involved dont report to you.\n\n**Who You Are**\n\n* **Youre a marketer first.** You understand people and what makes them act, and you can turn that into messaging and experiences that win new customers. You can write the ad as comfortably as you can design the strategy.\n* **You think in customer journeys, not channels.** You dont see search, social, referrals or events as separate worlds. You see different ways different people find us and decide to try us.\n* **Youre commercially minded.** You know a cheap click isnt a good customer. You think in cost to acquire, customer value and payback, and you make tradeoffs accordingly.\n* **You prioritize ruthlessly.** You can look at twenty good ideas, pick the two that matter, and explain why the rest can wait.\n* **Youre both strategic and hands-on.** You enjoy the big picture, and youre just as happy launching a test, writing copy or digging into why a number moved.\n* **Youre curious about customers.** You dont assume you know why people buy. You ask, watch, study behavior, and change your mind when the evidence says so.\n* **You have strong ownership.** You dont need someone to set your priorities or check your work. You hold yourself accountable for the thinking and the results.\n* **Youre comfortable with ambiguity, and you move fast.** You can take an unclear opportunity, form a strong point of view, and get real signal from scrappy tests before asking for a bigger budget.\n* **You know how to bring people along.** You can challenge ideas, communicate clearly, and get things done across teams without formal authority.\n\n**Requirements**\n\n* At least 4+ years of experience in growth marketing, customer acquisition, demand generation, or a related role.\n* Demonstrated experience owning acquisition end to end: finding the opportunity, building the strategy, executing it, and being accountable for the results.\n* A track record of growing the number of new customers, or lowering what it costs to win them, through work you led.\n* Strong marketing instincts and writing ability, with experience creating messaging, offers or experiences that drive measurable action.\n* Working knowledge of paid se",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Event marketing, Business case, Automation",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Analytical",
+    "Customer acquisition",
+    "Budgeting",
+    "Case",
+    "Sales"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Growth Manager (Acquisition) - Taniya Malviya",
+    "body": "Dear Hiring Team at Freshprints,\n\nI am writing to apply for the Senior Growth Manager (Acquisition) role. I am a Senior Software Engineer, 7+ years, and my background in Event marketing, Business case, Automation matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "456e7fee25d3": {
    "id": "456e7fee25d3",
@@ -9495,15 +9809,38 @@
    "emails": [],
    "description": "**Remote Account Representative**    \n   \n  **About the Role**    \n We re looking for an Account Representative to assist individuals and small businesses in exploring tailored financial solutions. In this role, you ll serve as a reliable point of contact-helping clients understand their options, navigate next steps, and build lasting relationships. This position is ideal for professionals who enjoy client interaction, organization, and the flexibility of working from home.   \n   \n  **Core Responsibilities** \n\n* Connect with new and prospective clients through outreach and follow-ups\n* Learn about each client s financial goals and challenges\n* Present solutions that align with their needs and objectives\n* Assist clients through onboarding and product setup\n* Maintain detailed client information and activity logs in CRM tools\n* Provide ongoing support through regular check-ins and service updates\n\n **Qualifications** \n\n* High school diploma required; college degree preferred\n* Strong communication and relationship-building skills\n* Highly organized and comfortable working independently in a remote setting\n* A proactive, client-focused attitude with strong attention to detail\n* Previous experience in customer service, account support, or sales is a plus\n\n **What We Offer** \n\n* Competitive base pay with performance-based bonuses and incentives\n* Comprehensive benefits package including medical, dental, vision, 401(k), and paid time off\n* Flexible remote work schedule with structured support\n* Career advancement opportunities within a growing organization\n* A collaborative and mission-driven remote team culture\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Relationship building, Client interaction, Client",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Relationship",
+    "Focus",
+    "Remote",
+    "Sales",
+    "CRM"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Remote Account Representative - Taniya Malviya",
+    "body": "Dear Hiring Team at Nuvant Consulting Group,\n\nI am writing to apply for the Remote Account Representative role. I am a Senior Software Engineer, 7+ years, and my background in Relationship building, Client interaction, Client matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "a4b4407538c2": {
    "id": "a4b4407538c2",
@@ -9519,15 +9856,39 @@
    "emails": [],
    "description": "At Globe Life, we are committed to empowering our employees with the support and opportunities they need to succeed at every stage of their career. We take pride in fostering a caring and innovative culture that enables us to collectively grow and overcome challenges in a connected, collaborative, and mutually respectful environment that calls us to help Make Tomorrow Better.\n\n**Role Overview:**\n\nCould you be our next       **FEP     Outbound     Sales     Specialist**           Globe Life is looking for a   n      **FEP Outbound     Sales     Specialist**    to join the team   !\n\nIn this role, you will     be responsible for     conducting     outbound and receiv   ing     inbound calls     to     determine     the proper action for each. The agent will record     information   ,     maintain     the departments procedures and policies   , and     assist     policyholders as needed.     A     successful candidate will need to be performance-driven     and     skilled at interacting with the public by phone.\n\n**This is a remote / work-from-home position.       We have full-time and part-time positions available   .**\n\n**What You Will Do:**\n\n* Make outbound calls to newly issued     business     to welcome them to the Globe Life Family, ensure their     policy   (s) are     accurate,     and     assist     with any     additional     information     pertaining to     their new policy.\n* Maneuver within our CRM while speaking with recently approved customers to collect the first premium to activate their Life Insurance policy.\n* Make outbound calls to internet-generated leads to warm up potential customers for our Sales Team.\n* Be able to explain policy benefits.\n* Complete necessary paperwork when needed.\n* Assist     with correspondence and error corrections for policy service.\n* Execute special projects that encompass making   numerous     outbound calls for special projects/campaigns for our sister companies including AIL LNL and recording activities requested by/from customers.\n\n**What You Can Bring:**\n\n* High School diploma or equivalent, some college preferred.\n* 1+ years of customer service or 1+ years of a professional environment in a customer   service-related     atmosphere   .\n* Licensed in Life, Accident, and Health Insurance is preferred, but not   required   .\n* 1+ years of office experience preferred. Telecommunications experience is a plus.\n* A background in life and health insurance, and knowledge of insurance operations is desired.\n* Customer service background and good phone skills.\n* Excellent written and oral communication skills.\n* Excellent organization skills.\n* Must be able to   maintain     confidentiality.\n* Must     be comfortable collecting payments via Credit Card and Bank Draft payment options from our customers.\n* Excellent alpha and number recognition skills   .\n* Demonstrated mathematical abilities   .\n* Ability to work under pressure and handle high-stress situations calmly and with tact and professionalism.\n* Strong   decision-making     skills with the ability to analyze situations and make logical conclusions.\n* Excellent attendance and punctuality\n* Experience with using Microsoft Office products such as Word and Outlook\n* Able to multifunction from many   different sources   .\n* Be customer friendly     .\n\n**Applicable To All Employees of Globe Life Family of Companies:**\n\n* Reliable and predictable attendance of your assigned shift.\n* Ability to work full time and/or part time based on the position specifications.\n\n**How Globe Life Will Support You:**\n\nLooking to continue your career in an environment that values your contribution and invests in your growth Weve curated a benefits package that helps to ensure that you don t just work, but thrive at Globe Life:\n\n* Competitive compensation designed to reflect your expertise and contribution.\n* Comprehensive health, dental, and vision insurance plans because your well-being is fundamental to your performance.\n* Robust life insurance benefits and retirement plans, including company-matched 401k and pension plan.\n* Paid holidays and time off to support a healthy work-life balance.\n* Parental leave to help our employees welcome their new additions.\n* Subsidized all-in-one subscriptions to support your fitness, mindfulness, nutrition, and sleep goals.\n* Company-paid counseling for assistance with mental health, stress management, and work-life balance.\n* Continued education reimbursement eligibility and company-paid FLMI and ICA courses to grow your career.\n* Discounted Texas Rangers tickets for a proud visit to Globe Life Field.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Customer service, Stress management",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Insurance operations",
+    "Operations",
+    "Insurance Operation",
+    "Sales",
+    "Remote",
+    "Health insurance"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Outbound Sales Specialist (Remote) - Taniya Malviya",
+    "body": "Dear Hiring Team at Globe Life Insurance,\n\nI am writing to apply for the Outbound Sales Specialist (Remote) role. I am a Senior Software Engineer, 7+ years, and my background in Customer service, Stress management matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "de7215aadc0e": {
    "id": "de7215aadc0e",
@@ -9543,15 +9904,38 @@
    "emails": [],
    "description": "At Globe Life, we are committed to empowering our employees with the support and opportunities they need to succeed at every stage of their career. We take pride in fostering a caring and innovative culture that enables us to collectively grow and overcome challenges in a connected, collaborative, and mutually respectful environment that calls us to help Make Tomorrow Better.\n\n**Role Overview:**\n\nCould you be our next  **Product Forms Filing Analyst II**  Globe Life is looking for a  **Product Forms Filing Analyst II**  to join the team!\n\n  \n\nIn this role, you will be responsible for reviewing, preparing, and submitting insurance policy forms, riders, applications, and related documents for compliance and state filing. You will research regulatory requirements, assist with advertising material reviews, coordinate with internal departments on new product implementations, and maintain accurate records of all state filings and approvals.\n\n  \n\n**This is a remote / work-from-home position.**\n\n  \n\n**What You Will Do:**\n\n  \n\n* Provide subject matter expertise in at least one Product Forms and Filings team function and/or line of business.\n* Assist with the drafting, development, and revision of insurance policy forms, riders, endorsements, applications, outlines of coverage, and related documents in compliance with applicable state and federal regulations.\n* Prepare and submit filings of new insurance products and required forms with state insurance departments for review by the Product Forms and Filings Process Manager.\n* Submit insurance form filings to state insurance departments utilizing SERFF, IRFS, and the Interstate Insurance Product Regulation Commission (Insurance Compact).\n* Assist the Analyst III with the review and filing of insurance advertising material with state insurance departments.\n* Review state insurance department objections and prepare detailed, well-reasoned rebuttals in a timely manner to facilitate approval of submitted filings.\n* Research and interpret state and federal insurance statutes, regulations, bulletins, and insurance department guidance to ensure all forms and filings meet current regulatory requirements.\n* Coordinate with Actuarial, Legal, Sales, Marketing, IT, and Administrative departments to draft and produce new or revised policy forms suitable for filing with state insurance departments.\n* Proofread and quality check insurance policy forms, benefit riders, applications, brochures, outlines of coverage, and related sales or marketing materials for accuracy, consistency, and regulatory compliance.\n* Review and approve test materials and data related to new product implementations to verify accuracy and regulatory compliance prior to launch.\n* Notify appropriate home office personnel upon receipt of state approvals and coordinate timely implementation of approved forms into the operating system.\n* Respond professionally and accurately to inquiries from state insurance department analysts or examiners, home office staff, and management, whether in writing, by phone, or in person.\n* Help provide information to Actuarial and Claims departments regarding changing benefits or policy provisions.\n* Assist with the communication of product updates to home office staff and relevant business units.\n* Maintain accurate and organized submission and approval documentation, including tracking the status of all pending and approved filings.\n* Assist in the preparation, organization, and submission of annual compliance filings.\n* Support department initiatives, special projects, and process improvement efforts as directed.\n\n  \n   \n\n**What You Can Bring:**\n\n  \n\n* Bachelors degree from a four-year college or university, or 5+ years of related experience and/or training, or an equivalent combination of education and experience. 3+ years of experience in the insurance, healthcare, legal, or related industry.\n* Familiarity with insurance industry standards and regulations.\n* Ability to work effectively both independently and in a team environment.\n* Strong oral and written communication skills with competency in grammar, spelling, and punctuation.\n* Demonstrated research, analytical, and problem-solving skills with the ability to critically analyze issues and recommend actionable responses.\n* Strong proofreading skills and exceptional attention to detail. Highly organized with the ability to manage multiple tasks simultaneously and meet tight deadlines.\n* Ability to respond professionally to management, home office staff, and outside insurance department analysts or examiners in writing, in person, and by phone.\n* Proficiency with personal computers and the ability to perform varied tasks using company operating systems.\n* Experience with Insurance Compact filings is a plus.\n* Bilingual in Spanish is a plus.\n* Reliable attendance of your assigned shift.\n* Ability to work full time based on position specifications.\n\n  \n\n**Applicable To All Employees of Globe Life Family of Companies:**\n\n* Reliable and predictable attendance of your assigned shift.\n* Ability to work full time and/or part time based on the position specifications.\n\n**How Globe Life Will Support You:**\n\nLooking to continue your career in an environment that values your contribution and invests in your growth Weve curated a benefits package that helps to ensure that you don t just work, but thrive at Globe Life:\n\n* Competitive compensation designed to reflect your expertise and contribution.\n* Comprehensive health, dental, and vision insurance plans because your well-being is fundamental to your performance.\n* Robust life insurance benefits and retirement plans, including company-matched 401k and pension plan.\n* Paid holidays and time off to support a healthy work-life balance.\n* Parental leave to help our employees welcome their new additions.\n* Subsidized all-in-one subscriptions to support your fitness, mindfulness, nutrition, and sleep goals.\n* Company-paid counseling for assistance with mental health, stress management, and work-life balance.\n* Continued education reimbursement eligibility and company-paid FLMI and ICA courses to grow your career.\n* Discounted Texas Rangers tickets for a proud visit to Globe Life Field.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "new",
-   "updated_at": "2026-11-21T11:38:34+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Analytics, Healthcare, Product analysis",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Improvement",
+    "Spanish",
+    "Administration",
+    "Office",
+    "Compliance"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Product Forms & Filing Analyst II (Remote) - Taniya Malviya",
+    "body": "Dear Hiring Team at Globe Life Insurance,\n\nI am writing to apply for the Product Forms & Filing Analyst II (Remote) role. I am a Senior Software Engineer, 7+ years, and my background in Analytics, Healthcare, Product analysis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "72f0d2a427d8": {
    "id": "72f0d2a427d8",
@@ -9567,15 +9951,36 @@
    "emails": [],
    "description": "### Job Summary\n\nWe are seeking a hands-on Full Stack Java Developer to build, test and support enterprise applications. In this role, you will bring strong Java, Spring Boot, REST API and SQL skills together with exposure to modern frontend technologies to deliver high-quality, secure software solutions.\n\nDay to day, you will design, develop and maintain enterprise applications, build and integrate RESTful APIs, microservices and database components, and support user-interface development. You will work closely with business analysts, QA and engineering teams in an Agile/Scrum environment, taking part in code reviews, CI/CD processes, deployments and production support.\n\nThis role also requires an AI-tool-ready mindset: you will use approved AI-assisted development tools to accelerate coding, refactoring, testing, debugging and documentation activities, while critically validating all AI-generated output for correctness, security and maintainability.\n\n### Essential Job Functions\n\n* Design, develop, test and maintain enterprise applications using Java and Spring Boot.\n* Build and integrate RESTful APIs, microservices and database components.\n* Develop or support user-interface components using Angular, React, JavaScript or TypeScript.\n* Write clean, maintainable code with appropriate unit and integration tests.\n* Troubleshoot application, API, integration and data issues, and perform root-cause analysis.\n* Participate in code reviews, CI/CD, deployments and production support.\n* Collaborate with business analysts, QA and engineering teams in an Agile/Scrum environment.\n* Use approved AI-assisted development tools for coding, refactoring, testing and documentation, validating all generated output for correctness, security and maintainability.\n\n### Basic Qualifications\n\n* 4-6 years of hands-on software development experience.\n* Strong Java/J2EE, Spring Boot, Spring Framework and Spring Data JPA experience.\n* RESTful API development and service integration.\n* SQL and relational databases such as SQL Server, Oracle or PostgreSQL.\n* JPA/Hibernate or an equivalent ORM framework.\n* JUnit and Mockito; unit and integration testing practices.\n* Git and Maven or Gradle.\n* Strong understanding of object-oriented programming, design principles, debugging and coding standards.\n* Ability to independently deliver low-to-medium complexity application changes.\n* Comfort using or rapidly adopting GitHub Copilot, Amazon Q Developer, Microsoft Copilot or similar GenAI engineering assistants.\n* Ability to use AI for code generation, code understanding, refactoring, unit-test creation, debugging, SQL assistance and technical documentation.\n* Ability to critically review AI-generated code and follow enterprise security, privacy and source-code handling standards.\n\n### Other Qualifications\n\n* Angular or React, TypeScript, JavaScript, HTML and CSS.\n* Microservices, Docker, Kubernetes, AWS or Microsoft Azure.\n* CI/CD using Jenkins, GitHub Actions or Azure DevOps.\n* Swagger/OpenAPI, Postman or REST Assured.\n* Kafka, RabbitMQ, IBM MQ, batch processing or high-volume data processing.\n* Data migration and reconciliation experience.\n* Insurance, banking or financial-services domain exposure.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 62"
     }
-   ]
+   ],
+   "score": 62,
+   "reasons": [
+    "Matched: Production support, Enterprise, Enterprise applications, Engineering, Javascript",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Coding",
+    "SQL",
+    "Debugging"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Analyst I Software Engineering - Taniya Malviya",
+    "body": "Dear Hiring Team at DXC Technology,\n\nI am writing to apply for the Analyst I Software Engineering role. I am a Senior Software Engineer, 7+ years, and my background in Production support, Enterprise, Enterprise applications matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "c059dd6d6efb": {
    "id": "c059dd6d6efb",
@@ -9591,15 +9996,32 @@
    "emails": [],
    "description": "**This role is for one of our clients**\n\nIndustry: Software Development  \nCompany Name: EazyML\n\nSeniority level: Mid-Senior Level\n\n  \n\nExperience: 10+ Years Overall (Minimum 8+ Years Required)  \nMicrosoft Fabric Experience: 2+ Years of Hands-on Experience  \nLocation: Remote – Anywhere in India  \nEmployment Type: Full-Time\n\nEazyML, recognized by Gartner, EazyML specializes in Responsible AI. Our solutions facilitate proactive compliance and sustainable automation, and the company is associated with breakthrough startups like Amelia.ai.\n\n  \n\nThis is a full-time Remote role for an experienced Senior Platform Architect — Microsoft Fabric who enjoys solving complex data problems and takes ownership from design through delivery. You can work from home (anywhere in INDIA, job location is in India).\n\nExperience Level: Senior (10+ years overall, 2+ years hands-on with Microsoft Fabric) DO NOT APPLY IF YOU DON'T HAVE AT LEAST 8+ YEARS OF EXPERIENCE. THIS IS A SENIOR POSITION\n\n  \n\nThis role is ideal for someone who can build scalable data pipelines on Microsoft Azure Fabric, leverage AI to improve engineering productivity, and work closely with business and technical stakeholders.\n\n  \n\nAbout the Role\n\nWe're looking for a Senior Platform Architect with strong DevOps expertise to design, implement, and operationalize our Microsoft Fabric data platform. You'll own the architecture of our unified data estate — spanning OneLake, Data Factory pipelines, Synapse Data Engineering, Power BI, and Real-Time Analytics — while building the CI/CD, governance, and automation backbone that lets our data teams ship reliably and securely. This is a hands-on architecture role: you'll set technical direction and also build it yourself.\n\n  \n\nRequired Qualifications\n\n* Bachelor's or Master's degree in Computer Science, Information Technology, Engineering, or a related field.\n* 10+ years of experience in Data Engineering, Data Warehousing, or Cloud Data Platform development.\n* 4+ years of hands-on experience with Microsoft Azure Data Platform technologies.\n* 2+ years of hands-on experience with Microsoft Fabric in enterprise implementations.\n* Strong expertise in SQL, PySpark, Python, and Spark optimization.\n* Experience with Microsoft Fabric components including OneLake, Lakehouse, Data Warehouse, Data Factory, Power BI, and Real-Time Intelligence.\n* Experience with Azure Data Lake Storage (ADLS), Azure DevOps, GitHub, and CI/CD pipelines.\n* Strong knowledge of dimensional data modeling, ETL/ELT architecture, and data governance.\n\n  \n\nWhat You'll Do\n\n* Design and own the end-to-end architecture for Microsoft Fabric, including OneLake data lake structure, workspace and capacity strategy, domain/workspace segregation, and medallion (bronze/silver/gold) layering.\n* Define and implement DevOps practices for Fabric: Git integration, deployment pipelines, environment promotion (dev/test/prod), and infrastructure-as-code for Fabric items (lakehouses, warehouses, notebooks, pipelines, semantic models).\n* Build and maintain CI/CD pipelines (Azure DevOps or GitHub Actions) for Fabric artifacts, including automated testing, validation, and rollback strategies.\n* Architect and enforce governance, security, and access controls across Fabric — workspace roles, OneLake data access policies, sensitivity labels, row-level security, and integration with Microsoft Purview.\n* Partner with data engineers, analysts, and platform teams to standardize development patterns, reusable templates, and best practices across Fabric workloads (Data Factory, Data Engineering/Spark, Data Warehouse, Real-Time Intelligence, Power BI).\n* Lead migration efforts from legacy platforms (Synapse Analytics, Azure Data Factory, on-prem SSIS/SQL Server, or other cloud data warehouses) onto Microsoft Fabric.\n* Mentor engineering teams on Fabric architecture patterns, DevOps practices, and operational excellence.\n\nRoles & Responsibilities: Technical Leadership\n\n* Lead the end-to-end implementation of Microsoft Fabric solutions across enterprise programs.\n* Define technical architecture, engineering standards, and best practices for Microsoft Fabric adoption.\n* Provide technical leadership to a team of data engineers and developers.\n* Review solution designs, code, and deployment strategies to ensure quality and scalability.\n\nMicrosoft Fabric Architecture\n\n* Design and implement enterprise data platforms using Microsoft Fabric components including OneLake, Lakehouse, Data Warehouse, Data Factory, Real-Time Intelligence, Data Engineering, and Power BI.\n* Architect scalable, cloud-native data solutions supporting analytics, AI, and business intelligence workloads.\n* 3 + years of hands-on experience with Microsoft Fabric, or deep equivalent experience with Azure Synapse Analytics, Power BI, and Azure Data Factory with a clear path to Fabric.\n* Strong command of OneLake, Lakehouse and Warehouse architecture, Delta Lake/Parquet formats, and medallion architecture design.\n\nData Engineering & Integration\n\n* Design and develop robust ETL/ELT pipelines using Microsoft Fabric Data Factory and Spark Notebooks.\n* Integrate structured, semi-structured, and unstructured data from cloud and on-premises systems.\n* Implement data transformation, cleansing, validation, and orchestration processes.\n* Optimize data ingestion strategies for performance and reliability.\n\nData Modeling & Analytics\n\n* Design dimensional models, Lakehouse architectures, and enterprise data warehouses.\n* Develop semantic models and datasets for Power BI reporting and self-service analytics.\n* Collaborate with business teams to translate analytical requirements into scalable data solutions.\n\nPerformance Optimization\n\n* Optimize Spark workloads, SQL Warehouse performance, and OneLake storage utilization.\n* Implement partitioning, indexing, caching, and workload optimization strategies.\n* Monitor platform performance and proactively resolve bottlenecks.\n\nSecurity & Governance\n\n* Implement enterprise security using Microsoft Entra ID, RBAC, and Fabric workspace security.\n* Ensure adherence to enterprise security, privacy, and regulatory standards.\n\nDevOps & Automation\n\n* Implement CI/CD pipelines using Azure DevOps or GitHub.\n* Automate deployment of Microsoft Fabric artifacts across Development, QA, UAT, and Production environments.\n* Manage source control, release management, and deployment automation.\n\nAI & Advanced Analytics\n\n* Enable AI, Machine Learning, and Copilot capabilities within Microsoft Fabric.\n* Support Data Science workloads using Spark, notebooks, and ML models.\n* Collaborate with AI teams to operationalize predictive analytics and intelligent data solutions.\n\nProduction Support & Operations\n\n* Lead production deployments and post-production support activities.\n* Monitor platform health, troubleshoot incidents, and ensure SLA compliance.\n* Implement disaster recovery, backup, and business continuity strategies.\n\nStakeholder Management\n\n* Collaborate with enterprise architects, product owners, business stakeholders, and cross-functional teams.\n* Participate in architecture review boards and technical governance meetings.\n* Communicate technical solutions and project status to senior leadership.\n\nTeam Leadership & Mentoring\n\n* Mentor junior and senior engineers on Microsoft Fabric technologies and engineering best practices.\n* Conduct code reviews, design reviews, and technical knowledge-sharing sessions.\n* Drive continuous improvement initiatives and foster engineering excellence.\n\n  \n\nNice to Have\n\n* Microsoft certifications: DP-600 (Fabric Analytics Engineer), DP-203 (Azure Data Engineer), or Azure Solutions Architect Expert.\n* Experience with Power BI semantic model optimization and DirectLake mode.\n* Familiarity with data mesh or domain-driven data architecture principles.\n* Experience with Databricks, Synapse Analytics, Azure AI Services, or Microsoft Purview.\n* Knowledge of Agile/Scrum delivery methodologies.\n* Strong communication, stakeholder manage",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 90"
     }
-   ]
+   ],
+   "score": 90,
+   "reasons": [
+    "Matched: also, analytics, architecture, automation, bachelor",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Lead Data Architect - Taniya Malviya",
+    "body": "Dear Hiring Team at Weekday,\n\nI am writing to apply for the Lead Data Architect role. I am a Senior Software Engineer, 7+ years, and my background in also, analytics, architecture matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "8a9b44164471": {
    "id": "8a9b44164471",
@@ -9615,15 +10037,39 @@
    "emails": [],
    "description": "### Responsibilities\n\n* Design, build, and operate production AI features across the stack (APIs, backend services, and product UI) within an AWS cloud-managed and serverless-first platform ecosystem.\n* Design and implement tool-calling agents, MCP Servers, multi-step workflows with durable execution, and multi-agent orchestration patterns complete with guardrails, authorization (authz), rate limits, retries, fallbacks, and safe human-in-the-loop paths.\n* Establish and manage offline/online evals, benchmarks, regression datasets, prompt/version management, and A/B or canary rollouts to continuously experiment and optimize accuracy, latency, and cost.\n* Build deep production observability for AI systems, including distributed tracing, token/cost metrics, failure taxonomies, grounding/hallucination signals, and operational runbooks-diagnosing and resolving issues reported by internal teams and customers.\n* Lead the design of reusable AI platform patterns-including agent frameworks, RAG/retrieval pipelines, context and memory management, tool registries, and evaluation harnesses-while advancing an AI-native SDLC.\n* Partner closely with Product, UX, and platform stakeholders to rapidly prototype ambiguous concepts and turn them into measurable, production-grade customer experiences.\n* Evangelize modern agile practices, the AWS Well-Architected Framework, comprehensive automated testing (unit, contract, integration, and eval suites), and mentor engineers through technical guidance, code reviews, and coaching.\n\n### What we are looking for\n\n* 6+ years of experience designing and developing highly scalable enterprise-level services, platforms, or SaaS products within geographically distributed teams.\n* Deep engineering expertise across modern stacks, with strong proficiency in Python, TypeScript, Node.js, and React, as well as experience with APIs, caching (e.g., Redis) etc.\n* Agentic Frameworks Model Tooling: Hands-on experience with AWS Bedrock, AgentCore, and Strands Agents SDK (or comparable frameworks such as LangGraph, CrewAI, or Claude Agent SDK), including function/tool calling, structured outputs, and streaming responses.\n* Proven track record shipping, scaling, and iterating on AI applications in production (agent workflows, RAG systems, copilots, or LLM-powered apps), with a deep practical understanding of multi-agent orchestration, context/memory management, prompt engineering, and failure handling.\n* Strong knowledge of modern cloud-native and serverless architectures (AWS strongly preferred), CI/CD, observability, and secure defaults, alongside experience choosing between SQL (MySQL/PostgreSQL) and NoSQL/vector data stores (MongoDB/DynamoDB).\n* Excellent communication skills with the ability to document and articulate complex technical and AI system concepts to both technical and non-technical audiences; startup or high-growth environment experience is desirable.\n* Nice-to-Have / Plus Areas: Data modeling, data architecture, and data governance, Event-driven business workflow orchestration and choreography patterns\n\nIndividuals with disabilities are encouraged to apply for these positions.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 25"
     }
-   ]
+   ],
+   "score": 25,
+   "reasons": [
+    "Matched: Workflow, MySQL",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "SDLC",
+    "Agile",
+    "Postgresql",
+    "SQL",
+    "Python",
+    "Modeling"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Software Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Globalization Partners International (GPI),\n\nI am writing to apply for the Senior Software Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Workflow, MySQL matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "bf848a2d0307": {
    "id": "bf848a2d0307",
@@ -9639,15 +10085,38 @@
    "emails": [],
    "description": "We are looking for an experienced RPA Engineer with strong hands-on expertise in Blue Prism to design, develop, implement, and maintain enterprise-level Robotic Process Automation solutions.\n\nThe ideal candidate should have 7-10 years of overall IT/software engineering experience, with strong expertise in Blue Prism development, solution design, application integration, debugging, and production support.\n\nThe candidate will be responsible for delivering scalable, secure, reusable, and reliable automation solutions while ensuring performance, quality, and operational excellence.\n\nKey Responsibilities\n\nDesign, develop, test, and deploy end-to-end RPA solutions using Blue Prism.\n\nAnalyze business processes and identify automation opportunities.\n\nDevelop and maintain reusable Business Objects, Process Objects, and Work Queues.\n\nWork extensively with Blue Prism Process Studio, Object Studio, Application Modeller, and Control Room.\n\nPrepare and maintain PDDs, SDDs, process maps, and technical documentation.\n\nImplement exception handling, logging, retry mechanisms, and recovery strategies.\n\nIntegrate Blue Prism with web applications, Windows applications, APIs, databases, Excel, and email systems.\n\nPerform unit testing, integration testing, UAT support, and production deployment.\n\nMonitor bot performance, troubleshoot failures, and conduct root-cause analysis.\n\nManage bot scheduling, credentials, environment configurations, and production releases.\n\nOptimize existing automations for improved performance, reliability, and scalability.\n\nCollaborate with business stakeholders, technical teams, and infrastructure teams.\n\nFollow RPA governance, security standards, and development best practices.\n\nMandatory Technical Skills\n\n7-10 years of overall IT/software engineering/automation experience.\n\nStrong hands-on development experience in Blue Prism.\n\nExpertise in Blue Prism architecture, Process Studio, Object Studio, Application Modeller, Control Room, and Work Queues.\n\nExperience developing reusable Business Objects and Process Objects.\n\nStrong knowledge of exception handling, debugging, and troubleshooting.\n\nHands-on experience with UI automation and surface automation.\n\nExperience with Excel automation, VBA, SQL, database connectivity, and file handling.\n\nKnowledge of API integration, web services, JSON, and XML.\n\nExperience in bot scheduling, credential management, deployment, and production support.\n\nGood understanding of SDLC, Agile methodologies, and testing practices.\n\nGood to Have\n\nBlue Prism Developer Certification.\n\nExperience working in enterprise-scale RPA implementations or CoE environments.\n\nKnowledge of version control, CI/CD, and deployment automation.\n\nExposure to OCR, Intelligent Document Processing, and AI-driven automation.\n\nExperience in Finance, HR, Supply Chain, or Customer Operations automation.\n\nKey Competencies\n\nStrong analytical and problem-solving skills.\n\nIndependent ownership of automation development and delivery.\n\nExcellent debugging and root-cause analysis capabilities.\n\nStrong communication and stakeholder management skills.\n\nAbility to work independently and deliver within defined timelines.\n\nEngagement Details\n\nParameter\n\nDetails\n\nPosition\n\nRPA Engineer - Blue Prism\n\nExperience\n\n7-10 Years\n\nBilling Rate\n\n3-3.5 LPM\n\nContract\n\nInitially 3 Months\n\nExtension\n\nPossible\n\nProject Duration\n\nUp to 1 Year\n\nEmployment Type\n\nContractual\n\nOnboarding\n\nFirst Week of December 2026\n\nInterested candidates with strong hands-on Blue Prism development experience are encouraged to apply.Job Description - RPA Engineer (Blue Prism)\n\nRole: RPA Engineer - Blue Prism  \nExperience: 7-10 Years  \nEmployment Type: Contractual  \nContract Duration: 3 Months initially (extendable)  \nProject Duration: Potentially up to 1 Year  \nBilling Rate: 3-3.5 LPM  \nExpected Onboarding: First Week of December 2026\n\nRole Overview\n\nWe are looking for an experienced RPA Engineer with strong hands-on expertise in Blue Prism to design, develop, implement, and maintain enterprise-level Robotic Process Automation solutions.\n\nThe ideal candidate should have 7-10 years of overall IT/software engineering experience, with strong expertise in Blue Prism development, solution design, application integration, debugging, and production support.\n\nThe candidate will be responsible for delivering scalable, secure, reusable, and reliable automation solutions while ensuring performance, quality, and operational excellence.\n\nKey Responsibilities\n\nDesign, develop, test, and deploy end-to-end RPA solutions using Blue Prism.\n\nAnalyze business processes and identify automation opportunities.\n\nDevelop and maintain reusable Business Objects, Process Objects, and Work Queues.\n\nWork extensively with Blue Prism Process Studio, Object Studio, Application Modeller, and Control Room.\n\nPrepare and maintain PDDs, SDDs, process maps, and technical documentation.\n\nImplement exception handling, logging, retry mechanisms, and recovery strategies.\n\nIntegrate Blue Prism with web applications, Windows applications, APIs, databases, Excel, and email systems.\n\nPerform unit testing, integration testing, UAT support, and production deployment.\n\nMonitor bot performance, troubleshoot failures, and conduct root-cause analysis.\n\nManage bot scheduling, credentials, environment configurations, and production releases.\n\nOptimize existing automations for improved performance, reliability, and scalability.\n\nCollaborate with business stakeholders, technical teams, and infrastructure teams.\n\nFollow RPA governance, security standards, and development best practices.\n\nMandatory Technical Skills\n\n7-10 years of overall IT/software engineering/automation experience.\n\nStrong hands-on development experience in Blue Prism.\n\nExpertise in Blue Prism architecture, Process Studio, Object Studio, Application Modeller, Control Room, and Work Queues.\n\nExperience developing reusable Business Objects and Process Objects.\n\nStrong knowledge of exception handling, debugging, and troubleshooting.\n\nHands-on experience with UI automation and surface automation.\n\nExperience with Excel automation, VBA, SQL, database connectivity, and file handling.\n\nKnowledge of API integration, web services, JSON, and XML.\n\nExperience in bot scheduling, credential management, deployment, and production support.\n\nGood understanding of SDLC, Agile methodologies, and testing practices.\n\nGood to Have\n\nBlue Prism Developer Certification.\n\nExperience working in enterprise-scale RPA implementations or CoE environments.\n\nKnowledge of version control, CI/CD, and deployment automation.\n\nExposure to OCR, Intelligent Document Processing, and AI-driven automation.\n\nExperience in Finance, HR, Supply Chain, or Customer Operations automation.\n\nKey Competencies\n\nStrong analytical and problem-solving skills.\n\nIndependent ownership of automation development and delivery.\n\nExcellent debugging and root-cause analysis capabilities.\n\nStrong communication and stakeholder management skills.\n\nAbility to work independently and deliver within defined timelines.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Automation, Production, Business objects",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Agile",
+    "XML",
+    "Billing",
+    "Microsoft Windows",
+    "SDLC"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for RPA Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Zorba Consulting,\n\nI am writing to apply for the RPA Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Automation, Production, Business objects matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b5c6357c4fe4": {
    "id": "b5c6357c4fe4",
@@ -9663,15 +10132,38 @@
    "emails": [],
    "description": "**Job Description**    \n\nWe are seeking a highly experienced   Senior Full Stack Developer   with a proven track record in Java (backend), Flutter (mobile/web), and advanced AWS Cloud services. The ideal candidate will have hands-on experience with telemetry monitoring, EC2, Load Balancer, and Elasticsearch, and must have previously worked in the stock broking or finance domain.\n\n  \n   \n  **Key Responsibilities**    \n- Design, develop, and maintain scalable financial/trading applications   using Java for backend and Flutter for frontend/mobile.\n- Architect and deploy solutions on AWS   , including EC2, Elastic Load Balancer, and VPC, with automated scaling and high availability.\n- Implement and maintain telemetry monitoring solutions   (CloudWatch, Prometheus, Grafana, etc.) to ensure real-time visibility and incident response.\n- Design and optimize data pipelines   for market data ingestion, order management, and trade lifecycle using Elasticsearch and RDBMS.\n- Integrate with external APIs   (market feeds, KYC, trading gateways, etc.) securely and efficiently.\n- Collaborate with cross-functional teams   including product, QA, and DevOps to deliver high-performance financial systems.\n- Enforce best coding practices, CI/CD, and unit/integration testing   for high-quality releases.\n- Ensure robust security practices   for financial transactions and customer data.\n  \n   \n  **Required Skills Experience**    \n- 6+ years of full stack development experience   in the finance or stock broking industry.\n- Strong expertise in Java (Spring Boot, REST APIs, Multithreading, JMS, etc.).\n- Advanced Flutter development skills   (iOS/Android/Web).\n- Deep hands-on AWS experience   :\n- EC2   : Provisioning, scaling, security groups, automation.\n- Elastic Load Balancer   : Design, routing, auto-scaling, health checks.\n- Elasticsearch   : Setup, query optimization, monitoring, log analytics.\n- Telemetry Monitoring   : CloudWatch, Prometheus, Grafana, or similar.\n- CI/CD and DevOps   : Jenkins, GitHub Actions, Docker, Infrastructure-as-Code (Terraform/CloudFormation).\n- Database skills   : MySQL/PostgreSQL + NoSQL/Elasticsearch.\n- Solid understanding of financial protocols, compliance, and security standards   .\n- Proven experience with high-throughput, low-latency applications   (preferably in trading/stock market systems).\n- Strong debugging, optimization, and troubleshooting skills   .\n  \n   \n  **Preferred Qualifications**    \n- Exposure to   Kafka/RabbitMQ   for event-driven architecture.\n- Knowledge of   microservices, serverless (Lambda), and API Gateway   on AWS.\n- Experience working with   market data vendors   (NSE/BSE/MCX, Bloomberg, etc.).\n- Prior experience building   real-time dashboards   and analytics in fintech.\n- Certification in AWS (AWS Certified Solutions Architect/Developer).     \n     \n   Regards  **Team HR | Indira Securities Pvt Ltd**\n\nGraduate -IT/Computer Science\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Full Stack, Analytics, Stack",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Senior",
+    "Coding",
+    "Debugging",
+    "JMS",
+    "Android"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Indira Securities,\n\nI am writing to apply for the Senior Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in Full Stack, Analytics, Stack matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4619b2c472bb": {
    "id": "4619b2c472bb",
@@ -9687,15 +10179,38 @@
    "emails": [],
    "description": "\":\" \n\nRole Overview    \n\nWe are looking for a  **Senior Associate \\- Power Platform SharePoint Developer   to work on our global product  **Timesheet Pro 365   , an  **SPFx full\\-page application deployed on Microsoft AppSource   , along with enterprise solutions built using  **Power Apps and Power Automate   .    \n\nThe ideal candidate will be a  **hands\\-on, independent developer   who can take ownership of features, contribute to solution design, and support both product and project\\-based work.    \n\nKey Responsibilities    \n    *SharePoint SPFx Development    \n\n* Design, develop, and enhance  **SPFx full\\-page applications   using React and TypeScript**\n* **Work on feature enhancements, bug fixes, and version upgrades for  **Timesheet Pro 365****\n* ****Implement scalable and secure solutions on  **SharePoint Online******\n* ******Integrate solutions with  **Microsoft Graph API   , REST APIs, and Azure services********\n* ******Ensure performance optimization, security compliance, and coding best practices    \n      *Power Platform Development    \n  + Develop and maintain  **Power Apps (Canvas and\\/or Model\\-driven apps)**\n  + **Design and implement  **Power Automate flows   for business process automation****\n  + ****Handle integrations between Power Platform, SharePoint, and other Microsoft 365 services****\n  + ****Troubleshoot, optimize, and support existing Power Platform solutions    \n        *Product Delivery Ownership  *- Take ownership of assigned modules and deliverables with minimal supervision\n    - Support production issues and customer escalations\n    - Participate in requirement discussions, estimation, and solution design\n    - Maintain technical documentation and deployment notes    \n          *Quality Collaboration    \n      * Perform code reviews and ensure adherence to development standards\n      * Mentor junior developers and support knowledge sharing within the team\n      * Collaborate with product owners, architects, and cross\\-functional teams    \n\n        Requirements    Technical Skills   \n        + Strong hands\\-on experience in  **SPFx   , React, TypeScript**\n        + **Solid experience with  **SharePoint Online   (lists, libraries, permissions, site architecture)****\n        + ****Proven expertise in  **Power Apps   and  **Power Automate********\n        + ******Experience with  **PnP JS   , REST APIs, and Microsoft Graph********\n        + ******Familiarity with Azure services (Azure Functions, App Registration, Azure AD \\- preferred)******\n        + ******Experience deploying and maintaining solutions on  **Microsoft AppSource   (good to have)    \n              Professional Skills    \n          - Ability to work independently and take ownership of tasks\n          - Strong problem\\-solving and debugging skills*********************************\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Security, Business process, Security Compliance",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Coding",
+    "Performance optimization",
+    "Microsoft",
+    "Performance",
+    "Process"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Associate - PowerPlatform and SharePoint Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Ignatiuz Software,\n\nI am writing to apply for the Senior Associate - PowerPlatform and SharePoint Developer role. I am a Senior Software Engineer, 7+ years, and my background in Security, Business process, Security Compliance matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "95164735072d": {
    "id": "95164735072d",
@@ -9711,15 +10226,32 @@
    "emails": [],
    "description": "**Company:** QuickPro Hiring solutions  \n**Location:** Remote  \n**Job Type:** Contract — 12 months  \n**Experience:** 2–5 years\n\nQuickPro Hiring solutions is hiring a Full Stack .NET Developer for a 12-month remote contract position.\n\nYou will develop and maintain scalable web applications using .NET and React or Angular. There is a possibility of conversion to a permanent, full-time role, subject to performance, business requirements, and mutual agreement. Conversion is not guaranteed.\n\n**Key Responsibilities**\n\n* Develop scalable web applications using .NET, ASP.NET Core, and C#.\n* Build responsive frontend applications using React or Angular with TypeScript.\n* Develop and maintain REST APIs and backend services.\n* Work with Entity Framework Core, SQL Server, and Azure SQL.\n* Integrate applications with external APIs and enterprise systems.\n* Implement authentication, authorization, logging, caching, and error handling.\n* Develop and maintain unit, integration, and automated tests.\n* Troubleshoot application defects and optimize performance.\n* Participate in code reviews and technical design discussions.\n* Support CI/CD pipelines and cloud deployments.\n* Follow secure coding standards, SOLID principles, and Clean Architecture practices.\n* Share knowledge and mentor developers as appropriate to your experience.\n\n**Required Qualifications**\n\n* 2–5 years of professional software development experience.\n* Hands-on experience with C#, .NET, ASP.NET Core, and REST API development.\n* Experience with React or Angular and TypeScript.\n* Working knowledge of JavaScript, HTML, and CSS.\n* Experience with Entity Framework Core and SQL Server.\n* Understanding of relational database design and SQL query optimization.\n* Familiarity with Git, automated testing, authentication, and authorization.\n* Strong problem-solving and communication skills.\n* Ability to work independently and collaborate effectively with a remote team.\n\n**Preferred Qualifications**\n\n* Experience with Azure services and Azure SQL.\n* Familiarity with Azure DevOps, GitHub Actions, or similar CI/CD tools.\n* Exposure to Docker, caching solutions, and application monitoring.\n* Experience with enterprise application integrations.\n\n**How to Apply**\n\nApply through Indeed with your updated résumé. Please include:\n\n* Total experience and relevant .NET development experience.\n* Experience with React or Angular.\n* Expected gross monthly compensation.\n* Notice period or earliest joining date.\n\n*QuickPro Hiring solutions welcomes applications from qualified candidates of all backgrounds. Selection is based on relevant skills, experience, and role requirements.*\n\nPay: ₹1,500,000.00 - ₹2,000,000.00 per year\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-22T11:51:53+00:00",
-   "status": "new",
-   "updated_at": "2026-11-22T11:51:53+00:00",
+   "status": "review",
+   "updated_at": "2026-11-22T15:58:48+00:00",
    "history": [
     {
      "at": "2026-11-22T11:51:53+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-22T15:58:48+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: angular, api, apis, application, applications",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack .Net Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at quick pro,\n\nI am writing to apply for the Full Stack .Net Developer role. I am a Senior Software Engineer, 7+ years, and my background in angular, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "9a33c62bb5bd": {
    "id": "9a33c62bb5bd",
