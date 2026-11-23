@@ -10424,6 +10424,632 @@
     "subject": "Application for Senior DevSecOps Engineer (Cloud & Kubernetes) — Freelance / Part-Time Technical Support - Taniya Malviya",
     "body": "Dear Hiring Team at ABH Consultants,\n\nI am writing to apply for the Senior DevSecOps Engineer (Cloud & Kubernetes) — Freelance / Part-Time Technical Support role. I am a Senior Software Engineer, 7+ years, and my background in across, application, applications matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
    }
+  },
+  "3734a2412ca2": {
+   "id": "3734a2412ca2",
+   "site": "indeed",
+   "title": "Sr. Software Engineer - AWS",
+   "company": "YASH Technologies",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=0a412e75d8b718ba",
+   "apply_url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-AWS-Job/1370706466/",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Date: Nov 22, 2026\n\nJob Requisition Id: 67159\n\nLocation:\nPune, IN Hyderabad, TG, IN Indore, MP, IN\n\nYASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.\n\n  \n\nAt YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.\n\n  \n\n**We are looking forward to hire AWS Glue Professionals in the following areas :**\n\n  \n\n**Role Summary:** Lead development and support of complex data pipelines, SAP integrations, and advanced troubleshooting across the AWS data platform.\n\n**Key Skills & Responsibilities:**\n\n* Develop and support AWS Glue ETL pipelines and MWAA workflows.\n* Implement SAP ECC OData/JDBC integrations.\n* Build Bronze, Silver, and Gold layer transformations.\n* Optimize Redshift performance and data ingestion processes.\n* Provide L2/L3 production support.\n\n**Core Technologies**: AWS Glue, MWAA, S3, Redshift, Athena, SQL, Python, SAP ECC, SAP HANA\n\n**Experience**: 5- 7 years in Data Engineering with strong AWS and SAP integration experience.\n\n  \n\nAt YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.\n\n  \n\n**Our Hyperlearning workplace is grounded upon four principles**\n\n* Flexible work arrangements, Free spirit, and emotional positivity\n* Agile self-determination, trust, transparency, and open collaboration\n* All Support needed for the realization of business goals,\n* Stable employment with a great atmosphere and ethical corporate culture",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "acff4921e3b1": {
+   "id": "acff4921e3b1",
+   "site": "indeed",
+   "title": "Principle Engineer",
+   "company": "TechDome",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=bdaf70221ba47d10",
+   "apply_url": "https://techdome.keka.com/careers/jobdetails/171303?source=indeed%20job%20posts",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**The Role**\n\nOur clients build in healthcare, fintech, and payments, where an architecture mistake can become a compliance failure. As Principal Engineer, you’ll be the person who makes those architecture calls. You’ll set the technical direction, decide how systems are built and secured, and stay hands-on enough to prove your designs in code. Our Senior Full-Stack Engineers build features within the architecture you define.\n\n**About Techdome**\n\nTechdome is a product-driven engineering organization building production-grade solutions across FinTech, Healthcare, AI, and SaaS. Our products include http://JustInterview.ai (AI hiring) and Sparrow (API testing).\n\n**Who Owns What**\n\nThe Principal Engineer owns architecture decisions. That covers system design, technology and database choices, service boundaries, security and compliance architecture, and the engineering standards used across projects. These decisions are documented through design reviews and architecture decision records (ADRs).\n\n**Key Responsibilities**\n\n* Own end-to-end system architecture and make the final call on technical decisions across client projects.\n* Design secure, compliant, and high-performance full-stack applications, with HIPAA, SOC 2, and similar requirements built into the architecture from day one.\n* Define cloud architecture on Azure, AWS, or GCP, including containerized deployments, CI/CD, and infrastructure as code.\n* Drive API design, service boundaries, data modeling, and database architecture.\n* Ensure production reliability, security, auditability, and performance.\n* Establish engineering standards and lead design and code reviews.\n* Mentor senior engineers and work directly with client and business stakeholders on technical trade-offs.\n* Stay hands-on with coding and production-level problem-solving.\n\n**What Success Looks Like**\n\n* **First 3 months:** You’ve reviewed the architecture of our active client projects, flagged the main security and compliance risks, and started producing ADRs for new design decisions.\n* **By 6 months:** New projects start from a reference architecture and standards you’ve defined. Senior engineers are building against them with fewer architecture escalations.\n* **By 12 months:** Our systems pass client security and compliance audits (HIPAA, SOC 2) without major findings. Production incidents tied to design issues are measurably down, and at least one senior engineer is growing toward an architecture role under your mentorship.\n\n**Mandatory Requirements**\n\n* 6+ years of software engineering experience, including proven ownership of architecture for production systems.\n* Hands-on experience designing systems under HIPAA, SOC 2, PCI-DSS, or GDPR, including access controls, audit logging, data encryption, and audit readiness.\n* Background in Healthcare, FinTech, Payments, Insurance, or another security-sensitive domain.\n* Strong expertise in Node.js, React.js, Next.js, TypeScript, and PostgreSQL.\n* Hands-on cloud architecture experience (Azure, AWS, or GCP; Azure preferred).\n* Strong understanding of system design, microservices, distributed systems, and databases.\n* Strong technical leadership and communication skills, including explaining trade-offs to non-technical stakeholders.\n\n**Good to Have**\n\n* Experience with high-scale production systems (100,000+ users).\n* Kubernetes, event-driven architecture, and high-availability systems.\n* Payment gateway integrations (Stripe, Braintree, Adyen).\n* Experience with AI coding tools such as Cursor, Claude Code, or GitHub Copilot.\n\n**Why Join Techdome?**\n\n* Independent and profitable engineering organization.\n* Direct ownership of production-grade products.\n* Global collaboration across India, Dubai, and the US.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "c3957f6297ec": {
+   "id": "c3957f6297ec",
+   "site": "indeed",
+   "title": "Director / Associate Director, Engineering (Product, Cloud & AI)",
+   "company": "Systango Technologies Ltd",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=dca5760a3291fa82",
+   "apply_url": "https://systango.keka.com/careers/jobdetails/171363?source=indeed%20job%20posts",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**About the Role**\n\nWe are looking for a hands-on technology leader who can own the architecture, delivery and reliability of our product platforms while building a practical, production-grade AI/GenAI capability. You will sit at the intersection of product strategy, cloud-native engineering and people leadership: translating business problems into scalable systems, raising the engineering bar, and growing a high-performing team.\n\nThis is not a pure management role. We expect you to stay close to architecture and design decisions, review critical systems, and be credible with engineers at every level.\n\n**Key Responsibilities**\n\n*Technology & Architecture*\n\n* Define and own the technical strategy, roadmap and architecture for core product platforms (microservices, event-driven systems, APIs, data platforms).\n* Drive cloud architecture and cost/performance decisions on AWS (or equivalent), including containers, serverless, messaging, CDN and managed databases.\n* Lead modernization initiatives such as monolith-to-microservices, frontend re-platforming (e.g. React to Next.js/SSR), and data-model migrations.\n* Set and track performance, scalability and reliability targets (uptime, latency, Core Web Vitals, SLOs) and own production readiness.\n\n*AI & Generative AI*\n\n* Identify high-value AI use cases and lead design of LLM-powered features: AI agents, structured/multi-stage LLM workflows, content generation, classification, moderation and workflow automation.\n* Establish AI solution standards: model selection, prompt engineering, structured outputs, evaluation, guardrails, hallucination control and cost management.\n* Partner with product to move AI ideas from prototype to reliable production capability.\n\n*Product & Business Partnership*\n\n* Work with Product, Design and business leaders to turn marketplace/customer problems into clear technical solutions and delivery plans.\n* Contribute to product strategy, prioritization and trade-off decisions with data on effort, risk and impact.\n* Own integrations with third-party services (payments, identity/verification, communications, analytics).\n\n*People & Delivery*\n\n* Build, mentor and retain engineering managers, tech leads and senior engineers; define career paths and hiring bar.\n* Establish engineering practices: architecture and design reviews, code quality, CI/CD, testing, observability and incident management.\n* Ensure predictable delivery across teams, balancing speed, quality and technical debt.\n* Manage engineering budget, vendor selection and capacity planning.\n\n**Required Qualifications**\n\n* 12+ years of software engineering experience, with 4+ years leading engineers and teams (including managers or tech leads for Director level).\n* Strong background in distributed systems, microservices and event-driven architecture, with production ownership at scale.\n* Deep hands-on experience with a modern backend stack (Java and/or Node.js/TypeScript; Spring Boot or equivalent) and REST API design.\n* Proven experience architecting on AWS or comparable cloud (ECS/Fargate or Kubernetes, Lambda, API Gateway, S3, CloudFront, SQS/EventBridge/Kafka, RDS).\n* Working experience with relational and NoSQL stores (PostgreSQL/MySQL, MongoDB, Redis, Elasticsearch).\n* Practical experience shipping GenAI/LLM features to production (agents, prompt design, structured outputs, evaluation).\n* Track record of measurable outcomes: performance gains, reliability/uptime improvements, successful migrations or platform modernizations.\n* Excellent communication; able to explain technical trade-offs to executives and non-technical stakeholders.\n* Bachelor's degree in Engineering / Computer Science or equivalent experience.\n\n**Preferred Qualifications**\n\n* Experience in a startup, scale-up or marketplace/platform business, or as a technical co-founder.\n* Frontend architecture exposure (React, Next.js, SSR, SEO, Core Web Vitals).\n* Experience with Kubernetes, Docker, CI/CD (Jenkins, GitLab), Prometheus/Grafana and infrastructure-as-code.\n* Experience with large-scale data processing or streaming (Kafka, Scala) and data-model modernization.\n* Experience integrating compliance, identity verification or payments workflows.\n* Prior experience across both enterprise product companies and fast-moving product environments.\n\n**Core Competencies**\n\n* Systems thinking and sound architectural judgment\n* Product mindset and business acumen\n* Ownership, accountability and bias to action\n* Coaching and talent development\n* Pragmatic AI adoption: value over hype\n* Operational excellence and reliability focus\n\n**Success Measures (First 12 Months)**\n\n* Clear architecture and AI roadmap aligned with business goals within the first 90 days.\n* Measurable improvements in platform reliability, performance and release cadence.\n* At least two AI/GenAI capabilities in production with defined quality and cost metrics.\n* A stable leadership bench (managers and tech leads) and an improved hiring and onboarding pipeline.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "e7090de2945c": {
+   "id": "e7090de2945c",
+   "site": "naukri",
+   "title": "Chief Technology Officer/Vice President - Full Stack Development",
+   "company": "Benovymed Healthcare Private Limited",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-chief-technology-officer-vice-president-full-stack-development-benovymed-healthcare-private-limited-indore-2-to-7-years-231126913983",
+   "apply_url": "https://www.naukri.com/job-listings-chief-technology-officer-vice-president-full-stack-development-benovymed-healthcare-private-limited-indore-2-to-7-years-231126913983",
+   "date_posted": "2026-11-23",
+   "experience": "2-7 Yrs",
+   "skills": "Technology, Fullstack Development, LAMP, Python, AWS, React.js, Java, Angularjs",
+   "emails": [],
+   "description": "Responsibility and Role :\n\n1. Mandatory Role and Responsibility :   \n  \nIf you match the criteria below then only you apply.\n\n- You should be strong and capable enough as a doer end-to-end\n\n- Hands-on with skillsets as a Strong Full Stack Software Developer ( Backend Development and with Frontend Development), also a Technology Architect and Software Engineering Manager in a Cloud Technology Environment of AWS, GCP.  \n  \n- As a Multihat role Hero, You should be a Technology builder and doer, you should be in a position to do the Product Software Engineering development for developing a Highly scalable SaaS Cloud Platform for B2B, B2B2C, and B2C direct Consumer Cloud Digital Health Platform for web and Mobile Application right from its Technology Architect, Product Design and Product development, deploy with all functionality as required by the Business owner and Product owner ( Our Products end to end Mobile App Prototype developments already done and the product full step by step functionality is ready for demo and its full functionality working ) to final product delivery for its Commercialisation.  \n  \n- You should be highly accountable, highly responsive, and responsible in understanding the requirement and delivery, and commitment brought to the table within the set tight deadlines.  \n  \n- You should have Hands-on with the latest Proven Technology Stacks on any E-commerce developing Digital Platforms such as in FinTech, AgriTech, Edutech, or in Digital Health and AI Health Platform building after Mobile App Prototypes to delivery on web and mobile applications.\n\n- Their primary responsibilities include Tech Architect for building a highly scalable SaaS Cloud Platform for B2B & B2B2C consumers, E-commerce Portal, developing AWS Cloud servers and databases for AI Health based Products and solutions delivered through web and mobile app functionality, and coding for mobile platforms.  \n  \n- Developing front-end web e-commerce Portal architecture.  \n  \n- Designing user interactions on web pages.  \n  \n- Developing back-end website applications.  \n  \n- Creating servers and databases for functionality.  \n  \n- Ensuring cross-platform optimization for mobile phones.  \n  \n- Ensuring responsiveness of applications.  \n  \n- Working alongside graphic designers for web design features.  \n  \n- Seeing through a project from conception to finished product.  \n  \n- Designing and developing APIs, integrating with 3rd Party API for smooth Transaction and working.\n\n- Meeting both technical and consumer needs.  \n  \n- Staying abreast of developments in web applications and programming languages.\n\nMost Important :   \n  \nYour Personality Profile :   \n  \nYou should have a demonstrated track record as a Top Software developer Performers in delivering your side with strong commitment and your side deliverables as a single-handed hands-on multi-hat role, doer, a good Team Player, Team Leader with good understanding level with your Higher up and Juniors within small Founding Team organizational with Good Behavioural Practice, Caring, Giving Respect and Good Relationship skills, well smoothly connected through with the Team and Reporting Officer with High level of engagement, Integrity, Deep Understanding and Professional Soft and Good Communication Skills is must.\n\nExperience :\n\n- IT service & MNC IT industry experience candidates need not apply.  \n  \n- Only Early-stage to Growth stage Tech Startup single-handed multi hat role Profile experiences Candidates need to apply.  \n  \n- We will only count your Tech Startup IT Product Development Full Stack development Experience for your selection and CTC Package workout.\n\n- Total Experience of 2 to 10 Years of experience in Software engineering & Product Development hands-on Multi Hat Role as a doer first in web and Mobile applications only in Tech Startups Preferably in Digital Health, AI Health, or any other industry in a Highly Scalable E-commerce Platform building using Latest Trend in Cloud-based Software Product Technology:  \n  \nOptional and not Must :   \n  \n1 Year as Startup CTO / VP /AVP/ Chief Architect / Engineering Manager -Software Engineering & IT Product Development with a single-handed Multihat role.  \n  \nMandatory :   \n  \nStartup experience with at least  \n  \n- 2 years as Software Technology Architect, 1 Year as Solutions Architect.  \n  \n- 2 to 7 Years as end-to-end single-handed Multihat role Full-stack Developer ( Backend) mandatory.  \n  \n- Worked from scratch on New Cloud Platform Product development.  \n  \n- 1 Year in DevOps Development Leading managing as optional.  \n  \n- At least 1 year as a Software Engineering Head / Engineering Manager/ Full Stack Developer Lead in web and Mobile application Product Engineering in an early-stage to Growth stage Digital Health Startup from scratch to complete delivery of world-class products and solutions.  \n  \n- Worked as a single-handed independently and as a Team leads with the multi-hat role and in the team as a Backend developer, experienced in QA Testing on web and mobile app in a startup company.  \n  \n- Strong organizational and Software Product engineering project management skills and not in IT Services.\n\nRequired Job Skillset :\n\n- Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.  \n  \n- Familiarity with JavaScript frameworks such as Angular JS, React, and Amber.\n\n- Django, Dynamo DB, LAMP, MEAN stack  \n  \n- AWS ( AWS S3, EC2, Amazon Device Farm), Android, Kotlin, React, react-native  \n  \n- Flutter, dart ios, Swift.  \n  \n- Should have additional skills in NoSQL DB, and MongoDB but it is not mandatory.  \n  \n- Proficiency with server-side languages such as Python, Ruby, Java, PHP, and .Net. Tensor flow.  \n  \n- Familiarity with database technology such as MySQL, Oracle, and MongoDB.  \n  \nTesting Tools :\n\n- Appium, Selenium, Robotium, Mockito. Espresso- Excellent verbal communication skills.  \n  \n- Completed product engineering for a highly scalable Digital Health Platform / E-commerce Platform maintaining a high level of Data Security, Data Privacy, and High-level Cybersecurity system implementation with at least 5-30 Mobile apps ( multifunction apps).  \n  \n- Hands-on development from scratch for a highly scalable digital Health / Digital Technology E-commerce Cloud Platform with at least 100 to 50 Million Downloads of his Product developed.\n\nQualification :  \n  \n- B.Tech in CSE / IT / ECE from any reputed engineering Institute.  \n  \n- MBA need not apply.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "c78e2e94ce2c": {
+   "id": "c78e2e94ce2c",
+   "site": "naukri",
+   "title": "Software Engineering Manager - Google Cloud Platform",
+   "company": "Benovymed Healthcare Private Limited",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-software-engineering-manager-google-cloud-platform-benovymed-healthcare-private-limited-indore-10-to-12-years-231126913874",
+   "apply_url": "https://www.naukri.com/job-listings-software-engineering-manager-google-cloud-platform-benovymed-healthcare-private-limited-indore-10-to-12-years-231126913874",
+   "date_posted": "2026-11-23",
+   "experience": "10-12 Yrs",
+   "skills": "AWS Device Farm, Mean Stack, Dynamo, Mean, S, Devices, AWS, Amazon Ec2",
+   "emails": [],
+   "description": "Responsibility and Role :  \n  \nA) Mandatory Role and Responsibility :  \n  \nIf you match the criteria below then only you apply.  \n  \n- You should be strong and capable enough as a doer end-to-end Hands-on with skillsets as a Strong Full Stack Software Developer ( Backend Development and with Frontend Development), also a Technology Architect and Software Engineering Manager in a Cloud Technology Environment of AWS, GCP.  \n  \n- As a Multihat role Hero, You should be a Technology builder and doer, you should be in a position to do the Product Software Engineering development for developing a Highly scalable SaaS Cloud Platform for B2B, B2B2C, and B2C direct Consumer Cloud Digital Health Platform for web and Mobile Application right from its Technology Architect, Product Design and Product development, deploy with all functionality as required by the Business owner and Product owner ( Our Products end to end Mobile App Prototype developments already done and the product full step by step functionality is ready for demo and its full functionality working ) to final product delivery for its Commercialisation.  \n  \n- You should be highly accountable, highly responsive, and responsible in understanding the requirement and delivery, and commitment brought to the table within the set tight deadlines.  \n  \n- You should have Hands-on with the latest Proven Technology Stacks on any E-commerce developing Digital Platforms such as in FinTech, AgriTech, Edutech, or in Digital Health and AI Health Platform building after Mobile App Prototypes to delivery on web and mobile applications.  \n  \n- Their primary responsibilities include Tech Architect for building a highly scalable SaaS Cloud Platform for B2B & B2B2C consumers, E-commerce Portal, developing AWS Cloud servers and databases for AI Health based Products and solutions delivered through web and mobile app functionality, and coding for mobile platforms.  \n  \n- Developing front-end web e-commerce Portal architecture.  \n  \n- Designing user interactions on web pages.  \n  \n- Developing back-end website applications.  \n  \n- Creating servers and databases for functionality.  \n  \n- Ensuring cross-platform optimization for mobile phones.  \n  \n- Ensuring responsiveness of applications.  \n  \n- Working alongside graphic designers for web design features.  \n  \n- Seeing through a project from conception to finished product.  \n  \n- Designing and developing APIs, integrating with 3rd Party API for smooth Transaction and working.  \n  \n- Meeting both technical and consumer needs.  \n  \n- Staying abreast of developments in web applications and programming languages.  \n  \nB) Most Important :  \n  \nYour Personality Profile :  \n  \n- You should have a demonstrated track record as a Top Software developer  \n  \n- Performers in delivering your side with strong commitment and your side deliverables as a single-handed hands-on multi-hat role, doer  \n  \n- A good Team Player  \n  \n- Team Leader with good understanding level with your Higher up and Juniors within small Founding Team organizational with Good Behavioural Practice, Caring, Giving Respect and Good Relationship skills, well smoothly connected through with the Team and Reporting Officer with High level of engagement, Integrity, Deep Understanding and Professional Soft and Good Communication Skills is must.  \n  \n4) Experience :  \n  \n- IT service & MNC IT industry experience candidates need not apply.  \n  \n- Only Early-stage to Growth stage Tech Startup single-handed multi hat role\n\n- Profile experiences Candidates need to apply.  \n  \n- We will only count your Tech Startup IT Product Development Full Stack development Experience for your selection and CTC Package workout.  \n  \nA) Total Experience of 10 to 12 Years of experience in Software Product Development Engineering & Product Development hands-on Multi Hat Role as a doer first in web and Mobile applications only in Tech Startups Preferably in Digital Health, AI Health, or any other industry in a Highly Scalable E-commerce Platform building using Latest Trend in Cloud-based Software Product Technology  \n  \nPreferably: 1 Year as Startup CTO / VP /AVP/ Chief Architect / Engineering Manager -Software Engineering & IT Product Development with a single-handed Multihat role hardcore Engineering Management.  \n  \nMandatory :  \n  \n- Startup experience as a doer with at least  \n  \n- 2 years as Software Technology Architect, 1 Year as Solutions Architect.  \n  \n- 2 to 7 Years as end-to-end single-handed Multihat role Full-stack Developer ( Backend) mandatory.  \n  \n- Worked from scratch on New Cloud Platform Product development.  \n  \n- 1 Year in DevOps Development Leading managing as optional.  \n  \n- At least 1 year as a Software Engineering Head / Engineering Manager/ Full Stack Developer Lead in web and Mobile application Product Engineering in an early-stage to Growth stage Digital Health Startup from scratch to complete delivery of world-class products and solutions.  \n  \n- Worked as a single-handed independently and as a Team leads with the multi-hat role and in the team as a Backend developer, experienced in QA Testing on web and mobile app in a startup company.  \n  \n- Strong organizational and Software Product engineering project management skills and not in IT Services.  \n  \n5) Required Job Skillset :  \n  \n- Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.  \n  \n- Familiarity with JavaScript frameworks such as Angular JS, React, and Amber.  \n  \n- Django, Dynamo DB, LAMP, MEAN stack  \n  \n- AWS ( AWS S3, EC2, Amazon Device Farm), Android, Kotlin, React, react-native  \n  \n- Flutter, dart ios, Swift.  \n  \n- Should have additional skills in NoSQL DB, and MongoDB but it is not mandatory.  \n  \n- Proficiency with server-side languages such as Python, Ruby, Java, PHP, and .Net. Tensor flow.  \n  \n- Familiarity with database technology such as MySQL, Oracle, and MongoDB.  \n  \nTesting Tools :  \n  \n- Appium, Selenium, Robotium, Mockito. Espresso- Excellent verbal communication skills.  \n  \n- Completed product engineering for a highly scalable Digital Health Platform / E-commerce Platform maintaining a high level of Data Security, Data Privacy, and High-level Cybersecurity system implementation with at least 10-30 Mobile apps ( multifunction apps).  \n  \n- Hands-on development from scratch for a highly scalable digital Health / Digital Technology E-commerce Cloud Platform with at least 100 to 50 Million Downloads of his Product developed.  \n  \n6) Qualification :  \n  \n- B.Tech in CSE / IT / ECE from any reputed engineering Institute.  \n  \n- MBA need not apply.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b427d6ad2c30": {
+   "id": "b427d6ad2c30",
+   "site": "naukri",
+   "title": "Technical Architect/Manager/Lead - DBMS",
+   "company": "Benovymed Healthcare Private Limited",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-technical-architect-manager-lead-dbms-benovymed-healthcare-private-limited-indore-7-to-10-years-231126913089",
+   "apply_url": "https://www.naukri.com/job-listings-technical-architect-manager-lead-dbms-benovymed-healthcare-private-limited-indore-7-to-10-years-231126913089",
+   "date_posted": "2026-11-23",
+   "experience": "7-10 Yrs",
+   "skills": "HTML, Technical architecture, Leadership, SQL, Management, CSS, DBMS, Javascript",
+   "emails": [],
+   "description": "Role & Responsibility :  \n  \n- Single-handed hands-on MultiHat Role\n\n- With end-to-end Technology Development from Technology planning map, Technology Architecture Development -Implementation, Technology Platform Development, DBMS, B2B & B2B2C SaaS Cloud Platform maintenance, server-side, DB, client-side to build from Scratch a Highly Scalable Digital Health Platform or an E-Commerce Platform.  \n  \n- Understanding of Full Stack Technology Development will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail.  \n  \n- Their primary responsibilities include designing user interactions on the web portal or app, developing AWS Cloud servers and databases for the web portal and mobile app functionality, and coding for mobile platforms.  \n  \n- Developing front-end web Portal architecture.  \n  \n- Designing user interactions on web pages.  \n  \n- Developing back-end web Portal applications.  \n  \n- Creating servers and databases for functionality.  \n  \n- Ensuring cross-platform optimization for mobile phones.  \n  \n- Ensuring responsiveness of applications.  \n  \n- Working alongside graphic designers for web design features.  \n  \n- Seeing through a project from conception to finished product.  \n  \n- Designing and developing APIs.  \n  \n- Meeting both technical and consumer needs.  \n  \n- Staying abreast of developments in web applications and programming languages.  \n  \n- Testing using the latest Tools.  \n  \n- DevOps Engineering Skillsets added advantage.  \n  \n4) Qualification : B. Tech ( EE, CSE, ECE, IT) from reputed Technology Institute.  \n  \n5) Experience :  \n  \n- Total of 10 Years in Hardcore Software Product Development Engineering at various levels in an E-Commerce Early to Growth stage Tech Startup.   \n  \n- Including 4 years as Technical Architect Tech Architect Lead Role responsibility.  \n  \n- 2 to 6 Years Experience as a Full-stack Developer in web and Mobile application Software Product Engineering Post Education Qualification.  \n  \n- Should have worked single-handedly and as a Team member and as a leader with multi-hat roles & in the team as a Backend developer, Database experienced in QA Testing on web and mobile apps in an early-stage startup company.  \n  \n- Strong organizational and project management skills.  \n  \n- Full-stack development with hands-on as a single-handed and multi-role in early-stage Digital Health Startup preferably or in an Early Stage E-commerce marketplace Tech Startup in any other Industry. Worked from scratch in the Tech Architect, frontend, coding, and Tech product development with at least 20 -50 Mobile apps ( multifunction apps) with at least 10000 to 500,000 Downloads of his Product developed.  \n  \nShould have Skillsets as follows :  \n  \n- Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.  \n  \n- Familiarity with JavaScript frameworks such as Angular JS, React, and Amber.  \n  \n- Django, Dynamo DB, LAMP, MEAN stack  \n  \n- AWS ( AWS S3, EC2, Amazon Device Farm), Android, Kotlin, React, react-native Flutter, dart ios, Swift, Google-Firebase.  \n  \n- Should have additional skills No SQL DB, Mongo DB but not mandatory.  \n  \n- Proficiency with server-side languages such as Python, Ruby, Java, PHP, .Net & Tensor flow.  \n  \n- Familiarity with database technology such as MySQL, Oracle, and MongoDB.  \n  \n- You should have worked in a single-handed multi-hat role & responsibility in software product development engineering in a startup preferably in early-stage Digital Health, E-commerce, or any other Industry additionally with multi-hat role hands-on software skills and hands-on single-handed.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "000f42ff6b73": {
+   "id": "000f42ff6b73",
+   "site": "indeed",
+   "title": "Senior AI Engineer",
+   "company": "Ford Motor Company",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=9a55606f13f568c5",
+   "apply_url": "https://www.careers.ford.com/en/job/india/senior-ai-engineer/48560/103676724704",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Job ID\n\n74409\n\nCategory\n\nEnterprise Technology\n\nLocation\n\nIndia, Remote\n\nWork Type\n\nRemote\n\nAs an AI/ML Engineer, you will work across the full software development lifecycle—from exploring emerging AI technologies and building prototypes to designing scalable architectures and deploying production-grade applications.\n\nYou will develop LLM-powered features, including retrieval-augmented generation (RAG), agentic workflows, prompt orchestration, and model evaluation frameworks. You will also contribute to frontend and backend applications using React and Python, while leveraging cloud platforms to build secure, scalable, and observable systems.\n\nThe ideal candidate is both an AI practitioner and a hands-on software engineer who can rapidly transform business problems into practical solutions using modern AI tools, robust design patterns, and engineering best practices.\n\n* Overall, looking for 5+ years of experience\n* Design, build, and deploy AI/ML-powered applications from concept through production.\n* Build scalable backend services and APIs using Python and frameworks such as FastAPI, Flask, or Django.\n* Develop responsive and user-friendly frontend applications using React, JavaScript, and TypeScript.\n* Design scalable software architecture, reusable components, and appropriate design patterns for AI and non-AI applications.\n* Productionize and deploy AI models and inference services using cloud platforms such as AWS, Azure, or GCP.\n* Build and maintain MLOps and CI/CD pipelines for application code, models, prompts, and evaluation assets.\n* Implement observability using logs, metrics, traces, dashboards, and alerts.\n* Define and monitor service-level objectives for latency, availability, accuracy, error rate, and cost.\n* Use AI-assisted software development tools to accelerate coding, testing, documentation, and prototyping while maintaining engineering quality.\n* Collaborate with product managers, domain experts, data scientists, and software engineers to convert business needs into measurable AI quality goals.\n* Participate in architecture reviews, technical design discussions, and production readiness assessments.\n* Mentor engineers on AI/ML engineering practices, software architecture, testing, and responsible use of AI tools.\n* Stay current with advancements in generative AI, machine learning, cloud technologies, and software engineering practices.\n\n* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, Software Engineering, or a related field.\n* Experience developing and deploying machine learning or AI-powered applications.\n* Strong programming experience in Python and design thinking.\n* Experience building production APIs and backend services using FastAPI, Flask, Django, or similar frameworks.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "bb289e237950": {
+   "id": "bb289e237950",
+   "site": "indeed",
+   "title": "Senior Salesforce Test Engineer",
+   "company": "Kasmoprav",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=fb0680fbd88898fb",
+   "apply_url": "https://in.indeed.com/viewjob?jk=fb0680fbd88898fb",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Senior Salesforce Test Engineer\n\n**Job Title:** Senior Salesforce Test Engineer  \n**Experience:** 6–8 Years  \n**Job Type:** Full-Time  \n**Work Mode:** Remote\n\nJob Summary\n\nWe are looking for an experienced Senior Salesforce Test Engineer with 6–8 years of hands-on experience in Salesforce QA, component-level testing, integration testing, and end-to-end validation.\n\nThe ideal candidate should have strong expertise in Salesforce Service Cloud, Salesforce security configurations, CRM Analytics, test automation, and Salesforce-specific functionalities. The candidate should be capable of analyzing requirements, designing test scenarios, identifying defects, and collaborating with technical and business stakeholders.\n\nKey Responsibilities\n\n* Perform component-level, integration, and end-to-end testing of Salesforce applications.\n* Validate Salesforce Service Cloud functionalities and configurations.\n* Test Profiles, Permission Sets, Page Layouts, Record Types, and user access permissions.\n* Test Salesforce components developed using LWC, Flows, Triggers, and Apex Jobs.\n* Perform data import, export, and validation using Salesforce Data Loader.\n* Validate field-level security, object-level security, sharing rules, and role hierarchy.\n* Write and execute complex SOQL queries for data validation.\n* Use Salesforce Inspector, Workbench, and browser developer tools for debugging and testing.\n* Test CRM Analytics dashboards, datasets, filters, and data accuracy.\n* Prepare and validate test data using Microsoft Excel formulas.\n* Validate Einstein Activity Capture (EAC), user configurations, and notification settings.\n* Develop, maintain, and debug automation scripts using Selenium with Java or Playwright with JavaScript.\n* Prepare test scenarios, test cases, test execution reports, and defect reports.\n* Manage defects and test activities using Jira.\n* Participate in Agile/Scrum ceremonies and collaborate with Product Owners and Development Leads.\n* Contribute to test estimation, planning, risk identification, and quality reporting.\n\nRequired Skills\n\n* 6–8 years of experience in Software Testing / Salesforce QA.\n\nPay: ₹70,000.00 - ₹80,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "9d0a08c662ef": {
+   "id": "9d0a08c662ef",
+   "site": "indeed",
+   "title": "Senior Cybersecurity Auditor",
+   "company": "Unisys",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=75cd6cd91af231e0",
+   "apply_url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Home-Based-India/Senior-Cybersecurity-Auditor_REQ577147",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [
+    "globalrecruiting@unisys.com"
+   ],
+   "description": "**What success looks like in this role:**\n\n**Job Title:** Senior Cybersecurity Auditor\n\n  \n\n**Location:** India-Remote\n\n  \n\n**Who we are:**\n\nUnisys is a global information technology company that builds high-performance, security-centric solutions for the most digitally demanding businesses and governments on Earth. Unisys’ offerings include security software and services; digital transformation and workplace services; industry applications and services; and innovative software operating environments for high-intensity enterprise computing. Unisys builds better outcomes securely for its clients across the Government, Financial Services and Commercial markets. For more information, visit www.unisys.com .\n\n**Our Vision:** Enhancing people’s lives through secure, reliable advanced technology.\n\n**Our Core Beliefs:**\n\n* Curiosity: We embrace the unknown and continuous learning.\n* Creativity: We look past routine ways of doing things.\n* Client-Centricity: Our clients’ success is our success.\nIntegrity: We act ethically and honestly.  \n\n  \n\n**Position Summary:**\n---------------------\n\nUnisys is looking for a seasoned Cybersecurity Auditor, based in India and part of the global CISO team, who will act as a Subject Matter Expert (SME) and independently plan, execute and drive cybersecurity audits across the organisation’s security, infrastructure, application and cloud environments, with a strong emphasis on technical depth. The role partners with the CISO, GIS, Infrastructure (CIT) and Business Unit teams across the globe through the full audit lifecycle: scoping, planning, execution, reporting and remediation tracking.\n\nThe role demands strong stakeholder and leadership engagement. The candidate will present audit results and risk exposure to senior management and the CISO, negotiate findings and remediation timelines, and handle challenging stakeholders across regions and cultures with credibility, objectivity and composure, while keeping the audit programme on schedule.\n\nThe candidate will provide regular status updates on audits to senior management, highlighting key risks, challenges and the actions being taken to address them.\n\n**Working relationship with Internal and External Teams**\n---------------------------------------------------------\n\n* Work with the CISO and GIS and CIT teams globally – Infrastructure, Applications, Security Architecture, GIS Leadership team, Security Operations team\n\n* Work with BISOs of the four Business Units and Business Unit leadership across regions\n\n* Work with other global CISO team members, and with Risk, Compliance and Legal teams as required\n\n* External – Certifying agencies, vendors, client auditors, client account teams and external audit firms\n\n**Key Responsibilities:**\n-------------------------\n\n**Plan and Execute Cybersecurity Audits – 65%**\n\n* Independently own and drive end-to-end cybersecurity audits as the SME, from scoping to closure, with minimal supervision.\n\n* Manage the internal security audit programme based on requirements from international standards such as ISO, NIST, NIST-CSF, NIS2, Cyber-Essentials Plus, PCI, SSAE 18 etc. using a risk-based audit approach.\n\n* Prepare, review and maintain the annual audit calendar, audit plans, audit management documentation and audit lifecycle in line with risk priorities and business commitments across regions.\n\n* Define audit scope, objectives, criteria and sampling approach in consultation with the CISO, GIS and CIT teams.\n\n* Perform audits based on criteria defined in ISO 27001, ISO 9001, ISO 22301, ISO 20000, NIST, NIST-CSF, NIS2,, SSAE 18 SOC1/SOC2, SOX, Cyber-Essentials Plus, PCI-DSS etc., including audit planning, evidence gathering, field notes and documentation of findings.\n\n* Perform technical audits for various security domains, for example Vulnerability and Patch Management, Identity and Access Management, Application Development, DevSecOps, Network and Infrastructure Security, Security Operations and Incident Response, Crisis Management and BC/DR.\n\n* Perform cloud security audits across Azure, AWS and GCP environments, covering identity and access management and privileged entitlements, network segmentation and perimeter controls, data protection (encryption and key management), logging and monitoring, security configuration and posture, and the shared responsibility model.\n\n* Audit cloud-native and modern platform controls, including container and Kubernetes security, CI/CD pipelines and infrastructure-as-code, and SaaS/PaaS security, against criteria such as CIS Benchmarks, CSA CCM and NIST.\n\n* Use technical testing and data analysis (configuration reviews, scripts, CLI and query-based evidence collection, log analysis) to validate controls rather than relying only on documentation and interviews.\n\n* Work with GIS teams to identify the scope of infrastructure and application services to be covered by technical audits.\n\n* Evaluate control design and operating effectiveness, perform root cause analysis, and assess the risk rating and business impact of findings.\n\n**Stakeholder Engagement, Reporting and Remediation – 20%**\n\n* Lead audit kick-off, execution, closing and status meetings with IT, infrastructure, security teams and business units, working across global time zones.\n\n* Prepare clear, risk-focused audit reports and executive summaries and review them with stakeholders and leadership on a regular basis.\n\n* Hold leadership-level conversations with the CISO and senior management on audit results, risk exposure and trends, and escalate unresolved or high-risk issues in a timely way.\n\n* Manage difficult or resistant stakeholders across regions: negotiate and agree findings, remediation plans and timelines, and drive accountability for closure.\n\n* Track remediation actions to closure, validate the evidence of fixes, and report on overdue items and repeat findings.\n\n**Audit Programme Governance and Continuous Improvement – 15%**\n\n* Track audit metrics and KPIs, identify recurring themes, and recommend improvements to the control environment.\n\n* Continuously improve audit methodology, templates and workpapers, and monitor changes in standards, regulations and the threat landscape that affect the audit plan.\n\n* Include AI security in audit scope and work with AI governance to ensure AI security requirements are covered by audits.\n* Mentor junior team members and share audit best practices with the global CISO team.\n\n**You will be successful in this role if you have:**\n\n**Knowledge and Qualifications:**\n---------------------------------\n\n* **Education and Experience**\n  + Bachelor’s/Master’s degree in Engineering in Computer Science or a related field.\n  + Overall experience of 12–15 years, with at least 6 years of technical experience working on infrastructure or application systems.\n  + Minimum of 8 years of relevant experience in cybersecurity and IT audits based on industry standards, including leading audits independently as a subject matter expert.\n  + Must have performed technical audits hands-on, including at experience in auditing cloud environments (Azure, AWS or GCP).\n  + Demonstrated experience in the full audit lifecycle (scoping, planning, fieldwork, reporting and remediation follow-up) and in risk-based audit methodologies.\n  + Experience working in a global organisation with stakeholders across regions, cultures and time zones.\n* **Technical Skills**\n  + Strong technical depth in at least four of the following: Identity and Access Management, Vulnerability and Patch Management, Network and Infrastructure Security, Application Security and DevSecOps, Security Operations and Incident Response, BC/DR, Data Protection and Cryptography.\n  + Hands-on knowledge of cloud security architecture and controls on Azure, AWS or GCP, including IAM and privileged access, network security, encryption and key management, logging and monitoring, and security posture management; multi-cloud exposure is preferable.\n  + Working Knowledge of CSPM, EDR, IA",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "7bb366b6a5cc": {
+   "id": "7bb366b6a5cc",
+   "site": "naukri",
+   "title": "Staff Engineer (Lead Power Platform Developer / Technical Lead )",
+   "company": "Nagarro",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-staff-engineer-lead-power-platform-developer-technical-lead-nagarro-software-pvt-ltd-remote-5-to-10-years-231126502621",
+   "apply_url": "https://jobs.smartrecruiters.com/Nagarro1/744000162799789",
+   "date_posted": "2026-11-23",
+   "experience": "5-10 Yrs",
+   "skills": "Enterprise applications, Javascript, Microsoft, Application, Technology, Enterprise, Engineering, Planning",
+   "emails": [],
+   "description": "**Requirements**\n\n* Experience : 5.5+yrs\n* Strong IT experience with strong expertise in Microsoft Power Platform development and technical leadership.\n* Advanced hands-on experience in Power Apps, including Canvas Apps and Model-Driven Apps.\n* Strong expertise in Power Automate for designing and implementing complex business process automation.\n* Extensive experience with Dataverse, including data modelling, security models, and integration architecture.\n* Strong hands-on experience with Copilot Studio, including designing, developing, and deploying intelligent agents.\n* Experience implementing Generative AI, prompt engineering, AI Builder, and AI-enabled business solutions.\n* Strong knowledge of Power Fx, REST APIs, custom connectors, authentication mechanisms, and enterprise integrations.\n* Experience integrating Power Platform solutions with Microsoft 365, Azure services, and enterprise applications.\n* Strong understanding of Application Lifecycle Management (ALM), Solutions, Pipelines, DLP policies, security roles, governance, and environment strategy.\n* Experience in solution architecture, technical design, code reviews, performance optimization, and technical leadership.\n* Ability to translate complex business requirements into scalable, secure, and enterprise-grade technical solutions.\n* Strong analytical, problem-solving, stakeholder management, communication, and team mentoring skills.\n* Exposure to Microsoft 365 Copilot, Copilot extensibility, and Azure AI services.\n* Knowledge of JavaScript, JSON, C#, Azure Functions, or similar extensibility technologies.\n* Microsoft certifications such as PL-600, PL-400, PL-200, or AI/Copilot-focused credentials would be an added advantage.\n\n**Responsibilities**\n\n* Lead the architecture, design, development, and delivery of enterprise-grade Microsoft Power Platform solutions.\n* Design and develop complex Canvas Apps and Model-Driven Apps using Power Apps.\n* Architect and implement business processes and intelligent automation solutions using Power Automate.\n* Design scalable Dataverse data models, security frameworks, and enterprise integration architectures.\n* Architect, develop, and deploy intelligent agents and conversational solutions using Copilot Studio.\n* Drive the adoption of Generative AI, prompt engineering, AI Builder, and AI-powered business solutions.\n* Integrate Power Platform and Copilot solutions with Microsoft 365, Azure services, REST APIs, custom connectors, and enterprise systems.\n* Define and enforce best practices for ALM, security, DLP, governance, environment management, deployment, and performance optimization.\n* Conduct architecture reviews, solution assessments, and code reviews to ensure quality, scalability, and maintainability.\n* Provide technical leadership, guidance, and mentorship to Power Platform developers.\n* Collaborate with business stakeholders, architects, and technology teams to understand requirements and deliver effective solutions.\n* Drive technical estimations, project planning, troubleshooting, and end-to-end solution delivery.\n* Establish reusable frameworks, development standards, and best practices to ensure consistency across Power Platform implementations. Qualifications\n\nBachelor s or master s degree in computer science, Information Technology, or a related field.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "615debe03c5d": {
+   "id": "615debe03c5d",
+   "site": "naukri",
+   "title": "AI Modernization Professional",
+   "company": "Centric Consulting",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-ai-modernization-professional-centric-consulting-remote-9-to-14-years-231126502622",
+   "apply_url": "https://phe.tbe.taleo.net/phe02/ats/careers/v2/viewRequisition?org=EDUV6K&cws=38&rid=5109",
+   "date_posted": "2026-11-23",
+   "experience": "9-14 Yrs",
+   "skills": "Artificial Intelligence, Middleware, Coding, Science, Technology, Enterprise, Enterprise applications, Security",
+   "emails": [],
+   "description": "**Job Description**\n\nOwn and evolve an AI-powered application modernization platform that enables development teams to modernize applications faster, safer, and with greater consistency. Build reusable modernization accelerators, automate common transformation patterns, and provide a self-service developer experience for application upgrades and cloud adoption. This role requires strong software engineering, application architecture, AI, and cloud expertise.\n\n**Responsibilities**\n\nUnderstanding, designing, and developing parts of n-tier/n-layer Framework Work with the team Gather, analyze, and document business requirements related to Finance and Accounting processes.\n\nOwn the roadmap, architecture, and delivery of modernization tools and accelerators.\n\nDevelop and enhance AI-driven capabilities for common modernization scenarios.\n\nBuild reusable patterns for:\n\nJava / .NET upgrades\n\nHTTP to HTTPS conversion\n\n-Security remediation\n\n-Containerization\n\n-Middleware modernization\n\n-Database modernization\n\n-Cloud migration readiness\n\nIntegrate GitHub Copilot, AI agents, and automated validation into modernization workflows.\n\nCreate self-service experiences that allow application teams to assess, modernize, validate, and deploy applications with minimal manual effort.\n\nEnsure modernization tooling follows security, compliance, and engineering standards.\n\nPartner with application, cloud, security, and platform teams to identify and automate recurring modernization patterns.\n\n**Software Engineering**\n\nStrong hands-on experience in Java/ .NET, Python, or similar languages.\n\nDeep understanding of application frameworks, libraries, dependencies, and build pipelines.\n\nExperience with API, microservices, and event-driven architectures.\n\n**AI & Automation**\n\nExperience using GitHub Copilot and AI-assisted software development tools.\n\nUnderstanding of LLMs, prompt engineering, AI agents, and model selection.\n\nKnowledge of token optimization, AI governance, and responsible AI practices.\n\n**Application Architecture**\n\nUnderstanding of how enterprise applications are built and integrated, including: Authentication and authorization\n\nDatabases\n\nAPIs\n\nMessaging platforms\n\nSaaS integrations\n\nMiddleware and application servers\n\n**Cloud & DevOps**\n\nExperience with AWS, Azure, or GCP.\n\nKnowledge of containers, Kubernetes, CI/CD, Infrastructure as Code, and DevOps practices.\n\n**Security**\n\nKnowledge of secure coding practices, dependency management, vulnerability remediation, TLS/HTTPS, and modern identity standards.\n\n**Success Measures**\n\nIncreased adoption of modernization tools by application teams.\n\nExpansion of reusable modernization patterns and accelerators.\n\nReduced effort and time required to modernize applications.\n\nImproved consistency, security, and quality of modernization outcomes.\n\nGrowth of a self-service modernization platform that scales across the application portfolio.\n\n**Qualifications**\n\nMust have a bachelor s degree in computer science, information technology or similar discipline\n\nMin of 9+ years of experience with strong exposure to AI capabilities.\n\nExcellent communication and stakeholder management skills.\n\n**What makes Centric different**\n\n**Special Culture**    Our people make us different. We have highly talented, intelligent individuals across a broad variety of disciplines who are eager to learn from you and share their own expertise. We embrace fresh perspectives and each other. Don t take our word for it check us out on Glassdoor, Facebook, Twitter or Instagram to get a glimpse inside what makes us unique.\n\n**Impact**    We think of ourselves as a big company with a small company feel a local player with global reach that combines business, technology and industry expertise.\n\n**Unmatched Experiences**    We are allowed to be ourselves here. We are encouraged to be human. It s at the root of who we are as a firm and why we re here.\n\n**Diversity, Inclusion and Belonging**    We are dedicated to creating and maintaining a culture where all people feel like they belong and are respected and valued regardless of who they are, where they are from, and what experiences they ve had. We believe a Centric Together work environment is essential to what we do.\n\n**Innovation**    We value passion, determination, perseverance, and innovation. We are inspired because we believe in what we are doing and where we are going.\n\n**Passion for the greater good**    We are steadfast in our devotion to the communities we serve and in actively promoting employee involvement in community improvement projects.\n\n**The Nitty Gritty**    Along with the standard insurance benefits, we offer self-managed PTO (manage your own work-life balance!), and remote working options for our employees. In fact, we wrote the book on creating a remote culture literally.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "3239c9a6f8f4": {
+   "id": "3239c9a6f8f4",
+   "site": "naukri",
+   "title": "Tech Manager\\/Lead",
+   "company": "Trigyn Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-tech-manager-lead-trigyn-technologies-remote-8-to-13-years-231126502469",
+   "apply_url": "https://www.trigyn.com/job/tech-managerlead-0",
+   "date_posted": "2026-11-23",
+   "experience": "8-13 Yrs",
+   "skills": "MongoDB, Computer, Product innovation, Linux, Source, Science, Innovation, MySQL",
+   "emails": [],
+   "description": "**Job Summary**    \n\nWe are seeking a dynamic and experienced Tech Manager/Lead to spearhead the development of our products. The ideal candidate will be responsible for driving product ideation, market analysis, feasibility assessment, and product roadmap development. The candidate should possess excellent communication skills, a deep understanding of open-source technologies, and extensive experience in software development and architecture. The role requires hands-on experience with various databases, microservices architecture, and proficiency in Express JS, Angular, and other related technologies.\n\n  \n   \n  **Responsibilities**    \n\n* Develop product ideas based on user interests and program needs, conducting thorough market analysis of similar platforms.\n* Analyze feasibility and effort estimation for proposed features, documenting feature wish lists in a structured manner.\n* Collaborate with stakeholders to develop a product roadmap based on feature needs, feasibility, effort estimation, and priority.\n* Communicate effectively with customers to gather requirements and provide updates on product development progress.\n* Prepare schedules for product development phases and monitor progress against targets.\n* Utilize Sunbird open-source software effectively and explore opportunities to incorporate open-source technologies.\n* Architect and develop applications using Java, NodeJS, JavaScript, MongoDB, Postgres, MySQL databases with at least 5 years of hands-on experience.\n* Design and develop products using microservices-based architecture, ensuring scalability and maintainability.\n* Demonstrate strong expertise in Express JS, Angular 1/4/5, and other relevant frameworks.\n* Implement DevOps practices, CI/CD pipelines, and leverage cloud technologies for product deployment.\n* Possess a good understanding of tooling, architecting, and designing large-scale applications.\n* Have strong Linux fundamentals and familiarity with Software Development Life Cycle (SDLC).\n* Adapt to customer-centric environments and ensure products meet their specific needs.\n* Manage source code repositories using GitHub and collaborate effectively with the development team.\n* Exposure to Samza Kafka is an added advantage, along with knowledge of Cloud environments such as OCI.\n\n  \n   \n  **Requirements**    \n\n* Bachelors degree in computer science, Engineering, or related field.\n* Minimum of 8 years of experience in software development and architecture.\n* Excellent customer communication skills and ability to gather requirements effectively.\n* Hands-on experience with at least one of the databases: Neo4j, Cassandra, Elasticsearch (preferably 2 years).\n* Proficiency in Java, NodeJS, JavaScript, MongoDB, Postgres, MySQL databases.\n* Experience in designing and developing products using microservices-based architecture.\n* Strong expertise in Express JS, Angular 1/4/5, or similar frameworks.\n* Familiarity with DevOps practices, CI/CD pipelines, and cloud technologies.\n* Good understanding of tooling, architecting, and designing large-scale applications.\n* Strong Linux fundamentals and understanding of Software Development Life Cycle (SDLC).\n* Openness to work in customer-centric environments and adapt to their requirements.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "25670d723883": {
+   "id": "25670d723883",
+   "site": "naukri",
+   "title": "Forward Deployed AI Engineer - Technical Lead",
+   "company": "Huemot Technology",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-forward-deployed-ai-engineer-technical-lead-huemot-technology-private-limited-remote-10-to-15-years-231126502465",
+   "apply_url": "https://www.rivvra.com/careers/huemot-technology/jobs/forward-deployed-ai-engineer-technical-lead-54deea",
+   "date_posted": "2026-11-23",
+   "experience": "10-15 Yrs",
+   "skills": "Middleware, Coding, Workflow, Javascript, CRM, Deployment, Monitoring, SDK",
+   "emails": [],
+   "description": "**Job Summary**    \n\nAs a Forward Deployed AI Engineer, Technical Lead you set the technical direction for a squad embedded in the business: you sit with stakeholders to understand the problem and the why, then design, build, deploy and run the agentic AI systems that solve it, end to end. This is a hands-on, build-first role with single-threaded ownership of a real aviation outcome, working alongside a Business Product Owner and an AI Value Architect, on a shared platform (paved road, MCP fabric, standards) that lets your squad self-serve against Etihad s systems.\n\n  \n   \n  **Responsibilities**    \n\nUnderstand before you build. Start every problem with the business need and the why, working directly with stakeholders, then take the solution from discovery to production.\n\n* Design, build, deploy and continuously improve enterprise-grade agentic AI applications for real aviation scenarios, using agentic coding as your default way of working.\n* Build agents that reason across steps, call tools and APIs, manage context, handle exceptions and support human-in-the-loop, reliably and at enterprise scale.\n* Design and implement RAG pipelines over enterprise knowledge: ingestion, chunking, embeddings, vector search, retrieval tuning, grounding and source traceability.\n* Build MCP-based integrations and connect agents to backend systems via REST/OpenAPI, webhooks and event-driven patterns with secure authentication, and expose your own work as clean, reusable, self-serviceable interfaces.\n* Apply structured LLM patterns end to end: tool calling, schema-validated outputs, retries, fallbacks and guardrails.\n* Own quality from day one: testing, evaluation, observability, logging, versioning and feedback loops for reliability, accuracy, latency, security and cost.\n* Apply security, privacy, access control, auditability, responsible-AI and governance across every deployment.\n* Take single-threaded ownership of a domain outcome (one owner, one result), and help establish reusable patterns that grow Etihad s internal AI capability rather than renting it.\n* Coordinate with your Business Product Owner, AI Value Architect and other squads; speak up when AI is not the right tool.\n* Set the technical direction and standards for the squad s agentic AI work, and make the key architecture and build-vs-buy calls.\n* Design multi-agent and agent-to-agent systems and the evaluation frameworks that keep them reliable, and lead delivery with external AI platforms and vendors while building Etihad s internal capability.\n* Grow the engineers around you: mentor, review, and raise the bar on quality, security and cost across the squad.\n\n  \n   \n  **Education Experience**    \n\nWe look for a technical lead who sets the engineering direction for agentic AI while still building, and combines that with a business-first mindset:\n\n* Curiosity above all: you dig into problems, question assumptions and want to understand how the airline actually works.\n* A business-first, human-centric mindset: aviation is made for humans, by humans, and AI supports people, it does not replace them. Fluent English, comfortable in a culturally diverse, international team.\n* 10+ years building production-grade software, including 4+ years with GenAI, LLMs and applied ML and at least 1 year of hands-on agentic AI as an early adopter, with a track record of setting technical direction and shipping agentic systems at scale.\n* Hands-on experience or strong working knowledge of MCP (Model Context Protocol) for connecting agents to tools, systems, APIs and data.\n* Strong Python, with strong knowledge of at least one of TypeScript / JavaScript, Java, or C#, and modern engineering practice: async programming, FastAPI, Pydantic, Git and CI/CD, testing, error handling and logging.\n* Practical experience with at least one agent framework or enterprise AI platform (e.g. LangGraph, Semantic Kernel, CrewAI, AutoGen, OpenAI Agents SDK, Microsoft Foundry, Amazon Bedrock AgentCore, Google Vertex/Gemini) and with a vector database or search platform (e.g. Azure AI Search, pgvector, Pinecone, Weaviate, OpenSearch).\n* Experience integrating enterprise systems (APIs, managed identities, webhooks, queues, middleware) and deploying on cloud with containers, monitoring and observability; sound judgement on the trade-offs of latency, quality, cost and reliability, and on security, privacy, responsible AI and governance.\n* Strong assets: aviation or airline domain knowledge; a background in classical machine learning and data science; and classical full-stack development (interfaces, frontends, APIs, backend engineering).\n* Preferred for this level:\n* Experience building AI agents for complex enterprise or operations-heavy workflows (logistics, supply chain, aviation, cargo, customer operations or contact centre).\n* Experience with voice AI, email automation, CRM integrations, workflow automation or multilingual agents.\n* Experience designing golden test sets, simulation-based testing, regression testing and agent evaluation frameworks.\n* Experience designing multi-agent systems and agent-to-agent communication patterns, agent registries or tool-orchestration standards.\n* Experience leading delivery with external AI platforms, startups or vendors while building internal engineering capability.\n* Master s degree in Computer Science, Software Engineering, Data Science, AI/ML or a related technical field, or equivalent practical experience; relevant cloud-AI, GenAI, agentic-AI or MLOps certifications are an advantage.\n* Growth path: the natural next step is AI Value Architect, owning a cluster s value journey while still building alongside the team.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "f58430072c22": {
+   "id": "f58430072c22",
+   "site": "naukri",
+   "title": "Forward Deployed AI Engineer",
+   "company": "Huemot Technology",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-forward-deployed-ai-engineer-huemot-technology-private-limited-remote-7-to-12-years-231126502466",
+   "apply_url": "https://www.rivvra.com/careers/huemot-technology/jobs/forward-deployed-ai-engineer-54ded1",
+   "date_posted": "2026-11-23",
+   "experience": "7-12 Yrs",
+   "skills": "Middleware, Automation, Artificial Intelligence, Workflow, Python, Coding, Microsoft, CRM",
+   "emails": [],
+   "description": "**Job Summary**    \n\nAs a Senior Forward Deployed AI Engineer, you are a senior builder in a squad embedded in the business: you sit with stakeholders to understand the problem and the why, then design, build, deploy and run the agentic AI systems that solve it, end to end. This is a hands-on, build-first role with single-threaded ownership of a real aviation outcome, working alongside a Business Product Owner and an AI Value Architect, on a shared platform (paved road, MCP fabric, standards) that lets your squad self-serve against Etihad's systems.\n\n  \n   \n  **Responsibilities**    \n\nUnderstand before you build. Start every problem with the business need and the why, working directly with stakeholders, then take the solution from discovery to production.\n\n* Design, build, deploy and continuously improve enterprise-grade agentic AI applications for real aviation scenarios, using agentic coding as your default way of working.\n* Build agents that reason across steps, call tools and APIs, manage context, handle exceptions and support human-in-the-loop, reliably and at enterprise scale.\n* Design and implement RAG pipelines over enterprise knowledge: ingestion, chunking, embeddings, vector search, retrieval tuning, grounding and source traceability.\n* Build MCP-based integrations and connect agents to backend systems via REST/OpenAPI, webhooks and event-driven patterns with secure authentication, and expose your own work as clean, reusable, self-serviceable interfaces.\n* Apply structured LLM patterns end to end: tool calling, schema-validated outputs, retries, fallbacks and guardrails.\n* Own quality from day one: testing, evaluation, observability, logging, versioning and feedback loops for reliability, accuracy, latency, security and cost.\n* Apply security, privacy, access control, auditability, responsible AI and governance across every deployment.\n* Take single-threaded ownership of a domain outcome (one owner, one result), and help establish reusable patterns that grow Etihad's internal AI capability rather than renting it.\n* Coordinate with your Business Product Owner, AI Value Architect and other squads; speak up when AI is not the right tool.\n* Own the end-to-end delivery of a significant aviation use case, and set the pace on quality, evaluation and reliability for the squad.\n* Mentor engineers on agentic patterns and delivery, and establish reusable engineering patterns (MCP integrations, RAG, evaluations, guardrails) that other squads adopt.\n\n  \n   \n  **Qualifications**    \n\nEducation Experience We look for a senior, hands-on engineer who pairs a business-first mindset with deep agentic AI engineering and a track record of shipping to production:\n\n* Curiosity above all: you dig into problems, question assumptions and want to understand how the airline actually works.\n* A business-first, human-centric mindset: aviation is made for humans, by humans, and AI supports people, it does not replace them. Fluent English, comfortable in a culturally diverse, international team.\n* 7+ years building production-grade software, including 3+ years with GenAI and LLMs and at least 1 year of hands-on agentic AI (from the field's early adoption), with a proven record of taking agentic solutions to production.\n* Hands-on experience or strong working knowledge of MCP for connecting agents to tools, systems, APIs and data.\n* Strong Python with working knowledge of at least one of TypeScript/JavaScript (Java, or C# is a plus), and modern engineering practice: async programming, FastAPI, Pydantic, Git and CI/CD, testing, error handling and logging.\n* Practical experience with at least one agent framework or enterprise AI platform (e.g. LangGraph, Semantic Kernel, CrewAI, AutoGen, OpenAI Agents SDK, Microsoft Foundry, Amazon Bedrock AgentCore, Google Vertex/Gemini) and with a vector database or search platform (e.g. Azure AI Search, pgvector, Pinecone, Weaviate, OpenSearch).\n* Experience integrating enterprise systems (APIs, managed identities, webhooks, queues, middleware) and deploying on cloud with containers, monitoring and observability; sound judgment on the trade-offs of latency, quality, cost and reliability, and on security, privacy, responsible AI and governance.\n* Strong assets: aviation or airline domain knowledge; a background in classical machine learning and data science; and classical full-stack development (interfaces, frontends, APIs, backend engineering).\n\n  \n   \n  **Preferred for this level**    \n\n* Experience building AI agents for complex enterprise or operations-heavy workflows (logistics, supply chain, aviation, cargo, customer operations or contact centre).\n* Experience with voice AI, email automation, CRM integrations, workflow automation or multilingual agents.\n* Experience designing golden test sets, simulation-based testing, regression testing and agent evaluation frameworks.\n* Master's degree or a strong Bachelor's degree in Computer Science, Software Engineering, Data Science, AI/ML or a related technical field, or equivalent practical experience; relevant cloud-AI, GenAI, agentic-AI or MLOps certifications are an advantage.\n* Growth path: grow into Technical Lead and onward to AI Value Architect, owning a cluster's value journey while still building.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "4a64552ea743": {
+   "id": "4a64552ea743",
+   "site": "naukri",
+   "title": "Senior Software Engineer (Rust)",
+   "company": "Trantor",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-engineer-rust-trantor-software-private-limited-remote-6-to-11-years-231126502432",
+   "apply_url": "https://www.trantorinc.com/careers/roles/senior-software-engineer-rust",
+   "date_posted": "2026-11-23",
+   "experience": "6-11 Yrs",
+   "skills": "Software, Automation, HTTP, Software testing, Programming, Program, Senior, Networking",
+   "emails": [],
+   "description": "We are hiring a Senior Systems Engineer (Rust + TypeScript) to work on production Rust services, HTTP request processing and edge/serverless engineering.\n\n* Experience: 6+ years\n* Work mode: Remote\n* Shift: 1 PM onwards\n\n Job Roles & Responsibilities       \n\n* Work on a Rust service/API and a TypeScript Worker.\n* Maintain first-party tag gateway functionality.\n* Investigate JavaScript injection/rewrite compatibility problems.\n* Support enterprise onboarding, incidents and production escalations.\n* Contribute to reliability, performance and future gateway enhancements.\n\n Must Have Skills       \n\n* Strong commercial experience developing and maintaining production Rust services.\n* Practical TypeScript proficiency, particularly asynchronous services and request/response handling.\n* Deep understanding of ownership, borrowing, error handling, concurrency and async Rust.\n* Experience with HTTP networking, request transformation, proxying or comparable systems programming.\n* Ability to diagnose production performance, reliability and compatibility problems.\n* Strong automated testing, code-review and operational debugging practices.\n\n Good to Have       \n\n* Tokio, Hyper, Axum or similar Rust networking frameworks.\n* Reverse proxies, gateways, CDNs, API gateways or web infrastructure.\n* Cloudflare Workers or comparable edge/serverless environments.\n* JavaScript/HTML transformation, streaming responses, headers, redirects and caching.\n* Large-scale traffic processing or latency-sensitive systems.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "9ac45003b27f": {
+   "id": "9ac45003b27f",
+   "site": "naukri",
+   "title": "Principal Platform Engineer",
+   "company": "Phizenix",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-principal-platform-engineer-phizenix-remote-15-to-20-years-231126502413",
+   "apply_url": "https://job-boards.greenhouse.io/phizenix/jobs/5452438008",
+   "date_posted": "2026-11-23",
+   "experience": "15-20 Yrs",
+   "skills": "Network security, Python, Agile, Consulting, Workflow, Compliance, DNS, Coding",
+   "emails": [],
+   "description": "This is a hands-on engineering and technical leadership position. You will move fluidly between building production infrastructure, architecting multi-tenant isolation, designing pipeline and policy enforcement, leading strategic architecture decisions, and mentoring engineers. Your success is measured by what every product inherits: a compounding system that outlasts your direct involvement.\n\n**What Youll Do**\n\n**Platform Architecture & Infrastructure Engineering**\n\n* Drive the platforms architecture and runtime direction, including convergence onto one container-orchestrated runtime, tenancy-grade isolation between client engagements, and the contracts every product inherits.\n* Design composable infrastructure as code at fleet scale, with clear input contracts and state boundaries, published as versioned templates and images for every core component.\n* Make the environment lifecycle a one-command operation: created by merging a pull request, destroyed by deleting it, with automated proof nothing is left behind.\n* Design identity and network as a federated, credential-free system - one identity per engagement, just-in-time audited privileged access, separate internal and external edges.\n* Ship telemetry and cost visibility out of the box for every service: standard alerting, service-level objectives on live data, fault injection, and per-engagement cost attribution including AI spend.\n\n**Delivery Pipelines, Security & Compliance Engineering**\n\n* Drive the shared delivery pipelines every product runs through, and the pluggable gate framework that quality, security, and AI-governance checks plug into with block-on-fail enforcement.\n* Implement security and compliance as code: release-blocking scanning on every repository, policy and admission control, signed and attested artifacts, and an audit trail and software bill of materials, including AI components, on every build as SOC2 / ISO 27001 evidence.\n* Package the AI-assisted development environment as a versioned, first-class deliverable, and enforce the sandbox boundary for coding agents: default-deny egress, short-lived credentials, isolated shared runners.\n* Run the platform as a product measured by developer outcomes - setup time, time to first commit, pipeline duration, gate false-positive rate, adoption - pruning or redesigning controls when governance burden outgrows benefit, and proving every golden path by shipping through it yourself.\n\n**Technical Leadership & Stakeholder Influence**\n\n* Lead the platforms strategic architecture decisions - multi-tenancy, cloud posture, identity provider, network edge - as evidence-based decision documents with real trade-offs, and own the security and reliability evidence the program reports against.\n* Serve as a go-to technical authority on platform architecture and delivery engineering, consulted by senior stakeholders at the design and strategy stages, translating trade-offs and platform risk into actionable guidance, and mentoring engineers and vendor partners with observable improvement in design quality and production readiness.\n\n**What Youll Need**\n\n**Required**\n\n* 15+ years in software engineering, platform or infrastructure engineering, or a closely related technical field.\n* Deep, hands-on expertise in infrastructure as code at fleet scale (Terraform or OpenTofu with Terragrunt or equivalent): module architecture, remote state, multi-environment topology.\n* Demonstrated experience operating multi-tenant Kubernetes platforms in production: GitOps, network and admission policy, workload identity, tenant isolation.\n* Proven track record building CI/CD as a shared platform (GitHub Actions or equivalent), with reusable workflow contracts, fleet-scale branch protection, and enforced quality and security gates.\n* Strong hands-on command of cloud identity and network security on Azure/AWS/GCP or a comparable hyperscaler: workload identity federation, RBAC, private networking, WAF, DNS.\n* Substantive experience with security and compliance as code: scanning toolchains (Snyk, Checkov, Trivy), policy engines (OPA, Kyverno, Azure Policy), supply chain controls (signing, provenance, SBOM), and SOC2 / ISO 27001 control evidence.\n* Production observability with OpenTelemetry or equivalent: collector topology, SLOs and error budgets, alert routing, incident management, fault injection.\n* Has built and operated production application software as a software engineer, in at least one of Go, Python, or TypeScript, and is fluent in testing strategy, code review, trunk-based delivery, and release management.\n* Excellent written and verbal communication skills in English; ability to translate complex technical topics to diverse audiences, including executive stakeholders.\n* Experience with Agile methodologies and cross-functional product team collaboration.\n\nPreferred / Additional Qualifications\n\n* Experience building platforms for consulting, advisory, or professional services, including client-isolation and data-residency requirements.\n* Familiarity with virtual-cluster and control-plane tooling (vcluster, Crossplane) and developer portals (Backstage, Port).\n* Experience operating a platform used by AI coding assistants (Claude Code, GitHub Copilot or similar), including sandboxing of agent tooling.\n* Advanced certifications in cloud architecture, Kubernetes, or security (e.g., Azure Solutions Architect, CKA/CKS, CISSP).\n* FinOps experience: cost allocation, showback, and cloud cost optimization.\n* Demonstrated enthusiasm for developer education - writing internal guides, running workshops, or building internal tooling communities.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "b35448b370c0": {
+   "id": "b35448b370c0",
+   "site": "naukri",
+   "title": "Staff Platform Engineer",
+   "company": "Phizenix",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-staff-platform-engineer-phizenix-remote-10-to-15-years-231126502416",
+   "apply_url": "https://job-boards.greenhouse.io/phizenix/jobs/5452540008",
+   "date_posted": "2026-11-23",
+   "experience": "10-15 Yrs",
+   "skills": "Consulting, Coding, DNS, Management, Workflow, Engineering, Security, Compliance",
+   "emails": [],
+   "description": "This is a hands-on engineering position where leadership happens through the work. You will move fluidly between building production infrastructure, implementing multi-tenant isolation, hardening pipeline and policy enforcement, and instrumenting production. Your success is measured by what other engineers can consume without hand-holding: modules, pipelines, and patterns that hold up for the second and third consumer.  **What Youll Do**\n\n**Platform Infrastructure Engineering**\n\n* Build the platforms runtime: implement one container-orchestrated runtime, tenancy-grade isolation between client engagements, and the module contracts every product inherits.\n* Design composable infrastructure as code at fleet scale, with clear input contracts and state boundaries, published as versioned templates and images for every core component.\n* Make the environment lifecycle a one-command operation: created by merging a pull request, destroyed by deleting it, with automated proof nothing is left behind.\n* Design identity and network as a federated, credential-free system - one identity per engagement, just-in-time audited privileged access, separate internal and external edges.\n* Ship telemetry and cost visibility out of the box for every service: standard alerting, service-level objectives on live data, fault injection, and per-engagement cost attribution including AI spend.\n\n**Delivery Pipelines, Security & Compliance Engineering**\n\n* Build and operate the shared delivery pipelines every product runs through, and the pluggable gate framework that quality, security, and AI-governance checks plug into with block-on-fail enforcement.\n* Implement security and compliance as code: release-blocking scanning on every repository, policy and admission control, signed and attested artifacts, and an audit trail and software bill of materials, including AI components, on every build as SOC2 / ISO 27001 evidence.\n* Package the AI-assisted development environment as a versioned, first-class deliverable, and enforce the sandbox boundary for coding agents: default-deny egress, short-lived credentials, isolated shared runners.\n* Run the platform as a product measured by developer outcomes - setup time, time to first commit, pipeline duration, gate false-positive rate, adoption - pruning or redesigning controls when governance burden outgrows benefit, and proving every golden path by shipping through it yourself.\n\n**Technical Leadership & Engineering Excellence**\n\n* Make the platforms architecture decisions decidable - multi-tenancy, cloud posture, identity provider, network edge - by building the spikes and proofs of concept behind them, and produce the security and reliability evidence the program reports against.\n* Be the engineer other engineers come to on infrastructure, pipelines, and enforcement:review designs and pull requests, write architecture decision records for anything that closes off future options, and raise the bar for vendor partners through the work rather than formal management.\n* Drive adoption of platform standards across product teams, supporting migrations onto the platform where product teams execute and you unblock.\n\n**What Youll Need**\n\n**Required**\n\n* 10+ years in software engineering, platform or infrastructure engineering, or a closely related technical field.\n* Hands-on expertise in infrastructure as code at fleet scale (Terraform or OpenTofu with Terragrunt or equivalent): module architecture, remote state, multi-environment topology.\n* Demonstrated experience operating multi-tenant Kubernetes platforms in production: GitOps, network and admission policy, workload identity, tenant isolation.\n* Experience building CI/CD as a shared platform (GitHub Actions or equivalent), with reusable workflow contracts, fleet-scale branch protection, and enforced quality and security gates.\n* Strong hands-on command of cloud identity and network security on Azure/AWS/GCP or a comparable hyperscaler: workload identity federation, RBAC, private networking, WAF, DNS.\n* Substantive experience with security and compliance as code: scanning toolchains (Snyk, Checkov, Trivy), policy engines (OPA, Kyverno, Azure Policy), supply chain controls (signing, provenance, SBOM), and SOC2 / ISO 27001 control evidence.\n* Production observability with OpenTelemetry or equivalent: collector topology, SLOs and error budgets, alert routing, incident management, fault injection.\n* Has built and operated production application software as a software engineer, in at least one of Go, Python, or TypeScript, and is fluent in testing strategy, code review, trunk-based delivery, and release management.\n* Excellent written and verbal communication skills in English; ability to translate complex technical topics to diverse audiences, including engineering and non-technical stakeholders.\n* Experience with Agile methodologies and cross-functional product team collaboration.\n\n**Preferred / Additional Qualifications**\n\n* Experience building platforms for consulting, advisory, or professional services, including client-isolation and data-residency requirements.\n* Familiarity with virtual-cluster and control-plane tooling (vcluster, Crossplane) and developer portals (Backstage, Port).\n* Experience operating a platform used by AI coding assistants (Claude Code, GitHub Copilot or similar), including sandboxing of agent tooling.\n* Advanced certifications in cloud architecture, Kubernetes, or security (e.g., Azure Solutions Architect, CKA/CKS, CISSP).\n* FinOps experience: cost allocation, showback, and cloud cost optimization.\n* Demonstrated enthusiasm for developer education - writing internal guides, running workshops, or building internal tooling communities.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "19de356659ef": {
+   "id": "19de356659ef",
+   "site": "naukri",
+   "title": "Apprentice Software Engineer",
+   "company": "Trigyn Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-apprentice-software-engineer-trigyn-technologies-remote-1-to-5-years-231126502389",
+   "apply_url": "https://www.trigyn.com/job/apprentice-software-engineer",
+   "date_posted": "2026-11-23",
+   "experience": "1-5 Yrs",
+   "skills": "Application software, SQL, Programming, Analytics, Debugging, Javascript, Analytical, Troubleshooting",
+   "emails": [],
+   "description": "**Job Summary**    \n\nWe are looking for enthusiastic and motivated Apprentice Software Engineers who are keen to learn and build their careers in software development. The candidate will work with experienced developers and gain hands-on experience in developing, testing, and maintaining software applications.\n\n  \n   \n  **Key Responsibilities**    \n\n* Assist in designing, developing, testing, and maintaining software applications.\n* Write clean, efficient, and well-documented code.\n* Work with programming languages such as Java, Python, .NET, or JavaScript.\n* Support debugging, troubleshooting, and resolving technical issues.\n* Collaborate with development and QA teams.\n* Learn and follow software development best practices.\n\n  \n   \n  **Required Skills Qualifications**    \n\n* B.E./B.Tech (CS/IT), BCA, MCA, or equivalent qualification.\n* Basic knowledge of any programming language.\n* Understanding of OOP concepts, SQL, and database fundamentals.\n* Familiarity with HTML, CSS, JavaScript, or development frameworks is an added advantage.\n* Good analytical, problem-solving, and communication skills.\n* Willingness to learn new technologies and work in a team.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "28d23fa7fae1": {
+   "id": "28d23fa7fae1",
+   "site": "naukri",
+   "title": "Senior Software Engineer, Monitoring",
+   "company": "Hummingbird Travels",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-senior-software-engineer-monitoring-hummingbird-ventures-remote-1-to-4-years-231126502356",
+   "apply_url": "https://job-boards.greenhouse.io/hummingbirdregtech/jobs/6268176004",
+   "date_posted": "2026-11-23",
+   "experience": "1-4 Yrs",
+   "skills": "Senior, Law enforcement, SQL, Science, Javascript, Finance, Data, Data processing",
+   "emails": [],
+   "description": "* **Write code to fight financial crime:**  First and foremost, our software engineers use their skills to serve our shared mission. Youll build easy-to-use tools that help our customers utilize data and leverage automations to identify and address suspicious activities.\n* **Build highly scalable, reliable monitoring products:**  You ll play an outsized role in evolving our transaction monitoring product, architecting the rule execution, enrichment, and data-processing systems that let it scale through high data volumes and complex workflows. You ll make it more reliable, faster, and easier to observe, so our customers can count on it every day.\n* **Tackle the challenges of working in a high-security, high-stakes environment:**  We work with some of the most sensitive data you can imagine and provide a critical service to our customers. Security, reliability, and correctness must always come first.\n* **Partner cross functionally**  with Product and Customer Success to solve real customer problems.\n* **Own work through design, delivery, and production.**\n\n**What were looking for:**\n\n* **You ve built and run data systems at scale.**  You ve designed, shipped, and operated large production data-processing systems.\n* **You make pragmatic architecture decisions.**  You know when to move fast and when to invest in reliability and maintainability, and you can explain the tradeoffs.\n* **You know the stack.**  You re fluent in SQL, comfortable with data pipelines, and have hands-on experience with distributed systems.\n* **You work well with data science and ML.**  You ve worked closely with data scientists or ML specialists to turn models and insights into production systems.\n* **You own outcomes end to end.**  You take work from a fuzzy problem to a production system and keep improving it after launch.\n* **You follow the problem across technologies.**  You pick up new tools, languages, and domains when the work needs them.\n* **You build with the customer in mind.**  You care how compliance teams actually use what you build, and that shapes your technical decisions.\n* **You take quality and security seriously.**  Testing and secure design matter even more when customers rely on your systems to catch financial crime.\n* **Bonus:**  Experience with fraud, AML, or transaction monitoring.\n\n**Technologies we use and teach:**\n\n* AWS, Azure, PostgreSQL, Redis\n* Terraform, CircleCI, Nix, Docker\n* Ruby/Rails, Python\n* OpenAI\n* React, JavaScript, TypeScript, GraphQL, d3\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "28143ac337ee": {
+   "id": "28143ac337ee",
+   "site": "naukri",
+   "title": "Lead Engineer Fullstack (Affiliate Manager & Loyalty Program)",
+   "company": "Highlevel Llc",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-lead-engineer-fullstack-affiliate-manager-loyalty-program-highlevel-remote-6-to-11-years-231126502316",
+   "apply_url": "https://jobs.lever.co/gohighlevel/13731bd7-f2e5-4017-a512-651edfc155c4",
+   "date_posted": "2026-11-23",
+   "experience": "6-11 Yrs",
+   "skills": "Automation, Full Stack, Distribution, Recruitment, Program, Management, System, Design",
+   "emails": [],
+   "description": "### Job Summary\n\nWe are looking for a passionate and highly skilled Lead Software Engineer to join our Affiliate Manager Loyalty Program Team. You will work on building scalable systems and user experiences that power affiliate marketing, referral tracking, commission management, loyalty rewards, and customer engagement across the HighLevel platform.\n\nThis is a hands-on technical leadership role with a strong focus on individual contribution. You will actively participate in designing, developing, and delivering complex features while providing technical guidance and mentorship to other engineers.\n\nYou will collaborate closely with Product, Design, QA, and Platform teams to deliver high-impact features, improve product scalability and reliability, and drive engineering excellence.\n\nThis role requires strong software engineering fundamentals, system design expertise, end-to-end ownership, and the ability to independently solve complex technical challenges at scale.\n\n### Core Responsibilities\n\n* Design, develop, and maintain scalable backend services, APIs, and frontend applications for Affiliate Manager and Loyalty Program.\n* Actively contribute to production code, taking ownership of complex features and technical initiatives from design through deployment.\n* Build and enhance systems for:\n\n+ Affiliate campaign creation and management.\n+ Affiliate tracking, attribution, and conversion reporting.\n+ Commission calculation, tracking, and management.\n+ Referral programs and automation workflows.\n+ Loyalty points, rewards, and redemption management.\n+ Customer engagement and retention.\n+ Analytics and reporting.\n\n* Design and implement reliable APIs, microservices, and integrations with other HighLevel products and third-party platforms.\n* Lead technical design discussions and contribute to architectural decisions while remaining actively involved in implementation.\n* Collaborate with Product and Design teams during requirement gathering, technical feasibility assessments, and solution design.\n* Optimize application performance, scalability, reliability, and database efficiency.\n* Write clean, maintainable, reusable, and well-tested code.\n* Identify and resolve complex technical challenges, production issues, and performance bottlenecks.\n* Drive technical improvements, code quality, and engineering best practices.\n\n### Technical Leadership Execution\n\n* Take end-to-end ownership of complex features, including technical design, development, testing, deployment, and monitoring.\n* Act as a hands-on technical contributor while guiding engineers on implementation approaches and technical decisions.\n* Conduct code reviews and provide constructive feedback to improve engineering quality.\n* Mentor engineers through technical discussions, pair programming, and knowledge-sharing sessions.\n* Participate actively in sprint planning, technical estimations, backlog refinement, and retrospectives.\n* Collaborate with QA to ensure comprehensive test coverage and high-quality releases.\n* Proactively identify technical risks, dependencies, and blockers and drive their resolution.\n* Contribute to improving development workflows, CI/CD pipelines, automation, and engineering productivity.\n* Promote strong ownership, accountability, and collaboration across engineering teams.\n\n### Required Qualifications\n\n* 6+ years of software engineering experience, with strong hands-on development expertise and experience owning complex technical initiatives.\n* Strong proficiency in:\n\n+ Node.js\n+ TypeScript / JavaScript\n+ MongoDB\n+ REST APIs\n\n* Experience building scalable backend systems and microservices.\n* Strong understanding of distributed systems, asynchronous processing, and event-driven architectures.\n* Good knowledge of system design, software architecture, design patterns, and performance optimization.\n* Experience with cloud platforms such as AWS or GCP.\n* Familiarity with CI/CD pipelines and modern development workflows.\n* Strong debugging, analytical, and problem-solving skills.\n* Ability to independently design, develop, and deliver complex features with strong ownership and accountability.\n* Experience conducting code reviews and providing technical guidance to other engineers.\n* Strong communication and collaboration skills, with the ability to work effectively across teams.\n* Willingness to remain actively involved in hands-on development and individual contribution.\n\n### Preferred Qualifications\n\n* Experience with Vue.js or React.js.\n* Experience working with SaaS, MarTech, CRM, Affiliate Marketing, or Loyalty Management products.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "7a6965987464": {
+   "id": "7a6965987464",
+   "site": "naukri",
+   "title": "MERN Stack Lead",
+   "company": "Codiant",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-mern-stack-lead-codiant-indore-6-to-11-years-231126022121",
+   "apply_url": "https://www.naukri.com/job-listings-mern-stack-lead-codiant-indore-6-to-11-years-231126022121",
+   "date_posted": "2026-11-23",
+   "experience": "6-11 Yrs",
+   "skills": "MongoDB, Mern Stack, Node.js, Full Stack, Artificial Intelligence, MySQL, Mern, Development",
+   "emails": [],
+   "description": "**Job description**\n\n**Role & responsibilities**\n\n* **Develop and maintain full-stack web applications using MERN technologies.**\n* **Design, develop, and maintain RESTful APIs and backend services with Node.js and Express.**\n* **Build responsive, visually appealing user interfaces using React.**\n* **Implement secure and scalable frontend and backend solutions.**\n* **Optimize applications for maximum speed and performance.**\n* **Work with MongoDB to create and optimize database schemas and queries.**\n* **Debug and troubleshoot application issues to ensure optimal performance.**\n* **Stay current with emerging trends and technologies in full-stack development.**\n* **Maintain and update project documentation as necessary.**\n\n  \n\n**Skills and Qualifications:**\n\n* **Proven experience with MERN stacks, including MongoDB, Express.js, React, and Node.js.**\n* **Proficiency in JavaScript and TypeScript, HTML5, and CSS3.**\n* **Strong knowledge of RESTful APIs and integration of third-party services.**\n* **Experience with state management in React (e.g., Redux, MobX).**\n* **Familiarity with version control systems like Git.**\n* **Experience with MongoDB/MySQL database design and optimization.**\n* **Understanding of UI/UX design principles and responsive design.**\n* **Strong problem-solving skills and ability to work both independently and as part of a team.**\n* **Experience with cloud platforms like AWS or Azure is a plus.**\n* **Familiarity with DevOps tools and practices is an advantage.**\n* **Leading Team experience is a plus.**",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "bf6231c38d29": {
+   "id": "bf6231c38d29",
+   "site": "naukri",
+   "title": "Technical Lead/Senior Full Stack Developer - Python/AngularJS",
+   "company": "Benovymed Healthcare Private Limited",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-technical-lead-senior-full-stack-developer-python-angularjs-benovymed-healthcare-private-limited-indore-2-to-7-years-231126914085",
+   "apply_url": "https://www.naukri.com/job-listings-technical-lead-senior-full-stack-developer-python-angularjs-benovymed-healthcare-private-limited-indore-2-to-7-years-231126914085",
+   "date_posted": "2026-11-23",
+   "experience": "2-7 Yrs",
+   "skills": "Angular, Mean Stack, Angularjs, Development, Full Stack, Mean, Dynamo, Python",
+   "emails": [],
+   "description": "Role : Technical Lead / Sr. Full Stack Developer / Full Stack Developer (Backend, Database & Frontend) - Global Digital Health Startup.\n\nRole & Responsibility :- Single-handed hands-on MultiHat Role-on Full Stack Developer (Backend, Database, and Frontend development ) with end-to-end Backend development, DBMS, B2B & B2B2C SaaS Cloud Platform Maintenence, server-side, client-side to build from Scratch a Highly Scalable Digital Health Platform or an E Commerce Platform.- Full Stack Developers will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail.- Their primary responsibilities include designing user interactions on the web portal or app, developing AWS Cloud servers and databases for the web portal and mobile app functionality, and coding for mobile platforms.- Developing front-end web Portal architecture.- Designing user interactions on web pages.- Developing back-end web Portal applications.- Creating servers and databases for functionality.- Ensuring cross-platform optimization for mobile phones.- Ensuring responsiveness of applications.- Working alongside graphic designers for web design features.- Seeing through a project from conception to finished product.- Designing and developing APIs.- Meeting both technical and consumer needs.- Staying abreast of developments in web applications and programming languages.- Testing using the latest Tools.- DevOps Engineering Skillsets added advantage.\n\n- Testing Tools : Appium, Selenium, Robotium, Mockito. Espresso\n\n- Excellent verbal communication skills.\n\nQualification : B. Tech ( EE, CSE, ECE, IT) from reputed Technology Institute.\n\nExperience :- 2 to 8 Years Experience as a Full-stack Developer in web and Mobile application Software Product Engineering Post Education Qualification.- Should have worked single-handedly and as a Team member and as a leader with multi-hat roles & in the team as a Backend developer, Database experienced in QA Testing on web and mobile apps in an early-stage startup company.- Strong organizational and project management skills.- Full-stack development with hands-on as a single-handed and multi-role in early-stage Digital Health Startup preferably or in an Early Stage E-commerce marketplace Tech Startup in any other Industry. Worked from scratch in the Tech Architect, frontend, coding, and Tech product development with at least 6 -50 Mobile apps ( multifunction apps) with at least 10000 to 500,000 Downloads of his Product developed.Should have Skillsets as follows :- Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.- Familiarity with JavaScript frameworks such as Angular JS, React, and Amber.- Django, Dynamo DB, LAMP, MEAN stack- AWS ( AWS S3, EC2, Amazon Device Farm), Android, Kotlin, React, react-native Flutter, dart ios, Swift, Google-Firebase.- Should have additional skills No SQL DB, Mongo DB but not mandatory.- Proficiency with server-side languages such as Python, Ruby, Java, PHP, .Net & Tensor flow.- Familiarity with database technology such as MySQL, Oracle, and MongoDB.- You should have worked in a single-handed multi-hat role & responsibility in software product development engineering in a startup preferably in early-stage Digital Health, E-commerce, or any other Industry additionally with multi-hat role hands-on software skills and hands-on single-handed.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "14b213607daa": {
+   "id": "14b213607daa",
+   "site": "naukri",
+   "title": "Mern Stack Developer",
+   "company": "Deservely",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-mern-stack-developer-deservely-indore-6-to-10-years-231126501922",
+   "apply_url": "https://app.pyjamahr.com/careers?company=deservely-technologies-pvt-ltd&job_id=431243&company_uuid=DA3851482C",
+   "date_posted": "2026-11-23",
+   "experience": "6-10 Yrs",
+   "skills": "Improvement, SQL, Technical documentation, Production support, Continuous improvement, CRM, Backend, Software development",
+   "emails": [],
+   "description": "Senior MERN Full Stack Developer\n\n**Location:** Indore (Vijay Nagar)  \n **Work Mode:** Onsite  \n **Experience:** 6-10 Years  \n **Employment Type:**\n\nAbout the Role\n\nWe are looking for an experienced **Senior MERN Full Stack Developer** with 6-10 years of hands-on experience in building scalable, secure, and high-performance web applications. The ideal candidate should have strong expertise in **React, Node.js, TypeScript, REST APIs, SQL databases, AWS, and CI/CD**.\n\nThe candidate will be responsible for developing end-to-end product features, designing reliable APIs, building responsive user interfaces, working with databases, and deploying applications on AWS. This is a hands-on role requiring strong technical ownership and the ability to work closely with Product, QA, DevOps, and other engineering teams.\n\nKey ResponsibilitiesFull Stack Development\n\n* Design, develop, test, and maintain scalable web applications using **React and Node.js**.\n* Build clean, reusable, and maintainable frontend components using React and TypeScript.\n* Develop backend services and business logic using Node.js and TypeScript.\n* Take ownership of features from requirement analysis through development, testing, deployment, and production support.\n* Follow coding standards, design principles, and best practices to deliver high-quality software.\n\nAPI & Backend Development\n\n* Design and develop secure and scalable **REST APIs**.\n* Implement authentication, authorization, validation, error handling, and API integrations.\n* Optimize backend services for performance, reliability, and scalability.\n* Integrate frontend applications with backend services and third-party APIs.\n\nDatabase Development\n\n* Work with **SQL databases** for application data storage and retrieval.\n* Design tables, relationships, queries, and database structures based on application requirements.\n* Write and optimize SQL queries for performance.\n* Ensure data consistency, security, and integrity.\n\nAWS & Cloud\n\n* Deploy and maintain applications on **AWS cloud infrastructure**.\n* Work with AWS services to build scalable and reliable application architectures.\n* Troubleshoot application and cloud-related issues in development, staging, and production environments.\n* Contribute to improving application scalability, availability, security, and performance.\n\nCI/CD & Engineering Practices\n\n* Work with **CI/CD pipelines** for automated build, testing, and deployment.\n* Collaborate with DevOps teams to improve deployment processes.\n* Support automated testing, code quality checks, and release processes.\n* Participate in code reviews and provide constructive technical feedback.\n\nCollaboration & Ownership\n\n* Work closely with Product Managers, QA Engineers, DevOps, and other developers.\n* Participate in Agile ceremonies such as sprint planning, daily stand-ups, reviews, and retrospectives.\n* Troubleshoot production issues and perform root-cause analysis.\n* Take ownership of assigned modules and deliver solutions within agreed timelines.\n* Contribute to technical documentation and continuous improvement.\n\nMust-Have Skills\n\n* 6-10 years of experience in **Full Stack Development**.\n* Strong hands-on experience with **React**.\n* Strong experience with **Node.js** and **TypeScript**.\n* Good understanding of **REST API development and integration**.\n* Strong knowledge of **SQL databases**.\n* Hands-on experience with **AWS**.\n* Experience with **CI/CD pipelines and deployment processes**.\n* Strong understanding of software development lifecycle and coding best practices.\n\nGood to Have\n\n* Experience with **AWS CDK**.\n* Knowledge of **AWS Lambda and EKS**.\n* Experience building **Serverless applications**.\n* Domain experience in **Real Estate or CRM applications**.\n* Experience working in an **Agile/Scrum environment**.\n* Knowledge of **data partitioning and scalable database architecture**.\n\nIdeal Candidate\n\nThe ideal candidate should be a **strong hands-on Full Stack Developer** who can work across frontend, backend, database, and cloud environments. The candidate should have strong problem-solving skills, good communication, and a mindset for building scalable and reliable product solutions.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "cfbcd211e554": {
+   "id": "cfbcd211e554",
+   "site": "indeed",
+   "title": "Full Stack Developer (MERN Stack)",
+   "company": "Cybernaut EdTech Private Limited",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=53b34e5d1fdc8351",
+   "apply_url": "https://in.indeed.com/viewjob?jk=53b34e5d1fdc8351",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "About the Role\n\nCybernaut EdTech Private Limited is looking for a skilled and passionate Full Stack Developer (MERN Stack) to work as a Technical Trainer and Mentor.\n\nThe selected candidate will be responsible for conducting online training sessions, mentoring students, explaining programming concepts, and guiding learners through practical web development projects.\n\nRoles & Responsibilities\n\n* Conduct structured Full Stack Development training sessions.\n* Mentor and guide students in MERN Stack technologies.\n* Teach HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB.\n* Explain programming concepts through practical demonstrations and live coding.\n* Guide students in developing real-time web applications.\n* Assign coding exercises, technical tasks, and project activities.\n* Review student code and provide constructive feedback.\n* Help students debug and troubleshoot programming issues.\n* Monitor student progress and evaluate learning outcomes.\n* Encourage problem-solving skills and coding best practices.\n\nRequired Technical Skills\n\n* HTML5 and CSS3\n* JavaScript (ES6+)\n* React.js\n* Node.js\n* Express.js\n* MongoDB\n* REST API Development\n* Frontend and Backend Integration\n* Git and GitHub\n* Full Stack Web Application Development\n\nEligibility Criteria\n\n* Strong understanding of MERN Stack technologies.\n* Practical hands-on experience in Full Stack Development.\n* Ability to develop and explain real-time web applications.\n* Good verbal communication and presentation skills.\n* Ability to explain technical concepts to beginners.\n* Previous teaching, mentoring, or technical training experience is preferred.\n\nEmployment Details\n\n* **Company:** Cybernaut EdTech Private Limited\n* **Employment Type:** Contract – 3 Months\n* **Compensation:** ₹5,000 per Month\n* **Work Mode:** Fully Remote (Work From Home)\n* **Training Schedule:** 8:00 PM – 9:15 PM (IST)\n\nAdditional Information\n\nAll company policies, terms and conditions, employment guidelines, roles, responsibilities, and other engagement-related details will be communicated by the HR team during the interview process.\n\nHow to Apply\n\nInterested candidates with practical MERN Stack development experience and an interest in technical mentoring are encouraged to apply through Indeed.\n\nCandidates should highlight their relevant technical skills, development projects, and previous teaching or mentoring experience in their applications.\n\n**Join Cybernaut EdTech Private Limited and help aspiring developers build their careers in Full Stack Development!**\n\nPay: Up to ₹5,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "1fd3b75db1d8": {
+   "id": "1fd3b75db1d8",
+   "site": "indeed",
+   "title": "Freelance Developer (SAP ABAP / React Native / Web)",
+   "company": "Karunashri Software",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=99efd130709ec029",
+   "apply_url": "https://in.indeed.com/viewjob?jk=99efd130709ec029",
+   "date_posted": "2026-11-23",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "About Karunashri Software\n\nKarunashri Software is a development company in Jaipur, India, delivering SAP, mobile and web projects for clients in Australia, the UK, the Gulf and India. We are growing our developer network: a bench of trusted freelance developers we bring onto paid client projects when the skills fit.\n\nWho we're looking for\n\n* SAP: ABAP on S/4HANA (RICEFW, RAP/CDS, OData), Fiori/UI5, and functional consultants (FI/CO, MM, SD, PP)\n\n* Mobile: React Native (Expo or bare), Flutter\n\n* Web: React / Next.js, Node.js, Laravel / PHP\n\n* Also welcome: QA testers and UI/UX designers\n\nWhat you get\n\n* Paid client projects matched to your skills, rate and availability\n\n* Fully remote, part-time or full-time engagements\n\n* Clear scope and timely payment for every project\n\n* No fees and no lock-in\n\nWhat we expect\n\n* 2+ years of hands-on experience in your stack (5+ years for SAP)\n\n* Work you can show: GitHub, live apps, a portfolio or project descriptions\n\n* Good written English and reliable communication\n\nHow to apply\n\nApply here on Indeed, or fill in our 2-minute form: https://karunashrisoftware.com/join-our-network/\n\nWe'll get in touch when a project matches your profile. Pay depends on skills and the project.\n\nPay: ₹500.00 - ₹1,500.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: Remote",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "9ee3c693641a": {
+   "id": "9ee3c693641a",
+   "site": "naukri",
+   "title": "Full Stack Developer",
+   "company": "Testperform Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-full-stack-developer-testperform-technologies-remote-2-to-6-years-231126502411",
+   "apply_url": "https://forgebyte.ai/careers",
+   "date_posted": "2026-11-23",
+   "experience": "2-6 Yrs",
+   "skills": "Node, Application, Web application, Web technologies, Application development, React.js, Javascript, Cloud",
+   "emails": [],
+   "description": "* Design, develop, and test software applications using various programming languages and technologies.\n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n* Develop high-quality, reliable, and scalable code that meets industry standards.\n* Troubleshoot and resolve technical issues efficiently.\n* Participate in code reviews and contribute to improving the overall codebase quality.\n* Stay updated with the latest trends and technologies in full-stack development.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-23T13:31:27+00:00",
+   "status": "new",
+   "updated_at": "2026-11-23T13:31:27+00:00",
+   "history": [
+    {
+     "at": "2026-11-23T13:31:27+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
   }
  },
  "runs": [
