@@ -9181,8 +9181,8 @@
    "emails": [],
    "description": "We are looking for an experienced **Senior Full Stack Developer** with strong expertise in Python, MERN Stack, and AI technologies to join our development team. The ideal candidate should have hands-on experience in building scalable web applications, developing backend solutions, integrating APIs, and implementing AI-powered features.\n\nKey Responsibilities\n\n* Design, develop, and maintain scalable full-stack web applications.\n* Build robust backend services and APIs using Python and Node.js.\n* Develop responsive and user-friendly frontend applications using React.js.\n* Work with MongoDB and other databases for efficient data management.\n* Integrate AI/ML models, LLMs, and AI-powered functionalities into applications.\n* Collaborate with cross-functional teams to understand requirements and deliver solutions.\n* Optimize application performance, scalability, and security.\n* Troubleshoot technical issues and ensure code quality through best practices.\n\nRequired Technical Skills\n\n* **Python:** Strong proficiency in Python and backend development.\n* **MERN Stack:** Hands-on experience with MongoDB, Express.js, React.js, and Node.js.\n* **AI Integration:** Practical experience with AI/ML, LLMs, Generative AI, or AI API integrations.\n* **Frontend:** Strong knowledge of JavaScript, HTML, CSS, and React.js.\n* **Backend:** Experience in REST APIs, backend architecture, and third-party integrations.\n* **Database:** Good understanding of MongoDB and SQL databases.\n* **Tools:** Git, GitHub, and development tools.\n\nRequirements\n\n* Minimum 3+ years of relevant full-stack development experience.\n* Strong hands-on experience in Python and MERN Stack.\n* Practical experience in integrating AI technologies into real-world applications.\n* Strong problem-solving and debugging skills.\n* Ability to work independently and collaboratively in a team.\n\nWork Details\n\n* **Experience:** 3+ Years\n* **Location:** Indore, MP\n* **Work Mode:** On-site (Work From Office)\n* **Employment Type:** Full-Time\n\nPay: ₹300,000.00 - ₹700,000.00 per year\n\nWork Location: In person",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "review",
-   "updated_at": "2026-11-22T15:58:48+00:00",
+   "status": "rejected",
+   "updated_at": "2026-11-23T16:48:54+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
@@ -9193,6 +9193,11 @@
      "at": "2026-11-22T15:58:48+00:00",
      "status": "review",
      "note": "score 100"
+    },
+    {
+     "at": "2026-11-23T16:48:54+00:00",
+     "status": "rejected",
+     "note": "skipped in app"
     }
    ],
    "score": 100,
