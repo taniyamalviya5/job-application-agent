@@ -9444,8 +9444,8 @@
    "emails": [],
    "description": "We are looking for **Fullstack Developer** - **Contract Basis - Work From Home**\n\n**Work timing -** 1.00 - 10.00 p.m  \n**Duration -** 3 months (15 days' notice to end the contract)\n\n**Fullstack Developer**\n\nWork with the Technical Lead, business analysts, QA, DevOps and international clients, from requirement clarification through production delivery.\n\nBring a learning mindset, sound engineering judgment and a proactive approach to solving problems and supporting teammates.\n\n**Responsibility:-**\n\nBuild responsive React and Next.js interfaces, reusable components, dashboards and business workflows.\n\n* Develop Python REST APIs, backend services and integrations, preferably using FastAPI.\n\n* Build and integrate AI solutions using Amazon Bedrock (AWS), translating client needs into practical features and workflows.\n\n* Connect AI assistants to approved APIs, Databricks and application databases through backend services and controlled tool calling, enforcing user permissions and validating query results.\n\n* Validate AI outputs and tool actions; address access control, reliability, latency and cost before production release.\n\n* Design and optimize PostgreSQL databases, queries, migrations and data validation.\n\n* Implement reliable Excel/CSV imports, exports and reporting workflows with clear error handling.\n\n* Integrate Okta SSO and enforce secure authentication and role-based access.\n\n* Work with DevOps to build and maintain CI/CD pipelines, troubleshoot deployments and support releases across development, QA/UAT and production.\n\n* Write automated tests, review code, resolve defects and troubleshoot production issues.\n\n* Estimate tasks, identify dependencies and maintain useful technical documentation.\n\n**Skills and experience React / Next.js, Python & AI solutions What we are looking for**\n\n* Frontend: Hands-on experience with React and Next.js, including JavaScript/TypeScript, routing, layouts, server and client components, hooks, state management, form validation and API integration.\n\n* Backend: Strong Python fundamentals and experience with FastAPI, Django or Flask.\n\n* AI solutions: Hands-on experience integrating foundation models through Amazon Bedrock, designing prompts and connecting model responses to application workflows.\n\n* AI tool integration: Experience with function/tool calling, REST API integration and backend orchestration, including authorization, input validation and error handling.\n\n* Databases: SQL, relational schema design, transactions, indexing and query optimization.\n\n* Identity: Enterprise authentication using Okta, OIDC/OAuth 2.0 or SAML 2.0.\n\n* Cloud & containers: Working knowledge of AWS, familiarity with Azure, and practical experience with Docker, Git and pull requests.\n\n* CI/CD & deployment: Hands-on experience with build, test and deployment pipelines; environment promotion, configuration, release approvals, post-deployment checks and rollback flows.\n\n**Security**: Secure coding, API authorization, secrets management and application logging.\n\n* AI-assisted development: Practical experience using AI coding assistants for implementation, debugging, refactoring, tests and documentation. Provide clear context and review generated code for correctness, security and maintainability.\n\n**Good to have** Familiarity with Model Context Protocol (MCP) and MCP server/client integrations. Retrieval-augmented generation (RAG), vector search, AI evaluation and agent workflows; AWS EKS, Aurora PostgreSQL, Kubernetes, Databricks, PySpark, ETL/ELT pipelines and enterprise data integrations.\n\nPay: ₹80,000.00 - ₹120,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of hands-on experience do you have in Full Stack Development?\n* How many years of professional experience do you have with React.js and Next.js?\n* Do you have hands-on experience with Python and any backend framework (FastAPI, Django or Flask)?\n* Have you implemented Amazon Bedrock in a real-world project?\n* Have you implemented LLM integrations with function calling/tool calling and REST APIs?\n* Have you worked with Okta, OAuth 2.0, OIDC or SAML authentication?\n* Are you ready for a contract-based job - Work From Home?\n* Can you start Immd?\n\nWork Location: Remote",
    "found_at": "2026-11-21T11:38:34+00:00",
-   "status": "review",
-   "updated_at": "2026-11-22T15:58:48+00:00",
+   "status": "approved",
+   "updated_at": "2026-11-23T16:51:28+00:00",
    "history": [
     {
      "at": "2026-11-21T11:38:34+00:00",
@@ -9456,6 +9456,11 @@
      "at": "2026-11-22T15:58:48+00:00",
      "status": "review",
      "note": "score 100"
+    },
+    {
+     "at": "2026-11-23T16:51:28+00:00",
+     "status": "approved",
+     "note": "approved in app"
     }
    ],
    "score": 100,
@@ -9466,7 +9471,7 @@
    "missing_skills": [],
    "scored_by": "keywords",
    "draft": {
-    "to": "",
+    "to": "info@ashapurasoftech.com",
     "subject": "Application for Full Stack Developer - Taniya Malviya",
     "body": "Dear Hiring Team at Ashapura Softech Pvt. Ltd.,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in across, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
    }
