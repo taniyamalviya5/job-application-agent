@@ -12358,6 +12358,25 @@
     "follow_up_due": 0
    },
    "pruned": 0
+  },
+  {
+   "command": "run",
+   "at": "2026-11-24T14:09:28+00:00",
+   "ai": false,
+   "new_jobs": 13,
+   "scored": {
+    "review": 12,
+    "low_match": 2
+   },
+   "send": {
+    "sent": 0,
+    "failed": 0
+   },
+   "track": {
+    "replied": 0,
+    "follow_up_due": 0
+   },
+   "pruned": 0
   }
  ]
 }
