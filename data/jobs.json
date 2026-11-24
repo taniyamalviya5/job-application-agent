@@ -11568,15 +11568,34 @@
    "emails": [],
    "description": "* Design, develop, and test software applications using various programming languages and technologies.\n* Collaborate with cross-functional teams to identify and prioritize project requirements.\n* Develop high-quality, reliable, and scalable code that meets industry standards.\n* Troubleshoot and resolve technical issues efficiently.\n* Participate in code reviews and contribute to improving the overall codebase quality.\n* Stay updated with the latest trends and technologies in full-stack development.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-23T13:31:27+00:00",
-   "status": "new",
-   "updated_at": "2026-11-23T13:31:27+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-23T13:31:27+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 88"
     }
-   ]
+   ],
+   "score": 88,
+   "reasons": [
+    "Matched: Node, Application, Web application, Web technologies, Application development",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "React.js"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Testperform Technologies,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in Node, Application, Web application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "73c0fde0cb15": {
    "id": "73c0fde0cb15",
@@ -11592,15 +11611,32 @@
    "emails": [],
    "description": "**About the Role**\n\nWe are looking for a hands-on technology leader who can own the architecture, delivery and reliability of our product platforms while building a practical, production-grade AI/GenAI capability. You will sit at the intersection of product strategy, cloud-native engineering and people leadership: translating business problems into scalable systems, raising the engineering bar, and growing a high-performing team.\n\nThis is not a pure management role. We expect you to stay close to architecture and design decisions, review critical systems, and be credible with engineers at every level.\n\n**Key Responsibilities**\n\n*Technology & Architecture*\n\n* Define and own the technical strategy, roadmap and architecture for core product platforms (microservices, event-driven systems, APIs, data platforms).\n* Drive cloud architecture and cost/performance decisions on AWS (or equivalent), including containers, serverless, messaging, CDN and managed databases.\n* Lead modernization initiatives such as monolith-to-microservices, frontend re-platforming (e.g. React to Next.js/SSR), and data-model migrations.\n* Set and track performance, scalability and reliability targets (uptime, latency, Core Web Vitals, SLOs) and own production readiness.\n\n*AI & Generative AI*\n\n* Identify high-value AI use cases and lead design of LLM-powered features: AI agents, structured/multi-stage LLM workflows, content generation, classification, moderation and workflow automation.\n* Establish AI solution standards: model selection, prompt engineering, structured outputs, evaluation, guardrails, hallucination control and cost management.\n* Partner with product to move AI ideas from prototype to reliable production capability.\n\n*Product & Business Partnership*\n\n* Work with Product, Design and business leaders to turn marketplace/customer problems into clear technical solutions and delivery plans.\n* Contribute to product strategy, prioritization and trade-off decisions with data on effort, risk and impact.\n* Own integrations with third-party services (payments, identity/verification, communications, analytics).\n\n*People & Delivery*\n\n* Build, mentor and retain engineering managers, tech leads and senior engineers; define career paths and hiring bar.\n* Establish engineering practices: architecture and design reviews, code quality, CI/CD, testing, observability and incident management.\n* Ensure predictable delivery across teams, balancing speed, quality and technical debt.\n* Manage engineering budget, vendor selection and capacity planning.\n\n**Required Qualifications**\n\n* 12+ years of software engineering experience, with 4+ years leading engineers and teams (including managers or tech leads for Director level).\n* Strong background in distributed systems, microservices and event-driven architecture, with production ownership at scale.\n* Deep hands-on experience with a modern backend stack (Java and/or Node.js/TypeScript; Spring Boot or equivalent) and REST API design.\n* Proven experience architecting on AWS or comparable cloud (ECS/Fargate or Kubernetes, Lambda, API Gateway, S3, CloudFront, SQS/EventBridge/Kafka, RDS).\n* Working experience with relational and NoSQL stores (PostgreSQL/MySQL, MongoDB, Redis, Elasticsearch).\n* Practical experience shipping GenAI/LLM features to production (agents, prompt design, structured outputs, evaluation).\n* Track record of measurable outcomes: performance gains, reliability/uptime improvements, successful migrations or platform modernizations.\n* Excellent communication; able to explain technical trade-offs to executives and non-technical stakeholders.\n* Bachelor's degree in Engineering / Computer Science or equivalent experience.\n\n**Preferred Qualifications**\n\n* Experience in a startup, scale-up or marketplace/platform business, or as a technical co-founder.\n* Frontend architecture exposure (React, Next.js, SSR, SEO, Core Web Vitals).\n* Experience with Kubernetes, Docker, CI/CD (Jenkins, GitLab), Prometheus/Grafana and infrastructure-as-code.\n* Experience with large-scale data processing or streaming (Kafka, Scala) and data-model modernization.\n* Experience integrating compliance, identity verification or payments workflows.\n* Prior experience across both enterprise product companies and fast-moving product environments.\n\n**Core Competencies**\n\n* Systems thinking and sound architectural judgment\n* Product mindset and business acumen\n* Ownership, accountability and bias to action\n* Coaching and talent development\n* Pragmatic AI adoption: value over hype\n* Operational excellence and reliability focus\n\n**Success Measures (First 12 Months)**\n\n* Clear architecture and AI roadmap aligned with business goals within the first 90 days.\n* Measurable improvements in platform reliability, performance and release cadence.\n* At least two AI/GenAI capabilities in production with defined quality and cost metrics.\n* A stable leadership bench (managers and tech leads) and an improved hiring and onboarding pipeline.",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, agents, analytics, api, apis",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Director / Associate Director, Engineering (Product, Cloud & AI) - Taniya Malviya",
+    "body": "Dear Hiring Team at Systango,\n\nI am writing to apply for the Director / Associate Director, Engineering (Product, Cloud & AI) role. I am a Senior Software Engineer, 7+ years, and my background in across, agents, analytics matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "4eb1864d3263": {
    "id": "4eb1864d3263",
@@ -11616,15 +11652,37 @@
    "emails": [],
    "description": "**Roles and Responsibilities :**\n\n* Design, develop, test, deploy and maintain scalable web applications using .NET Core, ASP.NET, React.JS and Angular.\n* Collaborate with cross-functional teams to identify requirements and implement solutions that meet business needs.\n* Ensure high-quality code by writing unit tests, integrating with Azure services such as Azure App Service, Azure Functions, SQL Server.\n* Troubleshoot issues related to application performance, security, scalability.\n\n**Job Requirements :**\n\n* 8-14 years of experience in software development with expertise in .NET technologies (C#).\n* Strong experience of Angular 16+ version along with of React.JS or typescript for front-end development.\n* Experience with cloud-based platforms like Azure App Service, Azure Functions.\n* Proficiency in working with databases such as SQL Server.",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "low_match",
+     "note": "score 50"
     }
-   ]
+   ],
+   "score": 50,
+   "reasons": [
+    "Matched: Azure App Service, Service Bus, Application, Azure Service Bus",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Bus",
+    "Core",
+    "SQL",
+    ".Net Core"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Lead Software Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Impetus Technologies,\n\nI am writing to apply for the Lead Software Engineer role. I am a Senior Software Engineer, 7+ years, and my background in Azure App Service, Service Bus, Application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "b6b75f24bdea": {
    "id": "b6b75f24bdea",
@@ -11642,15 +11700,32 @@
    ],
    "description": "**QA Engineer**\n\n*Employment type: Full-time*\n\n*Reports to: QA Engineer - Manager*\n\n**Role Overview**\n\nWe are seeking a QA Engineer to champion product quality while working with extreme ownership and a builder’s mindset. This role involves strong logical and analytical thinking, a sound understanding of software testing processes, and hands-on experience in API automation and test automation frameworks using AI tools.\n\n**Key responsibilities:**\n\n* Design, develop and maintain scalable automation frameworks using Selenium, Playwright, Cypress or similar tools.\n* Develop and execute automated test scripts for web applications, APIs and mobile applications.\n* Perform functional, regression, integration and end-to-end testing to ensure product quality.\n* Conduct API testing using Postman, RestAssured or Karate, validating response codes, payloads, authentication and data integrity.\n* Write automation scripts using Java, Python, JavaScript/TypeScript .\n* Integrate automated test suites into CI/CD pipelines using Jenkins, GitHub Actions or GitLab CI.\n* Identify, troubleshoot and resolve flaky tests, automation failures and application defects.\n* Optimise test execution through parallel testing, reusable components and efficient test data management.\n* Perform database validation using SQL queries, joins and data integrity checks.\n* Generate test reports, maintain test documentation and track defects using Jira or similar tools.\n* Collaborate with developers and product teams in Agile/Scrum environments to define test strategies and acceptance criteria.\n* Mentor junior QA engineers, review automation code and drive testing best practices.\n\n**Skills/Qualifications:**\n\n* 5–10 years of overall experience in Software Quality Assurance, with at least 3–4 years of hands-on automation testing experience.\n* Strong programming skills in Java, Python, JavaScript/TypeScript or C#.\n* Hands-on experience with Selenium, Playwright, Cypress or similar automation frameworks.\n* Experience in building or maintaining automation frameworks using Page Object Model (POM).\n* Strong understanding of API testing using Postman, RestAssured or Karate.\n* Experience with CI/CD tools such as Jenkins, GitHub Actions or GitLab CI.\n* Good understanding of Git, version control, branching strategies and code reviews.\n* Strong SQL knowledge and experience in database validation.\n* Experience in functional, regression, integration and end-to-end testing.\n* Familiarity with Agile/Scrum methodologies and defect management tools such as Jira.\n* Experience with test management tools such as TestRail, Zephyr or Xray.\n* Ability to troubleshoot automation failures and provide timely resolutions.\n* Meticulous with an eye for detail.\n* Going beyond the call of duty.\n* Willingness to learn and take initiative.\n* Passion to work with people for the people.\n\n**Recruitment Process**\n\n* Write to us with your CV at hr@presolv360.com. Mention ‘ **Senior QA Engineer**’ in the subject line.\n* Shortlisted candidates will be contacted for two rounds of interviews.\n* Your compensation will be decided based on your skill, experience and final assessment.\n\nBenefits:\n\n* Health insurance\n* Paid sick time\n* Paid time off\n* Provident Fund\n\nWork Location: Remote",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: api, apis, application, applications, applications.",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "hr@presolv360.com",
+    "subject": "Application for QA Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Edgecraft Solutions Pvt Ltd,\n\nI am writing to apply for the QA Engineer role. I am a Senior Software Engineer, 7+ years, and my background in api, apis, application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "3bd65d5c3ff1": {
    "id": "3bd65d5c3ff1",
@@ -11666,15 +11741,32 @@
    "emails": [],
    "description": "**About us**\n\nHyperproof is on a mission to transform the Governance, Risk, and Compliance (GRC) world with a powerful new software platform. With Hyperproof, companies can save time and money while also operating their programs at a much higher level of effectiveness and accountability. We envision a world where organizations we depend on are truly trustworthy - and Hyperproof is the platform that will get them there.\n\nWe have a great team and culture - picture yourself in a highly collaborative startup environment where you can make a real impact on something truly important. It's an exciting time to be at Hyperproof; we raised our Series B round in 2023, validating our teamwork and company vision, and we continue to grow rapidly.\n\nWe are seeking a driven Mid-Senior AI Engineer with a proven track record of building, deploying, and managing modern AI applications. As a valuable contributor to our engineering team, you will work closely with peers and our product team to develop AI-forward features that support our core platform. You will build services and intelligent agents that help our customers automate their everyday tasks. Since we are in compliance, verifiable results, provable outcomes, and robust guardrails are all critical aspects of our AI feature development. You will play a crucial role in growing our AI capabilities, with an emphasis on high-precision RAG pipelines and spec-driven development to deliver responsible, customer-facing solutions quickly. This is a hands-on, highly technical role for someone passionate about agentic systems and creating tangible product impact.\n\n**WHO YOU ARE:**\n\nYou are an AI Engineer who is passionate about building advanced, intelligent services and systems. You have hands-on experience designing and delivering AI applications, managing agents, and optimizing vector databases. You understand that the customer experience is critical, and AI features must deliver business value in order to be worthwhile. You thrive in a fast-paced environment, possess a deep understanding of constraint spaces and AI safety guardrails, and are excited to develop reliable AI-centric features that redefine how users interact with our platform.\n\n**WHAT YOU WILL DO:**\n\n* **Build and Manage Agents:** Design, deploy, and manage AI agents using modern agentic technologies, ensuring robust performance within defined constraint spaces and safety guardrails.\n* **RAG Optimization:** Develop and manage complex RAG (Retrieval-Augmented Generation) pipelines, actively tuning and optimizing for high recall and precision.\n* **Spec-Driven Development:** Partner closely with product managers to translate industry requirements into technical specifications, utilizing spec-driven development to build reliable AI features.\n* **Model Integration & Evals:** Work with foundation models via APIs to enable use cases like document summarization and intelligent search. Establish and apply evaluation design patterns to rigorously test, measure, and improve model outputs.\n* **Backend Architecture:** Design and code robust backend architecture components heavily utilizing Postgres, REST APIs, queueing, storage systems, RBAC, encryption, and security.\n* **Quality & Operations:** Write automated tests, manage version control and collaborative workflows via GitHub, and build monitoring and system health metrics.\n* **Continuous Learning:** Stay up-to-date with AI advancements to ensure our engineering practices remain at the leading edge of AI adoption.\n\n**WHAT YOU WILL BRING:**\n\n* 4+ years of software engineering experience, including 18+ months working directly on AI-powered features, agents, or applications.\n* Deep, practical experience using **Claude Code**.\n* Hands-on experience building AI applications and integrating LLM-based features in production.\n* Strong familiarity with measurement of AI agent performance (recall and precision metrics) Proven ability to build and manage AI agents, with a solid understanding of agent technologies, constraint spaces, and evaluation design patterns.\n* Strong proficiency in backend development, featuring deep experience with Postgres and asynchronous programming (e.g., Node.js, TypeScript, Python, Go, and/or Java).\n* Experience managing codebases and collaborative workflows using GitHub.\n* Experience working with REST APIs using JSON and delivering scalable, reliable, maintainable software.\n* Familiarity with Azure and/or AWS for deployment, debugging, and operations.\n* Bachelor's degree in computer science, mathematics, or a related field.\n\n**LOCATION**\n\nFully remote, working from India; *To facilitate effective collaboration with our distributed engineering teams, this role requires availability to work during the afternoon and evening hours (India Standard Time).*\n\n**Compensation**\n\n* ₹2,137,000 - ₹3,000,000\n\n**CANDIDATE EXPERIENCE**\n\nWe respect your time and aim for transparency throughout the interview process. You can expect:\n\n* A Take Home Assessment\n* A 30-minute initial chat with our Principal People & Talent Partner.\n* Three 60-minute 1:1 interviews with members of our engineering team, one of them who will be the hiring manager.\n\nThis process allows both parties to ask questions and gauge fit for the team.\n\n**WHERE YOU'LL GO**\n\n* Hyperproof also loves to see an internal transfer. If a linear career path is not what you're looking for, you can work with your manager and our people team to explore lateral moves to other parts of the organization as you continue to grow with us.\n\n**WHAT WE OFFER TO OUR EMPLOYEES**\n\n**Please note: Benefits listed below are for employees in the United States; contractor roles or international positions may differ**\n\n* Annual compensation reviews + equity\n* Unlimited PTO: strongly encouraged to unplug and recharge\n* Health: coverage for medical, dental, and vision - employee and dependents\n* 401K, which vests immediately, complete with a 4% company match\n* 12 weeks of Parental leave and 1 year free diapers and wipes with Honest\n* Annual company in-person events and quarterly in-person connects\n* $500 home office stipend - at the time of hire. Any additional home office needs are requested as needed.\n* $100 quarterly paid wellness stipend\n* Pet insurance discount\n* Slack channel notifications turn off after 5 pm based on your time zone\n* Two Hypercharge weeks of rest where we close company-wide (July & Dec)\n\nIt's an exciting time to be at Hyperproof — we recently raised $40 million in our Series B financing, further cementing Hyperproof as the emerging leader in the risk and compliance management space.\n\nAt Hyperproof's core are our passionate team members who focus on user experience, beautiful design, and evangelize a positive social impact of our cloud based platform. We help organizations streamline their risk and compliance workflows so our customers can spend more time strategically managing programs and less time wrangling spreadsheets.\n\nWe are disrupting the governance, risk, and compliance software space with our innovative platform by helping traditionally unsung heroes (compliance professionals) **do the right things so the wrong things don't happen.**\n\nLearn more about the @hyperproof culture and how it all started.\n\n**A NOTE ABOUT OUR INTERVIEW PROCESS**\n\nWe're committed to creating a fair, respectful, and secure hiring experience for everyone. As part of that commitment, we use standard verification steps throughout our interview process.\n\nHere's what that means for you:\n\n* We may conduct routine verification checks during the hiring process.\n* You might be asked additional questions to better understand your experience and background.\n* For video interviews, we ask that candidates be on camera without filters or visual modifications.\n\nThese steps are applied consistently for all candidates and are designed to ensure an equitable experience for everyone.\n\n**EQUAL OPPORTUNITY EMPLOYER**\n\nHyperproof is committed to a diverse and inclusive workplace — it's one of o",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: agents, also, apis, applications, applications.",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for AI Software Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at HYPERPROOF,\n\nI am writing to apply for the AI Software Engineer role. I am a Senior Software Engineer, 7+ years, and my background in agents, also, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "bc9f039a451c": {
    "id": "bc9f039a451c",
@@ -11692,15 +11784,32 @@
    ],
    "description": "Job Description\n\nHi, I'm Arpana D.R, your Recruiter and guide to joining CSG! We are excited to learn more about you and your unique background.\n\nAt CSG, you're more than your resume. We want your diverse perspective and unique background to help us enrich the work we do together. We believe that by channelling the power of all, we make ordinary customer and employee experiences extraordinary.\n\nThis is your opportunity to join one of our high-performing teams. Channel the power of YOU and begin the journey to becoming a CSGer.\n\nWe are looking for a highly talented and motivated individual to join our team as a Software Dev Engr II. You will have the opportunity to work with other developers and senior engineers to deliver high quality solutions using modern technologies such as .NET Core, C#, AWS Cloud Services, Jenkins CI/CD pipeline and more.\n\n**We are looking for Senior Software Development Engineer** **who will:**\n\n• Design and develop high-quality web applications and robust backend services/APIs using .NET Core and C#.\n\n• Work closely with product owners, stakeholders and users to gather requirements and feedback\n\n• Participate in code reviews and sprint ceremonies\n\n* undefined\n* undefined\n* undefined\n* undefined\n* undefined\n\n**Is this opportunity right for you? We are looking for candidates who have:**\n\nBachelor’s degree or equivalent experience in Computer Science or related field\n\n* 3+ years of industry experience as a software engineer building enterprise level applications\n* Strong experience with programming in C#, .NET Core, ASP.Net and relational databases like SQL Server or Oracle\n* Experience with AWS cloud is a plus\n* Familiarity with continuous integration and continuous deployment pipelines with Jenkins\n* Excellent communication skills both written and verbal\n* Ability to manage multiple concurrent tasks and projects\n* Passion for learning new technologies and adapting to changing business needs\n* Knowledge of agile principles and scrum methodology.\n\n**CSGer Perks & Benefits:**\n\n* In-office, or hybrid\n* Employee Belonging Groups\n* Healthcare: Dental, Medical, and Vision\n* Paid Vacation, Volunteer, and Holiday Time Off\n* And so much more!\n\n**Location(s):**\n\nIndia Remote\n\n**Accommodation:**\n\nIf you would like to be considered for employment opportunities with CSG and need special assistance due to a disability or accommodation for a disability throughout any aspect of the application process, please call us at +1 (402) 431-7440 or email us at accommodations@csgi.com. CSG provides accommodations for persons with disabilities in employment, including during the hiring process and any interview and/or testing processes.\n\n**Our Guiding Principles:**\n\n**Impact:** Always help and empower others, whether they’re colleagues or customers. When our employees set their minds to something, great things happen.\n\n**Integrity:** Do what’s right for our customers and our people while being authentic. We treat everyone with trust and respect—that’s just who we are.\n\n**Inspiration:** Be bold in the way you think and passionate about the work you do. Test out innovative ideas without the fear of failure.\n\n**Our Story:**\n\nCSG empowers companies to build unforgettable experiences, making it easier for people and businesses to connect with, use and pay for the services they value most. For over 40 years, CSG's technologies and people have helped some of the world's most recognizable brands solve their toughest business challenges and evolve to meet the demands of today's digital economy.\n\nBy channeling the power of all, we make ordinary customer and employee experiences extraordinary. Our people [CSGers] are fearlessly committed and connected, high on integrity and low on ego, making us the easiest company to do business with and the best place to work. We power a culture of integrity, innovation, and impact across our locations, representing the most authentic version of ourselves to build a better future together. That's just who we are. Learn more about CSG Inclusion & Impact here.",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 98"
     }
-   ]
+   ],
+   "score": 98,
+   "reasons": [
+    "Matched: apis, application, applications, aws, bachelor",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "accommodations@csgi.com",
+    "subject": "Application for Software Dev Engr II - Taniya Malviya",
+    "body": "Dear Hiring Team at CSG,\n\nI am writing to apply for the Software Dev Engr II role. I am a Senior Software Engineer, 7+ years, and my background in apis, application, applications matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "84fb1a8b913d": {
    "id": "84fb1a8b913d",
@@ -11716,15 +11825,38 @@
    "emails": [],
    "description": "**Full-Stack App Developer**Equity-Based Founding Team Role\n\n**Company:** BizVidya  \n **Designation:** Full-Stack App Developer  \n **Location:** Remote / Hybrid  \n **Engagement:** Part-time  \n **Work Arrangement:** Hybrid / Remote  \n **Time Commitment:** Approximately 20 hours per week  \n **Compensation:** Equity-based; no fixed salary until the company secures funding and stabilises revenue.\n\n**About BizVidya**\n\nBizVidya is an EdTech venture focused on developing innovative, technology-driven learning solutions to make education more accessible, engaging and outcome-oriented.\n\nOur vision is to build a scalable digital learning ecosystem integrating technology, structured educational programmes, interactive learning experiences, digital content and personalised learning solutions.\n\nWe are looking for a technically strong and entrepreneurial Full-Stack App Developer who can take ownership of application development, technology architecture and deployment while working closely with the founder, product team and other stakeholders.\n\n**Key Responsibilities**\n\n1. **Mobile Application Development:** Develop and maintain mobile applications with intuitive interfaces, seamless navigation, user authentication, learning modules and interactive features.\n\n2. **Frontend Development:** Build responsive and user-friendly web interfaces, student dashboards, learning portals, administrative panels and other application components.\n\n3. **Backend Development:** Design and develop scalable backend systems, APIs, business logic, authentication mechanisms and application services.\n\n4. **Database Management:** Design, manage and optimise database architecture, data models, storage systems and application data workflows.\n\n5. **Learning Platform Integration:** Develop features for course management, user enrolment, learning progress tracking, assessments, quizzes, certificates and content delivery.\n\n6. **Technology Architecture:** Contribute to technology selection, system architecture, code quality, application performance, scalability and security.\n\n7. **Third-party Integrations:** Integrate payment gateways, communication tools, analytics platforms, cloud services and other relevant external APIs.\n\n8. **Testing & Deployment:** Take responsibility for application testing, debugging, deployment, maintenance, version management and continuous improvements.\n\n9. **Product Development Collaboration:** Work closely with UI/UX designers, product owners, business analysts and educational content teams to convert product requirements into functional technology solutions.\n\n10. **Technical Documentation & Ownership:** Maintain code repositories, technical documentation, development workflows and deployment processes while taking ownership of the overall technology development lifecycle.\n\n**Required Skills & Qualifications**\n\n* Degree or relevant background in Computer Science, Information Technology or Software Engineering preferred.\n* Strong knowledge of frontend and backend development.\n* Experience with technologies such as React, React Native, Flutter, Node.js, Python or equivalent frameworks.\n* Understanding of REST APIs, database management, authentication and cloud infrastructure.\n* Experience in mobile application and web application development.\n* Familiarity with Git, version control, testing and deployment workflows.\n* Understanding of application security, performance optimisation and scalable architecture.\n* Ability to independently troubleshoot technical problems and deliver functional solutions.\n* Strong communication, collaboration and problem-solving skills.\n* Entrepreneurial mindset with a strong sense of ownership.\n\n**Preferred Experience:** EdTech platforms, LMS development, e-learning applications, SaaS products, online assessment systems or interactive digital learning platforms.\n\n**Equity & Engagement Structure**\n\n* Equity-based founding-team opportunity.\n* Part-time engagement of approximately 20 hours per week.\n* Hybrid/remote working arrangement.\n* No fixed salary or monthly compensation until the company secures funding and stabilises revenue.\n* Equity participation based on technical expertise, contribution, ownership and long-term commitment.\n* Formal founding-team agreement with a 5-year vesting structure.\n* Initial selection process involves 3-4 strategic discussions, followed by a one-month NDA-based collaboration before finalising the founding-team agreement.\n\n**Opportunity**\n\nThis is an opportunity to become a core technology contributor in building an emerging EdTech platform from its early stages.\n\nYou will have the opportunity to influence technology architecture, product development decisions and the overall digital learning experience.\n\nWe are looking for someone who goes beyond coding assigned features and is willing to take end-to-end ownership of technology development, collaborate with the product team and contribute to building a scalable and impactful EdTech business.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "low_match",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "low_match",
+     "note": "score 38"
     }
-   ]
+   ],
+   "score": 38,
+   "reasons": [
+    "Matched: Part time, System architecture, Application",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "Technical documentation",
+    "Edtech",
+    "Information technology",
+    "Science",
+    "Equity"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full-stack app developer (Part-time, Equity only, EdTech) - Taniya Malviya",
+    "body": "Dear Hiring Team at PD Consulting,\n\nI am writing to apply for the Full-stack app developer (Part-time, Equity only, EdTech) role. I am a Senior Software Engineer, 7+ years, and my background in Part time, System architecture, Application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "d69dc9b3f8dc": {
    "id": "d69dc9b3f8dc",
@@ -11740,15 +11872,32 @@
    "emails": [],
    "description": "**Position:** Backend Developer  \n**Employment Type:** Full-Time / Internship  \n**Location:** Pune / Remote  \n**Experience:** 0–2 years\n\nAbout the Role\n\nWe are looking for a **Backend Developer** who can design, develop, and maintain reliable server-side applications and REST APIs. You will work closely with frontend developers to build scalable, secure, and efficient web applications.\n\nKey Responsibilities\n\n* Develop and maintain **RESTful APIs** and backend services.\n* Build server-side applications using **Node.js and Express.js**.\n* Design and manage databases using **MongoDB**.\n* Implement authentication, authorization, and role-based access control.\n* Integrate third-party APIs and external services.\n* Write clean, reusable, and maintainable JavaScript code.\n* Optimize API performance and database queries.\n* Implement proper error handling, validation, logging, and security practices.\n* Collaborate with frontend developers to integrate APIs with web applications.\n* Debug issues and improve application reliability.\n* Work with Git/GitHub for version control and collaborative development.\n* Participate in code reviews and contribute to technical documentation.\n\nRequired Skills\n\n* Strong knowledge of **JavaScript (ES6+)**.\n* Good understanding of **Node.js and Express.js**.\n* Experience with **MongoDB** and database design.\n* Understanding of **REST APIs** and HTTP methods.\n* Knowledge of **JWT authentication** and authorization.\n* Familiarity with **Git and GitHub**.\n* Understanding of asynchronous programming, promises, and error handling.\n* Basic understanding of web security and API security.\n\nQualifications\n\n* B.Tech/B.E./BCA/MCA or equivalent degree in Computer Science or a related field.\n* Freshers with strong backend projects are welcome to apply.\n* Candidates should have a good understanding of backend development fundamentals.\n\nWhat You'll Get\n\n* Opportunity to work on **real-world projects**.\n* Hands-on experience with production-level backend systems.\n* Mentorship from experienced developers.\n* Exposure to API development, databases, authentication, and deployment.\n* Collaborative and growth-oriented work environment.\n\nPreferred Tech Stack\n\n**JavaScript → Node.js → Express.js → MongoDB → REST API → Git/GitHub**\n\nPay: ₹10,000.00 - ₹20,000.00 per month\n\nBenefits:\n\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: api, apis, application, applications, applications.",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Backend Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at We-intern,\n\nI am writing to apply for the Backend Developer role. I am a Senior Software Engineer, 7+ years, and my background in api, apis, application matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "fdcb952af9f5": {
    "id": "fdcb952af9f5",
@@ -11764,15 +11913,32 @@
    "emails": [],
    "description": "Thinkgrid Labs is at the forefront of innovation in custom software development. Our expert team of software engineers, architects, and UI/UX designers specializes in crafting bespoke web, mobile, and cloud applications, along with AI solutions and intelligent bots. Serving a diverse range of industries—including accounting, legal, healthcare, education, and real estate—we have a global client base across five continents. Our commitment to quality and passion for technological advancement drives us to push boundaries and set new standards. We’re expanding our team with smart and creative individuals who are passionate about building high-performance, user-friendly, flexible, and maintainable software.  \n  \n**We are hiring software engineers to work on projects for clients outside of India and so excellent oral and written communication skills are a must.**  \n  \n**Job Title**: Next.js Full Stack Engineer (Remote from India)  \n**Location**: Remote  \n**Working Hours**: 3 PM IST to 12 AM IST  \n**Experience Required**: Minimum 3 years  \n**Education**: Bachelor’s or Master’s degree in Computer Science or a related field.  \n  \n**Who are you?**\n\n  \n\n* **Next.js & Node.js Proficiency:** You are experienced with Next.js 15+ and Node.js, comfortable with modern JavaScript (ES6+) and TypeScript features, including async/await, classes, and destructuring.\n* **Front-End Expertise:** You are skilled in React.js (React 18+), with a strong grasp of modern state management tools like Zustand, Redux, or the Context API.\n* **API Development:** You are proficient in building and consuming RESTful APIs and familiar with GraphQL.\n* **Database Experience:** You have hands-on experience with non-relational databases such as MongoDB (experience with MongoDB Atlas is a plus) or DynamoDB.\n* **Cloud Enthusiast:** You are eager to work with cloud technologies like AWS, Azure, or Google Cloud Platform. Familiarity with serverless architectures and microservices is a bonus.\n* **Version Control & Collaboration:** You are proficient with Git and have experience in collaborative workflows using platforms like GitHub or GitLab.\n* **Modern Tooling:** You are familiar with bundlers and build tools like Webpack, Vite, or Rollup, and automation tools like PM2 or Docker.\n* **Quality Focused:** You are committed to writing clean, maintainable code with a focus on testing and documentation.\n* **Problem Solver:** You have strong analytical and problem-solving skills with a knack for tackling complex challenges.\n* **Team Player:** You are able to work both independently and collaboratively within an agile team environment.\n* **Excellent Communicator:** You have outstanding verbal and written communication skills, essential for interfacing with international clients.\n* **Passionate & Humble:** You are enthusiastic about technology and continuous learning, with a humble attitude towards teamwork and collaboration.\n* **Educational Background:** You hold a Bachelor’s or Master’s degree in Computer Science or a related field.\n* **Experience:** You have 3+ years of full-stack development experience in a professional setting.\n\n**What you will be doing?**\n\n  \n\n* **Develop Cutting-Edge Applications:** You will build and maintain high-quality web applications using Next.js, React, and Node.js.\n* **Full Ownership:** You will manage the entire software development lifecycle—from ideation and refinement of tasks to deploying code in production environments.\n* **Maintain Code Quality:** You will ensure code is maintainable and scalable through comprehensive documentation and automated testing practices.\n* **Optimize Performance:** You will evaluate designs for performance bottlenecks and implement solutions to enhance scalability, latency, security, and data integrity.\n* **Cloud Infrastructure:** You will provision and manage cloud infrastructure components, including storage solutions, web servers, and databases on platforms like AWS or Azure.\n* **Code & Design Reviews:** You will engage in peer reviews to uphold high development standards and share best practices.\n* **Innovate & Recommend:** You will stay abreast of emerging technologies and propose tools or methodologies to improve system performance and developer productivity.\n* **Monitoring & Alerting:** You will utilize monitoring tools and logging systems to track application performance and respond to incidents.\n* **Support Leadership:** You will assist engineering managers with technical decision-making processes and provide accurate estimations for project planning.  \n    \n  **Benefits**\n* 5 day work week (unless for rare emergencies)\n* Health Insurance",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, api, apis, applications, automation",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Engineer (Remote) - Taniya Malviya",
+    "body": "Dear Hiring Team at Thinkgrid Labs,\n\nI am writing to apply for the Full Stack Engineer (Remote) role. I am a Senior Software Engineer, 7+ years, and my background in across, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "e48304f37baf": {
    "id": "e48304f37baf",
@@ -11788,15 +11954,32 @@
    "emails": [],
    "description": "**About Us**  \nPA Logistics Group and PA Transport run a freight brokerage, asset-based trucking, international forwarding and supply chain consulting business, with a focus on life sciences and pharma. We built our own TMS, and the business has outgrown it. We need one strong engineer to own our technology: rebuild the platform, connect it to how our operations actually run, and use AI to automate the manual work. We're on a mission to build a $200 million logistics company, and the system you build is what we'll run on to get there.\n\n**What You'll Do**\n\n* Keep the current CodeIgniter/Laravel system running while you lead the rebuild in NestJS, Next.js and PostgreSQL\n* Build and maintain integrations: carrier onboarding, GPS tracking, banking APIs, customer and carrier portals\n* Ship AI features that do real work, like document extraction and verification, using LLM APIs and tools like n8n\n* Own security day to day: access control, secrets, backups, logging, patching\n* Decide the architecture yourself and document it so nothing lives only in your head\n* Help hire and lead the second engineer as the team grows\n\n**Who Should Apply**  \nWe're looking for an A player. You've got 6+ years of full-stack experience, with production work in PHP/Laravel and Node/TypeScript. You've built LLM integrations in production, not just tutorials. You have solid security habits, experience with AWS or GCP, strong written English, and you write things down. Logistics or freight tech experience is a big plus.\n\nThis isn't a ticket queue on a big team. You'll be our first in-house engineer, in the room for the big decisions, and you'll see what your work does to the business every week. If you've wanted to build something from the ground up and grow with it, this is it.\n\n**Schedule and Compensation**\n\n* Full-time, salaried, long-term\n* 40+ hours weekly\n* At least 4 hours daily overlap with US Pacific time\n* Reliable power backup (UPS) and backup internet required\n* Pay: USD [range]/month, plus retention bonuses at 6 and 12 months\n* Paid take-home project as part of the interview process\n\n**How to Apply**\n\n* Your GitHub or work samples\n* One paragraph on the hardest integration you've built\n* A 60 to 90 second audio intro (voice note or MP3, no video) covering:\n* Who you are and what you've built in the last 2 years\n* One AI integration you shipped to production and what broke along the way\n* Why you want to own a system yourself instead of working as one dev on a big team\n\nApplications without an audio intro won't be reviewed.\n\nPay: ₹108,000.00 - ₹306,000.00 per month\n\nApplication Question(s):\n\n* How many years of professional full-stack development experience do you have?\n* Describe one security problem you found or fixed in a production system. What was it, and what did you change?\n* Have you shipped an LLM or AI integration that's running in production today\n* Can you work at least 4 hours daily, overlapping with US Pacific time (for example 12pm to 4pm California time\n* Do you have a UPS or generator backup and a second internet connection?\n* Are you available for full-time, long-term work, not alongside other client contracts\n* You inherit a legacy codebase with no docs and the original developers are leaving in 3 weeks. What do you do in week 1,2 and 3?\n* Have you worked on logistics, freight or supply chain software? If yes, what did you build?\n* Paste a link to your 60 to 90 second audio intro (Google Drive, Vocaroo or similar; audio only, no video) covering: who you are and what you've built in the last 2 years, one AI integration you shipped to production and what broke along the way, and why you want to own a system yourself instead of working as one dev on a big team.\n\nWork Location: Remote",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: apis, application, applications, architecture, aws",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Lead Software Engineer (AI & Integrations) | Logistics Tech | Remote, Full-Time - Taniya Malviya",
+    "body": "Dear Hiring Team at PA Transport,\n\nI am writing to apply for the Lead Software Engineer (AI & Integrations) | Logistics Tech | Remote, Full-Time role. I am a Senior Software Engineer, 7+ years, and my background in apis, application, applications matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "26ba5fb0e139": {
    "id": "26ba5fb0e139",
@@ -11812,15 +11995,32 @@
    "emails": [],
    "description": "Responsibilities➤ Application Development:\n\n* Design, develop, and implement user interfaces and user experiences for web applications.\n* Create and maintain well-structured, reusable, and efficient code for both front end and back end components.\n\n➤ Front-End Development:\n\n* Develop interactive and responsive user interfaces using HTML, CSS, Bootstrap, Ajax, Jquery and JavaScript frameworks.\n* Collaborate with designers to ensure seamless integration of design elements into the user interface.\n\n➤ Back-End Development:\n\n* Build and maintain server-side applications using programming languages such as PHP, Codeigniter, SQL and Laravel.\n* Design and optimize databases, write efficient queries, and manage data storage and retrieval.\n\n➤ API Development:\n\n* Develop APIs (Application Programming Interfaces) for seamless communication between front end and back end systems.\n* Ensure API security, performance, and adherence to industry standards.\n\n➤ Version Control and Deployment:\n\n* Use version control systems (e.g., Git) to manage code repositories and collaborate with team members.\n* Deploy applications to production environments and manage continuous integration and continuous deployment (CI/CD) pipelines.\n\n➤ Testing and Quality Assurance:\n\n* Write unit tests, integration tests, and perform debugging to ensure the reliability and quality of the software.\n* Collaborate with quality assurance teams to identify and fix bugs and issues.\n\n➤ Performance Optimization:\n\n* Monitor and optimize application performance, including front-end rendering, back-end response times, and database queries.\n\n➤ Collaboration:\n\n* Work closely with product managers, designers, and other developers to translate requirements into technical solutions.\n* Participate in code reviews and provide constructive feedback to team members.\n\nRequirements:\n\n* Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n* Proven experience of 1-2 years as a Full Stack Web Developer, with a strong portfolio of web applications.\n* Proficient in front-end technologies such as HTML, CSS, JavaScript, Bootstrap and modern JavaScript frameworks (e.g., React, Angular, Vue).\n* Expertise in back-end technologies such as PHP, and frameworks (e.g., Laravel, CodeIgnitor).\n* Experience with database systems (e.g., MySQL, PostgreSQL) and writing efficient SQL queries.\n* Solid understanding of RESTful APIs and microservices architecture.\n* Familiarity with version control systems (e.g., Git) and agile development methodologies.\n* Strong problem-solving skills and attention to detail\n* Excellent communication and collaboration skills.\n\nPreferred Qualifications:\n\n* Understanding of web performance optimization techniques.\n* Experience working with cloud platforms (e.g., AWS, Azure) and deploying web applications.\n* Knowledge of testing frameworks and continuous integration tools.\n\nPay: ₹300,000.00 - ₹550,000.00 per year\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: angular, api, apis, application, applications",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack PHP Web Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at MAYURA CONSULTANCY SERVICES,\n\nI am writing to apply for the Full Stack PHP Web Developer role. I am a Senior Software Engineer, 7+ years, and my background in angular, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "67f3145702d4": {
    "id": "67f3145702d4",
@@ -11836,15 +12036,32 @@
    "emails": [],
    "description": "**AI Automation & Full-Stack Developer**  \n**Company:** BlackRock Digital Marketing Agency **Payroll** :TBCS India  \n**Employment Type:** Permanent | Full-time  \n**Experience Required:** Minimum 5+ Years  \n**Salary:** ₹ upto 50,000 per month  \n**Work Location:** Remote – India  \n**Working Days:** Monday to Friday  \n**Shift:** Canadian Business Hours (Night Shift)\n\nAbout the Role\n\nBlackRock Digital Marketing Agency is looking for an experienced and technically proficient AI Automation & Full-Stack Developer who can develop AI-powered business automation solutions, handle website development and maintenance, and take ownership of coding and enhancing the Rafih Portal.\n\nThe role also involves business data analysis, automated report generation, preparing management reports and creating professional PowerPoint presentations.\n\nWe are looking for a hands-on professional with strong programming skills, practical AI integration experience and the ability to understand business data and translate requirements into effective technical solutions.\n\nThe ideal candidate should be capable of independently handling development projects, automating manual business processes and delivering accurate, professional reporting outputs.\n\nKey Responsibilities1. AI Automation & Process Development\n\n* Design, develop and implement AI-powered automation solutions for business processes.\n* Build automated workflows for data collection, processing, analysis and report generation.\n* Integrate AI models, LLMs, APIs and third-party applications into business workflows.\n* Automate repetitive manual tasks and develop scalable solutions to improve operational efficiency.\n* Use Python, AI APIs and automation platforms to develop intelligent business processes.\n* Monitor, maintain and troubleshoot automation workflows.\n* Identify opportunities to introduce AI and automation into existing operations.\n\n2. Rafih Portal Development & Coding\n\n* Take responsibility for the coding, development, maintenance and enhancement of the Rafih Portal.\n* Understand the existing portal architecture, codebase and functional requirements.\n* Develop new features, modules and functionalities based on business requirements.\n* Work with frontend, backend, databases and API integrations.\n* Troubleshoot technical issues, debug code and improve existing functionality.\n* Ensure the portal remains reliable, secure, responsive and user-friendly.\n* Maintain code quality, documentation and version control.\n\n3. Website Development & Maintenance\n\n* Develop, maintain and improve company and client websites.\n* Handle frontend and backend development requirements.\n* Implement website updates, new features and third-party integrations.\n* Troubleshoot website issues and improve performance.\n* Ensure responsive design, functionality and cross-browser compatibility.\n* Handle ongoing technical improvements and website maintenance.\n\n4. Data Analysis, Reporting & Presentations\n\n* Collect, download, consolidate and analyse business data from multiple sources.\n* Review and validate data, identify discrepancies and ensure reporting accuracy.\n* Prepare business performance reports, analytical summaries, dashboards and management presentations.\n* Create professional PowerPoint presentations with charts, graphs, data visualisations and meaningful insights.\n* Work extensively with Excel, Google Sheets and other reporting tools.\n* Develop automated systems to generate recurring reports and presentations.\n* Use Python, AI tools and APIs to automate data processing, analysis and reporting.\n* Interpret data accurately and present findings in a clear, structured and professional manner.\n* Ensure reports are accurate, consistent and delivered within deadlines.\n\n5. Technical Execution & Collaboration\n\n* Understand business requirements and translate them into practical technical solutions.\n* Independently manage assigned automation, reporting and development projects.\n* Maintain structured, reusable and well-documented code.\n* Research and implement relevant technologies to improve business processes.\n* Coordinate with management and internal teams to understand requirements and deliver solutions.\n* Take ownership of assigned tasks and ensure timely project completion.\n\nRequired Technical Skills\n\n**Programming & Development**\n\n* Strong practical programming knowledge in Python and/or JavaScript.\n* Working knowledge of HTML, CSS and modern frontend frameworks such as React.\n* Understanding of backend development and server-side programming.\n* Experience working with REST APIs, databases and third-party integrations.\n* Practical experience developing and maintaining websites and web-based applications.\n* Familiarity with Git/GitHub, debugging and deployment processes.\n\n**AI & Automation**\n\n* Hands-on experience with AI tools, LLMs and AI API integrations.\n* Knowledge of OpenAI APIs or equivalent AI platforms.\n* Experience developing Python-based automation scripts and workflows.\n* Familiarity with n8n, Make, Zapier or equivalent automation platforms.\n* Ability to build automated data processing and reporting systems.\n\n**Reporting & Data Analysis**\n\n* Strong MS Excel and Google Sheets skills.\n* Experience with data analysis, data validation and reporting.\n* Ability to create dashboards, charts and analytical summaries.\n* Strong PowerPoint skills and professional presentation development.\n* Ability to interpret business data and communicate meaningful insights.\n\nEducational Qualifications\n\n* Bachelor's degree in Computer Science, Information Technology, Software Engineering or a related technical discipline.\n* Equivalent technical qualifications may be considered where supported by substantial practical experience and demonstrable project work.\n\nExperience Requirements\n\n* Minimum 5+ years of relevant professional experience in software development, full-stack development, AI automation or related technical roles.\n* Demonstrable experience developing and implementing working automation solutions.\n* Experience with website development, web applications or portal development.\n* Practical experience with API integrations and database management.\n* Ability to independently analyse data, prepare business reports and create professional PowerPoint presentations.\n* Candidates should be able to demonstrate completed projects and explain their individual technical contributions.\n\nEssential Work Requirements\n\n* Permanent, full-time position.\n* Monday to Friday working schedule.\n* Dedicated night shift aligned with Canadian business hours.\n* Current winter shift: 6:30 PM to 3:30 AM IST, inclusive of a designated break.\n* Shift timing will adjust according to Canadian Daylight Saving Time changes.\n* Candidates must have their own laptop/desktop computer suitable for development and automation work.\n* Reliable high-speed internet connection and preferably power backup.\n* Good written and verbal English communication skills.\n* Ability to work independently and coordinate with a remote team.\n* Looking for candidates interested in a stable, long-term professional association of ideally two years or more.\n\nSalary & Employment Details\n\n* Monthly Salary: ₹upto 50,000.\n* Permanent, full-time employment.\n* Monday–Friday working schedule.\n* Remote opportunity for candidates across India.\n\nApplication Requirements\n\nInterested candidates should submit:\n\n* Updated resume highlighting relevant technical experience.\n* GitHub profile or portfolio showcasing completed projects.\n* Examples of AI automation workflows or solutions personally developed.\n* Examples of websites, portals or applications developed or maintained.\n* Examples of reporting dashboards, analytical reports or PowerPoint presentations, where available.\n* strong communication skills\n\n**We are looking for a hands-on developer who can code, build AI-powered automation, develop web applications, analyse business data and deliver professional reports and presentations. Candidates with only theoretical knowledge o",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: also, api, apis, applications, architecture",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for AI Automation & Full-Stack Developer (Reporting & Portal Development) - WFH - Taniya Malviya",
+    "body": "Dear Hiring Team at Rafih Auto Group,\n\nI am writing to apply for the AI Automation & Full-Stack Developer (Reporting & Portal Development) - WFH role. I am a Senior Software Engineer, 7+ years, and my background in also, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "c672951f25c6": {
    "id": "c672951f25c6",
@@ -11860,15 +12077,32 @@
    "emails": [],
    "description": "PieHost / PieLancer is looking for talented Software Developers and Full-Stack Developers to join our growing freelance talent network. Developers will have the opportunity to work on real-world projects for startups, businesses, and growing companies across various industries.\n\nThrough PieLancer, developers can connect directly with clients, collaborate on software projects, build their portfolios, and work on opportunities ranging from website development and API integrations to SaaS products and cloud-based applications.\n\nWe welcome experienced professionals, freelancers, agencies, and students or early-career developers with strong technical skills and demonstrable projects.\n\nResponsibilities\n\n* Develop and maintain responsive websites, web applications, and SaaS products.\n* Build frontend interfaces and backend systems.\n* Design, develop, and integrate REST APIs, GraphQL APIs, and third-party services.\n* Work with databases and ensure reliable data management and application performance.\n* Develop real-time features, chat systems, WebSocket integrations, and notification systems.\n* Deploy applications and manage cloud infrastructure where required.\n* Work with clients to understand project requirements and deliver solutions on time.\n* Collaborate with clients throughout project milestones and development cycles.\n* Write clean, maintainable, secure, and well-documented code.\n* Troubleshoot bugs, optimize application performance, and maintain existing projects.\n\nTechnical Skills\n\nCandidates should have experience in one or more of the following areas:\n\n**Frontend Development**\n\n* React.js, Vue.js\n* HTML5, CSS3, JavaScript\n* Responsive web design\n\n**Backend Development**\n\n* Node.js, Laravel, Python\n* Backend architecture and server-side development\n\n**Databases**\n\n* SQL, PostgreSQL, PieDB\n* Database design and optimization\n\n**Cloud & DevOps**\n\n* AWS\n* Docker and containerization\n* CI/CD pipelines\n* PieApp and PieBox\n\n**APIs & Real-Time Development**\n\n* REST APIs and GraphQL\n* Webhooks and third-party integrations\n* WebSockets, WebRTC, PieSocket\n\n**Email & Notifications**\n\n* SMTP and email integrations\n* PieMail\n* Push notifications and messaging systems\n\nWho Can Apply?\n\n* Full-Stack Developers\n* Frontend Developers\n* Backend Developers\n* Software Engineers\n* API Developers\n* Cloud & DevOps Engineers\n* Freelance Developers\n* Development Agencies\n* Technology Consultants\n* Students and entry-level developers with relevant projects and skills\n\nWhat We Offer\n\n* Remote and flexible work opportunities\n* Access to real-world projects from clients\n* Fixed-price, hourly, and monthly contract opportunities\n* Direct communication and collaboration with clients\n* Secure milestone-based payments through escrow\n* Opportunities to build your portfolio and professional experience\n* Access to projects across multiple technologies and industries\n* Flexible project schedules based on client requirements\n\nHow the Selection Process Works\n\n* **Apply:** Submit your developer profile, skills, and portfolio.\n* **Technical Screening:** Complete the relevant skills assessment or technical vetting.\n* **Approval:** Get approved to join the PieLancer talent network.\n* **Project Matching:** Explore relevant projects and submit proposals.\n* **Development:** Work with clients and deliver projects through agreed milestones.\n* **Payment:** Receive payments for completed and approved work.\n\nHow to Apply\n\nInterested developers, freelancers, agencies, and consultants can register and submit their profiles through:\n\n**Website:** https://piehost.com/hire\n\nJoin PieLancer to connect with clients, work on real-world projects, and grow your career as a software developer.\n\n**Build. Deliver. Grow with PieLancer.**\n\nPay: ₹70,000.00 - ₹100,000.00 per year\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: Remote",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, api, apis, application, applications",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Software Developer Pielancer - Taniya Malviya",
+    "body": "Dear Hiring Team at Piehost,\n\nI am writing to apply for the Software Developer Pielancer role. I am a Senior Software Engineer, 7+ years, and my background in across, api, apis matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "1390d72ece5f": {
    "id": "1390d72ece5f",
@@ -11884,15 +12118,35 @@
    "emails": [],
    "description": "**Job Type**    \n\n* Freelance / Full-Time\n* Remote (Anywhere)\n\n  \n   \n  **Job Summary**    \n\nThe Full Stack Developer will build and maintain both front-end and back-end components of client websites and applications. You will ensure seamless functionality, scalability, and performance across platforms. Your work will directly impact client satisfaction and the delivery of high-quality digital solutions.\n\n  \n   \n  **Requirements**    \n\n* Proficient in HTML, CSS, JavaScript, and backend technologies (Node.js, PHP, Python, etc.)\n* Experience with database management (MySQL, MongoDB, etc.)\n* Knowledge of REST APIs and web services\n* Ability to collaborate with designers, marketers, and project managers\n* Strong problem-solving skills and attention to detail\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
    "found_at": "2026-11-24T14:09:52+00:00",
-   "status": "new",
-   "updated_at": "2026-11-24T14:09:52+00:00",
+   "status": "review",
+   "updated_at": "2026-11-24T14:09:55+00:00",
    "history": [
     {
      "at": "2026-11-24T14:09:52+00:00",
      "status": "new",
      "note": "found on naukri"
+    },
+    {
+     "at": "2026-11-24T14:09:55+00:00",
+     "status": "review",
+     "note": "score 75"
     }
-   ]
+   ],
+   "score": 75,
+   "reasons": [
+    "Matched: Full Stack, Backend, Web services, Management, Web technologies",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [
+    "PHP",
+    "Front"
+   ],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at Equafusion,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in Full Stack, Backend, Web services matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   }
  },
  "runs": [
