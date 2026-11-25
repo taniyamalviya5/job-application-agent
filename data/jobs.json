@@ -12147,6 +12147,297 @@
     "subject": "Application for Full Stack Developer - Taniya Malviya",
     "body": "Dear Hiring Team at Equafusion,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in Full Stack, Backend, Web services matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
    }
+  },
+  "7c17d8e5545d": {
+   "id": "7c17d8e5545d",
+   "site": "naukri",
+   "title": "Principle Engineer",
+   "company": "Techdome Solutions",
+   "location": "Indore, India",
+   "job_url": "https://www.naukri.com/job-listings-principle-engineer-techdome-solutions-indore-6-to-11-years-251126501361",
+   "apply_url": "https://techdome.keka.com/careers/jobdetails/171303",
+   "date_posted": "2026-11-25",
+   "experience": "6-11 Yrs",
+   "skills": "Data modeling, Postgresql, Auditing, HIPAA, Healthcare, Distribution, Modeling, System architecture",
+   "emails": [],
+   "description": "**The Role**\n\nOur clients build in healthcare, fintech, and payments, where an architecture mistake can become a compliance failure. As Principal Engineer, you ll be the person who makes those architecture calls. You ll set the technical direction, decide how systems are built and secured, and stay hands-on enough to prove your designs in code. Our Senior Full-Stack Engineers build features within the architecture you define.\n\n**About Techdome**\n\nTechdome is a product-driven engineering organization building production-grade solutions across FinTech, Healthcare, AI, and SaaS. Our products include  JustInterview.ai  (AI hiring) and Sparrow (API testing).\n\n**Who Owns What**\n\nThe Principal Engineer owns architecture decisions. That covers system design, technology and database choices, service boundaries, security and compliance architecture, and the engineering standards used across projects. These decisions are documented through design reviews and architecture decision records (ADRs).\n\n**Key Responsibilities**\n\n* Own end-to-end system architecture and make the final call on technical decisions across client projects.\n* Design secure, compliant, and high-performance full-stack applications, with HIPAA, SOC 2, and similar requirements built into the architecture from day one.\n* Define cloud architecture on Azure, AWS, or GCP, including containerized deployments, CI/CD, and infrastructure as code.\n* Drive API design, service boundaries, data modeling, and database architecture.\n* Ensure production reliability, security, auditability, and performance.\n* Establish engineering standards and lead design and code reviews.\n* Mentor senior engineers and work directly with client and business stakeholders on technical trade-offs.\n* Stay hands-on with coding and production-level problem-solving.\n\n**What Success Looks Like**\n\n* **First 3 months:** You ve reviewed the architecture of our active client projects, flagged the main security and compliance risks, and started producing ADRs for new design decisions.\n* **By 6 months:** New projects start from a reference architecture and standards you ve defined. Senior engineers are building against them with fewer architecture escalations.\n* **By 12 months:** Our systems pass client security and compliance audits (HIPAA, SOC 2) without major findings. Production incidents tied to design issues are measurably down, and at least one senior engineer is growing toward an architecture role under your mentorship.\n\n**Mandatory Requirements**\n\n* 6+ years of software engineering experience, including proven ownership of architecture for production systems.\n* Hands-on experience designing systems under HIPAA, SOC 2, PCI-DSS, or GDPR, including access controls, audit logging, data encryption, and audit readiness.\n* Background in Healthcare, FinTech, Payments, Insurance, or another security-sensitive domain.\n* Strong expertise in Node.js, React.js, Next.js, TypeScript, and PostgreSQL.\n* Hands-on cloud architecture experience (Azure, AWS, or GCP; Azure preferred).\n* Strong understanding of system design, microservices, distributed systems, and databases.\n* Strong technical leadership and communication skills, including explaining trade-offs to non-technical stakeholders.\n\n**Good to Have**\n\n* Experience with high-scale production systems (100,000+ users).\n* Kubernetes, event-driven architecture, and high-availability systems.\n* Payment gateway integrations (Stripe, Braintree, Adyen).\n* Experience with AI coding tools such as Cursor, Claude Code, or GitHub Copilot.\n\n**Why Join Techdome**\n\n* Independent and profitable engineering organization.\n* Direct ownership of production-grade products.\n* Global collaboration across India, Dubai, and the US.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "064ef0bbdea2": {
+   "id": "064ef0bbdea2",
+   "site": "indeed",
+   "title": "Senior Staff Engineer (AEM Developer)",
+   "company": "Nagarro",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=7bb701b2c96049ad",
+   "apply_url": "https://jobs.smartrecruiters.com/Nagarro1/744000163682188-senior-staff-engineer-aem-developer-",
+   "date_posted": "2026-11-25",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Company Description**\n\n**We're Nagarro.**\n\nWe are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at a scale — across all devices and digital mediums, and our people exist everywhere in the world (18500+ experts across 39 countries, to be exact). Our work culture is dynamic and non-hierarchical. We are looking for great new colleagues. That is where you come in!\n\n **Job Description**\n\n**Requirements**\n\n* Experience : 7.5+ years\n* Strong hands-on experience in Adobe Experience Manager (AEM) development, with expertise in AEM 6.5 and/or AEM as a Cloud Service.\n* Extensive experience in AEM Sites development, customization, implementation, and enhancement of enterprise-scale digital platforms.\n* Strong expertise in developing and customizing AEM components, templates, dialogs, Sling Models, servlets, schedulers, workflows, and OSGi services.\n* Hands-on experience with HTL/Sightly, Apache Sling, OSGi, JCR, and modern AEM development practices.\n* Strong experience with Content Fragments, Experience Fragments, Editable Templates, and associated content models.\n* Proficiency in Java and object-oriented programming concepts.\n* Good knowledge of JavaScript, HTML5, CSS3, REST APIs, Web Services, JSON, and XML.\n* Experience with AEM Dispatcher, caching strategies, and application performance optimization.\n* Strong understanding of Maven, Git, unit testing, debugging, and code quality practices.\n* Experience integrating AEM with enterprise and third-party applications using REST APIs and web services.\n* Understanding of Adobe Cloud Manager, CI/CD pipelines, and Git-based development and deployment processes.\n* Experience with AEM as a Cloud Service and cloud-based application deployment practices is highly preferred.\n* Strong understanding of application security, scalability, maintainability, and AEM development best practices.\n* Experience in technical solutioning, effort estimation, design discussions, code reviews, and implementation planning.\n* Ability to troubleshoot complex technical issues and provide effective solutions.\n* Strong communication, analytical, and problem-solving skills, with experience collaborating across cross-functional teams.\n* Experience mentoring junior developers and providing technical guidance to development teams.\n* Flexibility to work in US time zone shifts (8:30 PM IST – 6:30 AM IST).\n\n**Responsibilities**\n\n* Design, develop, implement, and enhance enterprise web applications using Adobe Experience Manager (AEM).\n* Build and customize reusable AEM components, templates, dialogs, Sling Models, servlets, schedulers, workflows, and OSGi services.\n* Develop configurable and reusable components using HTL/Sightly and modern AEM development practices.\n* Drive continuous enhancements, new feature development, and platform improvements based on evolving business requirements.\n* Develop and maintain Content Fragments, Experience Fragments, Editable Templates, and associated content models.\n* Analyze existing AEM implementations and recommend technical improvements to enhance performance, scalability, and maintainability.\n* Design, develop, and maintain integrations between AEM and enterprise or third-party applications using REST APIs and web services.\n* Perform code-level troubleshooting, debug application issues, and implement effective resolutions.\n* Participate in technical solutioning, effort estimation, architecture discussions, and implementation planning.\n* Conduct code reviews and ensure adherence to coding standards, security guidelines, and AEM development best practices.\n* Optimize AEM applications through performance tuning, caching strategies, and Dispatcher configurations.\n* Collaborate with architects, business analysts, UX/UI teams, QA, DevOps, and other developers throughout the software development lifecycle.\n* Support release management activities, deployments, validation, and post-production stabilization.\n* Work with Adobe Cloud Manager and CI/CD pipelines to support automated build and deployment processes.\n* Prepare and maintain technical documentation and ensure code quality through unit testing and debugging.\n* Mentor junior developers, provide technical guidance, and contribute to continuous improvement of development practices.\n* Work in alignment with US business hours (8:30 PM IST – 6:30 AM IST) as required.\n\n  \n**Qualifications**\n\nBachelor’s or master’s degree in computer science, Information Technology, or a related field.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "a47bdee78082": {
+   "id": "a47bdee78082",
+   "site": "naukri",
+   "title": "Technical Lead (Agentic AI)",
+   "company": "Rekruton Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-technical-lead-agentic-ai-rekruton-technologies-remote-10-to-15-years-251126500744",
+   "apply_url": "https://app.pyjamahr.com/careers?company=Rekruton%20Technologies&job_id=431945&company_uuid=703F4B137C",
+   "date_posted": "2026-11-25",
+   "experience": "10-15 Yrs",
+   "skills": "Architecture, Coding, Cloud, AWS, Debugging, Continuous Integration, Center, Authoring",
+   "emails": [],
+   "description": "Role Overview   \n We are looking for a hands-on Technical Lead - AI to architect, build, and scale the core technical foundation of our Agentic AI Assurance platform. Working in close partnership with the Engineering Manager and Product Management, you will translate product requirements into clean, modular, production-grade AI systems-while mentoring engineers, maintaining living technical documentation, and driving high-velocity, AI-native software delivery inside structured Agile sprints.\n\nKey Responsibilities\n\nHands-On Agentic AI Architecture & Development: Design and implement multi- agent workflows, tool-calling pipelines, state management, RAG/context engines, and automated LLM evaluation frameworks in production Python.   \n Low-Latency & Real-Time Voice/Text Engineering: Build and optimize asynchronous backend services, streaming audio/text pipelines (WebSockets/WebRTC), and CCaaS/ telephony integrations with strict reliability and latency SLAs.   \n AI-Native Engineering Velocity: Champion AI-first development practices across the squad-leveraging tools like Claude Code, Codex, and Cursor alongside automated testing and CI/CD pipelines to ship clean, production-hardened code rapidly.   \n Documentation & Knowledge Democratization: Eliminate single-point-of-failure risks by authoring clear Architecture Decision Records (ADRs), sequence diagrams, API specs, and operational runbooks so the entire engineering team can build and debug independently.   \n Agile Sprint Execution & Technical Breakdown: Partner with the Engineering Manager and Product Manager to break down complex AI initiatives into well-scoped stories, realistic estimates, and time-boxed sprint deliverables.\n\nCode Quality & Technical Mentorship: Lead design and code reviews, enforce observability/telemetry standards, and level up engineers across the AI pod through pair programming and architectural guidance.\n\nMust-Have Qualifications   \n Experience: 10+ years of software engineering experience, with at least 2+ years hands-on building and deploying production LLM / Agentic AI systems.   \n AI & Orchestration Stack: Deep proficiency in Python (FastAPI, AsyncIO) and modern agentic/LLM frameworks (e.g., LangGraph, AutoGen, CrewAI, or custom state-machine orchestration), prompt/context engineering, and structured output validation.   \n Production Rigor: Proven track record solving real-world LLM production challenges- hallucination mitigation, automated evals, token/latency optimization, fallback handling, and telemetry/observability.   \n AI-Native Coding Mindset: Daily, fluent hands-on experience building with AI coding agents (Claude, Codex, Cursor) with strong discipline around modular architecture, security, and automated test coverage.   \n Agile & Collaborative Mindset: Strong believer in time-boxed Agile sprints, transparent communication, and peer partnership with Engineering Management and Product Management.   \n Documentation Discipline: Habit of documenting system architecture, edge cases, and deployment flows as part of the definition of done.\n\nNice-to-Have Qualifications (Strong Bonus / Brownie Points)   \n Direct Hands-On Stack Experience: Prior production experience working with OpenAI (including Realtime/Responses APIs), ElevenLabs, Retell AI, or Sequora.it for conversational or voice-agent workflows.   \n Contact Center & Real-Time Audio: Familiarity with CCaaS platforms, SIP/WebRTC telephony streams, ASR/TTS voice pipelines, and conversational QA.   \n Codebase Modernization: Experience untangling, refactoring, and documenting legacy or rapidly prototyped codebases into scalable microservices.   \n Cloud & Container Infrastructure: Familiarity with AWS cloud services (ECS/EKS, Lambda, RDS, vector databases) and containerized deployments.\n\n  \n  \nDisclaimer: This job posting and Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "d6939bd19592": {
+   "id": "d6939bd19592",
+   "site": "naukri",
+   "title": "Production Support Engineer",
+   "company": "Luma Financial Technologies",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-production-support-engineer-luma-financial-technologies-remote-3-to-8-years-251126500367",
+   "apply_url": "https://ats.rippling.com/luma-financial-technologies/jobs/63c5b8a6-4efb-477f-9574-ee51a310f7e5",
+   "date_posted": "2026-11-25",
+   "experience": "3-8 Yrs",
+   "skills": "Microsoft Azure, Architecture, Apache, Cd Tools, Cloud, AWS, Analytics, Tools",
+   "emails": [],
+   "description": "{\"company\":\"\n\n****About Luma Financial Technologies****\n\nFounded in 2018, Luma Financial Technologies ( Luma ) has pioneered a cutting-edge fintech software platform that has been adopted by broker/dealer firms, RIA offices, and private banks around the world. By using Luma, institutional and retail investors have a fully customizable, independent, buy-side technology platform that helps financial teams more efficiently learn about, research, purchase, and manage alternative investments as well as annuities. Luma gives these users the ability to oversee the full, end-to-end process lifecycle by offering a suite of solutions. These include education resources and training materials; creation and pricing of custom structured products; electronic order entry; and post-trade management. By prioritizing transparency and ease of use, Luma is a multi-issuer, multi-wholesaler, and multi-product option that advisors can utilize to best meet their clients specific portfolio needs. Headquartered in Cincinnati, OH, Luma also has offices in New York, NY, Miami, FL, Zurich, Switzerland and Lisbon, Portugal. For more information, please visit  Luma s website .\n\n\",\"role\":\"\n\n****About the role****\n\nWe are seeking a proactive and skilled   ****Production Support Engineer****   to join our IT operations team. In this critical role, you will be responsible for overseeing and managing incidents related to our engineering and production environments. The successful candidate will play a key role in ensuring the stability and reliability of our production systems by coordinating and resolving incidents in a timely and efficient manner, working closely with Software Engineers, Infrastructure, and Support teams to triage, diagnose, and resolve technical issues in real time\n\n****What youll do****\n\n****Application Monitoring & Incident Management****\n\n* ****L2/L3 Incident Response:****   Triage, investigate, and resolve production bugs, system outages, and customer-impacting issues within SLA guidelines.\n* ****Proactive Monitoring:****   Monitor engineering and production system performance, application metrics, and server logs using tools like Datadog.\n* ****Root Cause Analysis (RCA):****   Lead post-incident write-ups and collaborate with developers to design long-term fixes to prevent recurring incidents.\n\n****Technical Operations & Maintenance****\n\n* ****Deployment & Releases:****   Assist with blue-green deployments, hotfixes, and scheduled production maintenance windows.\n* ****Environment Management:****   Maintain high availability across production, staging, and disaster-recovery (DR) environments.\n* ****Database & Data Fixes:****   Execute safely managed SQL queries, data migrations, or manual record reconciliations when required.\n\n****Automation & Process Improvement****\n\n* ****Automation:****   Write scripts (Bash, Python, PowerShell) to automate repetitive operational tasks, log parsing, and monitoring alerts.\n* ****Runbook Documentation:****   Create, update, and standardize operational runbooks, escalation matrixes, and troubleshooting guides.\n\n****Qualifications****\n\n*Required*\n\n* ****Education****  : Bachelor s degree in Computer Science, Information Technology, or a related discipline (or equivalent practical experience).\n* ****Experience:****   3+ years in a Production Support, Site Reliability Engineering (SRE), or Application Support role.\n* ****Operating Systems:****   Solid command-line skills in   ****Linux/Unix****   environments.\n* ****Database / SQL:****   Strong ability to write complex   ****SQL queries****  , analyze slow queries, and understand database schemas (MongoDB, MySQL, or MS SQL).\n* ****Scripting:****   Proficiency in at least one scripting language (  ****Python, Bash, Shell, or PowerShell****  ) for automation.\n* ****Monitoring Tools:****   Hands-on experience with log aggregation and monitoring platforms (e.g., Datadog).\n* ****Protocols & Architecture:****   Understanding of REST APIs, microservices architecture, network fundamentals (TCP/IP, DNS, HTTP statuses), and web servers (Nginx, Apache).\n* ****Soft Skills****  : Excellent analytical skills to troubleshoot complex system failures under pressure, alongside the communication skills required to translate technical ideas to non-technical stakeholders.\n* ****On-Call Availability:****   Willingness to participate in a rotational   ****on-call schedule****   (24/7 support coverage).\n\n*Preferred*\n\n* ****Platform experience****  : Experience with cloud platforms (  ****AWS or Azure****  ). Familiarity with containerization and orchestration (  ****Kubernetes****  ). Experience with ticketing systems like Jira. Exposure to CI/CD tools (GitHub Actions, GitLab CI).\n* ****Industry Exposure****  : Prior Exposure to fintech, insurance or broader finance services organizations.\n\n*Luma Financial Technologies is unable to sponsor work visas or provide employment-based immigration sponsorship for this position, now or in the future. Applicants must be legally authorized to work in the country they are employed without current or future sponsorship from Luma.*\n\n*Any misrepresentation, including regarding work authorization or sponsorship needs during the application or interview process will result in disqualification from consideration for this role or termination of employment.*\n\n*#LI-Remote #LI-SS1*\n\n\"},\"\n\n  \n  \n Disclaimer: This job posting and Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "bbbdd64e93e1": {
+   "id": "bbbdd64e93e1",
+   "site": "naukri",
+   "title": "Pre-Sales Sr Solution Architect",
+   "company": "Rafay Systems",
+   "location": "India",
+   "job_url": "https://www.naukri.com/job-listings-pre-sales-sr-solution-architect-rafay-systems-remote-5-to-10-years-251126500329",
+   "apply_url": "https://rafay.co/careers/pre-sales-senior-solution-architect-emea",
+   "date_posted": "2026-11-25",
+   "experience": "5-10 Yrs",
+   "skills": "Cloud Infrastructure, Architecture, Certified, Devops, Presales, AWS, Artificial Intelligence, Microsoft Azure",
+   "emails": [],
+   "description": "**ABOUT THE ROLE** \n\nRafay s Solution Architect team is a group of customer-first, hands-on professionals who help enterprises adopt and scale Rafay s Kubernetes and AI infrastructure operations platform. We re looking for a Senior Solution Architect with strong experience in infrastructure automation and AI/ML technologies to join our fast-growing team. This role reports to the Director of Solution Architects.\n\nYou will partner with sales, product, and engineering teams to help customers design, validate, and adopt Rafay s platform for their cloud-native and AI/ML workloads. You ll engage directly with technical leaders (developers, DevOps engineers, SREs, and architects) as well as business stakeholders to demonstrate value, drive adoption, and act as a trusted technical advisor.\n\nThe work is ambitious and hands-on. You ll operate at the intersection of on-prem and cloud infrastructure, Kubernetes, automation, AI infrastructure, and AI/ML services.\n\n **WHAT YOU WILL BE DOING** \n\n* Partner with account executives to help customers understand and realize the value of Rafay s infrastructure orchestration and AI/ML operations capabilities.\n* Lead discovery sessions with customer DevOps, SRE, and platform teams to understand pain points, use cases, and desired business outcomes.\n* Design architectures and implementation plans that use Rafay s platform to automate infrastructure provisioning, governance, and AI/ML workload orchestration.\n* Develop and deliver technical presentations, demos, and proof-of-value engagements that showcase Rafay s differentiators.\n* Identify and address technical objections, collaborating with product and engineering to develop effective solutions.\n* Serve as the technical point of contact for prospective customers, providing guidance, troubleshooting, and hands-on support in complex environments.\n* Act as the customer advocate: translate customer needs into product feedback and contribute to the product roadmap.\n* Represent Rafay at industry events, webinars, meetups, and conferences through presentations, workshops, and technical content.\n* Travel to customer sites and events as needed (up to 35%).\n\n **WHAT WE WANT TO SEE** \n\n* 5+ years in a pre-sales or customer-facing solution architect or sales engineering role for enterprise cloud infrastructure, SaaS, or hybrid-cloud platforms.\n* Proven expertise with infrastructure automation, Kubernetes, containers, and multi-cloud environments (AWS, GCP, Azure, on-prem).\n* Strong ability to communicate complex technical topics clearly and confidently to both technical and non-technical audiences.\n* Demonstrated success supporting the entire pre-sales cycle, from discovery through close.\n* Background in software engineering, DevOps, or systems architecture.\n* Excellent presentation, written, and interpersonal communication skills.\n* Bachelor s degree in Computer Science or a related field (or equivalent experience).\n\n **IT WOULD BE GREAT IF YOU HAD** \n\n* Experience with AI/ML infrastructure, including GPU/accelerated computing and AI/ML workloads and technologies.\n* Familiarity with AI/ML frameworks (TensorFlow, PyTorch) and their associated infrastructure requirements.\n* Hands-on familiarity with CNCF ecosystem technologies.\n* Certifications such as Certified Kubernetes Administrator (CKA) or AWS Certified Solutions Architect.\n* Ability to quickly learn emerging technologies and communicate their value to enterprise customers.\n\n **WHY JOIN RAFAY** \n\nRafay is at the forefront of infrastructure automation for Kubernetes and AI/ML. Our platform enables enterprises and cloud providers to accelerate cloud-native and AI adoption with operational efficiency, security, and scalability.\n\nWe offer:\n\n* A collaborative, innovative environment where your ideas have impact.\n* Opportunities to work on cutting-edge infrastructure and AI/ML technology.\n* Competitive compensation, comprehensive benefits, equity, and work/life balance.\n\nJoin a team that s defining the future of cloud, automation, and AI infrastructure operations.\n\n  \n  \n Disclaimer: This job posting and Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "7bd3735906d6": {
+   "id": "7bd3735906d6",
+   "site": "indeed",
+   "title": "Senior MERN Stack Developer - Team Lead",
+   "company": "Gammastack",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d0268a91315226ff",
+   "apply_url": "https://in.indeed.com/viewjob?jk=d0268a91315226ff",
+   "date_posted": "2026-11-25",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Gammatack is looking for a passionate Full-Stack Developer(MERN Stack) who can build\n\nscalable web applications from scratch. The ideal candidate should have strong experience\n\nin modern frontend and backend technologies, API development, database management,\n\nand cloud deployment. You will work closely with designers, product managers, and\n\nengineering teams to build secure, high-performance, and enterprise-grade applications.\n\nRoles &amp; Responsibilities\n\n Develop, maintain, and optimize full-stack web applications using modern frontend and\n\nbackend technologies.\n\n Build responsive, user-friendly interfaces while ensuring high performance and cross-\n\nbrowser compatibility.\n\n Design and develop RESTful APIs and integrate third-party services where required.\n\n Work with SQL/NoSQL databases and write efficient, scalable queries.\n\n Collaborate with UI/UX designers, product managers, and QA teams to deliver high-quality\n\nsolutions.\n\n Deploy, monitor, and maintain applications on cloud platforms while following security and\n\ncoding best practices.\n\n Participate in code reviews and contribute to improving code quality and engineering\n\nstandards.\n\n Troubleshoot, debug, and optimize applications for scalability, reliability, and performance.\n\n Write clean, maintainable, reusable, and well-documented code.\n\n Stay updated with emerging technologies and contribute to continuous improvement of\n\ndevelopment processes.\n\nRequired Skills\n\n Strong knowledge of React.js, Next.js, JavaScript (ES6+), and TypeScript.\n\n Experience with Node.js, Express.js, or NestJS.\n\n Good understanding of MongoDB, PostgreSQL, or MySQL.\n\n Experience with REST APIs, Git, Docker, and cloud platforms such as AWS, Azure, or GCP.\n\n Familiarity with authentication and authorization (JWT, OAuth), security best practices,\n\nCI/CD pipelines, and Agile development methodologies.\n\n Good understanding of software architecture, design patterns, and modern web\n\ndevelopment practices.\n\n Strong problem-solving, debugging, and analytical skills.\n\n Excellent communication and collaboration skills.\n\nBonus Skills\n\n Experience with AI-assisted development tools such as Cursor, GitHub Copilot, Claude\n\nCode, Windsurf, or ChatGPT.\n\n Experience leading a small team or mentoring junior developers.\n\n Exposure to Large Language Models (LLMs) such as OpenAI, Claude, Gemini, Groq, or\n\nLlama.\n\n Experience building Retrieval-Augmented Generation (RAG) pipelines using vector\n\ndatabases and embedding models.\n\n Knowledge of Model Context Protocol (MCP) and developing MCP Servers or AI tool\n\nintegrations.\n\n Experience designing AI workflows, agentic AI systems, multi-agent architectures, or AI\n\nautomation.\n\n Experience building SaaS, enterprise, or AI-powered applications.\n\nPay: ₹1,500,000.00 - ₹1,874,041.65 per year\n\nEducation:\n\n* Bachelor's (Required)\n\nExperience:\n\n* MERN: 6 years (Required)\n* Team Handling: 4 years (Required)\n\nWork Location: In person",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "8180f2467f0e": {
+   "id": "8180f2467f0e",
+   "site": "indeed",
+   "title": "Sr. Tech Lead - .NET + Full Stack Developer",
+   "company": "YASH Technologies",
+   "location": "MP, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=6bb76aae5bcb3abe",
+   "apply_url": "https://careers.yash.com/job/Pune-Sr_-Tech-Lead-_NET-%2B-Full-Stack-Developer-Job/1370833466/",
+   "date_posted": "2026-11-24",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "Date: Nov 24, 2026\n\nJob Requisition Id: 67188\n\nLocation:\nPune, IN Indore, MP, IN Hyderabad, TG, IN\n\nYASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.\n\n  \n\nAt YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.\n\n  \n\n**We are looking forward to hire .NET Professionals in the following areas :**\n\n  \n\n**Experience**\n--------------\n\n8-10 Years\n\n**Job Description**\n-------------------\n\n**LOCATION - GURGOAN ONLY**\n\n**Senior Full Stack Developer (.NET | Angular | React)**\n\n  \n\n**About the Role**\n  \nWe are looking for a Senior Full Stack Developer with 8–10 years of experience to design, build and scale enterprise web applications. You will work primarily with .NET (C#, ASP.NET Core) on the back end and with both Angular and React on the front end.\n\n**Key Responsibilities:**\n  \n\n* Design, develop and maintain RESTful APIs and microservices using C#, ASP.NET Core and .NET.\n* Build responsive, accessible and reusable UI components in Angular and React.\n* Define front-end architecture, including state management (NgRx, Redux) and modular design.\n* Design database schemas and write optimised SQL Server queries, stored procedures and EF Core models.\n* Translate business requirements and UI/UX designs into technical solutions and estimates.\n* Own the full lifecycle: design, coding, testing, deployment and production support.\n* Deploy and manage applications on Azure using Azure DevOps CI/CD pipelines.\n* Write unit, integration and end-to-end tests to maintain high code quality.\n* Conduct code reviews and enforce coding standards and best practices.\n* Identify and fix performance bottlenecks, security vulnerabilities and production issues.\n* Mentor junior and mid-level developers and support technical hiring.\n* Participate in Agile ceremonies: sprint planning, stand-ups and retrospectives.\n\n**Must-Have Skills:**\n  \n\n* .NET: C#, ASP.NET Core, .NET, Web API, MVC, Entity Framework Core, LINQ, dependency injection, middleware\n* Angular: Angular 12+, TypeScript, RxJS, NgRx, Angular Material, lazy loading, change detection\n* React: React 17+, Hooks, Context API, Redux / Redux Toolkit, React Router\n* Front end: JavaScript (ES6+), HTML5, CSS3 / SCSS, responsive design, web accessibility (WCAG)\n* APIs & security: REST, GraphQL basics, OAuth 2.0, JWT, Azure AD / Identity Server, OWASP practices\n* Database: SQL Server (T-SQL, stored procedures, indexing, query tuning)\n* Cloud: Microsoft Azure (App Service, Functions, Azure SQL, Service Bus, Key Vault)\n* DevOps: Git, Azure DevOps or GitHub Actions CI/CD, Docker; AKS / Kubernetes exposure\n* Testing: xUnit / NUnit, Moq, Jasmine, Karma, Jest, React Testing Library, Cypress or Playwright\n* Architecture: Microservices, clean architecture, SOLID principles, design patterns, caching (Redis)\n\n**Good to Have:**\n  \n\n* Experience with other back-end stacks: Node.js (Express / NestJS), Java (Spring Boot) or Python.\n* Exposure to AWS or GCP in addition to Azure.\n* NoSQL databases: MongoDB, Cosmos DB, Redis.\n* Micro-frontends (Module Federation), Next.js or Angular SSR, Blazor.\n* Messaging and event streaming: Kafka, RabbitMQ, Azure Service Bus.\n* Monitoring tools: Application Insights, ELK, Grafana, Datadog.\n* Legacy migration experience (.NET Framework, Web Forms, AngularJS to modern stacks).\n* Microsoft certifications such as AZ-204 (Azure Developer Associate).\n\n**Soft Skills:**\n  \n\n* Strong problem-solving and analytical thinking.\n* Clear communication with technical and non-technical stakeholders.\n* Ownership mindset; able to work independently with minimal supervision.\n* Leadership and mentoring ability; comfortable leading technical discussions.\n\n**Education:**\n  \nB.E. / B.Tech / MCA / M.Tech in Computer Science, IT or a related field.\n\n**Required Technical/ Functional Competencies**\n-----------------------------------------------\n\n**Requirement Gathering and Analysis:**\n\n* Extract requirements for complex scenarios and prototype independently.\n* Identify impacted modules/features/functionalities and provide high-level estimates.\n* Develop traceability matrix and identify transition requirements.\n\n**Application Design:**\n\n* In-depth knowledge of design principles and performance engineering.\n* Lead design efforts, create design strategy, and establish design guidelines.\n* Identify and mitigate design risks, anticipate issues, and recommend corrective steps.\n* Innovate and improve existing design processes/tools.\n\n**Architecture tools and frameworks:**\n\n* Familiarity with industry tools and frameworks, analyze and use them based on customer requirements.\n* Work with SMEs to explore and implement new tools/frameworks.\n\n**Estimation and Resource Planning:**\n\n* Identify and assign resources required to complete tasks.\n* Use appropriate estimation models for medium-high complexity scenarios.\n* Track and report gaps between budgeted and actual spending.\n\n**Product/ Technology Knowledge:**\n\n* Implement code or configure/customize products, drive adoption of industry standards and practices, contribute to development of reusable assets and innovative solutions.\n* Analyze frameworks/tools and present recommendations, develop training and certification material, and demonstrate thought leadership through whitepapers and webinars.\n\n**Test Management:**\n\n* Create iteration and system integration test plan. Develop and review test cases, conduct unit testing, define metrics, and support testing processes.\n* Able to conduct RCA, verify system builds and test environments, and create business scenario test cases/automation test scripts.\n\n**Customer Management:**\n\n* Expert knowledge on customer's business domain/technology suite, navigating cross-technology landscapes.\n* Identify key influencers and foster collaborative alliances across diverse technological realms.\n* Serves as catalyst for strategic persuasion, convince customers while innovatively contributing to creation of cutting-edge intellectual properties.\n\n**Project Management:**\n\n* Working knowledge of project management process, tools, and templates.\n* Execute medium projects effectively, create/ review milestone/metric reports, project status, closure reports, create continuous quality improvement plan, and provide inputs for organization-wide process assets.\n\n**Domain/ Industry Knowledge:**\n\n* Apply industry standards and practices, creating complex business models in line with customer requirements independently.\n* Analyse current-state and define to-be processes in collaboration with SMEs, present recommendations with tangible benefits.\n* Drive process improvement initiatives and ROI analysis through innovation.\n\n**Marketing:**\n\n* Able to source relevant Market Data and Prepare Report to support Marketing Plans and campaigns.\n* Write and proofread marketing script/content.\n\n**Pre-Sales:**\n\n* Expert knowledge of bid process and understanding of RFP/RFI’s.\n* Develop solution and deliver compelling POC demos.\n* Respond to complex bids by preparing response documents.\n* Liaise with other technology leaders for multi-technology bids and provide solution.\n* Assess and qualify leads with proper analysis.\n\n**Required Behavioral Competencies**\n------------------------------------\n\n**Accountability:**\n\n* Takes responsibility for and ensures accuracy of results and deadlines of the function and/or team and in completing own work.\n\n**Collaboration:**\n\n* Reaches out to others in team to ensure connections are made and team members are working together.\n* Looks for ways to integrate work with other teams, identifying similarities and opportunities, making necessary changes in work to ensure successful integr",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "2f7afce3b40e": {
+   "id": "2f7afce3b40e",
+   "site": "naukri",
+   "title": "Full Stack Developer",
+   "company": "Allime Tech Solutions",
+   "location": "Indore, Noida, Hyderabad, Pune, Chennai, Bengaluru, India",
+   "job_url": "https://www.naukri.com/job-listings-full-stack-developer-allime-tech-solutions-noida-indore-hyderabad-pune-chennai-bengaluru-5-to-10-years-251126506038",
+   "apply_url": "https://allimetech.com/jobs/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyIyC7GP_Gy5se053Ke45Hg=",
+   "date_posted": "2026-11-25",
+   "experience": "5-10 Yrs",
+   "skills": "Angular, Rest, Angularjs, Development, MongoDB, Express, Full Stack, Bootstrap",
+   "emails": [],
+   "description": "The Full Stack Developer will be responsible for designing, developing, testing, implementing, and maintaining scalable web applications across front-end and back-end systems while ensuring performance, reliability, and a seamless user experience.     \n   \n   The role involves developing responsive user interfaces, building server-side applications, integrating APIs, managing databases, and implementing application functionality using modern programming languages, frameworks, and development tools.     \n   \n   The developer will collaborate with UI/UX designers, product managers, QA engineers, and other technical stakeholders to translate business requirements into functional, efficient, and scalable software solutions.     \n   \n   Responsibilities include writing clean and maintainable code, debugging and troubleshooting application issues, conducting unit and integration testing, optimizing application performance, managing version control, and supporting deployment and release processes.     \n   \n   The candidate should possess strong programming, analytical, problem-solving, and communication skills, along with knowledge of front-end technologies such as HTML, CSS, and JavaScript, back-end development frameworks, databases, API integrations, and software development best practices, with the ability to work collaboratively in an agile development environment and continuously improve application functionality and technical quality.\n\n  \n  \nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on naukri"
+    }
+   ]
+  },
+  "191df80d718f": {
+   "id": "191df80d718f",
+   "site": "indeed",
+   "title": "Agentic AI Core Engineer / AI/ML Engineer",
+   "company": "Web solutions 4 you",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=410031a40fdfa7e3",
+   "apply_url": "https://in.indeed.com/viewjob?jk=410031a40fdfa7e3",
+   "date_posted": "2026-11-25",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "WE ARE HIRING\n\nPosition: Agentic AI Core Engineer / AI/ML Engineer\n\nExperience: 2 – 5 Years\n\nLocation: Remote – India\n\nEmployment: Full-Time\n\nSalary: As per Skills & Interview\n\nAbout The Role:\n\nYou will own end-to-end Machine Learning and Generative AI systems in production — RAG Chatbots, Agentic AI systems, Valuation Models, Computer Vision and Speech pipelines. Not just notebooks, real products.\n\nWhat We Are Looking For:\n\n- Experience building Agentic AI and Multi-Agent systems\n\n- Expertise in LangChain, LangGraph, CrewAI or AGNO\n\n- Experience with AI Agents, AI Automation\n\n- Strong in Machine Learning: Regression, Classification\n\n- Good knowledge of FastAPI / Django and REST APIs\n\n- Working knowledge of React and Full-Stack Development\n\n- Experience with Azure (Azure Functions), AWS, Docker, Kubernetes, Airflow, MLflow, Redis, Git, CI/CD, Microservices\n\nKey Responsibilities:\n\n- Design and develop end-to-end Agentic AI solutions and intelligent AI agents\n\n- Build and own Production RAG Chatbot — Document Ingestion, Chunking, Embeddings, Vector Retrieval, LLM Response Generation\n\n- Build Automated Valuation / Prediction Models on large datasets (1M+ records) with MLflow tracking\n\n- Build Computer Vision solutions — Object Detection, Image Segmentation, Automated Labeling\n\n- Build Speech Recognition pipeline using Whisper to replace manual data entry\n\n- Build intelligent AI agents and automation workflows\n\n- Understand client requirements and translate them into technical solutions\n\n- Design system architecture and lead implementation\n\n- Optimize PostgreSQL queries, Redis Caching to reduce inference latency\n\n- Build Data Pipelines, ETL, Web Scraping, REST APIs, Dashboards (Plotly, Power BI, Tableau) and run A/B Tests\n\n- Take complete ownership from development to production deployment\n\n- Conduct client discussions, technical demos and project delivery\n\n- Coordinate with developers and drive projects independently\n\nIdeal Candidate:\n\nWe are looking for someone who is not just familiar with AI tools but can independently architect, build, execute and deliver real-world Agentic AI projects.\n\nCandidates with proven project experience, production deployment experience and strong ownership capabilities are preferred.\n\nEligibility:\n\n- B.Tech in IT / CS / Related field\n\n- Must have built at least 1 production / live project in RAG / Agentic AI / ML / CV\n\nWhat We Offer:\n\n- 100% Remote Work\n\n- Real production projects, not dummy tasks\n\n- Work directly on GenAI products\n\n- Growth to Senior AI Engineer / AI Lead\n\nInterested candidates can share their updated resume with HR Garima — 9981414519\n\nPay: ₹20,000.00 - ₹40,000.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "c41734d13112": {
+   "id": "c41734d13112",
+   "site": "indeed",
+   "title": "Full Stack Developer",
+   "company": "Indiserves",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=492ca80fac2f5181",
+   "apply_url": "https://in.indeed.com/viewjob?jk=492ca80fac2f5181",
+   "date_posted": "2026-11-24",
+   "experience": "",
+   "skills": "",
+   "emails": [
+    "info@indiserves.com",
+    "shripad@indiserves.com"
+   ],
+   "description": "**WE’RE HIRING | Full-Stack Engineer**  \n**React + React Native + Supabase**\n\n**Experience Required:** 1–2 Years of hands-on experience with Supabase-based projects.\n\nIndiserves is looking for a skilled Full-Stack Engineer to own features end-to-end across our Vite/React web app and Expo/React Native mobile app, powered by a shared Supabase backend.\n\nYou’ll build production-quality applications using TypeScript, follow strong engineering practices, and use modern AI-assisted development tools to improve development speed without compromising quality.\n\nWhat You’ll Do\n\n* Build and ship features across web and mobile applications.\n* Develop responsive UIs using React, React Native, and TypeScript.\n* Work with Supabase/Postgres for Auth, queries, Storage, migrations, and RLS.\n* Maintain database schemas, authentication, and permissions securely.\n* Debug production issues and perform root-cause analysis.\n* Write clean, reusable, testable modules and focused unit tests.\n* Improve application performance, reliability, and code quality.\n\nMust-Have Skills\n\n* **TypeScript:** Strong typing, async/error handling, maintainable code.\n* **React:** Hooks, forms, routing, and complex UI state.\n* **React Native / Expo:** Screens, navigation, device APIs, and release builds.\n* **Supabase / PostgreSQL:** Auth, queries, Storage, migrations, and RLS.\n* **Supabase Project Experience:** 1–2 years of hands-on experience working on projects using Supabase.\n* **Git & PRs:** Small diffs, clear commits, and reviewable changes.\n* Experience with Cursor, GitHub Copilot, or similar AI development tools.\n\nEngineering & AI Practices\n\nWe value small, focused PRs, secure RLS and migrations, clean code, testing, typechecking, linting, and proper protection of secrets and production data.\n\nUse AI tools for scaffolding, debugging, refactoring, and testing, but always review, verify, simplify, and own the final code. Never blindly accept AI-generated changes that compromise types, security, RLS, or existing codebase patterns.\n\nNice to Have\n\nTanStack Query, Zod, React Hook Form, Tailwind CSS, shadcn-style UI, Jest, Playwright, Maps, PDFs, uploads/signed URLs, TestFlight, Google Play Console, and experience with AI agent workflows or Cursor rules/skills.\n\nWho We’re Looking For\n\nA strong full-stack engineer who can confidently work across React web, React Native mobile, and Supabase, with a strong focus on security, maintainability, testing, and production-quality development.\n\n**Employment Type:** Project-Based Contract  \n**Contract Duration:** 6 Months\n\n**Apply at:**  \ninfo@indiserves.com  \nshripad@indiserves.com\n\n#Indiserves #WeAreHiring #Hiring #JobOpening #FullStackEngineer #FullStackDeveloper #ReactJS #ReactNative #TypeScript #Supabase #PostgreSQL #SoftwareEngineer #WebDevelopment #MobileDevelopment #TechJobs #DeveloperJobs #AIEngineering #CursorAI #HiringNow #JoinOurTeam\n\nWork Location: Remote",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "79c6fecae75d": {
+   "id": "79c6fecae75d",
+   "site": "indeed",
+   "title": "Full Stack Developer – Shopify, PHP & WordPress",
+   "company": "COLAB",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=eb09fdeb8c1f5f7e",
+   "apply_url": "https://colab.applytojob.com/apply/u4qDvVnw4N/Full-Stack-Developer-Shopify-PHP-WordPress?source=INDE&~",
+   "date_posted": "2026-11-24",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Experience:** More than 4 years  \n**Location:** India – Remote\n\n### **Job Description**\n\nWe are seeking an experienced Full Stack Developer with strong expertise in Shopify, PHP, and WordPress. The ideal candidate must have worked with digital marketing agencies and delivered development solutions for US-based clients.\n\n### **Key Responsibilities**\n\n* Develop and maintain websites and web applications.\n* Build and customize Shopify stores, themes, and functionalities.\n* Develop custom WordPress themes, plugins, and integrations.\n* Handle frontend and backend development.\n* Integrate third-party APIs and payment gateways.\n* Optimize website performance, responsiveness, and security.\n* Troubleshoot technical issues and maintain existing projects.\n\n### **Requirements**\n\n* More than 4 years of full-stack development experience.\n* Previous digital marketing agency experience is mandatory.\n* Proven experience handling US-based clients.\n* Strong expertise in Shopify, PHP, and WordPress.\n* Proficiency in HTML, CSS, JavaScript, and MySQL.\n* Experience with REST APIs and third-party integrations.\n* Strong understanding of responsive web development.\n\nu4qDvVnw4N",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
+  },
+  "9b3ae8559d71": {
+   "id": "9b3ae8559d71",
+   "site": "indeed",
+   "title": "Backend Developer",
+   "company": "Sticky Cards",
+   "location": "Remote, India",
+   "job_url": "https://in.indeed.com/viewjob?jk=d0e54622bf07ad50",
+   "apply_url": "https://in.indeed.com/viewjob?jk=d0e54622bf07ad50",
+   "date_posted": "2026-11-24",
+   "experience": "",
+   "skills": "",
+   "emails": [],
+   "description": "**Job description**\n\n**About the Job**\n\nWe’re on the lookout for a Backend Developer/ Full Stack Developer (MERN + NestJS) to join our awesome team at Sticky Cards. This is a full-time, mid-level position that’s fully remote, with fun company meetups for trips, celebrations, and industry events. If you’ve got 3 to 7 years of experience in building scalable applications with the MERN stack, and you’re curious about how AI/LLMs can spark new possibilities, we want you on board! At Sticky Cards, you’ll have the creative freedom to experiment and build really cool stuff for a fast-moving industry. Plus, you’ll get the chance to attend global conferences, learn from top minds, and share your own innovative ideas with the community.\n\n**Company Overview**\n\nAt Sticky Cards, we believe in pushing the boundaries of digital experiences. We thrive on designing card-based solutions that make daily tasks smoother, more engaging, and downright fun. Our close-knit team values collaboration, autonomy, and continuous learning—so expect plenty of opportunities to bring your boldest ideas to life. If you’re eager to explore the future of AI and craft experiences that wow users worldwide, Sticky Cards is your playground.\n\n**What You’ll Do**\n\nDream, build, and deploy applications using the MERN stack and NestJS.\n\n Leverage dependency injection in NestJS to create clean, modular, and maintainable backend services.\n\n Integrate cutting-edge AI/LLM features to boost user engagement and create next-level product experiences.\n\n Collaborate with diverse teams—designers, product managers, QA—while enjoying plenty of space to exercise your technical creativity.\n\n Keep the code quality high by following best practices and taking part in friendly code reviews.\n\n Optimize performance to ensure smooth, fast, and scalable user experiences.\n\n Identify potential bottlenecks and propose fresh ideas to continuously improve system efficiency.\n\n Stay ahead of the curve by learning about new AI/LLM trends, bringing fresh insights to our products, and showcasing your work at global tech conferences.\n\n Document your design decisions and keep the team and stakeholders in the loop with regular updates.\n\n**What We’re Looking For**\n\n Proficiency in JavaScript with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js).\n\n NestJS know-how, especially regarding dependency injection and building scalable backend architectures.\n\n A strong handle on RESTful APIs and familiarity with microservice integrations.\n\n A curious mind and/or direct experience in AI/LLM technologies (e.g., using AI APIs, prompt engineering, or building custom ML solutions).\n\n Creative problem-solving chops—you love tackling challenges with innovative solutions.\n\n Excellent communication skills, so you can explain complex ideas simply and collaborate effectively in a remote environment\n\n.  A willingness to go the extra mile, explore, and create something extraordinary.\n\n**Perks & Culture**\n\n Remote-first flexibility: Work from wherever you’re most inspired.\n\n Exciting company meetups for trips, celebrations, and global conferences—plenty of chances to travel, learn, and share your expertise.\n\n An environment where you’re encouraged to experiment, try new technologies, and continually push creative boundaries.\n\n Collaborative atmosphere that balances autonomy with support from a talented, close-knit team.\n\n Opportunities to showcase your work on a global stage, influencing how people interact with digital products.\n\nIf you’re up for shaping the future of card-based experiences, blending AI magic with top-notch engineering, and having fun every step of the way, let’s talk! Apply now to join Sticky Cards, and let’s build something remarkable together!\n\n**Job Type**: Full-time\n\n**Benefits:**\n\n**Schedule**:\n\n Monday to Friday\n\n US shift\n\n**Supplemental Pay:**\n\n Performance bonus\n\n Shift allowance\n\n**Work Location**: Remote\n\nJob Type: Full-time\n\nPay: ₹500,000.00 - ₹800,000.00 per year\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of experience do you have in NestJS\n\nExperience:\n\n* Nest.js: 2 years (Preferred)\n\nWork Location: Remote",
+   "found_at": "2026-11-25T13:23:43+00:00",
+   "status": "new",
+   "updated_at": "2026-11-25T13:23:43+00:00",
+   "history": [
+    {
+     "at": "2026-11-25T13:23:43+00:00",
+     "status": "new",
+     "note": "found on indeed"
+    }
+   ]
   }
  },
  "runs": [
