@@ -14199,15 +14199,32 @@
    "emails": [],
    "description": "**Location**\n------------\n\nEMEA - Remote; Americas - Remote; APAC - Remote\n\n**Employment Type**\n-------------------\n\nFull time\n\n**Location Type**\n-----------------\n\nRemote\n\n**Department**\n--------------\n\nTechnology\n\n  \n\n**About Polygon Labs**\n----------------------\n\nPolygon Labs is a global blockchain payments company building and operating infrastructure to move money instantly, reliably, and at internet scale, with the mission to move all money onchain. It is building the Polygon Open Money Stack, an open and integrated stack of services and technologies to instantly and reliably move money anywhere, and put it to work. Its infrastructure has facilitated trillions of dollars in onchain value transfer and supported millions of transactions daily for some of the globe's largest banks, fintechs, enterprises, and consumer applications.\n\n**Your Role**\n-------------\n\nJoin a small strike team of interoperability and protocol experts building the next generation of Polygon’s infrastructure. As a Senior Rust Engineer, you will design, build, and operate systems across Agglayer and paychannels, with an immediate focus on paychannels. Your work will span secure interoperability and high-frequency payments: systems that connect chains, process signed payments offchain, and settle balances onchain. You will turn protocol designs into reliable software, working closely with engineers across cryptography, smart contracts, product, and infrastructure.\n\nThis is a hands-on role with substantial ownership. You will take components from design through implementation, testing, and production operation, making clear tradeoffs between performance, security, correctness, and simplicity.\n\n**Your Responsibilities**\n-------------------------\n\n* Design, implement, and maintain production Rust services and protocol components across Agglayer and paychannels.\n* Build paychannel infrastructure for payment verification, balance accounting, and settlement, working across offchain services and onchain contracts.\n* Contribute to Agglayer’s Rust infrastructure for cross-chain verification and settlement.\n* Profile and improve throughput, latency, resource usage, and reliability using reproducible benchmarks.\n* Make failure handling explicit: test concurrency, retries, recovery, and invalid inputs so systems preserve correctness under load and disruption.\n* Work with protocol and security engineers to review designs, document assumptions, and address findings.\n* Own delivery end to end, including design documents, code review, automated tests, observability, and production debugging.\n* Collaborate across teams and contribute clear documentation and maintainable code to shared and open-source projects.\n\n**What You'll Need**\n--------------------\n\n* A track record of shipping and maintaining production software, including substantial hands-on Rust experience.\n* Strong command of Rust’s ownership model, asynchronous programming, concurrency, and error handling.\n* Experience designing distributed systems, with sound judgment about consistency, persistence, networking, and failure recovery.\n* Experience building blockchain infrastructure, payment systems, or similarly demanding systems where correctness and security matter.\n* Ability to reason about protocol state transitions, signatures, and data integrity, and translate specifications into tested implementations.\n* Practical experience profiling performance and diagnosing production issues.\n* Ability to own complex work with minimal guidance, communicate design tradeoffs clearly, and collaborate effectively in a small team.\n\n**Preferred Qualifications**\n----------------------------\n\n* Experience with Ethereum or EVM infrastructure, smart-contract integrations, or onchain settlement.\n* Familiarity with payment or state channels, high-throughput ledgers, or micropayment infrastructure.\n* Experience with cross-chain interoperability, bridges, or zero-knowledge proof systems.\n* Experience with property-based testing, fuzzing, adversarial testing, or protocol security reviews.\n* Contributions to open-source Rust or blockchain projects.\n* Experience using AI coding tools effectively while maintaining rigorous review and verification.\n\n**Polygon Labs Perks**\n----------------------\n\nThe goal of the Polygon Labs total rewards program is to support the health and well-being of you and your family. Our comprehensive compensation plan includes the following benefits for our full time employees:\n\n* Remote first global workforce\n* Industry leading Medical, Dental and Vision health insurance\\*\n* Company matching 401k with 3% match\\*\n* $1,500 Home Office Set Up Allowance (life-time max)\n* $200 Annual AI Allowance\n* $75 Monthly internet or phone reimbursement\n* Flexible Time Off\n* Company issued laptop\n* Egg freezing, mental health, and employee wellness benefits\n\n* In certain countries medical, dental and vision is fully covered for employees & their dependents. This is country and plan specific.\n\n* 401k is for United States employees only\n\nPolygon Labs is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. Polygon Labs is committed to treating all people in a way that allows them to maintain their dignity and independence. We believe in integration and equal opportunity. Accommodations are available throughout the recruitment process and applicants with a disability may request to be accommodated throughout the recruitment process. We will work with all applicants to accommodate their individual accessibility needs.\n\nIf you think you have what it takes, but don't necessarily meet every single point on the job description, please still get in touch. We'd love to have a chat and see if you could be a great fit.",
    "found_at": "2026-11-28T12:12:24+00:00",
-   "status": "new",
-   "updated_at": "2026-11-28T12:12:24+00:00",
+   "status": "review",
+   "updated_at": "2026-11-28T12:12:27+00:00",
    "history": [
     {
      "at": "2026-11-28T12:12:24+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-28T12:12:27+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: across, applications., automated, building, closely",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Senior Rust Engineer - Taniya Malviya",
+    "body": "Dear Hiring Team at Polygon Labs,\n\nI am writing to apply for the Senior Rust Engineer role. I am a Senior Software Engineer, 7+ years, and my background in across, applications., automated matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   },
   "8460ba56898b": {
    "id": "8460ba56898b",
@@ -14223,15 +14240,32 @@
    "emails": [],
    "description": "**About Catalys:**\n\nWe are a performance marketing agency specializing in driving success for e-commerce and D2C businesses. Our remote work culture ensures you can achieve targets from the comfort of your home.Right now, we're on the lookout for a Full-Stack Developer who's excited about building SaaS products from the ground up! You will play a key role in building and scaling the SaaS products Catalys is taking to market. If you're up for an exciting ride, read on!\n\n**About the Role**\n\nAs a Full-Stack Developer at Catalys, you'll work on our growing portfolio of SaaS products. From building UI screens and APIs to designing database schemas and wiring up third-party integrations, you'll ship features end to end that real businesses rely on daily.\n\nYou'll work directly with the Product Manager in a fast-moving startup environment. Priorities shift, requirements evolve as we learn from users, and you'll often take a feature from idea to production in days, not months. AI is at the core of how we build. You'll use tools like Claude Code, Cursor, and Wispr Flow every day to move fast, while still owning the quality, security, and reliability of what you ship.We don't expect you to know everything on day one. We do expect you to learn fast, ask good questions, and take ownership of your work.\n\n**What You'll Do**\n\n* Build and ship full-stack features for production SaaS products.\n* Design database schemas, write migrations, and implement secure access controls.\n* Build APIs, webhooks, and third-party integrations (Meta, Google, Slack, CRMs).\n* Turn rough requirements, designs, or a quick conversation into clean, responsive, production-ready features.\n* Use AI tools effectively, and review, test, and refine the code they generate.\n* Debug production issues, monitor logs, and keep products secure, performant, and reliable as they scale.\n* Document what you build so the team can understand, maintain, and extend it.\n* Share ideas on product and user experience. Your input will shape what we build.\n\n**Who You Are*****Technical skills***\n\n* You have 0–2 years of full-stack experience. Freshers will be considered only if they have built real projects (please share GitHub or live links).\n* You have solid fundamentals in JavaScript/TypeScript, React, HTML5, and CSS3.\n* You've built with Next.js and Node.js, and you're comfortable with modern frontend tooling like Tailwind CSS.\n* You have working knowledge of SQL and relational databases, ideally PostgreSQL.\n* You understand REST APIs, authentication, and webhooks.\n* You use Git confidently in a collaborative environment.\n\n***How you work***\n\n* You use AI tools as part of your daily workflow, not as an afterthought.\n* You debug patiently and test your own work before calling it done.\n* You're comfortable with changing priorities and can figure things out without detailed instructions.\n* You're self-driven and work well in a remote team.\n\n***How you communicate***\n\n* You explain things clearly and in a structured way, whether you're typing or speaking.\n* You can turn a vague idea into precise instructions, which matters a lot when you're prompting AI tools by voice or text.\n* You're comfortable talking with stakeholders. You can understand what they need, ask the right questions, and explain technical trade-offs in simple language.\n* You give clear progress updates and flag blockers early.\n\n**Nice to Have**\n\n* Experience with Supabase (Auth, Row Level Security, Edge Functions, Realtime).\n* Familiarity with Meta Marketing APIs or Google APIs.\n* Basic exposure to Android / React Native.\n* Prior experience building a SaaS product.\n\n**What we offer:**\n\n* Permanent remote work (pajamas encouraged!)\n* Competitive salary (we value your time and effort!)\n* Fun and supportive team culture (we value good vibes and killer memes!)\n* Growth opportunities to learn and develop your skills\n* Direct ownership of features and products used by real businesses.\n\nPay: ₹25,000.00 - ₹35,000.00 per month\n\nBenefits:\n\n* Health insurance\n* Life insurance\n* Paid sick time\n* Paid time off\n* Provident Fund\n* Work from home\n\nWork Location: Remote",
    "found_at": "2026-11-28T12:12:24+00:00",
-   "status": "new",
-   "updated_at": "2026-11-28T12:12:24+00:00",
+   "status": "review",
+   "updated_at": "2026-11-28T12:12:27+00:00",
    "history": [
     {
      "at": "2026-11-28T12:12:24+00:00",
      "status": "new",
      "note": "found on indeed"
+    },
+    {
+     "at": "2026-11-28T12:12:27+00:00",
+     "status": "review",
+     "note": "score 100"
     }
-   ]
+   ],
+   "score": 100,
+   "reasons": [
+    "Matched: apis, authentication, building, businesses., can",
+    "Scored offline (no AI key)"
+   ],
+   "missing_skills": [],
+   "scored_by": "keywords",
+   "draft": {
+    "to": "",
+    "subject": "Application for Full Stack Developer - Taniya Malviya",
+    "body": "Dear Hiring Team at CATALYS,\n\nI am writing to apply for the Full Stack Developer role. I am a Senior Software Engineer, 7+ years, and my background in apis, authentication, building matches what you are looking for.\n\nI would welcome the chance to discuss how I can contribute to your team. My resume is attached for your review.\n\nThank you for your time and consideration.\n\nBest regards,\nTaniya Malviya\nSenior Software Engineer, 7+ years"
+   }
   }
  },
  "runs": [
